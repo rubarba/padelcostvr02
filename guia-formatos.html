@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guia de Formatos | PadelCost</title>
+  <meta name="description" content="Comparação simples entre raquetes redondas, lágrima e diamante.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MN6K5WQWLZ');
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #eef2f6;
+      --surface: #ffffff;
+      --text: #13202c;
+      --text-soft: #5f7287;
+      --border: rgba(19,32,44,0.08);
+      --accent: #0077cc;
+      --accent-dark: #0c141d;
+      --accent-lime: #e2f850;
+      --shadow: 0 24px 60px rgba(15,26,38,0.08);
+      --header-gradient: linear-gradient(135deg, #0c141d 0%, #163047 48%, #1f6ead 100%);
+    }
+    body { font-family: 'Manrope', sans-serif; background: linear-gradient(180deg, var(--bg) 0%, #f7f9fc 100%); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+    a { text-decoration: none; }
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; }
+    .header { background: var(--header-gradient); padding: 1rem 0; box-shadow: 0 24px 60px rgba(9,16,25,0.24); }
+    .header-inner { display: flex; align-items: center; gap: 1rem; }
+    .page-content { flex: 1; padding: 2.25rem 0 3.5rem; }
+    .back-link { display: inline-flex; align-items: center; gap: 0.5rem; color: var(--accent); font-weight: 700; margin-bottom: 1.5rem; }
+    .hero { background: var(--surface); border-radius: 24px; box-shadow: var(--shadow); padding: 2rem; margin-bottom: 1.5rem; }
+    .eyebrow { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.78rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); background: rgba(0,119,204,0.08); border-radius: 999px; padding: 0.55rem 0.9rem; margin-bottom: 1rem; }
+    h1 { font-family: 'Space Grotesk', sans-serif; font-size: clamp(2rem, 4vw, 3rem); line-height: 1.02; letter-spacing: -0.04em; margin-bottom: 0.85rem; }
+    .lead { max-width: 62ch; color: var(--text-soft); font-size: 1.05rem; }
+    .layout { display: grid; gap: 1rem; }
+    .grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+    .card { background: var(--surface); border-radius: 20px; padding: 1.5rem; box-shadow: var(--shadow); border: 1px solid var(--border); }
+    .card h2, .card h3 { font-size: 1.1rem; margin-bottom: 0.7rem; }
+    .card p { color: var(--text-soft); line-height: 1.7; }
+    .pill-row { display: flex; flex-wrap: wrap; gap: 0.65rem; margin-top: 1rem; }
+    .pill { padding: 0.65rem 0.95rem; border-radius: 999px; background: #f3f6fa; color: var(--text); font-weight: 700; font-size: 0.92rem; }
+    .cta-row { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 1.25rem; }
+    .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.95rem 1.3rem; border-radius: 999px; font-weight: 800; }
+    .btn-primary { background: var(--accent); color: white; }
+    .btn-secondary { background: #edf4fb; color: var(--accent); }
+    .compare-table { width: 100%; border-collapse: collapse; margin-top: 0.5rem; }
+    .compare-table th, .compare-table td { text-align: left; padding: 0.95rem 0; border-bottom: 1px solid var(--border); vertical-align: top; }
+    .compare-table th { font-size: 0.88rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-soft); }
+    .shape-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin-top: 1rem; }
+    .shape-card { background: #f7f9fc; border-radius: 18px; padding: 1.25rem; border: 1px solid var(--border); }
+    .shape-card svg { width: 100%; max-width: 140px; height: auto; display: block; margin: 0 auto 1rem; }
+    .shape-card h3 { margin-bottom: 0.5rem; text-align: center; }
+    .shape-card p { font-size: 0.96rem; }
+    .footer { background: #09111a; color: rgba(255,255,255,0.65); padding: 2rem 0; margin-top: auto; }
+    .footer-inner { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+    .footer-links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
+    .footer-links a { color: rgba(255,255,255,0.75); }
+    .affiliate-note { font-size: 0.78rem; opacity: 0.55; margin-top: 0.35rem; }
+    @media (max-width: 860px) {
+      .grid-2, .shape-grid { grid-template-columns: 1fr; }
+      .hero, .card { padding: 1.25rem; border-radius: 18px; }
+      .page-content { padding-top: 1.5rem; }
+    }
+</style>
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="/" aria-label="Voltar à homepage"><svg style="height:45px;width:auto" viewBox="0 0 1256.98 309.55" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#e2f850;}</style></defs><g><path class="cls-1" d="M52.5,3.92h61.34c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-7.72,44.29c-5.52,31.69-22.55,52.19-51.09,61.5-6.83,2.27-16.28,3.41-28.35,3.41h-2.95l-22.04,126.07H0L52.5,3.92ZM90.96,51.79l-13.76,78.2h5.61c5.05,0,8.37-.28,9.97-.85,6.36-2.5,10.25-7.84,11.65-16.01l7.72-44.29c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-10.53Z"/><path class="cls-1" d="M271.6,196.43l-5.47,107.67h-47.17l3.23-62.35h-34.39l-18.81,62.35h-47.02l32-107.16L216.29,3.92h60.64l-5.33,192.51Z"/><path class="cls-1" d="M329.84,3.92h64.71c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-29.76,170.54c-7.58,43.05-30.98,64.62-70.19,64.74h-62.32L329.84,3.92ZM368.3,51.79l-35.93,204.44h13.9c9.17,0,14.79-5.62,16.84-16.87l29.76-170.54c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-13.9Z"/><path class="cls-1" d="M472.02,3.92h110.05l-8.28,47.87h-63.31l-13.76,78.2h54.46l-8.42,48.04h-54.46l-13.76,78.2h63.31l-8.28,47.87h-110.05L472.02,3.92Z"/><path class="cls-1" d="M546.4,304.1L598.9,3.92h46.74l-44.22,252.31h63.31l-8.28,47.87h-110.05Z"/><path class="cls-2" d="M796.38,244.64c-7.58,43.16-31.58,64.79-72.01,64.91-33.97,0-50.96-15.33-50.96-46,0-5.79.61-12.1,1.83-18.91l31.44-179.91c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-31.44,179.91c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.79,11.41,11.37,11.41,9.26,0,14.88-5.62,16.84-16.87l7.44-42.59h46.74l-7.44,42.59Z"/><path class="cls-2" d="M984.03,64.74c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-4.63,26.58c-.19,1.14-.28,2.33-.28,3.58,0,11.58,9.4,25.73,28.21,42.42,18.25,16.01,27.37,34.7,27.37,56.05,0,4.54-.42,9.26-1.26,14.14l-6.46,37.14c-7.58,43.27-31.54,64.91-71.87,64.91-34.06-.11-51.1-15.44-51.1-46,0-5.79.61-12.1,1.83-18.91l7.44-42.59h46.74l-7.44,42.59c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.84,11.41,11.51,11.41,9.17,0,14.74-5.62,16.7-16.87l5.9-33.56c.28-1.36.42-2.73.42-4.09,0-12.38-9.36-26.86-28.07-43.44-18.16-16.01-27.23-34.87-27.23-56.56,0-4.77.42-9.65,1.26-14.65l4.77-27.6Z"/><path class="cls-2" d="M1246.78,3.92l-8.28,47.87h-37.2l-44.22,252.31h-46.74l44.22-252.31h-37.2l8.28-47.87h121.14Z"/><g><path class="cls-2" d="M932.74,1.4l-32.8,141.22h40.15l-91.4,165.96c4.2.64,8.74.97,13.65.97,40.43-.11,64.43-21.75,72.01-64.91l31.44-179.91c1.21-6.81,1.82-13.12,1.82-18.91,0-25.24-11.64-40.04-34.88-44.43Z"/><path class="cls-2" d="M879.6,162.25h-40.15L931.38,1.14c-4.53-.76-9.48-1.14-14.85-1.14-40.33,0-64.29,21.58-71.87,64.74l-31.44,179.91c-1.22,6.81-1.83,13.12-1.83,18.91,0,25.87,12.09,40.83,36.27,44.87l31.95-146.18Z"/></g><circle class="cls-2" cx="1221.84" cy="268.06" r="35.13"/></g></svg></a>
+      </div>
+    </div>
+  </header>
+  <main class="page-content">
+    <div class="container">
+      <a href="/" class="back-link">← Voltar ao site</a>
+      
+<section class="hero">
+  <div class="eyebrow">Formatos</div>
+  <h1>Redonda, lágrima ou diamante?</h1>
+  <p class="lead">Os formatos mudam a sensação de jogo. Aqui tens uma comparação clara para perceberes rapidamente qual faz mais sentido para ti.</p>
+  <div class="cta-row">
+    <a class="btn btn-primary" href="/">Ver comparador</a>
+  </div>
+</section>
+<section class="card">
+  <table class="compare-table">
+    <thead>
+      <tr><th>Formato</th><th>Foco</th><th>Melhor para</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Redonda</td><td>Controlo</td><td>Quem quer segurança e facilidade</td></tr>
+      <tr><td>Lágrima</td><td>Equilíbrio</td><td>Quem quer versatilidade</td></tr>
+      <tr><td>Diamante</td><td>Potência</td><td>Quem já acelera bem a bola</td></tr>
+    </tbody>
+  </table>
+</section>
+<section class="shape-grid">
+  <article class="shape-card">
+    <svg viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg"><ellipse cx="60" cy="56" rx="36" ry="40" fill="#ffffff" stroke="#0077cc" stroke-width="6"/><rect x="53" y="95" width="14" height="30" rx="7" fill="#0c141d"/></svg>
+    <h3>Redonda</h3>
+    <p>Mais controlo e sensação de segurança. Costuma ser a escolha mais simples para iniciantes e para quem valoriza consistência.</p>
+  </article>
+  <article class="shape-card">
+    <svg viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg"><path d="M60 16 C86 16 98 34 98 58 C98 82 80 96 60 100 C40 96 22 82 22 58 C22 34 34 16 60 16Z" fill="#ffffff" stroke="#0077cc" stroke-width="6"/><rect x="53" y="96" width="14" height="29" rx="7" fill="#0c141d"/></svg>
+    <h3>Lágrima</h3>
+    <p>Procura equilibrar controlo e potência. É uma opção muito segura para jogadores intermédios e para quem quer uma raquete mais versátil.</p>
+  </article>
+  <article class="shape-card">
+    <svg viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg"><path d="M60 12 L92 46 L80 92 L40 92 L28 46 Z" fill="#ffffff" stroke="#0077cc" stroke-width="6" stroke-linejoin="round"/><rect x="53" y="96" width="14" height="29" rx="7" fill="#0c141d"/></svg>
+    <h3>Diamante</h3>
+    <p>Puxa mais para potência e bola pesada. Faz mais sentido para quem já tem técnica e gosta de um jogo ofensivo.</p>
+  </article>
+</section>
+
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div>
+          <span>© PadelCost 2026. Todos os direitos reservados.</span>
+          <div class="affiliate-note">Este site contém links de afiliado.</div>
+        </div>
+        <div class="footer-links">
+          <a href="/">Início</a>
+          <a href="/sobre.html">Sobre</a>
+          <a href="/contacto.html">Contacto</a>
+          <a href="/como-funciona.html">Como Funciona</a>
+          <a href="/privacidade.html">Privacidade</a>
+          <a href="/cookies.html">Cookies</a>
+          <a href="/dados.html">Dados</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

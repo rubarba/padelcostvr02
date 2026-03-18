@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recolha de Dados | PadelCost</title>
+  <meta name="description" content="Explicação transparente sobre a recolha de dados no PadelCost.">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MN6K5WQWLZ');
+  </script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Manrope', sans-serif; background: #eef2f6; color: #13202c; min-height: 100vh; display: flex; flex-direction: column; }
+    a { color: #0077cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Header */
+    .header { background: linear-gradient(135deg, #0c141d 0%, #163047 48%, #1f6ead 100%); padding: 1rem 0; }
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; }
+    .header-inner { display: flex; align-items: center; gap: 1.5rem; }
+    .logo { display: flex; align-items: center; }
+    .logo svg { height: 38px; width: auto; }
+
+    /* Page content */
+    .page-content { flex: 1; padding: 3rem 0; }
+    .page-card { background: white; border-radius: 16px; padding: 2.5rem; max-width: 720px; margin: 0 auto; box-shadow: 0 4px 24px rgba(15,26,38,0.08); }
+    .page-card h1 { font-family: 'Space Grotesk', sans-serif; font-size: 2rem; color: #13202c; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 2px solid #eef2f6; }
+    .page-card p { line-height: 1.8; color: #4a6077; margin-bottom: 1.2rem; font-size: 1rem; }
+    .page-card p:last-child { margin-bottom: 0; }
+    .page-card .contact-info { background: #eef2f6; border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; }
+    .page-card .contact-info p { margin: 0; color: #13202c; }
+    .page-card .contact-info a { color: #0077cc; font-weight: 600; }
+    .back-link { display: inline-flex; align-items: center; gap: 0.5rem; color: #0077cc; font-weight: 600; margin-bottom: 1.5rem; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: none; opacity: 0.8; }
+
+    /* Footer */
+    .footer { background: #0c141d; color: rgba(255,255,255,0.6); padding: 2rem 0; margin-top: auto; }
+    .footer-inner { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; font-size: 0.85rem; }
+    .footer-inner a { color: rgba(255,255,255,0.6); }
+    .footer-inner a:hover { color: white; text-decoration: none; }
+    .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .affiliate-note { font-size: 0.78rem; opacity: 0.5; margin-top: 0.5rem; }
+
+    @media (max-width: 768px) {
+      .page-card { padding: 1.5rem; }
+      .page-card h1 { font-size: 1.5rem; }
+      .footer-inner { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+<header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="/" class="logo"><svg style="height:45px;width:auto" viewBox="0 0 1256.98 309.55" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <style>
+          .cls-1 { fill: #fff; }
+          .cls-2 { fill: #e2f850; }
+        </style>
+      </defs>
+      <g>
+        <path className="cls-1" d="M52.5,3.92h61.34c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-7.72,44.29c-5.52,31.69-22.55,52.19-51.09,61.5-6.83,2.27-16.28,3.41-28.35,3.41h-2.95l-22.04,126.07H0L52.5,3.92ZM90.96,51.79l-13.76,78.2h5.61c5.05,0,8.37-.28,9.97-.85,6.36-2.5,10.25-7.84,11.65-16.01l7.72-44.29c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-10.53Z"/>
+        <path className="cls-1" d="M271.6,196.43l-5.47,107.67h-47.17l3.23-62.35h-34.39l-18.81,62.35h-47.02l32-107.16L216.29,3.92h60.64l-5.33,192.51Z"/>
+        <path className="cls-1" d="M329.84,3.92h64.71c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-29.76,170.54c-7.58,43.05-30.98,64.62-70.19,64.74h-62.32L329.84,3.92ZM368.3,51.79l-35.93,204.44h13.9c9.17,0,14.79-5.62,16.84-16.87l29.76-170.54c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-13.9Z"/>
+        <path className="cls-1" d="M472.02,3.92h110.05l-8.28,47.87h-63.31l-13.76,78.2h54.46l-8.42,48.04h-54.46l-13.76,78.2h63.31l-8.28,47.87h-110.05L472.02,3.92Z"/>
+        <path className="cls-1" d="M546.4,304.1L598.9,3.92h46.74l-44.22,252.31h63.31l-8.28,47.87h-110.05Z"/>
+        <path className="cls-2" d="M796.38,244.64c-7.58,43.16-31.58,64.79-72.01,64.91-33.97,0-50.96-15.33-50.96-46,0-5.79.61-12.1,1.83-18.91l31.44-179.91c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-31.44,179.91c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.79,11.41,11.37,11.41,9.26,0,14.88-5.62,16.84-16.87l7.44-42.59h46.74l-7.44,42.59Z"/>
+        <path className="cls-2" d="M984.03,64.74c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-4.63,26.58c-.19,1.14-.28,2.33-.28,3.58,0,11.58,9.4,25.73,28.21,42.42,18.25,16.01,27.37,34.7,27.37,56.05,0,4.54-.42,9.26-1.26,14.14l-6.46,37.14c-7.58,43.27-31.54,64.91-71.87,64.91-34.06-.11-51.1-15.44-51.1-46,0-5.79.61-12.1,1.83-18.91l7.44-42.59h46.74l-7.44,42.59c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.84,11.41,11.51,11.41,9.17,0,14.74-5.62,16.7-16.87l5.9-33.56c.28-1.36.42-2.73.42-4.09,0-12.38-9.36-26.86-28.07-43.44-18.16-16.01-27.23-34.87-27.23-56.56,0-4.77.42-9.65,1.26-14.65l4.77-27.6Z"/>
+        <path className="cls-2" d="M1246.78,3.92l-8.28,47.87h-37.2l-44.22,252.31h-46.74l44.22-252.31h-37.2l8.28-47.87h121.14Z"/>
+        <g>
+          <path className="cls-2" d="M932.74,1.4l-32.8,141.22h40.15l-91.4,165.96c4.2.64,8.74.97,13.65.97,40.43-.11,64.43-21.75,72.01-64.91l31.44-179.91c1.21-6.81,1.82-13.12,1.82-18.91,0-25.24-11.64-40.04-34.88-44.43Z"/>
+          <path className="cls-2" d="M879.6,162.25h-40.15L931.38,1.14c-4.53-.76-9.48-1.14-14.85-1.14-40.33,0-64.29,21.58-71.87,64.74l-31.44,179.91c-1.22,6.81-1.83,13.12-1.83,18.91,0,25.87,12.09,40.83,36.27,44.87l31.95-146.18Z"/>
+        </g>
+        <circle className="cls-2" cx="1221.84" cy="268.06" r="35.13"/>
+      </g>
+    </svg></a>
+      </div>
+    </div>
+  </header>
+  <main class="page-content">
+    <div class="container">
+      <a href="/" class="back-link">← Voltar ao site</a>
+      <div class="page-card">
+        <h1>Recolha de Dados</h1>
+
+        <p>Esta página explica de forma clara e transparente que dados recolhemos, para que servem e como os protegemos.</p>
+
+        <p><strong>Que dados recolhemos?</strong></p>
+
+        <p><strong>Dados de navegação</strong><br>
+        Quando visita o PadelCost, recolhemos automaticamente dados sobre a sua visita através do Google Analytics 4: páginas visitadas, duração da sessão, dispositivo utilizado, país de origem e origem do tráfego (pesquisa, directo, redes sociais, etc.).</p>
+
+        <p><strong>Endereço de email</strong><br>
+        Apenas se subscrever voluntariamente a nossa newsletter. Estes dados são utilizados exclusivamente para envio de comunicações relacionadas com o PadelCost.</p>
+
+        <p><strong>Dados técnicos</strong><br>
+        Endereço IP, tipo de browser, sistema operativo e resolução de ecrã — recolhidos automaticamente para fins de análise e segurança.</p>
+
+        <p><strong>Para que utilizamos estes dados?</strong><br>
+        — Melhorar a experiência de navegação e a relevância do conteúdo;<br>
+        — Compreender quais os produtos e categorias mais consultados;<br>
+        — Optimizar o desempenho técnico do site;<br>
+        — Enviar newsletters (apenas com consentimento).</p>
+
+        <p><strong>Quanto tempo guardamos os dados?</strong><br>
+        Os dados analíticos são guardados durante 14 meses no Google Analytics, de acordo com as suas políticas padrão. Os endereços de email da newsletter são guardados até cancelar a subscrição.</p>
+
+        <p><strong>Não fazemos</strong><br>
+        — Não vendemos os seus dados;<br>
+        — Não partilhamos dados pessoais identificáveis com terceiros;<br>
+        — Não utilizamos os seus dados para publicidade direccionada fora do nosso site.</p>
+
+        <p><strong>Contacto</strong><br>
+        Para qualquer questão relacionada com os seus dados, contacte: <a href="mailto:geral@padelcost.pt">geral@padelcost.pt</a></p>
+
+        <p><strong>Última actualização:</strong> Março 2026</p>
+      </div>
+    </div>
+  </main>
+<footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div>
+          <span>© PadelCost 2026. Todos os direitos reservados.</span>
+          <div class="affiliate-note">Este site contém links de afiliado.</div>
+        </div>
+        <div class="footer-links">
+          <a href="/">Início</a>
+          <a href="/sobre.html">Sobre</a>
+          <a href="/contacto.html">Contacto</a>
+          <a href="/como-funciona.html">Como Funciona</a>
+          <a href="/privacidade.html">Privacidade</a>
+          <a href="/cookies.html">Cookies</a>
+          <a href="/dados.html">Dados</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

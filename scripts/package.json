@@ -1,0 +1,12 @@
+{
+  "name": "padelcost-scripts",
+  "version": "1.0.0",
+  "description": "Scripts para gerar o catálogo PadelCost a partir de feeds de afiliados",
+  "scripts": {
+    "generate": "node generate-products.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "dotenv": "^16.4.5"
+  }
+}

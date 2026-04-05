@@ -23,6 +23,10 @@ cp .env.example .env
 # edita .env com a tua API key da Awin
 ```
 
+Se criares um feed manual na Awin com colunas extra como `ean`, `product_GTIN`,
+`mpn` ou `stock_status`, podes guardar o URL completo em `AWIN_FEED_URL` no
+`.env`. Nesse caso, o script usa esse URL diretamente.
+
 ## Uso
 
 ```bash
@@ -32,6 +36,45 @@ npm run generate
 O script gera automaticamente `../data/products-data.js`.
 
 Depois é só fazer commit desse ficheiro para o repositório do site.
+
+### Adidas Padel (TradeTracker)
+
+```bash
+npm run generate:adidas
+```
+
+Este script gera `../data/adidas-padel-data.js` com os produtos da loja já:
+- filtrados para padel
+- limpos de categorias não relevantes (pickleball, ténis de praia, etc.)
+- mapeados para as categorias do PadelCost
+
+Nota: este ficheiro ainda é uma camada normalizada por loja. O passo seguinte é
+fazer merge das ofertas com o catálogo principal.
+
+### Merge de ofertas
+
+```bash
+npm run merge:offers
+```
+
+Este passo:
+- lê `products-data.js`
+- lê `adidas-padel-data.js`
+- tenta casar produtos por `EAN`
+- usa assinatura do nome como fallback seguro
+- acrescenta a nova loja dentro de `stores[]`
+
+### Nota sobre EAN
+
+O gerador da Atmosfera já está preparado para guardar `ean` quando o feed o trouxer.
+Depois de atualizares o catálogo com:
+
+```bash
+npm run generate
+```
+
+os próximos merges ganham matches mais seguros porque passam a poder usar `EAN`
+antes de recorrer ao nome do produto.
 
 ## Segurança
 
@@ -44,6 +87,7 @@ Depois é só fazer commit desse ficheiro para o repositório do site.
 Quando tiveres mais afiliados (ex: Decathlon, Sporzone), cria um script por loja:
 - `generate-atmosfera.js`
 - `generate-decathlon.js`
+- `generate-adidas-padel.js`
 
 E um script agregador `generate-all.js` que os chama a todos e faz merge dos `stores[]` por produto.
 

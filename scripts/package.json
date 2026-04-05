@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Scripts para gerar o catálogo PadelCost a partir de feeds de afiliados",
   "scripts": {
-    "generate": "node generate-products.js"
+    "generate": "node generate-products.js",
+    "generate:adidas": "node generate-adidas-padel.js",
+    "merge:offers": "node merge-offers.js"
   },
   "dependencies": {
     "csv-parse": "^5.5.6",

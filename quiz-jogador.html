@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Que tipo de jogador de padel és? | PadelCost</title>
+  <meta name="description" content="Descobre que tipo de jogador de padel és — com toda a honestidade e sem papas na língua.">
+  <meta property="og:title" content="Que tipo de jogador de padel és? 🎾">
+  <meta property="og:description" content="12 perguntas para descobrir o teu verdadeiro tipo de jogador. Partilha com o grupo.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://padelcost.pt/quiz-jogador.html">
+  <meta property="og:image" content="https://padelcost.pt/og-quiz-jogador.jpg">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-MN6K5WQWLZ');</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    :root{--bg:#eef2f6;--surface:#ffffff;--text:#13202c;--text-soft:#5f7287;--border:rgba(19,32,44,0.08);--accent:#0077cc;--accent-lime:#e2f850;--shadow:0 24px 60px rgba(15,26,38,0.08);--header-gradient:linear-gradient(135deg,#0c141d 0%,#163047 48%,#1f6ead 100%);}
+    body{font-family:'Manrope',sans-serif;background:linear-gradient(180deg,var(--bg) 0%,#f7f9fc 100%);color:var(--text);min-height:100vh;display:flex;flex-direction:column;}
+    a{text-decoration:none;}
+    .container{max-width:860px;margin:0 auto;padding:0 1.5rem;}
+    .header{background:var(--header-gradient);padding:1rem 0;box-shadow:0 24px 60px rgba(9,16,25,0.24);}
+    .header-inner{display:flex;align-items:center;}
+    .page-content{flex:1;padding:2rem 0 3.5rem;}
+    .back-link{display:inline-flex;align-items:center;gap:0.5rem;color:var(--accent);font-weight:700;margin-bottom:1.5rem;font-size:0.9rem;}
+    .intro-card{background:var(--surface);border-radius:20px;box-shadow:var(--shadow);border:1px solid var(--border);padding:2rem;margin-bottom:1.5rem;text-align:center;}
+    .intro-eyebrow{display:inline-block;background:rgba(0,119,204,0.08);color:var(--accent);font-size:0.72rem;font-weight:800;text-transform:uppercase;letter-spacing:0.1em;padding:0.4rem 1rem;border-radius:999px;margin-bottom:1rem;}
+    .intro-title{font-family:'Space Grotesk',sans-serif;font-size:clamp(1.6rem,4vw,2.4rem);letter-spacing:-0.04em;color:var(--text);margin-bottom:0.75rem;line-height:1.1;}
+    .intro-sub{color:var(--text-soft);font-size:0.95rem;line-height:1.7;max-width:55ch;margin:0 auto 1.5rem;}
+    .btn-start{display:inline-flex;align-items:center;gap:0.5rem;padding:0.9rem 2rem;background:var(--accent);color:white;border:none;border-radius:999px;font-family:'Manrope',sans-serif;font-size:1rem;font-weight:800;cursor:pointer;transition:background 0.15s;}
+    .btn-start:hover{background:#005fa3;}
+    .quiz-wrap{background:var(--surface);border-radius:20px;box-shadow:var(--shadow);border:1px solid var(--border);overflow:hidden;margin-bottom:1.5rem;display:none;}
+    .quiz-wrap.active{display:block;}
+    .quiz-head{background:var(--header-gradient);padding:1.75rem 2rem 1.25rem;}
+    .quiz-head-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;}
+    .quiz-counter{font-size:0.75rem;font-weight:700;color:rgba(255,255,255,0.5);text-transform:uppercase;letter-spacing:0.08em;}
+    .quiz-progress-bar{background:rgba(255,255,255,0.12);border-radius:99px;height:4px;}
+    .quiz-progress-fill{background:var(--accent-lime);height:4px;border-radius:99px;transition:width 0.4s ease;}
+    .quiz-body{padding:1.75rem 2rem;}
+    .quiz-q{font-size:1.08rem;font-weight:700;color:var(--text);margin-bottom:1.25rem;line-height:1.5;}
+    .quiz-opts{display:grid;grid-template-columns:1fr 1fr;gap:0.65rem;}
+    .quiz-opt{background:#f5f8fc;border:1.5px solid var(--border);border-radius:14px;padding:0.9rem 1rem;cursor:pointer;transition:all 0.15s;display:flex;align-items:flex-start;gap:0.65rem;}
+    .quiz-opt:hover{border-color:var(--accent);background:#edf4fb;}
+    .quiz-opt.sel{border-color:var(--accent);background:rgba(0,119,204,0.07);}
+    .quiz-opt.sel .opt-letter{background:var(--accent);color:white;}
+    .opt-letter{flex-shrink:0;width:26px;height:26px;border-radius:50%;background:#e2e8f0;display:flex;align-items:center;justify-content:center;font-size:0.7rem;font-weight:800;color:var(--text-soft);transition:all 0.15s;}
+    .opt-text{font-size:0.86rem;font-weight:600;color:var(--text);line-height:1.4;}
+    .quiz-nav{display:flex;gap:0.65rem;margin-top:1.25rem;}
+    .quiz-btn-back{flex:1;padding:0.8rem;border:1.5px solid var(--border);border-radius:999px;background:transparent;color:var(--text-soft);font-family:'Manrope',sans-serif;font-size:0.88rem;font-weight:700;cursor:pointer;transition:all 0.15s;}
+    .quiz-btn-back:hover{border-color:var(--accent);color:var(--accent);}
+    .quiz-btn-next{flex:2;padding:0.8rem;border:none;border-radius:999px;background:var(--accent);color:white;font-family:'Manrope',sans-serif;font-size:0.88rem;font-weight:800;cursor:pointer;transition:background 0.15s;}
+    .quiz-btn-next:disabled{background:#d0dbe6;color:#8fa3b5;cursor:not-allowed;}
+    .quiz-btn-next:not(:disabled):hover{background:#005fa3;}
+    .result-wrap{background:var(--surface);border-radius:20px;box-shadow:var(--shadow);border:1px solid var(--border);overflow:hidden;margin-bottom:1.5rem;display:none;}
+    .result-wrap.active{display:block;}
+    .result-hero{padding:2.5rem 2rem 2rem;text-align:center;}
+    .result-badge{display:inline-block;font-size:0.65rem;font-weight:800;text-transform:uppercase;letter-spacing:0.1em;padding:0.35rem 1rem;border-radius:999px;margin-bottom:1rem;}
+    .result-emoji{font-size:4rem;line-height:1;margin-bottom:1rem;display:block;}
+    .result-nome{font-family:'Space Grotesk',sans-serif;font-size:clamp(1.8rem,5vw,2.8rem);letter-spacing:-0.04em;color:var(--text);margin-bottom:0.75rem;line-height:1.1;}
+    .result-tag{font-size:0.95rem;color:var(--text-soft);font-style:italic;line-height:1.6;max-width:50ch;margin:0 auto;}
+    .result-body{padding:1.5rem 2rem 2rem;}
+    .result-desc{font-size:0.95rem;color:var(--text-soft);line-height:1.75;margin-bottom:1.5rem;}
+    .result-traits{display:grid;grid-template-columns:repeat(3,1fr);gap:0.65rem;margin-bottom:1.5rem;}
+    .result-trait{background:#f5f8fc;border-radius:10px;padding:0.75rem;text-align:center;}
+    .result-trait-lbl{font-size:0.6rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--text-soft);font-weight:700;margin-bottom:3px;}
+    .result-trait-val{font-size:0.82rem;font-weight:700;color:var(--text);}
+    .result-share{background:#f5f8fc;border-radius:14px;padding:1.25rem;text-align:center;margin-bottom:1rem;}
+    .result-share-title{font-size:0.82rem;color:var(--text-soft);margin-bottom:0.75rem;}
+    .share-btns{display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap;}
+    .btn-wa{display:inline-flex;align-items:center;gap:0.4rem;padding:0.6rem 1.2rem;background:#25D366;color:white;border:none;border-radius:999px;font-family:'Manrope',sans-serif;font-size:0.82rem;font-weight:800;cursor:pointer;text-decoration:none;transition:background 0.15s;}
+    .btn-wa:hover{background:#1db954;}
+    .btn-copy{display:inline-flex;align-items:center;gap:0.4rem;padding:0.6rem 1.2rem;background:var(--accent);color:white;border:none;border-radius:999px;font-family:'Manrope',sans-serif;font-size:0.82rem;font-weight:800;cursor:pointer;transition:background 0.15s;}
+    .btn-copy:hover{background:#005fa3;}
+    .btn-restart{display:block;width:100%;padding:0.8rem;background:transparent;color:var(--text-soft);border:1.5px solid var(--border);border-radius:999px;font-family:'Manrope',sans-serif;font-size:0.88rem;font-weight:700;cursor:pointer;transition:all 0.15s;text-align:center;margin-top:0.75rem;}
+    .btn-restart:hover{border-color:var(--accent);color:var(--accent);}
+    .footer{background:#09111a;color:rgba(255,255,255,0.65);padding:2rem 0;margin-top:auto;}
+    .footer .container{max-width:1280px;}
+    .footer-inner{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;}
+    .footer-links{display:flex;gap:1.25rem;flex-wrap:wrap;}
+    .footer-links a{color:rgba(255,255,255,0.75);font-size:0.88rem;}
+    .affiliate-note{font-size:0.78rem;opacity:0.55;margin-top:0.35rem;}
+    @media(max-width:640px){
+      .quiz-opts{grid-template-columns:1fr;}
+      .result-traits{grid-template-columns:1fr 1fr;}
+      .quiz-body,.result-body{padding:1.25rem;}
+      .quiz-head{padding:1.25rem 1.25rem 1rem;}
+      .result-hero{padding:1.75rem 1.25rem 1.25rem;}
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="container" style="max-width:1280px">
+      <div class="header-inner">
+        <a href="./index.html" aria-label="PadelCost"><svg style="height:45px;width:auto" viewBox="0 0 1256.98 309.55" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#e2f850;}</style></defs><g><path class="cls-1" d="M52.5,3.92h61.34c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-7.72,44.29c-5.52,31.69-22.55,52.19-51.09,61.5-6.83,2.27-16.28,3.41-28.35,3.41h-2.95l-22.04,126.07H0L52.5,3.92ZM90.96,51.79l-13.76,78.2h5.61c5.05,0,8.37-.28,9.97-.85,6.36-2.5,10.25-7.84,11.65-16.01l7.72-44.29c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-10.53Z"/><path class="cls-1" d="M271.6,196.43l-5.47,107.67h-47.17l3.23-62.35h-34.39l-18.81,62.35h-47.02l32-107.16L216.29,3.92h60.64l-5.33,192.51Z"/><path class="cls-1" d="M329.84,3.92h64.71c31.35.11,47.02,15.11,47.02,44.98,0,6.02-.66,12.67-1.96,19.93l-29.76,170.54c-7.58,43.05-30.98,64.62-70.19,64.74h-62.32L329.84,3.92ZM368.3,51.79l-35.93,204.44h13.9c9.17,0,14.79-5.62,16.84-16.87l29.76-170.54c.37-2.04.56-3.92.56-5.62,0-7.61-3.74-11.41-11.23-11.41h-13.9Z"/><path class="cls-1" d="M472.02,3.92h110.05l-8.28,47.87h-63.31l-13.76,78.2h54.46l-8.42,48.04h-54.46l-13.76,78.2h63.31l-8.28,47.87h-110.05L472.02,3.92Z"/><path class="cls-1" d="M546.4,304.1L598.9,3.92h46.74l-44.22,252.31h63.31l-8.28,47.87h-110.05Z"/><path class="cls-2" d="M796.38,244.64c-7.58,43.16-31.58,64.79-72.01,64.91-33.97,0-50.96-15.33-50.96-46,0-5.79.61-12.1,1.83-18.91l31.44-179.91c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-31.44,179.91c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.79,11.41,11.37,11.41,9.26,0,14.88-5.62,16.84-16.87l7.44-42.59h46.74l-7.44,42.59Z"/><path class="cls-2" d="M984.03,64.74c7.58-43.16,31.54-64.74,71.87-64.74,34.06,0,51.09,15.28,51.09,45.83,0,5.79-.61,12.1-1.82,18.91l-7.44,42.59h-46.74l7.44-42.59c.37-2.04.56-3.86.56-5.45,0-7.61-3.74-11.47-11.23-11.58h-.28c-9.08,0-14.65,5.68-16.7,17.04l-4.63,26.58c-.19,1.14-.28,2.33-.28,3.58,0,11.58,9.4,25.73,28.21,42.42,18.25,16.01,27.37,34.7,27.37,56.05,0,4.54-.42,9.26-1.26,14.14l-6.46,37.14c-7.58,43.27-31.54,64.91-71.87,64.91-34.06-.11-51.1-15.44-51.1-46,0-5.79.61-12.1,1.83-18.91l7.44-42.59h46.74l-7.44,42.59c-.38,1.93-.56,3.75-.56,5.45,0,7.61,3.84,11.41,11.51,11.41,9.17,0,14.74-5.62,16.7-16.87l5.9-33.56c.28-1.36.42-2.73.42-4.09,0-12.38-9.36-26.86-28.07-43.44-18.16-16.01-27.23-34.87-27.23-56.56,0-4.77.42-9.65,1.26-14.65l4.77-27.6Z"/><path class="cls-2" d="M1246.78,3.92l-8.28,47.87h-37.2l-44.22,252.31h-46.74l44.22-252.31h-37.2l8.28-47.87h121.14Z"/><g><path class="cls-2" d="M932.74,1.4l-32.8,141.22h40.15l-91.4,165.96c4.2.64,8.74.97,13.65.97,40.43-.11,64.43-21.75,72.01-64.91l31.44-179.91c1.21-6.81,1.82-13.12,1.82-18.91,0-25.24-11.64-40.04-34.88-44.43Z"/><path class="cls-2" d="M879.6,162.25h-40.15L931.38,1.14c-4.53-.76-9.48-1.14-14.85-1.14-40.33,0-64.29,21.58-71.87,64.74l-31.44,179.91c-1.22,6.81-1.83,13.12-1.83,18.91,0,25.87,12.09,40.83,36.27,44.87l31.95-146.18Z"/></g><circle class="cls-2" cx="1221.84" cy="268.06" r="35.13"/></g></svg></a>
+      </div>
+    </div>
+  </header>
+  <main class="page-content">
+    <div class="container">
+      <a href="./index.html" class="back-link">← Voltar ao site</a>
+      <div class="intro-card" id="intro-card">
+        <div class="intro-eyebrow">Quiz de Padel</div>
+        <h1 class="intro-title">Que tipo de jogador de padel és?</h1>
+        <p class="intro-sub">12 perguntas. Sem filtros. Com toda a honestidade que o teu grupo de padel merece — e depois partilha para ver se eles concordam.</p>
+        <button class="btn-start" onclick="startQuiz()">Descobrir o meu tipo →</button>
+      </div>
+      <div class="quiz-wrap" id="quiz-wrap">
+        <div class="quiz-head">
+          <div class="quiz-head-top">
+            <span class="quiz-counter" id="q-counter">Pergunta 1 de 12</span>
+          </div>
+          <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="q-progress" style="width:0%"></div></div>
+        </div>
+        <div class="quiz-body">
+          <div class="quiz-q" id="q-text"></div>
+          <div class="quiz-opts" id="q-opts"></div>
+          <div class="quiz-nav">
+            <button class="quiz-btn-back" id="btn-back" onclick="goBack()" style="display:none">← Voltar</button>
+            <button class="quiz-btn-next" id="btn-next" onclick="goNext()" disabled>Continuar →</button>
+          </div>
+        </div>
+      </div>
+      <div class="result-wrap" id="result-wrap">
+        <div class="result-hero" id="result-hero"></div>
+        <div class="result-body" id="result-body"></div>
+      </div>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div>
+          <span>© PadelCost 2026. Todos os direitos reservados.</span>
+          <div class="affiliate-note">Este site contém links de afiliado.</div>
+        </div>
+        <div class="footer-links">
+          <a href="./index.html">Início</a>
+          <a href="/sobre.html">Sobre</a>
+          <a href="/contacto.html">Contacto</a>
+          <a href="/privacidade.html">Privacidade</a>
+          <a href="/cookies.html">Cookies</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+<script>
+// Categorias: a=intenso b=coach c=descontraido d=equipamento e=lesionado f=analitico g=convivio h=epico i=whiner j=raro
+const QS = [
+  {
+    q: 'O parceiro erra um smash fácil. Tu:',
+    opts: [
+      { t: 'Respiras fundo. "Próxima."', p: {c:2,g:1,h:1} },
+      { t: 'Explicas tecnicamente o erro. Em detalhe.', p: {b:3,f:1} },
+      { t: 'Olhas para o céu. O sol teve culpa.', p: {i:3} },
+      { t: 'Ele vai ouvir falar disso. Muito.', p: {a:3} }
+    ]
+  },
+  {
+    q: 'Chegaste 20 minutos atrasado. A desculpa é:',
+    opts: [
+      { t: 'O trânsito. Sempre o trânsito.', p: {i:2,c:1} },
+      { t: '"Estava a preparar o equipamento." (Mentira.)', p: {d:2,f:1} },
+      { t: '"Chego tarde mas aqueci mentalmente."', p: {a:2,f:1} },
+      { t: 'Não disseste nada. Entraste e ganhaste.', p: {h:3,c:1} }
+    ]
+  },
+  {
+    q: 'O aquecimento para ti é:',
+    opts: [
+      { t: 'Protocolo de 25 minutos. Sem excepções.', p: {a:2,f:2} },
+      { t: 'Dois saltos. Pronto.', p: {c:3} },
+      { t: 'Os primeiros três pontos contam.', p: {g:2,c:1} },
+      { t: 'Não aqueço. O tornozelo não deixa.', p: {e:3} }
+    ]
+  },
+  {
+    q: 'A tua raquete actual:',
+    opts: [
+      { t: '"É uma raquete. Funciona."', p: {c:3,g:1} },
+      { t: 'Explicas o núcleo e o carbono com entusiasmo.', p: {d:3,f:1} },
+      { t: '"Com esta lesão não vale mudar."', p: {e:3} },
+      { t: '"Escolhida especificamente para o meu jogo."', p: {a:2,d:2} }
+    ]
+  },
+  {
+    q: 'O grupo marca um torneio amigável. Tu:',
+    opts: [
+      { t: 'Quando é? Já posso treinar esta semana?', p: {a:3} },
+      { t: 'Ótimo. Já tens sugestões para o formato.', p: {b:2,f:1} },
+      { t: 'Só se houver almoço a seguir.', p: {g:3} },
+      { t: 'Já estás a sentir uma lesão a vir.', p: {e:3} }
+    ]
+  },
+  {
+    q: 'Perdeste um set por 6-1. A reacção:',
+    opts: [
+      { t: '"Estavam bons." E acreditas mesmo.', p: {g:3,h:1} },
+      { t: 'Já estás a planear o set seguinte.', p: {a:2,f:2} },
+      { t: 'O serve, o smash, o vento, o sol, o piso...', p: {i:3,b:1} },
+      { t: '"O tornozelo não ajudou." (Estava bem.)', p: {e:3} }
+    ]
+  },
+  {
+    q: 'O parceiro pede uma dica. Tu:',
+    opts: [
+      { t: 'Uma dica. Curta. Ponto seguinte.', p: {h:2,c:1} },
+      { t: 'Análise de 8 minutos. Não pedida.', p: {b:3} },
+      { t: '"Estás bem." (Não estava, mas ok.)', p: {g:3} },
+      { t: 'Dás a dica. E mais quatro.', p: {b:2,a:1} }
+    ]
+  },
+  {
+    q: 'Última raquete comprada:',
+    opts: [
+      { t: 'Há três anos. Funciona bem.', p: {c:3,g:1} },
+      { t: 'Este mês. É a terceira.', p: {d:3} },
+      { t: 'Com a lesão não faz sentido mudar.', p: {e:3} },
+      { t: 'Pesquisei três semanas. Comparei 12 modelos.', p: {f:3,d:1} }
+    ]
+  },
+  {
+    q: 'A tua frase mais frequente em jogo:',
+    opts: [
+      { t: '"Vamos! Força!"', p: {a:3} },
+      { t: '"Devias ter feito assim..."', p: {b:3} },
+      { t: '"Boa. Próxima."', p: {c:2,g:1} },
+      { t: '"O meu joelho/braço/costas..."', p: {e:3} }
+    ]
+  },
+  {
+    q: 'O adversário faz um ponto incrível. Tu:',
+    opts: [
+      { t: '"Boa." Genuíno. Apreciaste.', p: {h:3,g:1} },
+      { t: 'Por fora aplaudes. Por dentro já planeias.', p: {a:2,f:1} },
+      { t: 'Explicas ao parceiro porque aconteceu.', p: {b:2,f:1} },
+      { t: 'Sorris. Mas foi sorte deles.', p: {i:2,c:1} }
+    ]
+  },
+  {
+    q: 'O teu nível de jogo, com honestidade:',
+    opts: [
+      { t: 'Estou onde estou. Sei disso.', p: {h:2,g:1} },
+      { t: 'O potencial está lá. Falta a consistência.', p: {c:2,f:1} },
+      { t: 'Melhor do que o marcador sugere.', p: {i:3} },
+      { t: 'Difícil sem ver os dados completos.', p: {f:3,d:1} }
+    ]
+  },
+  {
+    q: 'Após o jogo, é obrigatório:',
+    opts: [
+      { t: 'Análise. Com exemplos concretos.', p: {f:3,a:1} },
+      { t: 'Bica ou cerveja. O resto é opcional.', p: {g:3,c:1} },
+      { t: 'Nada. Já estou no próximo jogo.', p: {a:3} },
+      { t: 'Gelo no tornozelo e uma boa desculpa.', p: {e:3} }
+    ]
+  }
+];
+
+// 30 PERFIS — distribuídos pelas categorias
+const PERFIS = [
+  // ÉPICOS (h dominante)
+  { id:'letal', nome:'O Letal Silencioso', emoji:'🐈', badge:'Épico', bc:'#0c4a6e', bt:'white',
+    tag:'Pouco ruído. Muitos pontos.',
+    desc:'Não fala muito. Não celebra muito. Mas quando o ponto é ganho, foi ele. Tem uma capacidade estranha de aparecer exactamente onde a bola vai cair. Os adversários ficam confusos. O parceiro agradece.',
+    traits:[{l:'Estilo',v:'Cirúrgico'},{l:'Em campo',v:'Imprevisível'},{l:'Pós-jogo',v:'Bica e vai embora'}]},
+  { id:'artista', nome:'O Artista da Rede', emoji:'🎨', badge:'Épico', bc:'#4a044e', bt:'white',
+    tag:'Faz parecer fácil o que não é.',
+    desc:'Tem um toque que os outros não têm. As bandeiras saem com naturalidade, os voleis são precisos, e de vez em quando faz um ponto que faz toda a gente parar. Inclusive o parceiro, que devia estar a cobrir o fundo.',
+    traits:[{l:'Zona',v:'Rede'},{l:'Especialidade',v:'Bandeiras e voleis'},{l:'Fraqueza',v:'Quando tiram da rede'}]},
+  { id:'comandante', nome:'O Comandante', emoji:'🎯', badge:'Épico', bc:'#0f172a', bt:'white',
+    tag:'Já sabia como o ponto ia acabar antes de começar.',
+    desc:'Lê o jogo melhor do que toda a gente. Sabe quando atacar, quando esperar, quando o adversário vai errar. Dirige o parceiro com calma e sem drama. Não é sempre o mais espectacular — mas é o mais consistente.',
+    traits:[{l:'Estilo',v:'Táctico'},{l:'Liderança',v:'Natural'},{l:'Em desvantagem',v:'Mais focado'}]},
+  { id:'nunca_desiste', nome:'O Que Nunca Desiste', emoji:'🔥', badge:'Positivo', bc:'#7c2d12', bt:'white',
+    tag:'5-0 no tie-break? Ainda há jogo.',
+    desc:'A matemática diz que perdeu. Ele não sabe ler matemática. Enquanto houver pontos por jogar, há hipótese. E às vezes — raramente, mas às vezes — ele tem razão.',
+    traits:[{l:'Mentalidade',v:'Inquebrável'},{l:'Pior derrota',v:'Nunca aceite'},{l:'Estatísticas',v:'Não acredita nelas'}]},
+
+  // INTENSO (a dominante)
+  { id:'intenso', nome:'O Intenso Demais', emoji:'😤', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'É amigável. Para ele também.',
+    desc:'Cada ponto importa. Festeja os pontos como se fosse um torneio nacional e olha para os erros com uma intensidade que faz o parceiro sentir que devia ter treinado mais esta semana.',
+    traits:[{l:'Modo padrão',v:'Ligado ao máximo'},{l:'Jogos amigáveis',v:'Conceito relativo'},{l:'Pós-derrota',v:'Processamento necessário'}]},
+  { id:'estratega', nome:'O Estratega Nato', emoji:'♟️', badge:'Épico', bc:'#1e3a5f', bt:'white',
+    tag:'O padel é xadrez. E ele sabe jogar.',
+    desc:'Cada ponto é um plano. Cada erro do adversário é informação. Não tem o físico do Intenso nem o talento do Artista, mas tem algo mais raro: a cabeça. E no padel, a cabeça decide muita coisa.',
+    traits:[{l:'Estilo',v:'Estratégico'},{l:'Ponto forte',v:'Paciência táctica'},{l:'Emoções',v:'Controladas'}]},
+
+  // COACH (b dominante)
+  { id:'coach', nome:'O Coach Não Pedido', emoji:'📋', badge:'Reconhecível', bc:'#1e3a5f', bt:'white',
+    tag:'Ninguém pediu, mas ele explica na mesma.',
+    desc:'Tem uma opinião sobre o jogo de toda a gente. E partilha-a. Em detalhe. Entre pontos, durante o jogo, a seguir ao jogo. Os adversários também já receberam dicas.',
+    traits:[{l:'Especialidade',v:'Análise não solicitada'},{l:'Audiência',v:'Todos'},{l:'Ponto de paragem',v:'Não existe'}]},
+  { id:'comentador', nome:'O Comentador em Directo', emoji:'🎙️', badge:'Reconhecível', bc:'#1e3a5f', bt:'white',
+    tag:'Narra cada ponto como se fosse a final do World Padel Tour.',
+    desc:'"Bola ao centro, sobe à rede, volei cruzado... e fora!" — ele mesmo, sobre o próprio jogo. Simultaneamente impressionante e ligeiramente perturbador para o parceiro.',
+    traits:[{l:'Auto-narração',v:'Constante'},{l:'Tom de voz',v:'Entre comentador e treinador'},{l:'Filtro',v:'Mínimo'}]},
+  { id:'chegou_tarde_dicas', nome:'O Que Chegou Tarde e Ainda Dá Dicas', emoji:'🕐', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'Chegou 20 minutos atrasado. Já tem opiniões.',
+    desc:'Chega quando já há dois games jogados, junta-se sem aquecer e dentro de dois pontos já tem uma análise completa do que correu mal até então. O grupo ficou sem palavras. Há muito.',
+    traits:[{l:'Pontualidade',v:'Conceito flexível'},{l:'Opinião',v:'Disponível imediatamente'},{l:'Autoconsciência',v:'Limitada'}]},
+
+  // DESCONTRAÍDO (c dominante)
+  { id:'descontraido', nome:'O Descontraído Perigoso', emoji:'😎', badge:'Positivo', bc:'#0f766e', bt:'white',
+    tag:'Parece que não está a tentar. Está.',
+    desc:'A postura é relaxada, o estilo é casual, a conversa flui entre pontos. Mas de repente faz um ponto que não devia ser possível e sorri como se fosse normal. É frustrante de defrontar.',
+    traits:[{l:'Vibe',v:'Zen absoluto'},{l:'Pressão',v:'Que pressão?'},{l:'Celebrações',v:'Um sorriso, no máximo'}]},
+  { id:'filosofo', nome:'O Filósofo do Court', emoji:'🧘', badge:'Honesto', bc:'#4a044e', bt:'white',
+    tag:'"O que importa é o processo, não o resultado."',
+    desc:'Perdeu 6-0? "Foi uma aprendizagem." Ganhou 6-0? "Tiveram azar." O grupo às vezes gostava que ele ficasse um bocadinho mais chateado.',
+    traits:[{l:'Mentalidade',v:'Zen'},{l:'Após derrota',v:'Lição aprendida'},{l:'Após vitória',v:'Também lição aprendida'}]},
+
+  // EQUIPAMENTO (d dominante)
+  { id:'equipamento', nome:'O Profissional do Equipamento', emoji:'🛍️', badge:'Reconhecível', bc:'#854d0e', bt:'white',
+    tag:'Raquete de 400€. Nível de iniciante. Convicção total.',
+    desc:'Acredita genuinamente que a próxima raquete vai ser o elemento que faltava. Sabe tudo sobre gramagem, núcleos e balanços. Tem menos razão sobre a relação entre equipamento e resultado.',
+    traits:[{l:'Investimento',v:'Significativo'},{l:'Retorno',v:'Não linear'},{l:'Próxima raquete',v:'Vai resolver tudo'}]},
+  { id:'analitico_sofa', nome:'O Analista de Sofá', emoji:'📊', badge:'Honesto', bc:'#1e40af', bt:'white',
+    tag:'Em teoria, é um expert. Em court, é outra história.',
+    desc:'Sabe tudo sobre padel: regras, técnicas, estratégias, equipamento. Segue torneios, vê vídeos. No court, esse conhecimento transforma-se em comentários detalhados sobre porque é que perdeu o ponto.',
+    traits:[{l:'Teoria',v:'Nível pro'},{l:'Prática',v:'Work in progress'},{l:'Hobby',v:'Análise de vídeo'}]},
+
+  // LESIONADO (e dominante)
+  { id:'lesionado', nome:'O Eterno Lesionado', emoji:'🩹', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'Está sempre "quase bem" do tornozelo.',
+    desc:'Há uma lesão de base que nunca está completamente resolvida mas nunca impede de jogar. Serve como explicação para os erros e como resposta padrão quando o grupo pergunta como está.',
+    traits:[{l:'Estado de saúde',v:'Perpetuamente em recuperação'},{l:'Participação',v:'Frequente, apesar de tudo'},{l:'Desculpa',v:'"O tornozelo não ajudou"'}]},
+  { id:'promessa', nome:'O Eterno Prometedor', emoji:'🌟', badge:'Honesto', bc:'#0369a1', bt:'white',
+    tag:'"Para o próximo jogo já vais ver."',
+    desc:'Está sempre prestes a desbloquear o nível seguinte. Falta pouco. Só precisa de treinar mais um bocadinho. No próximo jogo vai ser diferente. Sempre no próximo jogo.',
+    traits:[{l:'Potencial',v:'Enorme (em teoria)'},{l:'Evolução',v:'Iminente (sempre)'},{l:'Paciência do grupo',v:'Admirável'}]},
+
+  // ANALÍTICO (f dominante)
+  { id:'analisa_proprio', nome:'O Que Analisa o Próprio Jogo', emoji:'🔍', badge:'Reconhecível', bc:'#1e40af', bt:'white',
+    tag:'Tem vídeos dos próprios erros. Com notas.',
+    desc:'Grava os jogos, revê em slow motion, tira notas. A dedicação é admirável. O nível é consistente com alguém que analisa muito e treina pouco. Mas o processo é excelente.',
+    traits:[{l:'Dados',v:'Extensos'},{l:'Conclusões',v:'Detalhadas'},{l:'Implementação',v:'Em progresso'}]},
+
+  // CONVÍVIO (g dominante)
+  { id:'convivio', nome:'O Que Vem Pelo Convívio', emoji:'🍺', badge:'Honesto', bc:'#854d0e', bt:'white',
+    tag:'O padel é a desculpa. A cerveja é o objectivo.',
+    desc:'Joga razoavelmente, ri muito, nunca falta a um jogo e é sempre o primeiro a propor o lugar do convívio a seguir. O marcador é detalhe — o que fica são as histórias.',
+    traits:[{l:'Prioridade',v:'Convívio'},{l:'Pós-jogo',v:'Obrigatório'},{l:'Em court',v:'Bem-disposto'}]},
+  { id:'cerveja', nome:'O Que Joga Melhor Com Cerveja', emoji:'🍻', badge:'Misterioso', bc:'#92400e', bt:'white',
+    tag:'A ciência não explica. Mas o grupo confirma.',
+    desc:'Há algo que acontece no segundo set que transforma este jogador. Os reflexos melhoram, a posição está melhor, os smashes saem. Ninguém percebe. Ele também não.',
+    traits:[{l:'Primeiro set',v:'Morno'},{l:'Segundo set',v:'Outro jogador'},{l:'Razão científica',v:'Desconhecida'}]},
+  { id:'fim_semana', nome:'O Polivalente de Fim de Semana', emoji:'📅', badge:'Honesto', bc:'#065f46', bt:'white',
+    tag:'Sábado é o dia dele. Os outros seis não contam.',
+    desc:'Durante a semana, esquece o padel completamente. No sábado de manhã, reaparece com mais energia do que qualquer pessoa devia ter às 9h e joga razoavelmente bem.',
+    traits:[{l:'Frequência',v:'Uma vez por semana'},{l:'Comprometimento',v:'Zero. Resultados: ok.'},{l:'Pós-jogo',v:'Almoço de família'}]},
+  { id:'whatsapp', nome:'O Campeão do WhatsApp', emoji:'📱', badge:'Reconhecível', bc:'#065f46', bt:'white',
+    tag:'No grupo de padel, é imbatível. No court, varia.',
+    desc:'O grupo de WhatsApp seria muito menos interessante sem ele. Organiza, propõe, comenta, partilha vídeos. Em court, o rendimento é variável, mas a presença digital é constante.',
+    traits:[{l:'Actividade digital',v:'Elevada'},{l:'Mensagens',v:'Muitas'},{l:'Papel',v:'Alma do grupo digital'}]},
+
+  // WHINER (i dominante)
+  { id:'culpa_tudo', nome:'O Que Culpa Tudo', emoji:'🌬️', badge:'Reconhecível', bc:'#6b21a8', bt:'white',
+    tag:'O sol, o vento, o piso, o parceiro... menos ele.',
+    desc:'O catálogo de factores externos é extenso e bem documentado. O sol vem sempre do lado errado. O piso tem uma irregularidade específica exactamente onde perde mais pontos.',
+    traits:[{l:'Responsabilidade pessoal',v:'Mínima'},{l:'Factores externos',v:'Sempre presentes'},{l:'Criatividade',v:'Alta'}]},
+  { id:'desculpas', nome:'O Coleccionador de Desculpas', emoji:'📚', badge:'Honesto', bc:'#7c2d12', bt:'white',
+    tag:'Perdeu? Há sempre uma razão. Muitas, na verdade.',
+    desc:'O sol, o piso, a raquete, o parceiro, os adversários. O catálogo de razões é vasto, organizado e actualizado regularmente após cada derrota.',
+    traits:[{l:'Responsabilidade',v:'Distribuída'},{l:'Variedade',v:'Impressionante'},{l:'Aceitação da derrota',v:'Indirecta'}]},
+  { id:'arbitor', nome:'O Árbitro Não Pedido', emoji:'🟡', badge:'Reconhecível', bc:'#713f12', bt:'white',
+    tag:'Há sempre uma bola que merecia uma segunda opinião.',
+    desc:'Mesmo quando não está a jogar, está atento. Questiona marcações, lembra regras, tem uma opinião sobre cada bola duvidosa. O grupo agradece... maioritariamente.',
+    traits:[{l:'Atenção',v:'Máxima'},{l:'Objectividade',v:'Variável'},{l:'Popularidade',v:'Relativa'}]},
+
+  // MISTO
+  { id:'regras', nome:'O Que Sabe a Regra Que Ninguém Sabia', emoji:'📖', badge:'Reconhecível', bc:'#1e3a5f', bt:'white',
+    tag:'Há sempre uma regra. E ele sabe-a.',
+    desc:'Em situações de dúvida, ele tem a resposta. Com regulamento citado. Às vezes o regulamento diz o que ele diz. Às vezes diz outra coisa — mas a confiança é inabalável.',
+    traits:[{l:'Regulamento',v:'Extenso'},{l:'Fiabilidade',v:'Geralmente boa'},{l:'Timing',v:'Sempre inconveniente'}]},
+  { id:'aquecimento', nome:'O Especialista em Aquecer', emoji:'🔄', badge:'Reconhecível', bc:'#4f46e5', bt:'white',
+    tag:'O aquecimento é fantástico. O jogo é outra conversa.',
+    desc:'Os primeiros 10 minutos de aquecimento são fluidos e impressionantes. Depois começa o jogo a sério e algo muda. O grupo tem a teoria de que joga melhor quando pensa que ainda é aquecimento.',
+    traits:[{l:'Aquecimento',v:'Nível pro'},{l:'Jogo real',v:'Condições diferentes'},{l:'Teoria',v:'Confirmada empiricamente'}]},
+  { id:'resiliente', nome:'O Resiliente', emoji:'💪', badge:'Positivo', bc:'#166534', bt:'white',
+    tag:'Nunca dá o ponto por perdido. Nunca.',
+    desc:'Perde o primeiro set por 1-6, vira o segundo, ganha o tie-break. Tem uma capacidade de aguentar que desconcerta os adversários. Quando estás a ganhar fácil de mais, cuidado.',
+    traits:[{l:'Estilo',v:'Guerreiro'},{l:'Ponto forte',v:'Resistência mental'},{l:'Momento top',v:'Quando está a perder'}]},
+  { id:'jogador_equipa', nome:'O Jogador de Equipa', emoji:'🤜', badge:'Positivo', bc:'#166534', bt:'white',
+    tag:'Faz os outros melhores. E isso é raro.',
+    desc:'Não é o que faz os pontos mais espectaculares. É o que cria as condições para que aconteçam. Com ele ao lado, toda a gente joga melhor. Esse talento não aparece no marcador.',
+    traits:[{l:'Ego',v:'Baixo'},{l:'Contribuição real',v:'Alta'},{l:'Preferência',v:'Vitória da equipa'}]},
+  { id:'tarde', nome:'O Tarde-mas-Chego', emoji:'⏰', badge:'Honesto', bc:'#6b21a8', bt:'white',
+    tag:'15 minutos atrasado é pontual para ele.',
+    desc:'Nunca chega a horas. Mas a criatividade das desculpas merece respeito — o trânsito, o trabalho, a família, uma avaria. O grupo já conta com os 15 minutos de atraso no planeamento.',
+    traits:[{l:'Horário',v:'Relativo'},{l:'Desculpas',v:'Criativas'},{l:'Em court',v:'Recupera rápido'}]},
+
+  // RAROS (j)
+  { id:'fenomeno', nome:'O Fenómeno Inexplicável', emoji:'🌀', badge:'Raro', bc:'#4a044e', bt:'white',
+    tag:'Ninguém percebe como ganha. Nem ele.',
+    desc:'Tecnicamente não devia estar a ganhar. O grip é discutível, o serve é criativo, a posição é heterodoxa. E no entanto os pontos saem. Os treinadores ficam confusos. Ele também.',
+    traits:[{l:'Técnica',v:'Heterodoxa'},{l:'Resultados',v:'Surpreendentemente bons'},{l:'Explicação',v:'Nenhuma disponível'}]},
+  { id:'fase', nome:'O Padel É Uma Fase', emoji:'🎭', badge:'Especial', bc:'#6b21a8', bt:'white',
+    tag:'Começou há dois meses. Já tem três raquetes.',
+    desc:'Entrou no padel com a energia de quem descobriu a razão de existir. Joga quatro vezes por semana e já fala em "evoluir a técnica". O grupo tem uma aposta sobre quanto tempo dura.',
+    traits:[{l:'Há quanto tempo',v:'Pouco'},{l:'Entusiasmo',v:'Absoluto'},{l:'Longevidade',v:'A apostar'}]},
+  { id:'amanha', nome:'O Candidato a Profissional Amanhã', emoji:'🚀', badge:'Especial', bc:'#0f766e', bt:'white',
+    tag:'A carreira profissional está sempre "para breve".',
+    desc:'Com o treino certo, a raquete certa e um bocadinho mais de tempo, seria profissional — ele tem a certeza. A certeza mantém-se há anos. A carreira profissional, ainda não.',
+    traits:[{l:'Potencial (auto)',v:'Profissional'},{l:'Potencial (grupo)',v:'Amigável'},{l:'Optimismo',v:'Inabalável'}]}
+];
+
+// ALGORITMO
+const CATS = ['a','b','c','d','e','f','g','h','i','j'];
+let step=0, answers=[], scores={};
+
+function startQuiz() {
+  document.getElementById('intro-card').style.display='none';
+  document.getElementById('quiz-wrap').classList.add('active');
+  step=0; answers=[]; scores={};
+  CATS.forEach(c=>scores[c]=0);
+  renderQ();
+}
+
+function renderQ() {
+  const q=QS[step], pct=Math.round(step/QS.length*100);
+  document.getElementById('q-counter').textContent=`Pergunta ${step+1} de ${QS.length}`;
+  document.getElementById('q-progress').style.width=pct+'%';
+  document.getElementById('q-text').textContent=q.q;
+  document.getElementById('btn-back').style.display=step>0?'block':'none';
+  document.getElementById('btn-next').disabled=answers[step]===undefined;
+  document.getElementById('btn-next').textContent=step===QS.length-1?'Ver resultado →':'Continuar →';
+  const L=['A','B','C','D'];
+  document.getElementById('q-opts').innerHTML=q.opts.map((o,i)=>`
+    <div class="quiz-opt${answers[step]===i?' sel':''}" onclick="pick(${i})">
+      <div class="opt-letter">${L[i]}</div>
+      <div class="opt-text">${o.t}</div>
+    </div>`).join('');
+}
+
+function pick(i){answers[step]=i;document.getElementById('btn-next').disabled=false;renderQ();}
+
+function goNext(){
+  if(answers[step]===undefined)return;
+  const pts=QS[step].opts[answers[step]].p;
+  Object.entries(pts).forEach(([k,v])=>{scores[k]=(scores[k]||0)+v;});
+  if(step<QS.length-1){step++;renderQ();}
+  else showResult();
+}
+
+function goBack(){
+  if(step>0){
+    // remover pontos do step actual
+    if(answers[step]!==undefined){const pts=QS[step].opts[answers[step]].p;Object.entries(pts).forEach(([k,v])=>{scores[k]=(scores[k]||0)-v;});}
+    step--;
+    // remover pontos do step anterior para re-responder
+    if(answers[step]!==undefined){const pts=QS[step].opts[answers[step]].p;Object.entries(pts).forEach(([k,v])=>{scores[k]=(scores[k]||0)-v;});}
+    renderQ();
+  }
+}
+
+function getResult(){
+  if(window._overrideId)return window._overrideId;
+  // Médias esperadas por categoria (para normalização)
+  const MEANS={a:6.0,b:4.0,c:5.3,d:3.0,e:5.2,f:5.3,g:5.0,h:3.0,i:3.3};
+  // Normalizar scores por média
+  const norm={};
+  'abcdefghi'.split('').forEach(c=>norm[c]=(scores[c]||0)/MEANS[c]);
+  // Top 2 categorias normalizadas
+  const sorted=Object.keys(norm).sort((a,b)=>norm[b]-norm[a]);
+  const top1=sorted[0], top2=sorted[1];
+  // Árvore de decisão: categoria dominante → segunda categoria → perfil
+  const TREE={
+    h:{a:'nunca_desiste',f:'comandante',c:'artista',g:'jogador_equipa',e:'resiliente',_:'letal'},
+    a:{h:'intenso',f:'estratega',b:'comentador',g:'amanha',i:'chegou_tarde_dicas',_:'intenso'},
+    b:{f:'regras',i:'arbitor',a:'comentador',g:'whatsapp',c:'aquecimento',_:'coach'},
+    c:{g:'fim_semana',f:'filosofo',h:'descontraido',i:'tarde',b:'cerveja',_:'descontraido'},
+    d:{f:'analisa_proprio',b:'analitico_sofa',a:'equipamento',g:'fase',c:'cerveja',_:'fase'},
+    e:{i:'culpa_tudo',b:'promessa',g:'lesionado',f:'desculpas',a:'promessa',_:'lesionado'},
+    f:{d:'analisa_proprio',b:'aquecimento',a:'estratega',g:'fim_semana',c:'filosofo',_:'analitico_sofa'},
+    g:{c:'cerveja',b:'whatsapp',h:'jogador_equipa',f:'fim_semana',i:'tarde',_:'convivio'},
+    i:{e:'desculpas',b:'arbitor',c:'tarde',a:'chegou_tarde_dicas',g:'culpa_tudo',f:'culpa_tudo',h:'arbitor',_:'culpa_tudo'},
+  };
+  const branch=TREE[top1]||{};
+  return branch[top2]||branch['_']||'convivio';
+}
+
+function showResult(){
+  document.getElementById('quiz-wrap').classList.remove('active');
+  const id=getResult();
+  const p=PERFIS.find(x=>x.id===id)||PERFIS[0];
+  document.getElementById('result-wrap').classList.add('active');
+  const shareUrl=`${location.href.split('?')[0]}?tipo=${encodeURIComponent(p.nome)}`;
+  const shareText=`Fiz o quiz do PadelCost e sou... ${p.nome} ${p.emoji}\n"${p.tag}"\nDescobre o teu tipo: `;
+  document.getElementById('result-hero').innerHTML=`
+    <div class="result-badge" style="background:${p.bc};color:${p.bt}">${p.badge}</div>
+    <span class="result-emoji">${p.emoji}</span>
+    <h2 class="result-nome">${p.nome}</h2>
+    <p class="result-tag">"${p.tag}"</p>`;
+  document.getElementById('result-body').innerHTML=`
+    <p class="result-desc">${p.desc}</p>
+    <div class="result-traits">${p.traits.map(t=>`<div class="result-trait"><div class="result-trait-lbl">${t.l}</div><div class="result-trait-val">${t.v}</div></div>`).join('')}</div>
+    <div class="result-share">
+      <p class="result-share-title">Partilha com o grupo de padel 👇</p>
+      <div class="share-btns">
+        <a class="btn-wa" href="https://wa.me/?text=${encodeURIComponent(shareText+shareUrl)}" target="_blank" rel="noopener">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          WhatsApp
+        </a>
+        <button class="btn-copy" onclick="copyLink('${shareUrl}',this)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+          Copiar link
+        </button>
+      </div>
+    </div>
+    <button class="btn-restart" onclick="restart()">Recomeçar quiz</button>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function copyLink(url,btn){
+  navigator.clipboard.writeText(url).then(()=>{
+    btn.textContent='Copiado!';btn.style.background='#10b981';
+    setTimeout(()=>{btn.innerHTML='<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copiar link';btn.style.background='';},2500);
+  }).catch(()=>prompt('Copia este link:',url));
+}
+
+function restart(){
+  document.getElementById('result-wrap').classList.remove('active');
+  document.getElementById('intro-card').style.display='';
+  scores={};CATS.forEach(c=>scores[c]=0);step=0;answers=[];
+}
+
+// URL param
+const _sp=new URLSearchParams(location.search);
+if(_sp.get('tipo')){
+  const nome=_sp.get('tipo');
+  const p=PERFIS.find(x=>x.nome===nome);
+  if(p){
+    document.getElementById('intro-card').style.display='none';
+    window._overrideId=p.id;
+    scores={};CATS.forEach(c=>scores[c]=0);
+    answers=new Array(QS.length).fill(0);
+    showResult();
+    delete window._overrideId;
+  }
+}
+</script>
+</body>
+</html>

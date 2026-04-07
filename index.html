@@ -11,6 +11,7 @@
   </script>
   <meta charset="UTF-8">
   <meta name="fo-verify" content="8971009d-35f7-444d-b5e1-ebadcd5df5c4" />
+  <meta name="mylead-verification" content="e2cf2643c83c44b1553489d0db500d33" />
   <link rel="icon" type="image/png" sizes="49x49" href="./favicon-49.png">
     <link rel="apple-touch-icon" href="./favicon-49.png">
   <meta name="description" content="Compara preços de raquetes, sapatilhas, bolas e acessórios de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.">
@@ -157,6 +158,51 @@
       flex: 1;
       max-width: 650px;
       position: relative;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      flex-shrink: 0;
+    }
+
+    .favorites-trigger {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.78rem 1.05rem;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.24);
+      background: transparent;
+      color: #fff;
+      font-family: 'Manrope', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      backdrop-filter: blur(12px);
+    }
+
+    .favorites-trigger:hover {
+      background: transparent;
+      border-color: rgba(255,255,255,0.42);
+      transform: translateY(-1px);
+    }
+
+    .favorites-trigger-count {
+      min-width: 22px;
+      height: 22px;
+      padding: 0 0.35rem;
+      border-radius: 999px;
+      background: #fff;
+      color: var(--accent);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.74rem;
+      font-weight: 800;
+      line-height: 1;
     }
 
     .search-suggestions {
@@ -948,6 +994,39 @@
       z-index: 2;
     }
 
+    .product-favorite-btn {
+      position: absolute;
+      top: 1.2rem;
+      left: 1.2rem;
+      width: auto;
+      height: auto;
+      border: none;
+      border-radius: 0;
+      background: transparent;
+      color: rgba(12, 20, 29, 0.52);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 3;
+      transition: all 0.25s ease;
+      padding: 0.2rem;
+    }
+
+    .product-favorite-btn:hover {
+      transform: translateY(-1px) scale(1.04);
+      color: rgba(12, 20, 29, 0.8);
+    }
+
+    .product-favorite-btn.active {
+      color: #1d4f91;
+    }
+
+    .product-favorite-btn i {
+      font-size: 1.22rem;
+      line-height: 1;
+    }
+
     .product-image {
       width: 100%;
       height: 240px;
@@ -1174,6 +1253,286 @@
 
     .modal-close:hover {
       color: var(--text);
+    }
+
+    .modal-header-actions {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .modal-save-btn {
+      padding: 0.62rem 0.9rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--text);
+      font-family: 'Manrope', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      white-space: nowrap;
+    }
+
+    .modal-save-btn:hover {
+      border-color: rgba(32, 111, 220, 0.2);
+      color: var(--accent);
+      background: var(--accent-soft);
+    }
+
+    .modal-save-btn.active {
+      color: #dc2626;
+      border-color: rgba(220, 38, 38, 0.14);
+      background: #fff5f5;
+    }
+
+    .modal-secondary-actions {
+      margin-top: 0.55rem;
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      flex-wrap: wrap;
+    }
+
+    .modal-share-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      border: none;
+      background: transparent;
+      padding: 0;
+      font-family: 'Manrope', sans-serif;
+      font-size: 0.84rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+
+    .modal-share-link:hover {
+      color: var(--accent);
+    }
+
+    .favorites-panel-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(9, 16, 25, 0.48);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      z-index: 550;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s ease;
+    }
+
+    .favorites-panel-overlay.active {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .favorites-panel {
+      width: min(720px, 100%);
+      max-height: min(78vh, 760px);
+      overflow: hidden;
+      background: #fff;
+      border-radius: 24px;
+      box-shadow: 0 28px 80px rgba(9, 16, 25, 0.28);
+      display: flex;
+      flex-direction: column;
+      transform: translateY(14px) scale(0.985);
+      transition: transform 0.25s ease;
+    }
+
+    .favorites-panel-overlay.active .favorites-panel {
+      transform: translateY(0) scale(1);
+    }
+
+    .favorites-panel-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 1.4rem 1.5rem 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .favorites-panel-title {
+      font-size: 1.45rem;
+      font-weight: 800;
+      color: #0c141d;
+      margin-bottom: 0.2rem;
+      letter-spacing: -0.03em;
+    }
+
+    .favorites-panel-subtitle {
+      font-size: 0.92rem;
+      color: var(--text-muted);
+    }
+
+    .favorites-panel-close {
+      width: 40px;
+      height: 40px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--text-muted);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .favorites-panel-close:hover {
+      color: var(--text);
+      border-color: rgba(12,20,29,0.15);
+      background: #f8fafc;
+    }
+
+    .favorites-panel-body {
+      padding: 1rem 1.5rem 1.5rem;
+      overflow-y: auto;
+    }
+
+    .favorites-empty {
+      padding: 2.5rem 1rem 2.8rem;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .favorites-empty i {
+      font-size: 2.1rem;
+      color: rgba(32, 111, 220, 0.4);
+      margin-bottom: 0.85rem;
+    }
+
+    .favorites-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .favorite-item {
+      display: grid;
+      grid-template-columns: 92px minmax(0, 1fr) auto;
+      gap: 1rem;
+      align-items: center;
+      padding: 0.9rem;
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      background: #fff;
+    }
+
+    .favorite-item-thumb {
+      width: 92px;
+      height: 92px;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      background: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .favorite-item-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      transform: scale(1.2);
+    }
+
+    .favorite-item-brand {
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      margin-bottom: 0.25rem;
+    }
+
+    .favorite-item-name {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0c141d;
+      line-height: 1.35;
+      margin-bottom: 0.45rem;
+    }
+
+    .favorite-item-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem 0.8rem;
+      align-items: center;
+      font-size: 0.84rem;
+      color: var(--text-muted);
+    }
+
+    .favorite-item-price {
+      color: var(--accent);
+      font-weight: 800;
+      font-size: 0.96rem;
+    }
+
+    .favorite-item-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 0.55rem;
+      align-items: flex-end;
+    }
+
+    .favorite-item-open,
+    .favorite-item-remove,
+    .favorite-item-share {
+      padding: 0.72rem 1rem;
+      border-radius: 999px;
+      font-family: 'Manrope', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      border: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    .favorite-item-open {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .favorite-item-open:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 24px rgba(32, 111, 220, 0.22);
+    }
+
+    .favorite-item-remove {
+      background: #fff;
+      color: var(--text-muted);
+    }
+
+    .favorite-item-share {
+      background: #fff;
+      color: var(--accent);
+      border-color: rgba(32, 111, 220, 0.14);
+    }
+
+    .favorite-item-share:hover {
+      background: var(--accent-soft);
+      border-color: rgba(32, 111, 220, 0.24);
+    }
+
+    .favorite-item-remove:hover {
+      color: #dc2626;
+      border-color: rgba(220, 38, 38, 0.18);
+      background: #fff5f5;
     }
 
     .modal-product-info {
@@ -2199,6 +2558,14 @@
         max-width: 100%;
       }
 
+      .header-actions {
+        margin-left: auto;
+      }
+
+      .favorites-trigger {
+        padding: 0.72rem 0.95rem;
+      }
+
       .mobile-category-menu {
         display: block;
         background: transparent;
@@ -2322,6 +2689,13 @@
         font-size: 0.56rem;
       }
 
+      .product-favorite-btn {
+        top: 0.85rem;
+        left: 0.85rem;
+        width: 38px;
+        height: 38px;
+      }
+
       .product-image {
         margin-bottom: 0.58rem;
         border-radius: 9px;
@@ -2438,6 +2812,18 @@
         right: 0.5rem;
         padding: 0.2rem;
         font-size: 1.05rem;
+      }
+
+      .modal-header-actions {
+        position: absolute;
+        left: 0.72rem;
+        bottom: 0.72rem;
+        margin-left: 0;
+      }
+
+      .modal-save-btn {
+        padding: 0.52rem 0.7rem;
+        font-size: 0.72rem;
       }
 
       .modal-specs {
@@ -2687,6 +3073,26 @@
         flex: 1;
         padding: 0.48rem 0.7rem;
         font-size: 0.74rem;
+      }
+
+      .favorites-panel {
+        border-radius: 18px;
+      }
+
+      .favorite-item {
+        grid-template-columns: 72px minmax(0, 1fr);
+      }
+
+      .favorite-item-thumb {
+        width: 72px;
+        height: 72px;
+      }
+
+      .favorite-item-actions {
+        grid-column: 1 / -1;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
       }
 
       .dev-inline-note {
@@ -3040,12 +3446,15 @@
     const [selectedProduct, setSelectedProduct] = useState(null);
     const [modalActive, setModalActive] = useState(false);
     const [compareIds, setCompareIds] = useState([]);
+    const [favoriteIds, setFavoriteIds] = useState([]);
+    const [favoritesOpen, setFavoritesOpen] = useState(false);
     const [showComparison, setShowComparison] = useState(false);
     const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
     const [mobileCategoriesOpen, setMobileCategoriesOpen] = useState(false);
     const [collapsed, setCollapsed] = useState({});
     const [currentPage, setCurrentPage] = useState(1);
     const PRODUCTS_PER_PAGE = 15;
+    const FAVORITES_STORAGE_KEY = 'padelcost-favorites';
 
     // Filters state
     const [filters, setFilters] = useState({
@@ -3073,6 +3482,28 @@
       }, 4000);
       return () => clearInterval(interval);
     }, []);
+
+    useEffect(() => {
+      try {
+        const saved = window.localStorage.getItem(FAVORITES_STORAGE_KEY);
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (Array.isArray(parsed)) {
+            setFavoriteIds(parsed);
+          }
+        }
+      } catch (error) {
+        console.warn('Não foi possível carregar favoritos.', error);
+      }
+    }, []);
+
+    useEffect(() => {
+      try {
+        window.localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(favoriteIds));
+      } catch (error) {
+        console.warn('Não foi possível guardar favoritos.', error);
+      }
+    }, [favoriteIds]);
 
     // Clear filters when category changes
     useEffect(() => {
@@ -3220,6 +3651,12 @@
       return productsData.filter(p => compareIds.includes(p.id)).slice(0, 3);
     }, [compareIds]);
 
+    const favoriteProducts = useMemo(() => {
+      return favoriteIds
+        .map((id) => productsData.find((product) => product.id === id))
+        .filter(Boolean);
+    }, [favoriteIds]);
+
     const renderStars = (rating) => {
       const stars = [];
       const fullStars = Math.floor(rating);
@@ -3253,6 +3690,49 @@
 
     const getBestPrice = (stores) => {
       return Math.min(...stores.map(s => s.price));
+    };
+
+    const isFavorite = (productId) => favoriteIds.includes(productId);
+
+    const toggleFavorite = (productId) => {
+      setFavoriteIds((prev) =>
+        prev.includes(productId)
+          ? prev.filter((id) => id !== productId)
+          : [productId, ...prev]
+      );
+    };
+
+    const getProductShareUrl = (product) => {
+      const target = `./index.html?q=${encodeURIComponent(product.name)}`;
+      return new URL(target, window.location.href).toString();
+    };
+
+    const shareProduct = async (product) => {
+      const shareUrl = getProductShareUrl(product);
+      const shareData = {
+        title: product.name,
+        text: `Vê este produto no PadelCost: ${product.name}`,
+        url: shareUrl
+      };
+
+      try {
+        if (navigator.share) {
+          await navigator.share(shareData);
+          return;
+        }
+
+        await navigator.clipboard.writeText(shareUrl);
+        window.alert('Link copiado para partilhar.');
+      } catch (error) {
+        if (error?.name !== 'AbortError') {
+          try {
+            await navigator.clipboard.writeText(shareUrl);
+            window.alert('Link copiado para partilhar.');
+          } catch (copyError) {
+            window.prompt('Copia este link:', shareUrl);
+          }
+        }
+      }
     };
 
     const renderStoreLogo = (storeName) => {
@@ -3350,6 +3830,13 @@
                     </div>
                   ) : null;
                 })()}
+              </div>
+              <div className="header-actions">
+                <button className="favorites-trigger" onClick={() => setFavoritesOpen(true)}>
+                  <i className={`${favoriteIds.length > 0 ? 'fas' : 'far'} fa-heart`}></i>
+                  <span>Favoritos</span>
+                  <span className="favorites-trigger-count">{favoriteIds.length}</span>
+                </button>
               </div>
             </div>
           </div>
@@ -3469,6 +3956,16 @@
                     {noveltyProducts.map(product => (
                       <div key={product.id} className="product-card">
                         {product.badge && <span className="product-badge">{product.badge}</span>}
+                        <button
+                          className={`product-favorite-btn ${isFavorite(product.id) ? 'active' : ''}`}
+                          aria-label={isFavorite(product.id) ? 'Remover dos favoritos' : 'Guardar produto'}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            toggleFavorite(product.id);
+                          }}
+                        >
+                          <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
+                        </button>
                         <div className="product-image" onClick={() => openModal(product)}>
                           <img src={product.image} alt={product.name} />
                         </div>
@@ -3756,6 +4253,16 @@
                       {pagedProducts.map((product) => (
                         <div key={product.id} className="product-card">
                           {product.badge && <span className="product-badge">{product.badge}</span>}
+                          <button
+                            className={`product-favorite-btn ${isFavorite(product.id) ? 'active' : ''}`}
+                            aria-label={isFavorite(product.id) ? 'Remover dos favoritos' : 'Guardar produto'}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              toggleFavorite(product.id);
+                            }}
+                          >
+                            <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
+                          </button>
                           <div className="product-image" onClick={() => openModal(product)}>
                             <img src={product.image} alt={product.name} />
                           </div>
@@ -4029,6 +4536,71 @@
           </div>
         )}
 
+        <div className={`favorites-panel-overlay ${favoritesOpen ? 'active' : ''}`} onClick={() => setFavoritesOpen(false)}>
+          <div className="favorites-panel" onClick={(e) => e.stopPropagation()}>
+            <div className="favorites-panel-header">
+              <div>
+                <div className="favorites-panel-title">Produtos guardados</div>
+                <div className="favorites-panel-subtitle">Os teus favoritos ficam guardados neste browser, sem precisares de conta.</div>
+              </div>
+              <button className="favorites-panel-close" onClick={() => setFavoritesOpen(false)} aria-label="Fechar favoritos">
+                <i className="fas fa-times"></i>
+              </button>
+            </div>
+            <div className="favorites-panel-body">
+              {favoriteProducts.length === 0 ? (
+                <div className="favorites-empty">
+                  <i className="far fa-heart"></i>
+                  <div style={{ fontWeight: 800, color: '#0c141d', marginBottom: '0.35rem' }}>Ainda não guardaste produtos</div>
+                  <div>Usa o coração nos cards para criar a tua shortlist.</div>
+                </div>
+              ) : (
+                <div className="favorites-list">
+                  {favoriteProducts.map((product) => (
+                    <div key={product.id} className="favorite-item">
+                      <div className="favorite-item-thumb">
+                        <img src={product.image} alt={product.name} />
+                      </div>
+                      <div>
+                        <div className="favorite-item-brand">{product.brand}</div>
+                        <div className="favorite-item-name">{product.name}</div>
+                        <div className="favorite-item-meta">
+                          <span className="favorite-item-price">{formatPrice(product.price)}</span>
+                          <span>{product.stores.length} {product.stores.length === 1 ? 'loja' : 'lojas'}</span>
+                          <span>{categories.find((cat) => cat.id === product.category)?.name || product.category}</span>
+                        </div>
+                      </div>
+                      <div className="favorite-item-actions">
+                        <button
+                          className="favorite-item-open"
+                          onClick={() => {
+                            setFavoritesOpen(false);
+                            openModal(product);
+                          }}
+                        >
+                          Ver produto
+                        </button>
+                        <button
+                          className="favorite-item-share"
+                          onClick={() => shareProduct(product)}
+                        >
+                          Partilhar
+                        </button>
+                        <button
+                          className="favorite-item-remove"
+                          onClick={() => toggleFavorite(product.id)}
+                        >
+                          Remover
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+
         {/* PRICE COMPARISON MODAL */}
         <div className={`modal-overlay ${modalActive ? 'active' : ''}`} onClick={closeModal}>
           <div className="modal" onClick={(e) => e.stopPropagation()}>
@@ -4053,8 +4625,23 @@
                         ))}
                       </div>
                     )}
+                    <div className="modal-secondary-actions">
+                      <button className="modal-share-link" onClick={() => shareProduct(selectedProduct)}>
+                        <i className="fas fa-share-alt"></i>
+                        Partilhar
+                      </button>
+                    </div>
                   </div>
-                  <button className="modal-close" onClick={closeModal}>✕</button>
+                  <div className="modal-header-actions">
+                    <button
+                      className={`modal-save-btn ${isFavorite(selectedProduct.id) ? 'active' : ''}`}
+                      onClick={() => toggleFavorite(selectedProduct.id)}
+                    >
+                      <i className={`${isFavorite(selectedProduct.id) ? 'fas' : 'far'} fa-heart`}></i>
+                      {isFavorite(selectedProduct.id) ? 'Guardado' : 'Guardar produto'}
+                    </button>
+                    <button className="modal-close" onClick={closeModal}>✕</button>
+                  </div>
                 </div>
 
                 <div className="modal-body">

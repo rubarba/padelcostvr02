@@ -18,6 +18,7 @@ const path = require('path');
 const DATA_DIR = path.resolve(__dirname, '../data');
 const MAIN_FILE = path.join(DATA_DIR, 'products-data.js');
 const ADIDAS_FILE = path.join(DATA_DIR, 'adidas-padel-data.js');
+const PADEL_MARKET_FILE = path.join(DATA_DIR, 'padel-market-data.js');
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
   ['raquetes::raquete de padel adidas metalbone 2026 ale galan', 'Pala de pádel adidas metalbone 2026 ale galán preto/vermelho'],
@@ -93,12 +94,29 @@ function signature(name) {
     .join(' ');
 }
 
+const STORE_PRIORITY = {
+  'Padel Market': 0,
+  'Adidas Padel': 1,
+  'Atmosfera Sport': 2,
+};
+
+function compareStores(a, b) {
+  const priceDiff = a.price - b.price;
+  if (priceDiff !== 0) return priceDiff;
+
+  const priorityA = STORE_PRIORITY[a.name] ?? 99;
+  const priorityB = STORE_PRIORITY[b.name] ?? 99;
+  if (priorityA !== priorityB) return priorityA - priorityB;
+
+  return (a.name || '').localeCompare(b.name || '');
+}
+
 function addStoreToProduct(product, offer) {
   const existing = product.stores.find(store => store.name === offer.stores[0].name);
   if (existing) return false;
 
   product.stores.push(offer.stores[0]);
-  product.stores.sort((a, b) => a.price - b.price);
+  product.stores.sort(compareStores);
   product.price = product.stores[0].price;
   return true;
 }
@@ -106,6 +124,17 @@ function addStoreToProduct(product, offer) {
 function mergeProductData(product, offer) {
   if (!product.image && offer.image) {
     product.image = offer.image;
+    product.imageSource = offer.source || product.imageSource || product.source || null;
+  }
+
+  const preferBetterAffiliateImage =
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel') &&
+    offer.image &&
+    (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
+
+  if (preferBetterAffiliateImage) {
+    product.image = offer.image;
+    product.imageSource = offer.source;
   }
 
   if (!product.ean && offer.ean) {
@@ -153,6 +182,7 @@ function createProductFromOffer(offer, id) {
     productGTIN: offer.productGTIN || null,
     mpn: offer.mpn || null,
     source: offer.source || 'adidas-padel',
+    imageSource: offer.source || 'adidas-padel',
     sourceProductId: offer.sourceProductId || null,
     sourceCategory: offer.sourceCategory || null,
     specs: {
@@ -162,6 +192,11 @@ function createProductFromOffer(offer, id) {
       nivel: offer.specs?.nivel ?? null,
       material: offer.specs?.material ?? null,
       estilo: offer.specs?.estilo ?? null,
+      sola: offer.specs?.sola ?? null,
+      genero: offer.specs?.genero ?? null,
+      cor: offer.specs?.cor ?? null,
+      uso: offer.specs?.uso ?? null,
+      amortecimento: offer.specs?.amortecimento ?? null,
     },
     stores: [...(offer.stores || [])],
   };
@@ -196,25 +231,23 @@ function buildIndex(products) {
   return { byEan, byGtin, byMpn, bySignature, byName };
 }
 
-function main() {
-  const products = extractWindowData(MAIN_FILE, 'PADELCOST_PRODUCTS');
-  const adidas = extractWindowData(ADIDAS_FILE, 'PADELCOST_ADIDAS_PRODUCTS');
-  const { byEan, byGtin, byMpn, bySignature, byName } = buildIndex(products);
+function processOffers({
+  label,
+  offers,
+  products,
+  indexes,
+  safeNameMap = new Map(),
+  rejectedKeys = new Set(),
+  allowSignatureMatch = true,
+  counters,
+  nextIdRef,
+}) {
+  const { byEan, byGtin, byMpn, bySignature, byName } = indexes;
 
-  let merged = 0;
-  let skipped = 0;
-  let mapped = 0;
-  let matchesByEan = 0;
-  let matchesByGtin = 0;
-  let matchesByMpn = 0;
-  let matchesBySignature = 0;
-  let addedAsNewProducts = 0;
-  let nextId = nextProductId(products);
-
-  for (const offer of adidas) {
+  for (const offer of offers) {
     const offerKey = `${offer.category}::${normalizeText(offer.name)}`;
-    if (REJECTED_ADIDAS_KEYS.has(offerKey)) {
-      skipped += 1;
+    if (rejectedKeys.has(offerKey)) {
+      counters.skipped += 1;
       continue;
     }
 
@@ -222,46 +255,105 @@ function main() {
 
     if (offer.ean) {
       target = byEan.get(`${offer.category}::${offer.ean}`) || null;
-      if (target) matchesByEan += 1;
+      if (target) counters.matchesByEan += 1;
     }
 
     if (!target && offer.productGTIN) {
       target = byGtin.get(`${offer.category}::${offer.productGTIN}`) || null;
-      if (target) matchesByGtin += 1;
+      if (target) counters.matchesByGtin += 1;
     }
 
     if (!target && offer.mpn) {
       target = byMpn.get(`${offer.category}::${normalizeText(offer.mpn)}`) || null;
-      if (target) matchesByMpn += 1;
+      if (target) counters.matchesByMpn += 1;
     }
 
     if (!target) {
-      const explicitTarget = SAFE_ADIDAS_NAME_MAP.get(offerKey);
+      const explicitTarget = safeNameMap.get(offerKey);
       if (explicitTarget) {
         target = byName.get(`${offer.category}::${normalizeText(explicitTarget)}`) || null;
-        if (target) mapped += 1;
+        if (target) counters.mapped += 1;
       }
     }
 
-    if (!target) {
+    if (!target && allowSignatureMatch) {
       const sig = signature(offer.name);
       const matches = bySignature.get(`${offer.category}::${sig}`) || [];
       if (matches.length === 1) {
         target = matches[0];
-        if (target) matchesBySignature += 1;
+        if (target) counters.matchesBySignature += 1;
       }
     }
 
     if (!target) {
-      products.push(createProductFromOffer(offer, nextId++));
-      addedAsNewProducts += 1;
+      const newProduct = createProductFromOffer(offer, nextIdRef.value++);
+      products.push(newProduct);
+      counters.addedAsNewProducts += 1;
+
+      if (newProduct.ean) byEan.set(`${newProduct.category}::${newProduct.ean}`, newProduct);
+      if (newProduct.productGTIN) byGtin.set(`${newProduct.category}::${newProduct.productGTIN}`, newProduct);
+      if (newProduct.mpn) byMpn.set(`${newProduct.category}::${normalizeText(newProduct.mpn)}`, newProduct);
+      const newSig = signature(newProduct.name);
+      if (newSig) {
+        const sigKey = `${newProduct.category}::${newSig}`;
+        if (!bySignature.has(sigKey)) bySignature.set(sigKey, []);
+        bySignature.get(sigKey).push(newProduct);
+      }
+      byName.set(`${newProduct.category}::${normalizeText(newProduct.name)}`, newProduct);
       continue;
     }
 
     mergeProductData(target, offer);
     if (addStoreToProduct(target, offer)) {
-      merged += 1;
+      counters.merged += 1;
     }
+  }
+
+  console.log(`   ${label}: ${offers.length} ofertas processadas`);
+}
+
+function main() {
+  const products = extractWindowData(MAIN_FILE, 'PADELCOST_PRODUCTS');
+  const adidas = extractWindowData(ADIDAS_FILE, 'PADELCOST_ADIDAS_PRODUCTS');
+  const padelMarket = fs.existsSync(PADEL_MARKET_FILE)
+    ? extractWindowData(PADEL_MARKET_FILE, 'PADELCOST_PADEL_MARKET_PRODUCTS')
+    : [];
+  const indexes = buildIndex(products);
+
+  const counters = {
+    merged: 0,
+    skipped: 0,
+    mapped: 0,
+    matchesByEan: 0,
+    matchesByGtin: 0,
+    matchesByMpn: 0,
+    matchesBySignature: 0,
+    addedAsNewProducts: 0,
+  };
+  const nextIdRef = { value: nextProductId(products) };
+
+  processOffers({
+    label: 'Adidas Padel',
+    offers: adidas,
+    products,
+    indexes,
+    safeNameMap: SAFE_ADIDAS_NAME_MAP,
+    rejectedKeys: REJECTED_ADIDAS_KEYS,
+    allowSignatureMatch: true,
+    counters,
+    nextIdRef,
+  });
+
+  if (padelMarket.length > 0) {
+    processOffers({
+      label: 'Padel Market',
+      offers: padelMarket,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
   }
 
   const now = new Date().toISOString();
@@ -269,7 +361,7 @@ function main() {
     `// PadelCost - Catálogo gerado automaticamente`,
     `// Gerado em: ${now}`,
     `// Produtos: ${products.length}`,
-    `// Merge Adidas Padel: ${merged} ofertas integradas, ${skipped} por rever`,
+    `// Merge lojas: ${counters.merged} ofertas integradas, ${counters.skipped} por rever`,
     ``,
     `window.PADELCOST_PRODUCTS = ${JSON.stringify(products, null, 2)};`,
   ].join('\n');
@@ -277,14 +369,14 @@ function main() {
   fs.writeFileSync(MAIN_FILE, content, 'utf8');
 
   console.log(`✅  Merge concluído`);
-  console.log(`   Ofertas integradas: ${merged}`);
-  console.log(`   Matches por EAN: ${matchesByEan}`);
-  console.log(`   Matches por GTIN: ${matchesByGtin}`);
-  console.log(`   Matches por MPN: ${matchesByMpn}`);
-  console.log(`   Matches por mapa seguro: ${mapped}`);
-  console.log(`   Matches por assinatura: ${matchesBySignature}`);
-  console.log(`   Novos produtos Adidas adicionados: ${addedAsNewProducts}`);
-  console.log(`   Ofertas por rever: ${skipped}`);
+  console.log(`   Ofertas integradas: ${counters.merged}`);
+  console.log(`   Matches por EAN: ${counters.matchesByEan}`);
+  console.log(`   Matches por GTIN: ${counters.matchesByGtin}`);
+  console.log(`   Matches por MPN: ${counters.matchesByMpn}`);
+  console.log(`   Matches por mapa seguro: ${counters.mapped}`);
+  console.log(`   Matches por assinatura: ${counters.matchesBySignature}`);
+  console.log(`   Novos produtos de lojas adicionados: ${counters.addedAsNewProducts}`);
+  console.log(`   Ofertas por rever: ${counters.skipped}`);
 }
 
 main();

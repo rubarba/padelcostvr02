@@ -51,6 +51,17 @@ Este script gera `../data/adidas-padel-data.js` com os produtos da loja já:
 Nota: este ficheiro ainda é uma camada normalizada por loja. O passo seguinte é
 fazer merge das ofertas com o catálogo principal.
 
+### Padel Market (AWIN)
+
+```bash
+npm run generate:padelmarket
+```
+
+Este script gera `../data/padel-market-data.js` com os produtos do Padel Market:
+- filtrados para padel
+- mapeados para as categorias do PadelCost
+- preparados com `EAN`, `GTIN`, `MPN` e imagens para o merge
+
 ### Merge de ofertas
 
 ```bash
@@ -60,6 +71,7 @@ npm run merge:offers
 Este passo:
 - lê `products-data.js`
 - lê `adidas-padel-data.js`
+- lê `padel-market-data.js` quando existir
 - tenta casar produtos por `EAN`
 - usa assinatura do nome como fallback seguro
 - acrescenta a nova loja dentro de `stores[]`

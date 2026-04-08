@@ -10,7 +10,6 @@
     gtag('config', 'G-MN6K5WQWLZ');
   </script>
   <meta charset="UTF-8">
-  <meta name="fo-verify" content="8971009d-35f7-444d-b5e1-ebadcd5df5c4" />
   <meta name="mylead-verification" content="e2cf2643c83c44b1553489d0db500d33" />
   <link rel="icon" type="image/png" sizes="49x49" href="./favicon-49.png">
     <link rel="apple-touch-icon" href="./favicon-49.png">
@@ -458,11 +457,19 @@
     }
 
     .sidebar-title {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
       font-size: 0.95rem;
       font-weight: 700;
       color: var(--text);
       text-transform: uppercase;
       letter-spacing: 0.05em;
+    }
+
+    .sidebar-title i {
+      font-size: 0.82rem;
+      color: var(--text-muted);
     }
 
     .btn-clear {
@@ -964,6 +971,10 @@
       gap: 1.2rem;
     }
 
+    .products-grid.products-grid-catalog {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
     .product-card {
       background: var(--surface);
       border-radius: 16px;
@@ -1029,7 +1040,7 @@
 
     .product-image {
       width: 100%;
-      height: 240px;
+      height: 208px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -1038,18 +1049,35 @@
       background: #ffffff;
       border: 1px solid var(--border);
       overflow: hidden;
+      padding: 0.5rem;
     }
 
     .product-image img {
       width: 100%;
       height: 100%;
       object-fit: contain;
-      transform: scale(1.5);
+      transform: scale(1.08);
       transition: transform 0.3s ease;
     }
 
     .product-card:hover .product-image img {
-      transform: scale(1.6);
+      transform: scale(1.13);
+    }
+
+    .product-image img.source-atmosfera-sport {
+      transform: scale(1.24);
+    }
+
+    .product-card:hover .product-image img.source-atmosfera-sport {
+      transform: scale(1.3);
+    }
+
+    .product-image img.source-atmosfera-sport.category-sapatilhas {
+      transform: scale(1.38);
+    }
+
+    .product-card:hover .product-image img.source-atmosfera-sport.category-sapatilhas {
+      transform: scale(1.44);
     }
 
     .product-info {
@@ -1229,7 +1257,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 0;
+      padding: 0.65rem;
       flex-shrink: 0;
       overflow: hidden;
     }
@@ -1238,7 +1266,15 @@
       width: 100%;
       height: 100%;
       object-fit: contain;
-      transform: scale(1.5);
+      transform: scale(1.08);
+    }
+
+    .modal-product-image img.source-atmosfera-sport {
+      transform: scale(1.22);
+    }
+
+    .modal-product-image img.source-atmosfera-sport.category-sapatilhas {
+      transform: scale(1.36);
     }
 
     .modal-close {
@@ -3313,6 +3349,23 @@
 
   const productsData = window.PADELCOST_PRODUCTS || [];
 
+  const STORE_PRIORITY = {
+    'Padel Market': 0,
+    'Adidas Padel': 1,
+    'Atmosfera Sport': 2,
+  };
+
+  const compareStores = (a, b) => {
+    const priceDiff = a.price - b.price;
+    if (priceDiff !== 0) return priceDiff;
+
+    const priorityA = STORE_PRIORITY[a.name] ?? 99;
+    const priorityB = STORE_PRIORITY[b.name] ?? 99;
+    if (priorityA !== priorityB) return priorityA - priorityB;
+
+    return (a.name || '').localeCompare(b.name || '');
+  };
+
   const formatPrice = (price) => price.toFixed(2).replace('.', ',') + ' €';
 
   const truncateText = (value, max = 72) => value && value.length > max ? value.slice(0, max - 1).trim() + '…' : value;
@@ -3322,7 +3375,7 @@
     .map((product) => {
       const validStores = (product.stores || []).filter((store) => typeof store.price === 'number');
       if (validStores.length < 2) return null;
-      const sortedStores = [...validStores].sort((a, b) => a.price - b.price);
+      const sortedStores = [...validStores].sort(compareStores);
       return {
         product,
         bestStore: sortedStores[0],
@@ -3509,6 +3562,16 @@
     useEffect(() => {
       clear();
       setCurrentPage(1);
+      setCollapsed({
+        marcas: true,
+        lojas: true,
+        forma: true,
+        nivel: true,
+        genero: true,
+        tamanho: true,
+        tipo: true,
+        preco: true,
+      });
     }, [activeCategory]);
 
     // Get filter options based on active category
@@ -3585,6 +3648,39 @@
       });
     }, [activeCategory, searchQuery, filters]);
 
+    const countFilledSpecs = (product) => {
+      if (!product?.specs) return 0;
+      return Object.values(product.specs).filter(value => {
+        if (Array.isArray(value)) return value.length > 0;
+        return value !== null && value !== undefined && value !== '';
+      }).length;
+    };
+
+    const getImageQualityScore = (product) => {
+      const effectiveSource = product?.imageSource || product?.source || '';
+      if (effectiveSource === 'padel-market') return 3;
+      if (effectiveSource === 'adidas-padel') return 2.4;
+      if (effectiveSource === 'atmosfera-sport') return 1.4;
+      return 1;
+    };
+
+    const getRecentStrengthScore = (product) => {
+      const text = `${product?.name || ''} ${product?.brand || ''}`.toLowerCase();
+      let score = 0;
+
+      if (text.includes('2026')) score += 3;
+      else if (text.includes('2025')) score += 1.8;
+
+      if (text.includes('pro')) score += 0.9;
+      if (text.includes('carbon')) score += 0.8;
+      if (text.includes('team')) score += 0.45;
+      if (text.includes('control')) score += 0.35;
+      if (text.includes('tour')) score += 0.35;
+      if (text.includes('light')) score += 0.2;
+
+      return score;
+    };
+
     const sortedProducts = useMemo(() => {
       const arr = [...filteredProducts];
       if (sortBy === 'preco-asc') return arr.sort((a, b) => a.price - b.price);
@@ -3595,7 +3691,37 @@
         const discB = b.oldPrice ? (b.oldPrice - b.price) / b.oldPrice : 0;
         return discB - discA;
       });
-      return arr;
+
+      const prices = arr
+        .map(product => Number(product.price))
+        .filter(price => Number.isFinite(price) && price > 0);
+      const minPrice = prices.length ? Math.min(...prices) : 0;
+      const maxPrice = prices.length ? Math.max(...prices) : 0;
+      const priceSpan = maxPrice - minPrice;
+
+      const relevanceScore = (product) => {
+        const storesScore = Math.min((product?.stores?.length || 0), 4) * 18;
+        const specsScore = Math.min(countFilledSpecs(product), 8) * 4.5;
+        const imageScore = getImageQualityScore(product) * 7;
+        const recentScore = getRecentStrengthScore(product) * 4.2;
+
+        let priceScore = 0;
+        if (Number.isFinite(product?.price) && product.price > 0) {
+          if (priceSpan > 0) {
+            priceScore = ((maxPrice - product.price) / priceSpan) * 14;
+          } else {
+            priceScore = 7;
+          }
+        }
+
+        return storesScore + specsScore + imageScore + recentScore + priceScore;
+      };
+
+      return arr.sort((a, b) => {
+        const diff = relevanceScore(b) - relevanceScore(a);
+        if (diff !== 0) return diff;
+        return a.price - b.price;
+      });
     }, [filteredProducts, sortBy]);
 
     const totalPages = Math.ceil(sortedProducts.length / PRODUCTS_PER_PAGE);
@@ -3688,8 +3814,16 @@
       setTimeout(() => setSelectedProduct(null), 300);
     };
 
-    const getBestPrice = (stores) => {
+    const getBestStore = (stores) => {
+      return [...stores].sort(compareStores)[0] || null;
+    };
+
+    const getLowestPrice = (stores) => {
       return Math.min(...stores.map(s => s.price));
+    };
+
+    const getBestPrice = (stores) => {
+      return getBestStore(stores)?.price ?? getLowestPrice(stores);
     };
 
     const isFavorite = (productId) => favoriteIds.includes(productId);
@@ -3756,11 +3890,33 @@
         );
       }
 
+      if (storeName === 'Padel Market') {
+        return (
+          <img
+            src="./logos/logo_padelmarket.svg"
+            alt="Padel Market"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
       return (
         <span style={{ color: 'var(--text-muted)', fontSize: '0.7rem', fontWeight: 700 }}>
           {storeName.split(' ').map(w => w[0]).join('').slice(0,2).toUpperCase()}
         </span>
       );
+    };
+
+    const getProductImageClassName = (product) => {
+      const classes = [];
+      const effectiveImageSource = product?.imageSource || product?.source;
+      if (effectiveImageSource) {
+        classes.push(`source-${effectiveImageSource}`);
+      }
+      if (product?.category) {
+        classes.push(`category-${product.category}`);
+      }
+      return classes.join(' ');
     };
 
     const toggleCompare = (productId) => {
@@ -3967,7 +4123,7 @@
                           <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
                         </button>
                         <div className="product-image" onClick={() => openModal(product)}>
-                          <img src={product.image} alt={product.name} />
+                          <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
                         </div>
                         <div className="product-info">
                           <div className="product-brand">{product.brand}</div>
@@ -4041,7 +4197,7 @@
                 {activeCategory !== 'all' && (
                 <aside className={`sidebar ${mobileFiltersOpen ? 'open' : ''}`}>
                   <div className="sidebar-header">
-                    <div className="sidebar-title">Filtros</div>
+                    <div className="sidebar-title"><i className="fas fa-sliders-h"></i><span>Filtros</span></div>
                     {hasFilters() && (
                       <button className="btn-clear" onClick={clear}>Limpar</button>
                     )}
@@ -4063,28 +4219,6 @@
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
                             {m}
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Lojas */}
-                  {options.lojas?.length > 0 && (
-                    <div className="filter-section">
-                      <div className="filter-header" onClick={() => setCollapsed({...collapsed, lojas: !collapsed.lojas})}>
-                        <div className="filter-label">Lojas</div>
-                        <i className={`fas fa-chevron-down filter-toggle ${collapsed.lojas ? 'collapsed' : ''}`}></i>
-                      </div>
-                      <div className={`filter-options ${collapsed.lojas ? 'collapsed' : ''}`}>
-                        {options.lojas.map(loja => (
-                          <div
-                            key={loja}
-                            className={`filter-option ${filters.lojas.includes(loja) ? 'active' : ''}`}
-                            onClick={() => toggle('lojas', loja)}
-                          >
-                            <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {loja}
                           </div>
                         ))}
                       </div>
@@ -4224,6 +4358,28 @@
                     </div>
                   </div>
                   )}
+
+                  {/* Lojas */}
+                  {options.lojas?.length > 0 && (
+                    <div className="filter-section">
+                      <div className="filter-header" onClick={() => setCollapsed({...collapsed, lojas: !collapsed.lojas})}>
+                        <div className="filter-label">Lojas</div>
+                        <i className={`fas fa-chevron-down filter-toggle ${collapsed.lojas ? 'collapsed' : ''}`}></i>
+                      </div>
+                      <div className={`filter-options ${collapsed.lojas ? 'collapsed' : ''}`}>
+                        {options.lojas.map(loja => (
+                          <div
+                            key={loja}
+                            className={`filter-option ${filters.lojas.includes(loja) ? 'active' : ''}`}
+                            onClick={() => toggle('lojas', loja)}
+                          >
+                            <div className="filter-checkbox"><i className="fas fa-check"></i></div>
+                            {loja}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                   {activeCategory !== 'all' && (
                   <div style={{marginTop: '1.2rem', paddingTop: '1rem', borderTop: '1px solid var(--border)', fontSize: '0.84rem', color: 'var(--text-muted)', fontWeight: 500}}>
                     {filteredProducts.length} {filteredProducts.length === 1 ? 'produto' : 'produtos'}
@@ -4249,7 +4405,7 @@
 
                   {filteredProducts.length > 0 ? (
                     <>
-                    <div className="products-grid">
+                    <div className="products-grid products-grid-catalog">
                       {pagedProducts.map((product) => (
                         <div key={product.id} className="product-card">
                           {product.badge && <span className="product-badge">{product.badge}</span>}
@@ -4264,7 +4420,7 @@
                             <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
                           </button>
                           <div className="product-image" onClick={() => openModal(product)}>
-                            <img src={product.image} alt={product.name} />
+                            <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
                           </div>
                           <div className="product-info">
                             <div className="product-brand">{product.brand}</div>
@@ -4608,7 +4764,7 @@
               <>
                 <div className="modal-header">
                   <div className="modal-product-image">
-                    <img src={selectedProduct.image} alt={selectedProduct.name} />
+                    <img src={selectedProduct.image} alt={selectedProduct.name} className={getProductImageClassName(selectedProduct)} />
                   </div>
                   <div className="modal-product-info">
                     <div className="modal-product-brand">{selectedProduct.brand}</div>
@@ -4647,10 +4803,18 @@
                 <div className="modal-body">
                   <h3 className="comparison-title">Compara preços em {selectedProduct.stores.length} {selectedProduct.stores.length === 1 ? 'loja' : 'lojas'}</h3>
                   <div className="store-list">
-                    {selectedProduct.stores
-                      .sort((a, b) => a.price - b.price)
+                    {[...selectedProduct.stores]
+                      .sort(compareStores)
                       .map((store, idx) => {
-                        const isBestPrice = store.price === getBestPrice(selectedProduct.stores);
+                        const lowestPrice = getLowestPrice(selectedProduct.stores);
+                        const bestStore = getBestStore(selectedProduct.stores);
+                        const lowestPriceCount = selectedProduct.stores.filter(item => item.price === lowestPrice).length;
+                        const isBestPrice = store.price === lowestPrice;
+                        const showBestPriceBadge =
+                          lowestPriceCount === 1 &&
+                          !!bestStore &&
+                          store.name === bestStore.name &&
+                          store.price === lowestPrice;
                         return (
                           <div key={idx} className={`store-item ${isBestPrice ? 'best-price' : ''}`}>
                             <div className="store-logo" style={{ background: '#fff', padding: '4px', display: 'flex', alignItems: 'center', justifyContent: 'center', width: '160px', minWidth: '160px', height: '80px', borderRadius: '8px', overflow: 'hidden' }}>
@@ -4664,7 +4828,7 @@
                             </div>
                             <div className="store-price">
                               {formatPrice(store.price)}
-                              {isBestPrice && <span className="best-price-badge">Melhor Preço</span>}
+                              {showBestPriceBadge && <span className="best-price-badge">Melhor Preço</span>}
                             </div>
                             <a href={store.url} className="store-action" target="_blank" rel="noopener">
                               Ir para loja

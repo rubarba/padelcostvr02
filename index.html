@@ -629,9 +629,6 @@
     /* ========== MOBILE FILTERS ========== */
     .mobile-filters-btn {
       display: none;
-      position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
       padding: 0.9rem 1.3rem;
       background: var(--accent);
       color: white;
@@ -641,7 +638,6 @@
       font-size: 0.85rem;
       box-shadow: 0 8px 24px rgba(0, 119, 204, 0.4);
       cursor: pointer;
-      z-index: 50;
       gap: 0.5rem;
       align-items: center;
       font-family: 'Manrope', sans-serif;
@@ -1298,9 +1294,9 @@
       gap: 0.55rem;
     }
 
-    .modal-save-btn {
-      padding: 0.62rem 0.9rem;
-      border-radius: 999px;
+      .modal-save-btn {
+        padding: 0.62rem 0.9rem;
+        border-radius: 999px;
       border: 1px solid var(--border);
       background: #fff;
       color: var(--text);
@@ -1321,11 +1317,15 @@
       background: var(--accent-soft);
     }
 
-    .modal-save-btn.active {
-      color: #dc2626;
-      border-color: rgba(220, 38, 38, 0.14);
-      background: #fff5f5;
-    }
+      .modal-save-btn.active {
+        color: #dc2626;
+        border-color: rgba(220, 38, 38, 0.14);
+        background: #fff5f5;
+      }
+
+      .modal-save-text-mobile {
+        display: none;
+      }
 
     .modal-secondary-actions {
       margin-top: 0.55rem;
@@ -2531,15 +2531,19 @@
 
     /* ========== RESPONSIVE ========== */
     @media (max-width: 768px) {
+      .container {
+        padding: 0 1rem;
+      }
+
       .header {
-        padding: 0.85rem 0 0.7rem;
+        padding: 0.72rem 0 0.62rem;
       }
 
       .header-top {
         position: relative;
         flex-direction: column;
         align-items: stretch;
-        gap: 0.8rem;
+        gap: 0.68rem;
         padding: 0;
       }
 
@@ -2548,14 +2552,14 @@
       }
 
       .logo svg {
-        height: 34px;
+        height: 32px;
       }
 
       .mobile-category-toggle {
         display: inline-flex;
         position: absolute;
-        top: -0.02rem;
-        right: 0;
+        top: 1.82rem;
+        right: 0.05rem;
         width: auto;
         height: auto;
         padding: 0.15rem;
@@ -2568,7 +2572,7 @@
       }
 
       .mobile-category-toggle i {
-        font-size: 1.38rem;
+        font-size: 1.32rem;
         line-height: 1;
       }
 
@@ -2581,12 +2585,16 @@
       }
 
       .header-tagline p {
-        font-size: 0.65rem;
-        line-height: 1.28;
+        font-size: 0.66rem;
+        line-height: 1.25;
       }
 
       .header-tagline p:first-child {
-        font-size: 0.7rem;
+        font-size: 0.72rem;
+      }
+
+      .header-tagline p:last-child {
+        display: none;
       }
 
       .search-wrapper {
@@ -2595,11 +2603,26 @@
       }
 
       .header-actions {
-        margin-left: auto;
+        position: absolute;
+        top: 0.22rem;
+        right: 0.14rem;
+        margin-left: 0;
+        width: auto;
+        justify-content: flex-end;
+        margin-top: 0;
+        z-index: 2;
       }
 
       .favorites-trigger {
-        padding: 0.72rem 0.95rem;
+        padding: 0.1rem 0.08rem;
+        font-size: 0.68rem;
+        gap: 0.22rem;
+        min-height: 0;
+        border: none;
+        background: transparent;
+        box-shadow: none;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
       }
 
       .mobile-category-menu {
@@ -2652,12 +2675,12 @@
       }
 
       .search-input {
-        font-size: 0.92rem;
-        padding: 0.8rem 1.15rem 0.8rem 2.45rem;
+        font-size: 0.88rem;
+        padding: 0.76rem 1rem 0.76rem 2.35rem;
       }
 
       .search-icon {
-        left: 1rem;
+        left: 0.92rem;
       }
 
       .categories-bar {
@@ -2710,11 +2733,19 @@
 
       .products-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 0.85rem;
+        gap: 0.78rem;
+      }
+
+      .section-title {
+        line-height: 1.08;
+      }
+
+      .products-grid.products-grid-catalog {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
 
       .product-card {
-        padding: 0.72rem;
+        padding: 0.68rem;
         border-radius: 14px;
       }
 
@@ -2733,9 +2764,10 @@
       }
 
       .product-image {
+        height: 168px;
         margin-bottom: 0.58rem;
         border-radius: 9px;
-        padding: 0;
+        padding: 0.35rem;
       }
 
       .product-brand {
@@ -2751,7 +2783,7 @@
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        min-height: 2em;
+        min-height: 2.05em;
       }
 
       .product-rating {
@@ -2788,6 +2820,23 @@
       .btn-small {
         padding: 0.56rem 0.45rem;
         font-size: 0.72rem;
+        min-width: 0;
+      }
+
+      .products-header {
+        justify-content: space-between;
+        align-items: center;
+        gap: 0.55rem;
+        margin-top: 0;
+        margin-bottom: 0.8rem;
+      }
+
+      .sort-select {
+        width: auto;
+        min-width: 0;
+        flex: 1;
+        font-size: 0.8rem;
+        padding: 0.68rem 0.9rem;
       }
 
       .footer-grid {
@@ -2810,21 +2859,22 @@
       }
 
       .modal {
-        margin: 0.6rem;
+        margin: 0.45rem;
+        border-radius: 18px;
       }
 
       .modal-header {
         flex-direction: row;
         align-items: flex-start;
-        gap: 0.7rem;
-        padding: 0.7rem 0.78rem;
+        gap: 0.65rem;
+        padding: 0.72rem 0.72rem;
       }
 
       .modal-product-image {
-        width: 112px;
-        min-width: 112px;
-        height: 112px;
-        padding: 0.28rem;
+        width: 104px;
+        min-width: 104px;
+        height: 104px;
+        padding: 0.35rem;
       }
 
       .modal-product-info {
@@ -2840,26 +2890,39 @@
       .modal-product-title {
         font-size: 0.92rem;
         line-height: 1.16;
+        padding-right: 2.6rem;
       }
 
       .modal-close {
         position: absolute;
-        top: 0.5rem;
-        right: 0.5rem;
+        top: 0.42rem;
+        right: 0.24rem;
         padding: 0.2rem;
         font-size: 1.05rem;
       }
 
       .modal-header-actions {
         position: absolute;
-        left: 0.72rem;
-        bottom: 0.72rem;
+        top: 0.5rem;
+        right: 2.2rem;
+        left: auto;
+        bottom: auto;
         margin-left: 0;
+        gap: 0.3rem;
       }
 
       .modal-save-btn {
-        padding: 0.52rem 0.7rem;
-        font-size: 0.72rem;
+        padding: 0.42rem 0.58rem;
+        font-size: 0.68rem;
+        gap: 0.3rem;
+      }
+
+      .modal-save-text-desktop {
+        display: none;
+      }
+
+      .modal-save-text-mobile {
+        display: inline;
       }
 
       .modal-specs {
@@ -2886,17 +2949,23 @@
 
       .store-item {
         display: grid;
-        grid-template-columns: 44px minmax(0, 1fr) auto auto;
+        grid-template-columns: 56px minmax(0, 1fr) auto;
+        grid-template-areas:
+          "logo info price"
+          "action action action";
         align-items: center;
         text-align: left;
-        gap: 0.35rem;
-        padding: 0.42rem 0.48rem;
+        gap: 0.42rem 0.5rem;
+        padding: 0.48rem;
         border-radius: 9px;
       }
 
       .store-logo {
-        width: 44px;
-        height: 30px;
+        grid-area: logo;
+        width: 56px !important;
+        min-width: 56px !important;
+        height: 40px !important;
+        padding: 4px !important;
         font-size: 0.68rem;
         border-radius: 6px;
       }
@@ -2917,8 +2986,11 @@
       }
 
       .store-price {
+        grid-area: price;
         display: flex;
         align-items: center;
+        justify-content: flex-end;
+        flex-wrap: wrap;
         gap: 0.28rem;
         font-size: 0.84rem;
         margin-right: 0;
@@ -2926,8 +2998,11 @@
       }
 
       .store-action {
-        padding: 0.32rem 0.7rem;
-        font-size: 0.66rem;
+        grid-area: action;
+        width: 100%;
+        text-align: center;
+        padding: 0.5rem 0.75rem;
+        font-size: 0.68rem;
         white-space: nowrap;
       }
 
@@ -2937,6 +3012,7 @@
       }
 
       .store-info {
+        grid-area: info;
         min-width: 0;
       }
 
@@ -3055,8 +3131,7 @@
       }
 
       .brands-strip {
-        margin-top: 2.1rem;
-        margin-bottom: 1rem;
+        display: none;
       }
 
       .brands-slide {
@@ -3113,6 +3188,8 @@
 
       .favorites-panel {
         border-radius: 18px;
+        width: calc(100% - 1rem);
+        max-height: calc(100vh - 1rem);
       }
 
       .favorite-item {
@@ -3127,6 +3204,7 @@
       .favorite-item-actions {
         grid-column: 1 / -1;
         flex-direction: row;
+        flex-wrap: wrap;
         justify-content: flex-start;
         align-items: center;
       }
@@ -3221,6 +3299,85 @@
 
       .mobile-filters-btn {
         display: flex;
+        position: static;
+        bottom: auto;
+        right: auto;
+        padding: 0.68rem 0.88rem;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        box-shadow: none;
+        white-space: nowrap;
+        background: #fff;
+        color: var(--text);
+        border: 1px solid var(--border);
+        font-weight: 700;
+        min-width: fit-content;
+      }
+
+      .mobile-filters-btn i {
+        color: var(--text-muted);
+      }
+    }
+
+    @media (max-width: 560px) {
+      .favorites-trigger > span:first-of-type {
+        display: none;
+      }
+
+      .favorites-trigger {
+        padding: 0.08rem 0.12rem;
+      }
+
+      .favorites-trigger i {
+        font-size: 0.88rem;
+      }
+
+      .favorites-trigger-count {
+        min-width: 18px;
+        height: 18px;
+        padding: 0 0.24rem;
+        font-size: 0.64rem;
+        background: rgba(255, 255, 255, 0.2);
+        color: #ffffff;
+      }
+
+      .mobile-category-menu-inner {
+        width: min(100%, 100%);
+      }
+
+      .mobile-category-item {
+        width: 100%;
+      }
+
+      .products-grid {
+        gap: 0.72rem;
+      }
+
+      .product-card {
+        padding: 0.62rem;
+      }
+
+      .product-image {
+        height: 156px;
+      }
+
+      .product-actions {
+        gap: 0.38rem;
+      }
+
+      .btn-small {
+        font-size: 0.69rem;
+        padding: 0.54rem 0.4rem;
+      }
+
+      .modal-product-image {
+        width: 96px;
+        min-width: 96px;
+        height: 96px;
+      }
+
+      .modal-specs {
+        grid-template-columns: 1fr 1fr;
       }
     }
 
@@ -4055,13 +4212,6 @@
             />
             )}
 
-            {/* MOBILE FILTERS BUTTON */}
-            {activeCategory !== 'all' && (
-            <button className="mobile-filters-btn" onClick={() => setMobileFiltersOpen(true)}>
-              <i className="fas fa-sliders-h"></i> Filtros
-            </button>
-            )}
-
             {/* BANNER SLIDER */}
             {activeCategory === 'all' && (
             <div className="container">
@@ -4104,9 +4254,7 @@
                   <div className="section-header">
                     <div>
                       <h2 className="section-title">Novidades & Lançamentos</h2>
-                      <div className="section-subtitle">Seleção recente em raquetes e sapatilhas</div>
                     </div>
-                    <a href="#" className="view-all">Ver todas →</a>
                   </div>
                   <div className="products-grid">
                     {noveltyProducts.map(product => (
@@ -4393,6 +4541,9 @@
                 <div className="products-area" style={{ marginTop: '-0.9rem' }}>
                   {activeCategory !== 'all' && (
                   <div className="products-header">
+                    <button className="mobile-filters-btn" onClick={() => setMobileFiltersOpen(true)}>
+                      <i className="fas fa-sliders-h"></i> Filtros
+                    </button>
                     <select className="sort-select" value={sortBy} onChange={(e) => { setSortBy(e.target.value); setCurrentPage(1); }}>
                       <option value="relevancia">Relevância</option>
                       <option value="preco-asc">Preço: menor primeiro</option>
@@ -4794,7 +4945,10 @@
                       onClick={() => toggleFavorite(selectedProduct.id)}
                     >
                       <i className={`${isFavorite(selectedProduct.id) ? 'fas' : 'far'} fa-heart`}></i>
-                      {isFavorite(selectedProduct.id) ? 'Guardado' : 'Guardar produto'}
+                      <span className="modal-save-text-desktop">
+                        {isFavorite(selectedProduct.id) ? 'Guardado' : 'Guardar produto'}
+                      </span>
+                      <span className="modal-save-text-mobile" aria-hidden="true"></span>
                     </button>
                     <button className="modal-close" onClick={closeModal}>✕</button>
                   </div>

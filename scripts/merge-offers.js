@@ -19,6 +19,7 @@ const DATA_DIR = path.resolve(__dirname, '../data');
 const MAIN_FILE = path.join(DATA_DIR, 'products-data.js');
 const ADIDAS_FILE = path.join(DATA_DIR, 'adidas-padel-data.js');
 const PADEL_MARKET_FILE = path.join(DATA_DIR, 'padel-market-data.js');
+const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
   ['raquetes::raquete de padel adidas metalbone 2026 ale galan', 'Pala de pádel adidas metalbone 2026 ale galán preto/vermelho'],
@@ -98,6 +99,7 @@ const STORE_PRIORITY = {
   'Padel Market': 0,
   'Adidas Padel': 1,
   'Atmosfera Sport': 2,
+  'Padel Proshop PT': 3,
 };
 
 function compareStores(a, b) {
@@ -112,10 +114,29 @@ function compareStores(a, b) {
 }
 
 function addStoreToProduct(product, offer) {
-  const existing = product.stores.find(store => store.name === offer.stores[0].name);
-  if (existing) return false;
+  const incomingStore = offer.stores[0];
+  const existing = product.stores.find(store => store.name === incomingStore.name);
 
-  product.stores.push(offer.stores[0]);
+  if (existing) {
+    const changed =
+      existing.price !== incomingStore.price ||
+      existing.stock !== incomingStore.stock ||
+      existing.url !== incomingStore.url ||
+      existing.deliveryCost !== incomingStore.deliveryCost;
+
+    existing.price = incomingStore.price;
+    existing.stock = incomingStore.stock;
+    existing.url = incomingStore.url;
+    if (incomingStore.deliveryCost !== undefined) {
+      existing.deliveryCost = incomingStore.deliveryCost;
+    }
+
+    product.stores.sort(compareStores);
+    product.price = product.stores[0].price;
+    return changed;
+  }
+
+  product.stores.push(incomingStore);
   product.stores.sort(compareStores);
   product.price = product.stores[0].price;
   return true;
@@ -128,7 +149,7 @@ function mergeProductData(product, offer) {
   }
 
   const preferBetterAffiliateImage =
-    (offer.source === 'padel-market' || offer.source === 'adidas-padel') &&
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop') &&
     offer.image &&
     (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
 
@@ -318,6 +339,9 @@ function main() {
   const padelMarket = fs.existsSync(PADEL_MARKET_FILE)
     ? extractWindowData(PADEL_MARKET_FILE, 'PADELCOST_PADEL_MARKET_PRODUCTS')
     : [];
+  const padelProshop = fs.existsSync(PADEL_PROSHOP_FILE)
+    ? extractWindowData(PADEL_PROSHOP_FILE, 'PADELCOST_PADEL_PROSHOP_PRODUCTS')
+    : [];
   const indexes = buildIndex(products);
 
   const counters = {
@@ -348,6 +372,18 @@ function main() {
     processOffers({
       label: 'Padel Market',
       offers: padelMarket,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (padelProshop.length > 0) {
+    processOffers({
+      label: 'Padel Proshop PT',
+      offers: padelProshop,
       products,
       indexes,
       allowSignatureMatch: false,

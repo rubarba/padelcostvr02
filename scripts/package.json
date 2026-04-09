@@ -6,6 +6,7 @@
     "generate": "node generate-products.js",
     "generate:adidas": "node generate-adidas-padel.js",
     "generate:padelmarket": "node generate-padel-market.js",
+    "generate:padelproshop": "node generate-padel-proshop.js",
     "merge:offers": "node merge-offers.js"
   },
   "dependencies": {

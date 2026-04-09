@@ -3527,7 +3527,170 @@
 
   const truncateText = (value, max = 72) => value && value.length > max ? value.slice(0, max - 1).trim() + '…' : value;
 
-  const featuredBannerProduct = productsData
+  const normalizeCatalogText = (value) => (value || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const getCatalogSpecsScore = (product) => {
+    if (!product?.specs) return 0;
+    return Object.values(product.specs).filter(value => {
+      if (Array.isArray(value)) return value.length > 0;
+      return value !== null && value !== undefined && value !== '';
+    }).length;
+  };
+
+  const getCatalogImageQualityScore = (product) => {
+    const effectiveSource = product?.imageSource || product?.source || '';
+    if (effectiveSource === 'padel-market') return 3;
+    if (effectiveSource === 'adidas-padel') return 2.4;
+    if (effectiveSource === 'padel-proshop') return 2.2;
+    if (effectiveSource === 'atmosfera-sport') return 1.4;
+    return 1;
+  };
+
+  const extractShoeSize = (product) => {
+    const existingSizes = product?.specs?.tamanhos;
+    if (Array.isArray(existingSizes) && existingSizes.length > 0) {
+      return existingSizes
+        .map(value => Number(String(value).replace(',', '.')))
+        .filter(value => Number.isFinite(value));
+    }
+
+    const candidates = [
+      product?.mpn,
+      product?.sourceProductId,
+      product?.name
+    ].filter(Boolean);
+
+    for (const candidate of candidates) {
+      const text = String(candidate).replace(',', '.');
+      const matches = text.match(/(?:^|[_\\-\\s])(3[6-9](?:\\.5)?|4[0-6](?:\\.5)?)(?=$|[_\\-\\s])/g);
+      if (matches && matches.length > 0) {
+        const sizes = matches
+          .map(match => Number(match.replace(/[^0-9.]/g, '')))
+          .filter(value => Number.isFinite(value));
+        if (sizes.length > 0) return sizes;
+      }
+    }
+
+    return [];
+  };
+
+  const getShoeGroupKey = (product) => {
+    const brand = normalizeCatalogText(product?.brand);
+    const name = normalizeCatalogText(product?.name)
+      .replace(/\s*\((?:shoes|shoe)\)\s*$/i, '')
+      .replace(/\b\d{2}(?:\.\d)?\b(?=\s*(?:eu|uk|us)?$)/g, '')
+      .trim();
+    return `${brand}::${name}`;
+  };
+
+  const mergeVariantStores = (variants) => {
+    const byStore = new Map();
+
+    variants.forEach((variant) => {
+      (variant.stores || []).forEach((store) => {
+        const current = byStore.get(store.name);
+        if (
+          !current ||
+          store.price < current.price ||
+          (store.price === current.price && store.inStock && !current.inStock)
+        ) {
+          byStore.set(store.name, { ...store });
+        }
+      });
+    });
+
+    return Array.from(byStore.values()).sort(compareStores);
+  };
+
+  const chooseRepresentativeShoe = (variants) => {
+    return [...variants].sort((a, b) => {
+      const storesDiff = (b.stores?.length || 0) - (a.stores?.length || 0);
+      if (storesDiff !== 0) return storesDiff;
+
+      const specsDiff = getCatalogSpecsScore(b) - getCatalogSpecsScore(a);
+      if (specsDiff !== 0) return specsDiff;
+
+      const imageDiff = getCatalogImageQualityScore(b) - getCatalogImageQualityScore(a);
+      if (imageDiff !== 0) return imageDiff;
+
+      return (a.price || Infinity) - (b.price || Infinity);
+    })[0];
+  };
+
+  const aggregateCatalogProducts = (products) => {
+    const groupedShoes = new Map();
+    const result = [];
+
+    products.forEach((product) => {
+      if (product.category !== 'sapatilhas') {
+        result.push(product);
+        return;
+      }
+
+      const key = getShoeGroupKey(product);
+      if (!groupedShoes.has(key)) groupedShoes.set(key, []);
+      groupedShoes.get(key).push(product);
+    });
+
+    groupedShoes.forEach((variants, key) => {
+      if (variants.length === 1) {
+        const single = variants[0];
+        const sizes = extractShoeSize(single);
+        result.push({
+          ...single,
+          specs: {
+            ...single.specs,
+            tamanhos: sizes
+          }
+        });
+        return;
+      }
+
+      const representative = chooseRepresentativeShoe(variants);
+      const stores = mergeVariantStores(variants);
+      const sizes = Array.from(new Set(variants.flatMap(extractShoeSize)))
+        .filter(value => Number.isFinite(value))
+        .sort((a, b) => a - b);
+      const lowestPrice = stores.length > 0
+        ? Math.min(...stores.map(store => store.price))
+        : representative.price;
+      const oldPrices = variants
+        .map(variant => variant.oldPrice)
+        .filter(value => Number.isFinite(value) && value > lowestPrice);
+
+      result.push({
+        ...representative,
+        id: `shoe-group:${key}`,
+        variantIds: variants.map(variant => variant.id),
+        price: lowestPrice,
+        oldPrice: oldPrices.length > 0 ? Math.max(...oldPrices) : representative.oldPrice,
+        stores,
+        specs: {
+          ...representative.specs,
+          tamanhos: sizes
+        }
+      });
+    });
+
+    return result;
+  };
+
+  const catalogProductsData = aggregateCatalogProducts(productsData);
+  const catalogProductLookup = new Map();
+
+  catalogProductsData.forEach((product) => {
+    catalogProductLookup.set(product.id, product);
+    (product.variantIds || []).forEach((variantId) => {
+      catalogProductLookup.set(variantId, product);
+    });
+  });
+
+  const featuredBannerProduct = catalogProductsData
     .filter((product) => ['raquetes', 'sapatilhas', 'sacos'].includes(product.category) && (product.stores || []).length > 1)
     .map((product) => {
       const validStores = (product.stores || []).filter((store) => typeof store.price === 'number');
@@ -3556,7 +3719,7 @@
 
   const noveltyProducts = (() => {
     const pickTop = (category, limit) =>
-      productsData
+      catalogProductsData
         .filter((product) => product.category === category)
         .sort((a, b) => launchScore(b) - launchScore(a) || a.price - b.price)
         .slice(0, limit);
@@ -3734,8 +3897,8 @@
     // Get filter options based on active category
     const getOptions = () => {
       const catProducts = activeCategory === 'all'
-        ? productsData
-        : productsData.filter(p => p.category === activeCategory);
+        ? catalogProductsData
+        : catalogProductsData.filter(p => p.category === activeCategory);
 
       const opts = {
         marcas: [...new Set(catProducts.map(p => p.brand))].sort(),
@@ -3750,7 +3913,11 @@
 
       if (activeCategory === 'sapatilhas') {
         opts.genero = ['Homem', 'Mulher', 'Unissexo'];
-        opts.tamanho = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46];
+        opts.tamanho = [...new Set(
+          catProducts.flatMap(product => product.specs?.tamanhos || [])
+        )]
+          .filter(value => Number.isFinite(value))
+          .sort((a, b) => a - b);
         opts.precoRange = { min: 20, max: 300 };
       }
 
@@ -3777,7 +3944,7 @@
 
     // Filter products
     const filteredProducts = useMemo(() => {
-      return productsData.filter(product => {
+      return catalogProductsData.filter(product => {
         if (activeCategory !== 'all' && product.category !== activeCategory) return false;
         if (searchQuery && !product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
             !product.brand.toLowerCase().includes(searchQuery.toLowerCase())) return false;
@@ -3931,13 +4098,26 @@
 
     // Get products for comparison
     const compareProducts = useMemo(() => {
-      return productsData.filter(p => compareIds.includes(p.id)).slice(0, 3);
+      const seen = new Set();
+      return compareIds
+        .map(id => catalogProductLookup.get(id))
+        .filter(product => {
+          if (!product || seen.has(product.id)) return false;
+          seen.add(product.id);
+          return true;
+        })
+        .slice(0, 3);
     }, [compareIds]);
 
     const favoriteProducts = useMemo(() => {
+      const seen = new Set();
       return favoriteIds
-        .map((id) => productsData.find((product) => product.id === id))
-        .filter(Boolean);
+        .map((id) => catalogProductLookup.get(id))
+        .filter((product) => {
+          if (!product || seen.has(product.id)) return false;
+          seen.add(product.id);
+          return true;
+        });
     }, [favoriteIds]);
 
     const renderStars = (rating) => {
@@ -3983,14 +4163,22 @@
       return getBestStore(stores)?.price ?? getLowestPrice(stores);
     };
 
-    const isFavorite = (productId) => favoriteIds.includes(productId);
+    const getProductIdentitySet = (product) => [product.id, ...(product.variantIds || [])];
 
-    const toggleFavorite = (productId) => {
-      setFavoriteIds((prev) =>
-        prev.includes(productId)
-          ? prev.filter((id) => id !== productId)
-          : [productId, ...prev]
-      );
+    const isFavorite = (product) => {
+      const identities = getProductIdentitySet(product);
+      return identities.some((id) => favoriteIds.includes(id));
+    };
+
+    const toggleFavorite = (product) => {
+      const identities = getProductIdentitySet(product);
+      setFavoriteIds((prev) => {
+        const alreadySaved = identities.some((id) => prev.includes(id));
+        if (alreadySaved) {
+          return prev.filter((id) => !identities.includes(id));
+        }
+        return [product.id, ...prev.filter((id) => !identities.includes(id))];
+      });
     };
 
     const getProductShareUrl = (product) => {
@@ -4057,6 +4245,16 @@
         );
       }
 
+      if (storeName === 'Padel Proshop PT') {
+        return (
+          <img
+            src="./logos/padel-proshop-pt-logo.png"
+            alt="Padel Proshop PT"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
       return (
         <span style={{ color: 'var(--text-muted)', fontSize: '0.7rem', fontWeight: 700 }}>
           {storeName.split(' ').map(w => w[0]).join('').slice(0,2).toUpperCase()}
@@ -4076,18 +4274,30 @@
       return classes.join(' ');
     };
 
-    const toggleCompare = (productId) => {
+    const toggleCompare = (product) => {
+      const identities = getProductIdentitySet(product);
       setCompareIds(prev => {
-        if (prev.includes(productId)) {
-          return prev.filter(id => id !== productId);
-        } else if (prev.length < 3) {
-          return [...prev, productId];
+        const alreadySelected = identities.some((id) => prev.includes(id));
+        if (alreadySelected) {
+          return prev.filter(id => !identities.includes(id));
+        }
+
+        const selectedProducts = prev
+          .map(id => catalogProductLookup.get(id))
+          .filter(Boolean)
+          .reduce((acc, current) => {
+            if (!acc.some(product => product.id === current.id)) acc.push(current);
+            return acc;
+          }, []);
+
+        if (selectedProducts.length < 3) {
+          return [...prev, product.id];
         }
         return prev;
       });
     };
 
-    const isInCompare = (productId) => compareIds.includes(productId);
+    const isInCompare = (product) => getProductIdentitySet(product).some((id) => compareIds.includes(id));
 
     return (
       <div>
@@ -4120,7 +4330,7 @@
                 </div>
                 {showSuggestions && searchQuery.length >= 1 && (() => {
                   const q = searchQuery.toLowerCase();
-                  const matches = productsData.filter(p =>
+                  const matches = catalogProductsData.filter(p =>
                     p.name.toLowerCase().includes(q) || p.brand.toLowerCase().includes(q)
                   ).slice(0, 6);
                   return matches.length > 0 ? (
@@ -4261,14 +4471,14 @@
                       <div key={product.id} className="product-card">
                         {product.badge && <span className="product-badge">{product.badge}</span>}
                         <button
-                          className={`product-favorite-btn ${isFavorite(product.id) ? 'active' : ''}`}
-                          aria-label={isFavorite(product.id) ? 'Remover dos favoritos' : 'Guardar produto'}
+                          className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
+                          aria-label={isFavorite(product) ? 'Remover dos favoritos' : 'Guardar produto'}
                           onClick={(e) => {
                             e.stopPropagation();
-                            toggleFavorite(product.id);
+                            toggleFavorite(product);
                           }}
                         >
-                          <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
+                          <i className={`${isFavorite(product) ? 'fas' : 'far'} fa-heart`}></i>
                         </button>
                         <div className="product-image" onClick={() => openModal(product)}>
                           <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
@@ -4281,9 +4491,9 @@
                             {product.oldPrice && <div className="original-price">{formatPrice(product.oldPrice)}</div>}
                           </div>
                           <div className="product-actions">
-                            <button className={`btn-small btn-compare ${isInCompare(product.id) ? 'active' : ''}`} onClick={() => toggleCompare(product.id)}>
-                              <i className={isInCompare(product.id) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
-                              {isInCompare(product.id) ? ' Na comparação' : ' Comparar'}
+                            <button className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`} onClick={() => toggleCompare(product)}>
+                              <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
+                              {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                             </button>
                             <button className="btn-small btn-buy" onClick={() => openModal(product)}>Ver {product.stores.length} lojas</button>
                           </div>
@@ -4561,14 +4771,14 @@
                         <div key={product.id} className="product-card">
                           {product.badge && <span className="product-badge">{product.badge}</span>}
                           <button
-                            className={`product-favorite-btn ${isFavorite(product.id) ? 'active' : ''}`}
-                            aria-label={isFavorite(product.id) ? 'Remover dos favoritos' : 'Guardar produto'}
+                            className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
+                            aria-label={isFavorite(product) ? 'Remover dos favoritos' : 'Guardar produto'}
                             onClick={(e) => {
                               e.stopPropagation();
-                              toggleFavorite(product.id);
+                              toggleFavorite(product);
                             }}
                           >
-                            <i className={`${isFavorite(product.id) ? 'fas' : 'far'} fa-heart`}></i>
+                            <i className={`${isFavorite(product) ? 'fas' : 'far'} fa-heart`}></i>
                           </button>
                           <div className="product-image" onClick={() => openModal(product)}>
                             <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
@@ -4582,11 +4792,11 @@
                             </div>
                             <div className="product-actions">
                               <button
-                                className={`btn-small btn-compare ${isInCompare(product.id) ? 'active' : ''}`}
-                                onClick={() => toggleCompare(product.id)}
+                                className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`}
+                                onClick={() => toggleCompare(product)}
                               >
-                                <i className={isInCompare(product.id) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
-                                {isInCompare(product.id) ? ' Na comparação' : ' Comparar'}
+                                <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
+                                {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                               </button>
                               <button className="btn-small btn-buy" onClick={() => openModal(product)}>
                                 Ver {product.stores.length} lojas
@@ -4829,7 +5039,7 @@
                     aria-label={`Remover ${product.name} da comparação`}
                     onClick={(e) => {
                       e.stopPropagation();
-                      toggleCompare(product.id);
+                      toggleCompare(product);
                     }}
                   >
                     <i className="fas fa-times"></i>
@@ -4895,7 +5105,7 @@
                         </button>
                         <button
                           className="favorite-item-remove"
-                          onClick={() => toggleFavorite(product.id)}
+                          onClick={() => toggleFavorite(product)}
                         >
                           Remover
                         </button>
@@ -4941,12 +5151,12 @@
                   </div>
                   <div className="modal-header-actions">
                     <button
-                      className={`modal-save-btn ${isFavorite(selectedProduct.id) ? 'active' : ''}`}
-                      onClick={() => toggleFavorite(selectedProduct.id)}
+                      className={`modal-save-btn ${isFavorite(selectedProduct) ? 'active' : ''}`}
+                      onClick={() => toggleFavorite(selectedProduct)}
                     >
-                      <i className={`${isFavorite(selectedProduct.id) ? 'fas' : 'far'} fa-heart`}></i>
+                      <i className={`${isFavorite(selectedProduct) ? 'fas' : 'far'} fa-heart`}></i>
                       <span className="modal-save-text-desktop">
-                        {isFavorite(selectedProduct.id) ? 'Guardado' : 'Guardar produto'}
+                        {isFavorite(selectedProduct) ? 'Guardado' : 'Guardar produto'}
                       </span>
                       <span className="modal-save-text-mobile" aria-hidden="true"></span>
                     </button>

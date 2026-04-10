@@ -20,6 +20,7 @@ const MAIN_FILE = path.join(DATA_DIR, 'products-data.js');
 const ADIDAS_FILE = path.join(DATA_DIR, 'adidas-padel-data.js');
 const PADEL_MARKET_FILE = path.join(DATA_DIR, 'padel-market-data.js');
 const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
+const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
   ['raquetes::raquete de padel adidas metalbone 2026 ale galan', 'Pala de pádel adidas metalbone 2026 ale galán preto/vermelho'],
@@ -100,6 +101,7 @@ const STORE_PRIORITY = {
   'Adidas Padel': 1,
   'Atmosfera Sport': 2,
   'Padel Proshop PT': 3,
+  'Forum Sport ES': 4,
 };
 
 function compareStores(a, b) {
@@ -149,7 +151,7 @@ function mergeProductData(product, offer) {
   }
 
   const preferBetterAffiliateImage =
-    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop') &&
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es') &&
     offer.image &&
     (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
 
@@ -342,6 +344,9 @@ function main() {
   const padelProshop = fs.existsSync(PADEL_PROSHOP_FILE)
     ? extractWindowData(PADEL_PROSHOP_FILE, 'PADELCOST_PADEL_PROSHOP_PRODUCTS')
     : [];
+  const forumSport = fs.existsSync(FORUM_SPORT_FILE)
+    ? extractWindowData(FORUM_SPORT_FILE, 'PADELCOST_FORUM_SPORT_PRODUCTS')
+    : [];
   const indexes = buildIndex(products);
 
   const counters = {
@@ -384,6 +389,18 @@ function main() {
     processOffers({
       label: 'Padel Proshop PT',
       offers: padelProshop,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (forumSport.length > 0) {
+    processOffers({
+      label: 'Forum Sport ES',
+      offers: forumSport,
       products,
       indexes,
       allowSignatureMatch: false,

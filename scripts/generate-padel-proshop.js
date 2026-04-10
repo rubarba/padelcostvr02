@@ -258,6 +258,13 @@ function mapCategory(row) {
   ].filter(Boolean).join(' | '));
 
   if (
+    combined.includes('overgrip') ||
+    combined.includes('overgrips') ||
+    combined.includes('grip ') ||
+    combined.startsWith('grip ') ||
+    combined.includes('hesacore') ||
+    combined.includes('protector') ||
+    combined.includes('antivibr') ||
     combined.includes('meia') ||
     combined.includes('meias') ||
     combined.includes('sock') ||
@@ -270,6 +277,16 @@ function mapCategory(row) {
     combined.includes('fita') ||
     combined.includes('tape')
   ) return 'acessorios';
+
+  if (
+    (combined.includes('tenis') || combined.includes('tennis')) &&
+    !combined.includes('padel') &&
+    (combined.includes('raquete') ||
+      combined.includes('raquetas') ||
+      combined.includes('racket') ||
+      combined.includes('pala') ||
+      combined.includes('palas'))
+  ) return null;
 
   if (
     combined.includes('paletero') ||

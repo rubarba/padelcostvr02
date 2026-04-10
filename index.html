@@ -842,6 +842,42 @@
       border-top: 1px solid rgba(19, 32, 44, 0.08);
     }
 
+    .partner-banner-section {
+      margin-top: 1.15rem;
+      margin-bottom: 0.35rem;
+      padding: 0.35rem 0 1.15rem;
+    }
+
+    .partner-banner-shell {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.65rem;
+      padding: 0;
+    }
+
+    .partner-banner-label {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      font-weight: 800;
+    }
+
+    .partner-banner-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      max-width: 100%;
+    }
+
+    .partner-banner-link img {
+      width: 100%;
+      max-width: 728px;
+      height: auto;
+      display: block;
+    }
+
     .blog-card {
       background: var(--surface);
       border-radius: 16px;
@@ -2736,6 +2772,10 @@
         gap: 0.78rem;
       }
 
+      .partner-banner-section {
+        display: none;
+      }
+
       .section-title {
         line-height: 1.08;
       }
@@ -3510,6 +3550,8 @@
     'Padel Market': 0,
     'Adidas Padel': 1,
     'Atmosfera Sport': 2,
+    'Padel Proshop PT': 3,
+    'Forum Sport ES': 4,
   };
 
   const compareStores = (a, b) => {
@@ -3894,11 +3936,61 @@
       });
     }, [activeCategory]);
 
+    const isCategoryIntruder = (product, category) => {
+      const text = [
+        product?.name,
+        product?.brand,
+        product?.sourceCategory,
+        product?.description
+      ]
+        .filter(Boolean)
+        .join(' | ')
+        .toLowerCase();
+
+      if (category === 'raquetes') {
+        if (
+          text.includes('overgrip') ||
+          text.includes('overgrips') ||
+          text.includes(' grip ') ||
+          text.startsWith('grip ') ||
+          text.includes('hesacore') ||
+          text.includes('antivibr') ||
+          text.includes('protector')
+        ) {
+          return true;
+        }
+
+        if (text.includes('fronton') || text.includes('frontón')) {
+          return true;
+        }
+
+        if (
+          text.includes('cuero') &&
+          !text.includes('padel')
+        ) {
+          return true;
+        }
+
+        if (
+          (text.includes('tenis') || text.includes('tennis')) &&
+          !text.includes('padel') &&
+          (text.includes('raqueta') ||
+            text.includes('raquete') ||
+            text.includes('racket') ||
+            text.includes('pala'))
+        ) {
+          return true;
+        }
+      }
+
+      return false;
+    };
+
     // Get filter options based on active category
     const getOptions = () => {
       const catProducts = activeCategory === 'all'
         ? catalogProductsData
-        : catalogProductsData.filter(p => p.category === activeCategory);
+        : catalogProductsData.filter(p => p.category === activeCategory && !isCategoryIntruder(p, activeCategory));
 
       const opts = {
         marcas: [...new Set(catProducts.map(p => p.brand))].sort(),
@@ -3946,6 +4038,7 @@
     const filteredProducts = useMemo(() => {
       return catalogProductsData.filter(product => {
         if (activeCategory !== 'all' && product.category !== activeCategory) return false;
+        if (activeCategory !== 'all' && isCategoryIntruder(product, activeCategory)) return false;
         if (searchQuery && !product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
             !product.brand.toLowerCase().includes(searchQuery.toLowerCase())) return false;
         if (filters.marcas.length > 0 && !filters.marcas.includes(product.brand)) return false;
@@ -4255,6 +4348,16 @@
         );
       }
 
+      if (storeName === 'Forum Sport ES') {
+        return (
+          <img
+            src="./logos/logo-forum-sport-es.webp"
+            alt="Forum Sport ES"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
       return (
         <span style={{ color: 'var(--text-muted)', fontSize: '0.7rem', fontWeight: 700 }}>
           {storeName.split(' ').map(w => w[0]).join('').slice(0,2).toUpperCase()}
@@ -4500,6 +4603,26 @@
                         </div>
                       </div>
                     ))}
+                  </div>
+                </div>
+
+                <div className="partner-banner-section">
+                  <div className="partner-banner-shell">
+                    <div className="partner-banner-label">PUB</div>
+                    <a
+                      className="partner-banner-link"
+                      href="https://afiliates.allforpadel.com/c?c=37613&m=2535100&a=507738&r=&u="
+                      target="_blank"
+                      rel="sponsored nofollow noopener noreferrer"
+                      aria-label="Banner patrocinado Adidas Padel"
+                    >
+                      <img
+                        src="https://afiliates.allforpadel.com/i?c=37613&m=2535100&a=507738&r=&t=html"
+                        width="728"
+                        height="90"
+                        alt="Publicidade Adidas Padel"
+                      />
+                    </a>
                   </div>
                 </div>
 
@@ -4831,6 +4954,27 @@
                         >
                           Seguinte ›
                         </button>
+                      </div>
+                    )}
+                    {activeCategory !== 'all' && (
+                      <div className="partner-banner-section">
+                        <div className="partner-banner-shell">
+                          <div className="partner-banner-label">PUB</div>
+                          <a
+                            className="partner-banner-link"
+                            href="https://afiliates.allforpadel.com/c?c=37613&m=2535100&a=507738&r=&u="
+                            target="_blank"
+                            rel="sponsored nofollow noopener noreferrer"
+                            aria-label="Banner patrocinado Adidas Padel"
+                          >
+                            <img
+                              src="https://afiliates.allforpadel.com/i?c=37613&m=2535100&a=507738&r=&t=html"
+                              width="728"
+                              height="90"
+                              alt="Publicidade Adidas Padel"
+                            />
+                          </a>
+                        </div>
                       </div>
                     )}
                     </>
@@ -5219,6 +5363,7 @@
           </div>
         </div>
 
+        {activeCategory === 'all' && (
         <div className="container brands-strip">
           <div className="brands-slider">
             <div className="brands-viewport">
@@ -5249,6 +5394,7 @@
             </div>
           </div>
         </div>
+        )}
 
         {/* FOOTER */}
         <footer className="footer">

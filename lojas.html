@@ -88,8 +88,7 @@
     }
     .stores-overview {
       display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 1rem;
+      grid-template-columns: 1fr;
       margin-bottom: 1.5rem;
     }
     .overview-card {
@@ -98,6 +97,14 @@
       border-radius: 18px;
       padding: 1rem 1.1rem;
       box-shadow: 0 12px 30px rgba(15,26,38,0.04);
+    }
+    .overview-card--combined {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+    }
+    .overview-stat {
+      min-width: 0;
     }
     .overview-label {
       font-size: 0.72rem;
@@ -132,9 +139,14 @@
       align-items: center;
       gap: 0.9rem;
     }
+    .store-copy {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
     .store-logo {
-      width: 74px;
-      height: 74px;
+      width: 132px;
+      height: 132px;
       border-radius: 18px;
       border: 1px solid var(--border);
       background: #f8fbff;
@@ -145,8 +157,8 @@
       flex-shrink: 0;
     }
     .store-logo img {
-      max-width: 72%;
-      max-height: 72%;
+      max-width: 96%;
+      max-height: 96%;
       object-fit: contain;
     }
     .store-logo-fallback {
@@ -166,9 +178,23 @@
       font-size: 0.92rem;
       line-height: 1.55;
     }
+    .store-topline {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      color: var(--accent);
+      font-size: 0.76rem;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 0.35rem;
+    }
+    .store-topline:hover {
+      text-decoration: underline;
+    }
     .store-stats {
       display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: 1fr;
       gap: 0.75rem;
     }
     .store-stat {
@@ -194,6 +220,27 @@
       color: var(--text-soft);
       font-size: 0.9rem;
       line-height: 1.65;
+    }
+    .partner-cta {
+      margin-top: 1.5rem;
+      margin-bottom: 3rem;
+      padding: 0 0 0.5rem;
+    }
+    .partner-cta-title {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 0.45rem;
+    }
+    .partner-cta-copy {
+      color: var(--text-soft);
+      font-size: 0.95rem;
+      line-height: 1.7;
+      max-width: 76ch;
+    }
+    .partner-cta-copy a {
+      color: var(--accent);
+      font-weight: 700;
     }
     .footer {
       background: #09111a;
@@ -223,13 +270,16 @@
       margin-top: 0.35rem;
     }
     @media (max-width: 860px) {
-      .stores-overview,
       .stores-grid {
         grid-template-columns: 1fr;
       }
     }
     @media (max-width: 640px) {
       .intro-card { padding: 1.35rem; }
+      .overview-card--combined,
+      .stores-overview {
+        grid-template-columns: 1fr;
+      }
       .store-head { align-items: flex-start; }
       .store-stats { grid-template-columns: 1fr; }
     }
@@ -250,12 +300,13 @@
     <div class="container">
       <a href="./index.html" class="back-link">← Voltar ao site</a>
 
-      <section class="intro-card">
-        <div class="intro-eyebrow">PadelCost</div>
-        <h1 class="intro-title">Lojas parceiras atuais</h1>
-        <p class="intro-sub">Aqui encontras as lojas que já estão ligadas ao comparador e o número de produtos atualmente disponíveis em cada uma. À medida que entrarem novas lojas, esta página atualiza-se com elas.</p>
+      <section class="partner-cta">
+        <div class="partner-cta-title">Parcerias comerciais</div>
+        <div class="partner-cta-copy">
+          Se representa uma loja ou programa de afiliação e pretende integrar o seu catálogo no comparador PadelCost, entre em contacto através de
+          <a href="mailto:info@padelcost.pt">info@padelcost.pt</a>.
+        </div>
       </section>
-
       <section class="stores-overview" id="stores-overview"></section>
       <section class="stores-grid" id="stores-grid"></section>
     </div>
@@ -282,6 +333,25 @@
   <script src="./data/products-data.js"></script>
   <script>
     const products = Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : [];
+    const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos']);
+    const monitoredProducts = products.filter((product) => coreCategories.has(product.category)).length;
+    const storeInfo = {
+      'Adidas Padel': {
+        url: 'https://www.adidaspadel.com/'
+      },
+      'Atmosfera Sport': {
+        url: 'https://www.atmosferasport.pt/'
+      },
+      'Padel Market': {
+        url: 'https://www.padelmarket.com/'
+      },
+      'Padel Proshop PT': {
+        url: 'https://padelproshop.com/pt-pt/'
+      },
+      'Forum Sport ES': {
+        url: 'https://www.forumsport.com/es-es/'
+      }
+    };
     const storeMap = new Map();
 
     products.forEach((product) => {
@@ -296,8 +366,9 @@
           });
         }
         const entry = storeMap.get(store.name);
-        entry.products.add(product.id);
-        if (product.category) entry.categories.add(product.category);
+        if (product.category && coreCategories.has(product.category)) {
+          entry.products.add(product.id);
+        }
         const bestStore = (product.stores || []).slice().sort((a, b) => a.price - b.price)[0];
         if (bestStore && bestStore.name === store.name) entry.bestPriceCount += 1;
       });
@@ -306,8 +377,7 @@
     const stores = Array.from(storeMap.values())
       .map((store) => ({
         ...store,
-        productCount: store.products.size,
-        categoryCount: store.categories.size
+        productCount: store.products.size
       }))
       .sort((a, b) => b.productCount - a.productCount || a.name.localeCompare(b.name));
 
@@ -315,17 +385,15 @@
     const grid = document.getElementById('stores-grid');
 
     overview.innerHTML = `
-      <div class="overview-card">
-        <div class="overview-label">Lojas ativas</div>
-        <div class="overview-value">${stores.length}</div>
-      </div>
-      <div class="overview-card">
-        <div class="overview-label">Produtos monitorizados</div>
-        <div class="overview-value">${products.length}</div>
-      </div>
-      <div class="overview-card">
-        <div class="overview-label">Melhores preços sinalizados</div>
-        <div class="overview-value">${stores.reduce((sum, store) => sum + store.bestPriceCount, 0)}</div>
+      <div class="overview-card overview-card--combined">
+        <div class="overview-stat">
+          <div class="overview-label">Lojas ativas</div>
+          <div class="overview-value">${stores.length}</div>
+        </div>
+        <div class="overview-stat">
+          <div class="overview-label">Produtos monitorizados</div>
+          <div class="overview-value">${monitoredProducts}</div>
+        </div>
       </div>
     `;
 
@@ -334,7 +402,16 @@
         return '<img src="./logos/Logo_Adidas_10.svg" alt="Adidas Padel">';
       }
       if (storeName === 'Atmosfera Sport') {
-        return '<span class="store-logo-fallback">AS</span>';
+        return '<img src="./logos/atmosfera-sport-logo.svg" alt="Atmosfera Sport">';
+      }
+      if (storeName === 'Padel Market') {
+        return '<img src="./logos/logo_padelmarket.svg" alt="Padel Market">';
+      }
+      if (storeName === 'Padel Proshop PT') {
+        return '<img src="./logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT">';
+      }
+      if (storeName === 'Forum Sport ES') {
+        return '<img src="./logos/logo-forum-sport-es.webp" alt="Forum Sport ES">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;
@@ -344,9 +421,9 @@
       <article class="store-card">
         <div class="store-head">
           <div class="store-logo">${renderStoreLogo(store.name)}</div>
-          <div>
+          <div class="store-copy">
+            ${storeInfo[store.name]?.url ? `<a class="store-topline" href="${storeInfo[store.name].url}" target="_blank" rel="noopener noreferrer">Visitar loja ↗</a>` : ''}
             <div class="store-name">${store.name}</div>
-            <div class="store-meta">Loja atualmente integrada no comparador PadelCost.</div>
           </div>
         </div>
         <div class="store-stats">
@@ -354,13 +431,6 @@
             <div class="store-stat-label">Produtos</div>
             <div class="store-stat-value">${store.productCount}</div>
           </div>
-          <div class="store-stat">
-            <div class="store-stat-label">Categorias</div>
-            <div class="store-stat-value">${store.categoryCount}</div>
-          </div>
-        </div>
-        <div class="store-note">
-          ${store.bestPriceCount} ${store.bestPriceCount === 1 ? 'produto aparece' : 'produtos aparecem'} atualmente como melhor preço desta loja no comparador.
         </div>
       </article>
     `).join('');

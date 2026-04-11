@@ -84,13 +84,14 @@
     .btn-share-copy{display:flex;align-items:center;gap:0.4rem;padding:0.5rem 1rem;background:var(--accent);color:white;border:none;border-radius:999px;font-family:'Manrope',sans-serif;font-size:0.78rem;font-weight:800;cursor:pointer;white-space:nowrap;transition:background 0.15s;}
     .btn-share-copy:hover{background:#005fa3;}
     .section-title{font-size:0.72rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:var(--text-soft);margin-bottom:1rem;}
-    .ref-grid{display:flex;flex-direction:column;gap:0.65rem;}
-    .ref-card{background:var(--surface);border-radius:14px;border:1.5px solid var(--border);overflow:hidden;padding:1.25rem;display:flex;flex-direction:column;gap:0.9rem;}
+    .ref-grid{display:flex;flex-direction:column;gap:0;}
+    .ref-card{background:transparent;border-radius:0;border:0;border-top:1px solid rgba(19,32,44,0.08);overflow:visible;padding:1.1rem 0;display:flex;flex-direction:column;gap:0.75rem;}
+    .ref-card:first-child{border-top:0;padding-top:0;}
     .ref-nivel{font-weight:800;color:var(--text);font-size:0.92rem;display:flex;align-items:center;gap:0.5rem;margin-bottom:0.35rem;}
     .ref-nivel-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
     .ref-desc{font-size:0.82rem;color:var(--text-soft);line-height:1.65;}
     .ref-pills{display:flex;flex-wrap:wrap;gap:0.5rem;}
-    .ref-pill{display:inline-flex;flex-direction:column;align-items:center;background:#f5f8fc;border:1px solid var(--border);border-radius:10px;padding:0.6rem 0.9rem;min-width:80px;text-align:center;gap:0.25rem;}
+    .ref-pill{display:inline-flex;flex-direction:column;align-items:flex-start;background:transparent;border:0;border-radius:0;padding:0;min-width:86px;text-align:left;gap:0.18rem;}
     .ref-pill svg{color:var(--accent);opacity:0.8;}
     .ref-pill-lbl{font-size:0.58rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--text-soft);}
     .ref-pill-val{font-size:0.78rem;font-weight:700;color:var(--text);line-height:1.2;}
@@ -100,11 +101,16 @@
     .footer-links{display:flex;gap:1.25rem;flex-wrap:wrap;}
     .footer-links a{color:rgba(255,255,255,0.75);font-size:0.88rem;}
     .affiliate-note{font-size:0.78rem;opacity:0.55;margin-top:0.35rem;}
+    .partner-banner-section{margin:2.5rem auto 0;padding:0.35rem 0 0;display:flex;flex-direction:column;align-items:center;gap:0.65rem;}
+    .partner-banner-label{font-size:0.68rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--text-soft);font-weight:800;}
+    .partner-banner-link{display:inline-flex;align-items:center;justify-content:center;max-width:100%;}
+    .partner-banner-link img{width:100%;max-width:728px;height:auto;display:block;border:0;}
     @media(max-width:680px){
       .quiz-opts,.result-specs,.suggestions-grid{grid-template-columns:1fr;}
       .quiz-body,.result-body{padding:1.25rem;}
       .quiz-head{padding:1.25rem;}
       .war-name-title{font-size:1.5rem;}
+      .partner-banner-section{display:none;}
     }
   </style>
 </head>
@@ -123,6 +129,24 @@
       <p class="section-title">Referência rápida</p>
       <div class="ref-grid" id="ref-grid-content"></div>
       <p style="font-size:0.72rem;color:var(--text-soft);margin-top:1rem;line-height:1.6;">* Orientações gerais — a escolha final depende das características específicas de cada modelo e do teu pé.</p>
+      <div class="partner-banner-section">
+        <div class="partner-banner-label">PUB</div>
+        <a
+          class="partner-banner-link"
+          href="https://afiliates.allforpadel.com/c?c=37613&m=2535100&a=507738&r=&u="
+          target="_blank"
+          rel="sponsored nofollow noopener noreferrer"
+          aria-label="Publicidade Adidas Padel"
+        >
+          <img
+            src="https://afiliates.allforpadel.com/i?c=37613&m=2535100&a=507738&r=&t=html"
+            width="728"
+            height="90"
+            alt=""
+            loading="lazy"
+          />
+        </a>
+      </div>
     </div>
   </main>
   <footer class="footer">
@@ -175,13 +199,13 @@ document.getElementById('ref-grid-content').innerHTML = [
 const STEPS = {
   nivel:{q:'Qual é o teu nível de jogo?',opts:[{t:'Iniciante',s:'Comecei há menos de 1 ano'},{t:'Recreativo',s:'Jogo por lazer, sem competição'},{t:'Intermédio',s:'Jogo há 1–3 anos com regularidade'},{t:'Avançado',s:'Competitivo, mais de 3 anos'},{t:'Expert',s:'Federado ou alto nível'}],next:a=>a.nivel<=1?'orcamento_a':'estilo_mov'},
   orcamento_a:{q:'Qual o teu orçamento para sapatilhas?',opts:[{t:'Até 60€',s:'Entrada de gama'},{t:'60€–100€',s:'Médio'},{t:'100€–150€',s:'Alta performance'},{t:'+150€',s:'Topo de gama'}],next:()=>'superficie_a'},
-  superficie_a:{q:'Em que superfície jogas habitualmente?',opts:[{t:'Terra batida',s:'Piso de areia ou saibro'},{t:'Relva artificial',s:'Piso verde sintético'},{t:'Misto',s:'Vários tipos de piso'},{t:'Não sei',s:'Sem preferência definida'}],next:()=>'lesoes_a'},
+  superficie_a:{q:'Como costuma estar o court onde jogas?',opts:[{t:'Com bastante areia',s:'Precisas de boa tração e controlo nas travagens'},{t:'Com pouca areia',s:'Mais grip e estabilidade nas mudanças de direção'},{t:'Varia muito',s:'Jogas em courts diferentes com frequência'},{t:'Não sei',s:'Quero uma opção segura e versátil'}],next:()=>'lesoes_a'},
   lesoes_a:{q:'Tens lesões ou sensibilidade nos pés ou pernas?',opts:[{t:'Tornozelo',s:'Entorses frequentes'},{t:'Joelho',s:'Problemas no joelho'},{t:'Sem problemas',s:'Nenhuma limitação'},{t:'Pé / Fasciite',s:'Fascite plantar ou pé plano'}],next:()=>'pe_largo'},
   pe_largo:{q:'Como descreves o teu pé?',opts:[{t:'Normal',s:'Largura e arco standard'},{t:'Largo',s:'Pé mais largo que o normal'},{t:'Estreito',s:'Pé mais estreito'},{t:'Não sei',s:'Nunca prestei atenção'}],next:()=>'objetivo_a'},
   objetivo_a:{q:'O que é mais importante para ti numa sapatilha?',opts:[{t:'Conforto',s:'Suave, agradável, fácil de usar'},{t:'Durabilidade',s:'Que dure muito tempo'},{t:'Preço/qualidade',s:'Melhor relação possível'},{t:'Estilo',s:'Que fique bem no court'}],next:()=>null},
   estilo_mov:{q:'Como te describes em termos de movimento em court?',opts:[{t:'Explosivo',s:'Arranques rápidos, muita velocidade'},{t:'Estável',s:'Movimentos controlados, posição definida'},{t:'Polivalente',s:'Equilíbrio entre velocidade e estabilidade'},{t:'Defensor',s:'Muito deslocamento lateral, fundo do court'}],next:()=>'orcamento_b'},
   orcamento_b:{q:'Qual o teu orçamento?',opts:[{t:'60€–100€',s:'Médio'},{t:'100€–150€',s:'Alta performance'},{t:'+150€',s:'Topo de gama, sem compromissos'}],next:()=>'superficie_b'},
-  superficie_b:{q:'Em que superfície jogas habitualmente?',opts:[{t:'Terra batida',s:'Piso de areia ou saibro'},{t:'Relva artificial',s:'Piso verde sintético'},{t:'Misto',s:'Vários tipos de piso'},{t:'Interior',s:'Piso duro / indoor'}],next:()=>'lesoes_b'},
+  superficie_b:{q:'Como costuma estar o court onde jogas?',opts:[{t:'Com bastante areia',s:'Mais deslizamento, precisas de sola com tração'},{t:'Com pouca areia',s:'Mais aderência, convém boa estabilidade lateral'},{t:'Varia muito',s:'Jogas em clubes/courts diferentes'},{t:'Indoor / rápido',s:'Piso mais seco ou rápido, exige controlo nos apoios'}],next:()=>'lesoes_b'},
   lesoes_b:{q:'Tens lesões ou sensibilidade nos pés ou pernas?',opts:[{t:'Tornozelo',s:'Entorses ou instabilidade'},{t:'Joelho',s:'Problemas no joelho ou menisco'},{t:'Sem problemas',s:'Nenhuma limitação'},{t:'Pé / Fasciite',s:'Fascite plantar ou pé plano'}],next:()=>'peso_sap'},
   peso_sap:{q:'Preferes sapatilhas mais leves ou mais robustas?',opts:[{t:'Leves',s:'Menos de 380g — agilidade máxima'},{t:'Equilibradas',s:'380–450g — versatilidade'},{t:'Robustas',s:'Mais de 450g — máxima proteção'},{t:'Não sei',s:'Sem preferência definida'}],next:()=>null}
 };
@@ -369,7 +393,7 @@ function renderResult(root){
   const profileTag='Perfil recomendado para encontrares a sapatilha certa para o teu jogo.';
   const isBad=false;
   const suggested=getSuggestions(p.profileKey,budgetRange);
-  const sugsHTML=suggested.length>0?`<div class="suggestions-title">Sapatilhas sugeridas para ti</div><div class="suggestions-grid">${suggested.map(r=>`<div class="sug-card"><div class="sug-img-wrap"><img class="sug-img" src="${r.image}" alt="${r.name}" loading="lazy" onerror="this.parentElement.style.background='#f5f8fc'"></div><div class="sug-info"><div class="sug-brand">${r.brand}</div><div class="sug-name">${cleanName(r.name)}</div><div class="sug-price">${r.price.toFixed(2)}€</div></div><a class="sug-link" href="./index.html?q=${encodeURIComponent(r.name)}" rel="noopener">Ver preços →</a></div>`).join('')}</div>`:'';
+  const sugsHTML=suggested.length>0?`<div class="suggestions-title">Sapatilhas sugeridas para ti</div><div class="suggestions-grid">${suggested.map(r=>`<div class="sug-card"><div class="sug-img-wrap"><img class="sug-img" src="${r.image}" alt="${r.name}" loading="lazy" onerror="this.parentElement.style.background='#f5f8fc'"></div><div class="sug-info"><div class="sug-brand">${r.brand}</div><div class="sug-name">${cleanName(r.name)}</div><div class="sug-price">${r.price.toFixed(2)}€</div></div><a class="sug-link" href="./index.html?q=${encodeURIComponent(r.name)}" target="_blank" rel="noopener noreferrer">Ver preços →</a></div>`).join('')}</div>`:'';
   const shareUrl=`${location.href.split('?')[0]}?perfilNome=${encodeURIComponent(profileTitle)}&perfil=${encodeURIComponent(p.lbl)}`;
   root.innerHTML=`<div class="result-head"><div class="war-name-wrap"><div class="war-name-title">${profileTitle}</div><div class="war-name-tag">${profileTag}</div></div></div><div class="result-body"><div class="result-specs"><div class="result-spec"><div class="result-spec-lbl">Perfil</div><div class="result-spec-val">${p.lbl}</div></div><div class="result-spec"><div class="result-spec-lbl">Sola</div><div class="result-spec-val">${p.sola}</div></div><div class="result-spec"><div class="result-spec-lbl">Amortecimento</div><div class="result-spec-val">${p.amortecimento}</div></div><div class="result-spec"><div class="result-spec-lbl">Estabilidade</div><div class="result-spec-val">${p.estabilidade}</div></div><div class="result-spec"><div class="result-spec-lbl">Peso</div><div class="result-spec-val">${p.peso}</div></div></div><div class="result-tip">${p.desc}</div>${sugsHTML}<div class="share-row"><span>Partilha o teu perfil</span><div class="share-btns"><a class="btn-share-wa" href="https://wa.me/?text=${encodeURIComponent('Fiz o quiz de sapatilhas do PadelCost e o meu perfil é '+profileTitle+' 👟 '+shareUrl)}" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>WhatsApp</a><button class="btn-share-copy" onclick="copyShare('${shareUrl}',this)"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>Copiar link</button></div></div><div class="result-cta"><button class="btn-restart" onclick="restart()">Recomeçar quiz</button></div></div>`;
 }

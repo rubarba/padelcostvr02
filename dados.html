@@ -45,18 +45,255 @@
     .back-link:hover { text-decoration: none; opacity: 0.8; }
 
     /* Footer */
-    .footer { background: #0c141d; color: rgba(255,255,255,0.6); padding: 2rem 0; margin-top: auto; }
-    .footer-inner { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; font-size: 0.85rem; }
-    .footer-inner a { color: rgba(255,255,255,0.6); }
-    .footer-inner a:hover { color: white; text-decoration: none; }
-    .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
-    .affiliate-note { font-size: 0.78rem; opacity: 0.5; margin-top: 0.5rem; }
+    .footer {
+      background: #0e1e35;
+      color: white;
+      margin-top: 4rem;
+    }
+    .footer-newsletter-strip {
+      background: #d4dbe3;
+      padding: 2.5rem 0;
+      border-bottom: 1px solid rgba(0,0,0,0.06);
+    }
+    .footer-newsletter-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+    .footer-newsletter-text h3 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 0.3rem;
+      color: #13202c;
+    }
+    .footer-newsletter-text p {
+      color: #5f7287;
+      font-size: 0.9rem;
+      margin: 0;
+    }
+    .footer-newsletter-form {
+      display: flex;
+      gap: 0;
+      flex: 1;
+      max-width: 420px;
+    }
+    .footer-newsletter-form input {
+      flex: 1;
+      padding: 0.85rem 1.4rem;
+      background: white;
+      border: 1px solid rgba(0,0,0,0.12);
+      border-right: none;
+      border-radius: 30px 0 0 30px;
+      color: #13202c;
+      font-family: 'Manrope', sans-serif;
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .footer-newsletter-form input::placeholder {
+      color: #9ca3af;
+    }
+    .footer-newsletter-form button {
+      padding: 0.85rem 1.5rem;
+      background: #0077cc;
+      color: white;
+      border: none;
+      border-radius: 0 30px 30px 0;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-family: 'Manrope', sans-serif;
+      white-space: nowrap;
+      transition: background 0.2s;
+    }
+    .footer-newsletter-form button:hover {
+      background: #0066bb;
+    }
+    .footer-main {
+      padding: 3rem 0 2rem;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr 1fr 1fr 1fr;
+      gap: 2rem;
+    }
+    .footer-brand-col .footer-brand-logo {
+      display: inline-flex;
+      margin-bottom: 0.8rem;
+    }
+    .footer-brand-col .footer-brand-logo img {
+      height: 38px;
+      width: auto;
+      display: block;
+    }
+    .footer-brand-col p {
+      color: rgba(255,255,255,0.55);
+      font-size: 0.88rem;
+      line-height: 1.65;
+      margin: 0 0 1.5rem;
+    }
+    .footer-catalog-stat {
+      color: rgba(255,255,255,0.42);
+      font-size: 0.78rem;
+      margin: -0.4rem 0 1rem;
+    }
+    .footer-social {
+      display: flex;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+    .footer-social a {
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 8px;
+      color: rgba(255,255,255,0.7);
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+    }
+    .footer-social a:hover {
+      background: rgba(226,248,80,0.15);
+      border-color: #e2f850;
+      color: #e2f850;
+      padding-left: 0;
+      text-decoration: none;
+    }
+    .footer-col h4 {
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: rgba(255,255,255,0.9);
+      margin-bottom: 1rem;
+    }
+    .footer-col a {
+      display: block;
+      color: rgba(255,255,255,0.58);
+      text-decoration: none;
+      margin-bottom: 0.65rem;
+      font-size: 0.88rem;
+      transition: color 0.2s, padding-left 0.2s;
+    }
+    .footer-col a:hover {
+      color: #e2f850;
+      padding-left: 4px;
+      text-decoration: none;
+    }
+    .footer-bottom {
+      background: rgba(7,15,26,0.55);
+      border-top: 1px solid rgba(255,255,255,0.08);
+      padding: 1.25rem 0;
+    }
+    .footer-bottom-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .footer-bottom-content p {
+      color: rgba(255,255,255,0.4);
+      font-size: 0.82rem;
+      margin: 0;
+    }
+    .footer-bottom-links {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .footer-bottom-links a {
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      font-size: 0.82rem;
+    }
+    .footer-bottom-links a:hover {
+      color: rgba(255,255,255,0.85);
+      text-decoration: none;
+    }
+    @media (max-width: 768px) {
+      .footer-newsletter-inner {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
+      }
+      .footer-newsletter-form {
+        max-width: none;
+      }
+      .footer-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .footer-brand-col {
+        grid-column: 1 / -1;
+      }
+      .footer-bottom-content {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+    @media (max-width: 520px) {
+      .footer-grid {
+        grid-template-columns: 1fr;
+      }
+      .footer-newsletter-form {
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+      .footer-newsletter-form input,
+      .footer-newsletter-form button {
+        border-radius: 30px;
+        border: 1px solid rgba(0,0,0,0.12);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .footer-newsletter-inner {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
+      }
+      .footer-newsletter-form {
+        max-width: none;
+      }
+      .footer-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .footer-brand-col {
+        grid-column: 1 / -1;
+      }
+      .footer-bottom-content {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+    @media (max-width: 520px) {
+      .footer-grid {
+        grid-template-columns: 1fr;
+      }
+      .footer-newsletter-form {
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+      .footer-newsletter-form input,
+      .footer-newsletter-form button {
+        border-radius: 30px;
+        border: 1px solid rgba(0,0,0,0.12);
+      }
+    }
 
     @media (max-width: 768px) {
       .page-card { padding: 1.5rem; }
       .page-card h1 { font-size: 1.5rem; }
-      .footer-inner { flex-direction: column; align-items: flex-start; }
+      .footer-grid { grid-template-columns: 1fr 1fr; }
+      .footer-brand-col { grid-column: 1 / -1; }
+      .footer-bottom-content { align-items: flex-start; flex-direction: column; }
     }
+    @media (max-width: 520px) { .footer-grid { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
@@ -123,27 +360,78 @@
         — Não utilizamos os seus dados para publicidade direccionada fora do nosso site.</p>
 
         <p><strong>Contacto</strong><br>
-        Para qualquer questão relacionada com os seus dados, contacte: <a href="mailto:geral@padelcost.pt">geral@padelcost.pt</a></p>
+        Para qualquer questão relacionada com os seus dados, contacte: <a href="mailto:info@padelcost.pt">info@padelcost.pt</a></p>
 
         <p><strong>Última actualização:</strong> Março 2026</p>
       </div>
     </div>
   </main>
-<footer class="footer">
-    <div class="container">
-      <div class="footer-inner">
-        <div>
-          <span>© PadelCost 2026. Todos os direitos reservados.</span>
-          <div class="affiliate-note">Este site contém links de afiliado.</div>
+  <footer class="footer">
+    <div class="footer-newsletter-strip">
+      <div class="container">
+        <div class="footer-newsletter-inner">
+          <div class="footer-newsletter-text">
+            <h3>Subscreve a nossa newsletter</h3>
+            <p>Recebe promoções e as melhores ofertas de padel em Portugal.</p>
+          </div>
+          <form class="footer-newsletter-form" action="https://padelcost.us15.list-manage.com/subscribe/post?u=677366095347cdd9b410aecc5&id=6b851bf4f2" method="POST" target="_blank">
+            <input type="email" name="EMAIL" placeholder="O teu endereço de e-mail" required>
+            <button type="submit">Enviar</button>
+          </form>
         </div>
-        <div class="footer-links">
-          <a href="./index.html">Início</a>
-          <a href="/sobre.html">Sobre</a>
-          <a href="/contacto.html">Contacto</a>
-          <a href="/como-funciona.html">Como Funciona</a>
-          <a href="/privacidade.html">Privacidade</a>
-          <a href="/cookies.html">Cookies</a>
-          <a href="/dados.html">Dados</a>
+      </div>
+    </div>
+    <div class="footer-main">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand-col">
+            <a class="footer-brand-logo" href="./index.html" aria-label="PadelCost">
+              <img src="./logos/padelcost-footer-logo.svg" alt="PadelCost">
+            </a>
+            <p>Compara preços de raquetes, sapatilhas e sacos de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.</p>
+            <div class="footer-catalog-stat">Produtos monitorizados em várias lojas parceiras</div>
+          </div>
+          <div class="footer-col">
+            <h4>Categorias</h4>
+            <a href="./index.html">Raquetes</a>
+            <a href="./index.html">Sapatilhas</a>
+            <a href="./index.html">Sacos</a>
+          </div>
+          <div class="footer-col">
+            <h4>Informações</h4>
+            <a href="./como-funciona.html">Como Funciona</a>
+            <a href="./dados.html">Condições de Uso</a>
+            <a href="./dados.html">Aviso Legal</a>
+            <a href="./privacidade.html">Política de Privacidade</a>
+            <a href="./cookies.html">Política de Cookies</a>
+          </div>
+          <div class="footer-col">
+            <h4>PadelCost</h4>
+            <a href="./sobre.html">Quem Somos</a>
+            <a href="./contacto.html">Contacto</a>
+            <a href="./lojas.html">Lojas Parceiras</a>
+          </div>
+          <div class="footer-col">
+            <h4>Redes</h4>
+            <div class="footer-social">
+              <a href="https://www.linkedin.com/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
+              <a href="https://www.instagram.com/" title="Instagram" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.facebook.com/" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="footer-bottom-content">
+          <p>© PadelCost 2026. Todos os direitos reservados. <span style="opacity:0.5;font-size:0.9em"> · Este site contém links de afiliado.</span></p>
+          <div class="footer-bottom-links">
+            <a href="./privacidade.html">Privacidade</a>
+            <a href="./dados.html">Termos</a>
+            <a href="./cookies.html">Cookies</a>
+          </div>
+          <p>Os preços podem variar. Confirma sempre na loja.</p>
         </div>
       </div>
     </div>

@@ -83,12 +83,17 @@
     .footer-links{display:flex;gap:1.25rem;flex-wrap:wrap;}
     .footer-links a{color:rgba(255,255,255,0.75);font-size:0.88rem;}
     .affiliate-note{font-size:0.78rem;opacity:0.55;margin-top:0.35rem;}
+    .partner-banner-section{margin:2.5rem auto 0;padding:0.35rem 0 0;display:flex;flex-direction:column;align-items:center;gap:0.65rem;}
+    .partner-banner-label{font-size:0.68rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--text-soft);font-weight:800;}
+    .partner-banner-link{display:inline-flex;align-items:center;justify-content:center;max-width:100%;}
+    .partner-banner-link img{width:100%;max-width:728px;height:auto;display:block;border:0;}
     @media(max-width:640px){
       .quiz-opts{grid-template-columns:1fr;}
       .result-traits{grid-template-columns:1fr 1fr;}
       .quiz-body,.result-body{padding:1.25rem;}
       .quiz-head{padding:1.25rem 1.25rem 1rem;}
       .result-hero{padding:1.75rem 1.25rem 1.25rem;}
+      .partner-banner-section{display:none;}
     }
   </style>
 </head>
@@ -129,6 +134,24 @@
         <div class="result-hero" id="result-hero"></div>
         <div class="result-body" id="result-body"></div>
       </div>
+      <div class="partner-banner-section">
+        <div class="partner-banner-label">PUB</div>
+        <a
+          class="partner-banner-link"
+          href="https://afiliates.allforpadel.com/c?c=37613&m=2535100&a=507738&r=&u="
+          target="_blank"
+          rel="sponsored nofollow noopener noreferrer"
+          aria-label="Publicidade Adidas Padel"
+        >
+          <img
+            src="https://afiliates.allforpadel.com/i?c=37613&m=2535100&a=507738&r=&t=html"
+            width="728"
+            height="90"
+            alt=""
+            loading="lazy"
+          />
+        </a>
+      </div>
     </div>
   </main>
   <footer class="footer">
@@ -156,7 +179,7 @@ const QS = [
     opts: [
       { t: 'Respiras fundo. "Próxima."', p: {c:2,g:1,h:1} },
       { t: 'Explicas tecnicamente o erro. Em detalhe.', p: {b:3,f:1} },
-      { t: 'Olhas para o céu. O sol teve culpa.', p: {i:3} },
+      { t: 'Olhas para o céu\u2026', p: {i:3} },
       { t: 'Ele vai ouvir falar disso. Muito.', p: {a:3} }
     ]
   },
@@ -164,8 +187,8 @@ const QS = [
     q: 'Chegaste 20 minutos atrasado. A desculpa é:',
     opts: [
       { t: 'O trânsito. Sempre o trânsito.', p: {i:2,c:1} },
-      { t: '"Estava a preparar o equipamento." (Mentira.)', p: {d:2,f:1} },
-      { t: '"Chego tarde mas aqueci mentalmente."', p: {a:2,f:1} },
+      { t: '"O Waze mandou-me por outro caminho." (Saiu de casa há 5 minutos.)', p: {i:2,c:1} },
+      { t: '"Nunca chego atrasado."', p: {i:3} },
       { t: 'Não disseste nada. Entraste e ganhaste.', p: {h:3,c:1} }
     ]
   },
@@ -175,7 +198,7 @@ const QS = [
       { t: 'Protocolo de 25 minutos. Sem excepções.', p: {a:2,f:2} },
       { t: 'Dois saltos. Pronto.', p: {c:3} },
       { t: 'Os primeiros três pontos contam.', p: {g:2,c:1} },
-      { t: 'Não aqueço. O tornozelo não deixa.', p: {e:3} }
+      { t: 'Não aqueço para não ficar já cansado.', p: {c:2,g:1} }
     ]
   },
   {
@@ -183,35 +206,35 @@ const QS = [
     opts: [
       { t: '"É uma raquete. Funciona."', p: {c:3,g:1} },
       { t: 'Explicas o núcleo e o carbono com entusiasmo.', p: {d:3,f:1} },
-      { t: '"Com esta lesão não vale mudar."', p: {e:3} },
-      { t: '"Escolhida especificamente para o meu jogo."', p: {a:2,d:2} }
+      { t: '"Comprei pelo design. Não digo a ninguém."', p: {d:2,i:1} },
+      { t: '"Escolhida especificamente para o meu jogo."', p: {a:2,d:1} }
     ]
   },
   {
-    q: 'O grupo marca um torneio amigável. Tu:',
+    q: 'Estás a perder 5-2 no segundo set. O teu parceiro diz "calma":',
     opts: [
-      { t: 'Quando é? Já posso treinar esta semana?', p: {a:3} },
-      { t: 'Ótimo. Já tens sugestões para o formato.', p: {b:2,f:1} },
-      { t: 'Só se houver almoço a seguir.', p: {g:3} },
-      { t: 'Já estás a sentir uma lesão a vir.', p: {e:3} }
+      { t: '"Estou calmo." (Não estás.)', p: {i:2,a:1} },
+      { t: 'Já mudaste de estratégia três vezes. Nenhuma funcionou.', p: {f:2,a:1} },
+      { t: '"Calma?! Ele não correu uma bola!"', p: {a:2,b:1} },
+      { t: '"Fds\u2026 ok. Próxima." E respiras.', p: {h:2,c:1} }
     ]
   },
   {
-    q: 'Perdeste um set por 6-1. A reacção:',
+    q: 'No grupo de WhatsApp de padel, tu és o que:',
     opts: [
-      { t: '"Estavam bons." E acreditas mesmo.', p: {g:3,h:1} },
-      { t: 'Já estás a planear o set seguinte.', p: {a:2,f:2} },
-      { t: 'O serve, o smash, o vento, o sol, o piso...', p: {i:3,b:1} },
-      { t: '"O tornozelo não ajudou." (Estava bem.)', p: {e:3} }
+      { t: 'Cria o grupo, mete as regras, e expulsa quem não aparece.', p: {a:2,b:1} },
+      { t: 'Só responde "in". Zero conversa.', p: {h:2,c:1} },
+      { t: 'Manda 47 mensagens a combinar e depois não pode ir.', p: {g:2,i:1} },
+      { t: 'Já criaste 3 grupos. O primeiro era "só sarrabolhos". O segundo também.', p: {b:2,i:1} }
     ]
   },
   {
-    q: 'O parceiro pede uma dica. Tu:',
+    q: 'Marcaste padel às 19h. Às 18h45 o parceiro cancela:',
     opts: [
-      { t: 'Uma dica. Curta. Ponto seguinte.', p: {h:2,c:1} },
-      { t: 'Análise de 8 minutos. Não pedida.', p: {b:3} },
-      { t: '"Estás bem." (Não estava, mas ok.)', p: {g:3} },
-      { t: 'Dás a dica. E mais quatro.', p: {b:2,a:1} }
+      { t: '"Tranquilo." (Já estás a ligar a toda a gente da agenda.)', p: {a:2,g:1} },
+      { t: '"Sem problema." (Nunca mais joga contigo.)', p: {i:2,h:1} },
+      { t: 'Já tens um suplente de standby. Sempre tens.', p: {f:2,a:1} },
+      { t: 'Publicas no grupo: "Alguém às 19h?" \u2014 e ficas a ver os vistos azuis sem resposta.', p: {g:2,c:1} }
     ]
   },
   {
@@ -219,7 +242,7 @@ const QS = [
     opts: [
       { t: 'Há três anos. Funciona bem.', p: {c:3,g:1} },
       { t: 'Este mês. É a terceira.', p: {d:3} },
-      { t: 'Com a lesão não faz sentido mudar.', p: {e:3} },
+      { t: 'A do meu cunhado. Emprestada há 8 meses.', p: {c:2,g:1} },
       { t: 'Pesquisei três semanas. Comparei 12 modelos.', p: {f:3,d:1} }
     ]
   },
@@ -227,9 +250,9 @@ const QS = [
     q: 'A tua frase mais frequente em jogo:',
     opts: [
       { t: '"Vamos! Força!"', p: {a:3} },
-      { t: '"Devias ter feito assim..."', p: {b:3} },
+      { t: '"Devias ter feito assim\u2026"', p: {b:3} },
       { t: '"Boa. Próxima."', p: {c:2,g:1} },
-      { t: '"O meu joelho/braço/costas..."', p: {e:3} }
+      { t: '"F#d\u20AC-s\u20AC\u2026 car@#%&!" *respira* "Ok. Próxima."', p: {i:2,a:1} }
     ]
   },
   {
@@ -238,24 +261,24 @@ const QS = [
       { t: '"Boa." Genuíno. Apreciaste.', p: {h:3,g:1} },
       { t: 'Por fora aplaudes. Por dentro já planeias.', p: {a:2,f:1} },
       { t: 'Explicas ao parceiro porque aconteceu.', p: {b:2,f:1} },
-      { t: 'Sorris. Mas foi sorte deles.', p: {i:2,c:1} }
+      { t: '"Sorte do car@#$%\u2026" (entre dentes)', p: {i:2,a:1} }
     ]
   },
   {
     q: 'O teu nível de jogo, com honestidade:',
     opts: [
-      { t: 'Estou onde estou. Sei disso.', p: {h:2,g:1} },
-      { t: 'O potencial está lá. Falta a consistência.', p: {c:2,f:1} },
-      { t: 'Melhor do que o marcador sugere.', p: {i:3} },
-      { t: 'Difícil sem ver os dados completos.', p: {f:3,d:1} }
+      { t: 'M3', p: {h:2,g:1} },
+      { t: 'M4', p: {c:2,f:1} },
+      { t: 'M5', p: {i:2,a:1} },
+      { t: 'De M3 a M5 na mesma jogada.', p: {g:2,c:1} }
     ]
   },
   {
     q: 'Após o jogo, é obrigatório:',
     opts: [
       { t: 'Análise. Com exemplos concretos.', p: {f:3,a:1} },
-      { t: 'Bica ou cerveja. O resto é opcional.', p: {g:3,c:1} },
-      { t: 'Nada. Já estou no próximo jogo.', p: {a:3} },
+      { t: 'Cerveja ou cerveja.', p: {g:3} },
+      { t: 'Duche de 45 segundos e "quem marca a próxima?"', p: {a:2,c:1} },
       { t: 'Gelo no tornozelo e uma boa desculpa.', p: {e:3} }
     ]
   }
@@ -264,16 +287,16 @@ const QS = [
 // 30 PERFIS — distribuídos pelas categorias
 const PERFIS = [
   // ÉPICOS (h dominante)
-  { id:'letal', nome:'O Letal Silencioso', emoji:'🐈', badge:'Épico', bc:'#0c4a6e', bt:'white',
-    tag:'Pouco ruído. Muitos pontos.',
+  { id:'letal', nome:'O Ninja do Court', emoji:'🐈', badge:'Épico', bc:'#0c4a6e', bt:'white',
+    tag:'Zero conversa. Muitos pontos. O parceiro nem percebe como ganhou.',
     desc:'Não fala muito. Não celebra muito. Mas quando o ponto é ganho, foi ele. Tem uma capacidade estranha de aparecer exactamente onde a bola vai cair. Os adversários ficam confusos. O parceiro agradece.',
     traits:[{l:'Estilo',v:'Cirúrgico'},{l:'Em campo',v:'Imprevisível'},{l:'Pós-jogo',v:'Bica e vai embora'}]},
-  { id:'artista', nome:'O Artista da Rede', emoji:'🎨', badge:'Épico', bc:'#4a044e', bt:'white',
-    tag:'Faz parecer fácil o que não é.',
+  { id:'artista', nome:'O Picasso da Bandeja', emoji:'🎨', badge:'Épico', bc:'#4a044e', bt:'white',
+    tag:'Faz bandejas que deviam estar num museu. O parceiro só aplaude.',
     desc:'Tem um toque que os outros não têm. As bandeiras saem com naturalidade, os voleis são precisos, e de vez em quando faz um ponto que faz toda a gente parar. Inclusive o parceiro, que devia estar a cobrir o fundo.',
     traits:[{l:'Zona',v:'Rede'},{l:'Especialidade',v:'Bandeiras e voleis'},{l:'Fraqueza',v:'Quando tiram da rede'}]},
-  { id:'comandante', nome:'O Comandante', emoji:'🎯', badge:'Épico', bc:'#0f172a', bt:'white',
-    tag:'Já sabia como o ponto ia acabar antes de começar.',
+  { id:'comandante', nome:'O Capitão Táctico', emoji:'🎯', badge:'Épico', bc:'#0f172a', bt:'white',
+    tag:'Já sabia onde a bola ia cair antes de ser batida. O GPS do court.',
     desc:'Lê o jogo melhor do que toda a gente. Sabe quando atacar, quando esperar, quando o adversário vai errar. Dirige o parceiro com calma e sem drama. Não é sempre o mais espectacular — mas é o mais consistente.',
     traits:[{l:'Estilo',v:'Táctico'},{l:'Liderança',v:'Natural'},{l:'Em desvantagem',v:'Mais focado'}]},
   { id:'nunca_desiste', nome:'O Que Nunca Desiste', emoji:'🔥', badge:'Positivo', bc:'#7c2d12', bt:'white',
@@ -282,12 +305,12 @@ const PERFIS = [
     traits:[{l:'Mentalidade',v:'Inquebrável'},{l:'Pior derrota',v:'Nunca aceite'},{l:'Estatísticas',v:'Não acredita nelas'}]},
 
   // INTENSO (a dominante)
-  { id:'intenso', nome:'O Intenso Demais', emoji:'😤', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
-    tag:'É amigável. Para ele também.',
+  { id:'intenso', nome:'O Gladiador do Amigável', emoji:'😤', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'É amigável. Ele é que não sabe.',
     desc:'Cada ponto importa. Festeja os pontos como se fosse um torneio nacional e olha para os erros com uma intensidade que faz o parceiro sentir que devia ter treinado mais esta semana.',
     traits:[{l:'Modo padrão',v:'Ligado ao máximo'},{l:'Jogos amigáveis',v:'Conceito relativo'},{l:'Pós-derrota',v:'Processamento necessário'}]},
-  { id:'estratega', nome:'O Estratega Nato', emoji:'♟️', badge:'Épico', bc:'#1e3a5f', bt:'white',
-    tag:'O padel é xadrez. E ele sabe jogar.',
+  { id:'estratega', nome:'O Xadrezista de Raquete', emoji:'♟️', badge:'Épico', bc:'#1e3a5f', bt:'white',
+    tag:'Pensa 3 jogadas à frente. Executa 2 atrás.',
     desc:'Cada ponto é um plano. Cada erro do adversário é informação. Não tem o físico do Intenso nem o talento do Artista, mas tem algo mais raro: a cabeça. E no padel, a cabeça decide muita coisa.',
     traits:[{l:'Estilo',v:'Estratégico'},{l:'Ponto forte',v:'Paciência táctica'},{l:'Emoções',v:'Controladas'}]},
 
@@ -296,12 +319,12 @@ const PERFIS = [
     tag:'Ninguém pediu, mas ele explica na mesma.',
     desc:'Tem uma opinião sobre o jogo de toda a gente. E partilha-a. Em detalhe. Entre pontos, durante o jogo, a seguir ao jogo. Os adversários também já receberam dicas.',
     traits:[{l:'Especialidade',v:'Análise não solicitada'},{l:'Audiência',v:'Todos'},{l:'Ponto de paragem',v:'Não existe'}]},
-  { id:'comentador', nome:'O Comentador em Directo', emoji:'🎙️', badge:'Reconhecível', bc:'#1e3a5f', bt:'white',
-    tag:'Narra cada ponto como se fosse a final do World Padel Tour.',
-    desc:'"Bola ao centro, sobe à rede, volei cruzado... e fora!" — ele mesmo, sobre o próprio jogo. Simultaneamente impressionante e ligeiramente perturbador para o parceiro.',
+  { id:'comentador', nome:'O Relatador Oficial', emoji:'🎙️', badge:'Reconhecível', bc:'#1e3a5f', bt:'white',
+    tag:'"Bola longa, sobe à rede, volei cruzaaado\u2026 e fora." — ele mesmo, sobre si.',
+    desc:'"Bola ao centro, sobe à rede, volei cruzado\u2026 e fora!" — ele mesmo, sobre o próprio jogo. Simultaneamente impressionante e ligeiramente perturbador para o parceiro.',
     traits:[{l:'Auto-narração',v:'Constante'},{l:'Tom de voz',v:'Entre comentador e treinador'},{l:'Filtro',v:'Mínimo'}]},
-  { id:'chegou_tarde_dicas', nome:'O Que Chegou Tarde e Ainda Dá Dicas', emoji:'🕐', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
-    tag:'Chegou 20 minutos atrasado. Já tem opiniões.',
+  { id:'chegou_tarde_dicas', nome:'O Atrasado com Opinião', emoji:'🕐', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'Chegou ao segundo set. Já sabe o que estás a fazer mal.',
     desc:'Chega quando já há dois games jogados, junta-se sem aquecer e dentro de dois pontos já tem uma análise completa do que correu mal até então. O grupo ficou sem palavras. Há muito.',
     traits:[{l:'Pontualidade',v:'Conceito flexível'},{l:'Opinião',v:'Disponível imediatamente'},{l:'Autoconsciência',v:'Limitada'}]},
 
@@ -316,8 +339,8 @@ const PERFIS = [
     traits:[{l:'Mentalidade',v:'Zen'},{l:'Após derrota',v:'Lição aprendida'},{l:'Após vitória',v:'Também lição aprendida'}]},
 
   // EQUIPAMENTO (d dominante)
-  { id:'equipamento', nome:'O Profissional do Equipamento', emoji:'🛍️', badge:'Reconhecível', bc:'#854d0e', bt:'white',
-    tag:'Raquete de 400€. Nível de iniciante. Convicção total.',
+  { id:'equipamento', nome:'O Embaixador da Loja', emoji:'🛍️', badge:'Reconhecível', bc:'#854d0e', bt:'white',
+    tag:'Tem a raquete do Tapia. Joga como o tio do Tapia.',
     desc:'Acredita genuinamente que a próxima raquete vai ser o elemento que faltava. Sabe tudo sobre gramagem, núcleos e balanços. Tem menos razão sobre a relação entre equipamento e resultado.',
     traits:[{l:'Investimento',v:'Significativo'},{l:'Retorno',v:'Não linear'},{l:'Próxima raquete',v:'Vai resolver tudo'}]},
   { id:'analitico_sofa', nome:'O Analista de Sofá', emoji:'📊', badge:'Honesto', bc:'#1e40af', bt:'white',
@@ -326,32 +349,32 @@ const PERFIS = [
     traits:[{l:'Teoria',v:'Nível pro'},{l:'Prática',v:'Work in progress'},{l:'Hobby',v:'Análise de vídeo'}]},
 
   // LESIONADO (e dominante)
-  { id:'lesionado', nome:'O Eterno Lesionado', emoji:'🩹', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
-    tag:'Está sempre "quase bem" do tornozelo.',
+  { id:'lesionado', nome:'O Cliente do Fisioterapeuta', emoji:'🩹', badge:'Reconhecível', bc:'#7c2d12', bt:'white',
+    tag:'"Hoje está melhor." Spoiler: não está. Mas joga na mesma.',
     desc:'Há uma lesão de base que nunca está completamente resolvida mas nunca impede de jogar. Serve como explicação para os erros e como resposta padrão quando o grupo pergunta como está.',
     traits:[{l:'Estado de saúde',v:'Perpetuamente em recuperação'},{l:'Participação',v:'Frequente, apesar de tudo'},{l:'Desculpa',v:'"O tornozelo não ajudou"'}]},
-  { id:'promessa', nome:'O Eterno Prometedor', emoji:'🌟', badge:'Honesto', bc:'#0369a1', bt:'white',
-    tag:'"Para o próximo jogo já vais ver."',
+  { id:'promessa', nome:'O "Para a Semana Vais Ver"', emoji:'🌟', badge:'Honesto', bc:'#0369a1', bt:'white',
+    tag:'O grupo já viu. Várias vezes. Nada mudou.',
     desc:'Está sempre prestes a desbloquear o nível seguinte. Falta pouco. Só precisa de treinar mais um bocadinho. No próximo jogo vai ser diferente. Sempre no próximo jogo.',
     traits:[{l:'Potencial',v:'Enorme (em teoria)'},{l:'Evolução',v:'Iminente (sempre)'},{l:'Paciência do grupo',v:'Admirável'}]},
 
   // ANALÍTICO (f dominante)
-  { id:'analisa_proprio', nome:'O Que Analisa o Próprio Jogo', emoji:'🔍', badge:'Reconhecível', bc:'#1e40af', bt:'white',
-    tag:'Tem vídeos dos próprios erros. Com notas.',
+  { id:'analisa_proprio', nome:'O VAR do Padel', emoji:'🔍', badge:'Reconhecível', bc:'#1e40af', bt:'white',
+    tag:'Grava tudo. Revê em slow motion. Continua a errar da mesma maneira.',
     desc:'Grava os jogos, revê em slow motion, tira notas. A dedicação é admirável. O nível é consistente com alguém que analisa muito e treina pouco. Mas o processo é excelente.',
     traits:[{l:'Dados',v:'Extensos'},{l:'Conclusões',v:'Detalhadas'},{l:'Implementação',v:'Em progresso'}]},
 
   // CONVÍVIO (g dominante)
-  { id:'convivio', nome:'O Que Vem Pelo Convívio', emoji:'🍺', badge:'Honesto', bc:'#854d0e', bt:'white',
-    tag:'O padel é a desculpa. A cerveja é o objectivo.',
+  { id:'convivio', nome:'O Cerveja Primeiro, Padel Depois', emoji:'🍺', badge:'Honesto', bc:'#854d0e', bt:'white',
+    tag:'Já sabe onde é o almoço antes de saber onde é o court.',
     desc:'Joga razoavelmente, ri muito, nunca falta a um jogo e é sempre o primeiro a propor o lugar do convívio a seguir. O marcador é detalhe — o que fica são as histórias.',
     traits:[{l:'Prioridade',v:'Convívio'},{l:'Pós-jogo',v:'Obrigatório'},{l:'Em court',v:'Bem-disposto'}]},
-  { id:'cerveja', nome:'O Que Joga Melhor Com Cerveja', emoji:'🍻', badge:'Misterioso', bc:'#92400e', bt:'white',
-    tag:'A ciência não explica. Mas o grupo confirma.',
+  { id:'cerveja', nome:'O Diesel', emoji:'🍻', badge:'Misterioso', bc:'#92400e', bt:'white',
+    tag:'No primeiro set é um cone. No segundo é o Lebrón. Ninguém percebe.',
     desc:'Há algo que acontece no segundo set que transforma este jogador. Os reflexos melhoram, a posição está melhor, os smashes saem. Ninguém percebe. Ele também não.',
     traits:[{l:'Primeiro set',v:'Morno'},{l:'Segundo set',v:'Outro jogador'},{l:'Razão científica',v:'Desconhecida'}]},
-  { id:'fim_semana', nome:'O Polivalente de Fim de Semana', emoji:'📅', badge:'Honesto', bc:'#065f46', bt:'white',
-    tag:'Sábado é o dia dele. Os outros seis não contam.',
+  { id:'fim_semana', nome:'O Guerreiro de Sábado', emoji:'📅', badge:'Honesto', bc:'#065f46', bt:'white',
+    tag:'De segunda a sexta não existe. Sábado às 9h é outra pessoa.',
     desc:'Durante a semana, esquece o padel completamente. No sábado de manhã, reaparece com mais energia do que qualquer pessoa devia ter às 9h e joga razoavelmente bem.',
     traits:[{l:'Frequência',v:'Uma vez por semana'},{l:'Comprometimento',v:'Zero. Resultados: ok.'},{l:'Pós-jogo',v:'Almoço de família'}]},
   { id:'whatsapp', nome:'O Campeão do WhatsApp', emoji:'📱', badge:'Reconhecível', bc:'#065f46', bt:'white',
@@ -359,18 +382,18 @@ const PERFIS = [
     desc:'O grupo de WhatsApp seria muito menos interessante sem ele. Organiza, propõe, comenta, partilha vídeos. Em court, o rendimento é variável, mas a presença digital é constante.',
     traits:[{l:'Actividade digital',v:'Elevada'},{l:'Mensagens',v:'Muitas'},{l:'Papel',v:'Alma do grupo digital'}]},
 
-  // WHINER (i dominante)
-  { id:'culpa_tudo', nome:'O Que Culpa Tudo', emoji:'🌬️', badge:'Reconhecível', bc:'#6b21a8', bt:'white',
-    tag:'O sol, o vento, o piso, o parceiro... menos ele.',
+  // DESCULPAS (i dominante)
+  { id:'culpa_tudo', nome:'O Meteorologista', emoji:'🌬️', badge:'Reconhecível', bc:'#6b21a8', bt:'white',
+    tag:'Se está sol, encandeia. Se está nublado, não vê. Se não há vento, "o ar estava estranho".',
     desc:'O catálogo de factores externos é extenso e bem documentado. O sol vem sempre do lado errado. O piso tem uma irregularidade específica exactamente onde perde mais pontos.',
     traits:[{l:'Responsabilidade pessoal',v:'Mínima'},{l:'Factores externos',v:'Sempre presentes'},{l:'Criatividade',v:'Alta'}]},
   { id:'desculpas', nome:'O Coleccionador de Desculpas', emoji:'📚', badge:'Honesto', bc:'#7c2d12', bt:'white',
     tag:'Perdeu? Há sempre uma razão. Muitas, na verdade.',
     desc:'O sol, o piso, a raquete, o parceiro, os adversários. O catálogo de razões é vasto, organizado e actualizado regularmente após cada derrota.',
     traits:[{l:'Responsabilidade',v:'Distribuída'},{l:'Variedade',v:'Impressionante'},{l:'Aceitação da derrota',v:'Indirecta'}]},
-  { id:'arbitor', nome:'O Árbitro Não Pedido', emoji:'🟡', badge:'Reconhecível', bc:'#713f12', bt:'white',
-    tag:'Há sempre uma bola que merecia uma segunda opinião.',
-    desc:'Mesmo quando não está a jogar, está atento. Questiona marcações, lembra regras, tem uma opinião sobre cada bola duvidosa. O grupo agradece... maioritariamente.',
+  { id:'arbitor', nome:'O Olho de Falcão', emoji:'🟡', badge:'Reconhecível', bc:'#713f12', bt:'white',
+    tag:'Vê bolas fora que ninguém viu. E bolas dentro que também não viu.',
+    desc:'Mesmo quando não está a jogar, está atento. Questiona marcações, lembra regras, tem uma opinião sobre cada bola duvidosa. O grupo agradece\u2026 maioritariamente.',
     traits:[{l:'Atenção',v:'Máxima'},{l:'Objectividade',v:'Variável'},{l:'Popularidade',v:'Relativa'}]},
 
   // MISTO
@@ -378,34 +401,34 @@ const PERFIS = [
     tag:'Há sempre uma regra. E ele sabe-a.',
     desc:'Em situações de dúvida, ele tem a resposta. Com regulamento citado. Às vezes o regulamento diz o que ele diz. Às vezes diz outra coisa — mas a confiança é inabalável.',
     traits:[{l:'Regulamento',v:'Extenso'},{l:'Fiabilidade',v:'Geralmente boa'},{l:'Timing',v:'Sempre inconveniente'}]},
-  { id:'aquecimento', nome:'O Especialista em Aquecer', emoji:'🔄', badge:'Reconhecível', bc:'#4f46e5', bt:'white',
-    tag:'O aquecimento é fantástico. O jogo é outra conversa.',
+  { id:'aquecimento', nome:'O Rei dos Primeiros 5 Minutos', emoji:'🔄', badge:'Reconhecível', bc:'#4f46e5', bt:'white',
+    tag:'No aquecimento parece profissional. Depois\u2026 nem por isso.',
     desc:'Os primeiros 10 minutos de aquecimento são fluidos e impressionantes. Depois começa o jogo a sério e algo muda. O grupo tem a teoria de que joga melhor quando pensa que ainda é aquecimento.',
     traits:[{l:'Aquecimento',v:'Nível pro'},{l:'Jogo real',v:'Condições diferentes'},{l:'Teoria',v:'Confirmada empiricamente'}]},
-  { id:'resiliente', nome:'O Resiliente', emoji:'💪', badge:'Positivo', bc:'#166534', bt:'white',
-    tag:'Nunca dá o ponto por perdido. Nunca.',
+  { id:'resiliente', nome:'O Indestrutível', emoji:'💪', badge:'Positivo', bc:'#166534', bt:'white',
+    tag:'Perde 1-6 e sorri. "Agora é que começa." E às vezes\u2026 começa mesmo.',
     desc:'Perde o primeiro set por 1-6, vira o segundo, ganha o tie-break. Tem uma capacidade de aguentar que desconcerta os adversários. Quando estás a ganhar fácil de mais, cuidado.',
     traits:[{l:'Estilo',v:'Guerreiro'},{l:'Ponto forte',v:'Resistência mental'},{l:'Momento top',v:'Quando está a perder'}]},
-  { id:'jogador_equipa', nome:'O Jogador de Equipa', emoji:'🤜', badge:'Positivo', bc:'#166534', bt:'white',
-    tag:'Faz os outros melhores. E isso é raro.',
+  { id:'jogador_equipa', nome:'O Cérebro da Dupla', emoji:'🤜', badge:'Positivo', bc:'#166534', bt:'white',
+    tag:'Ninguém sabe o que faz. Mas quando não está, toda a gente perde.',
     desc:'Não é o que faz os pontos mais espectaculares. É o que cria as condições para que aconteçam. Com ele ao lado, toda a gente joga melhor. Esse talento não aparece no marcador.',
     traits:[{l:'Ego',v:'Baixo'},{l:'Contribuição real',v:'Alta'},{l:'Preferência',v:'Vitória da equipa'}]},
-  { id:'tarde', nome:'O Tarde-mas-Chego', emoji:'⏰', badge:'Honesto', bc:'#6b21a8', bt:'white',
-    tag:'15 minutos atrasado é pontual para ele.',
+  { id:'tarde', nome:'O Waze Humano', emoji:'⏰', badge:'Honesto', bc:'#6b21a8', bt:'white',
+    tag:'O grupo já marca 30 min antes só para ele chegar a horas. Não resulta.',
     desc:'Nunca chega a horas. Mas a criatividade das desculpas merece respeito — o trânsito, o trabalho, a família, uma avaria. O grupo já conta com os 15 minutos de atraso no planeamento.',
     traits:[{l:'Horário',v:'Relativo'},{l:'Desculpas',v:'Criativas'},{l:'Em court',v:'Recupera rápido'}]},
 
   // RAROS (j)
-  { id:'fenomeno', nome:'O Fenómeno Inexplicável', emoji:'🌀', badge:'Raro', bc:'#4a044e', bt:'white',
-    tag:'Ninguém percebe como ganha. Nem ele.',
+  { id:'fenomeno', nome:'O Mestre do Caos', emoji:'🌀', badge:'Raro', bc:'#4a044e', bt:'white',
+    tag:'O grip é errado, a posição é errada, o serve é errado. O resultado é certo.',
     desc:'Tecnicamente não devia estar a ganhar. O grip é discutível, o serve é criativo, a posição é heterodoxa. E no entanto os pontos saem. Os treinadores ficam confusos. Ele também.',
     traits:[{l:'Técnica',v:'Heterodoxa'},{l:'Resultados',v:'Surpreendentemente bons'},{l:'Explicação',v:'Nenhuma disponível'}]},
   { id:'fase', nome:'O Padel É Uma Fase', emoji:'🎭', badge:'Especial', bc:'#6b21a8', bt:'white',
     tag:'Começou há dois meses. Já tem três raquetes.',
     desc:'Entrou no padel com a energia de quem descobriu a razão de existir. Joga quatro vezes por semana e já fala em "evoluir a técnica". O grupo tem uma aposta sobre quanto tempo dura.',
     traits:[{l:'Há quanto tempo',v:'Pouco'},{l:'Entusiasmo',v:'Absoluto'},{l:'Longevidade',v:'A apostar'}]},
-  { id:'amanha', nome:'O Candidato a Profissional Amanhã', emoji:'🚀', badge:'Especial', bc:'#0f766e', bt:'white',
-    tag:'A carreira profissional está sempre "para breve".',
+  { id:'amanha', nome:'O Próximo Agustín Tapia', emoji:'🚀', badge:'Especial', bc:'#0f766e', bt:'white',
+    tag:'Auto-proclamado. O grupo finge que acredita. Há 3 anos.',
     desc:'Com o treino certo, a raquete certa e um bocadinho mais de tempo, seria profissional — ele tem a certeza. A certeza mantém-se há anos. A carreira profissional, ainda não.',
     traits:[{l:'Potencial (auto)',v:'Profissional'},{l:'Potencial (grupo)',v:'Amigável'},{l:'Optimismo',v:'Inabalável'}]}
 ];
@@ -461,25 +484,24 @@ function goBack(){
 
 function getResult(){
   if(window._overrideId)return window._overrideId;
-  // Médias esperadas por categoria (para normalização)
-  const MEANS={a:6.0,b:4.0,c:5.3,d:3.0,e:5.2,f:5.3,g:5.0,h:3.0,i:3.3};
-  // Normalizar scores por média
+  // Médias ajustadas para normalização equilibrada
+  const MEANS={a:6.2,b:3.0,c:7.0,d:2.5,e:1.5,f:4.3,g:5.0,h:3.5,i:5.8};
   const norm={};
   'abcdefghi'.split('').forEach(c=>norm[c]=(scores[c]||0)/MEANS[c]);
-  // Top 2 categorias normalizadas
   const sorted=Object.keys(norm).sort((a,b)=>norm[b]-norm[a]);
-  const top1=sorted[0], top2=sorted[1];
-  // Árvore de decisão: categoria dominante → segunda categoria → perfil
+  const top1=sorted[0], top2=sorted[1], top3=sorted[2];
+  // Caos: se os 3 primeiros estão muito próximos → Mestre do Caos
+  if(norm[top1]-norm[top2]<0.08 && norm[top2]-norm[top3]<0.08) return 'fenomeno';
   const TREE={
-    h:{a:'nunca_desiste',f:'comandante',c:'artista',g:'jogador_equipa',e:'resiliente',_:'letal'},
-    a:{h:'intenso',f:'estratega',b:'comentador',g:'amanha',i:'chegou_tarde_dicas',_:'intenso'},
-    b:{f:'regras',i:'arbitor',a:'comentador',g:'whatsapp',c:'aquecimento',_:'coach'},
-    c:{g:'fim_semana',f:'filosofo',h:'descontraido',i:'tarde',b:'cerveja',_:'descontraido'},
-    d:{f:'analisa_proprio',b:'analitico_sofa',a:'equipamento',g:'fase',c:'cerveja',_:'fase'},
-    e:{i:'culpa_tudo',b:'promessa',g:'lesionado',f:'desculpas',a:'promessa',_:'lesionado'},
-    f:{d:'analisa_proprio',b:'aquecimento',a:'estratega',g:'fim_semana',c:'filosofo',_:'analitico_sofa'},
-    g:{c:'cerveja',b:'whatsapp',h:'jogador_equipa',f:'fim_semana',i:'tarde',_:'convivio'},
-    i:{e:'desculpas',b:'arbitor',c:'tarde',a:'chegou_tarde_dicas',g:'culpa_tudo',f:'culpa_tudo',h:'arbitor',_:'culpa_tudo'},
+    h:{a:'nunca_desiste',f:'comandante',c:'artista',g:'jogador_equipa',b:'regras',i:'resiliente',_:'letal'},
+    a:{h:'intenso',f:'estratega',b:'comentador',g:'amanha',i:'chegou_tarde_dicas',c:'amanha',d:'equipamento',_:'intenso'},
+    b:{f:'regras',i:'arbitor',a:'comentador',g:'whatsapp',c:'aquecimento',h:'coach',d:'analitico_sofa',_:'coach'},
+    c:{g:'fim_semana',f:'filosofo',h:'descontraido',i:'tarde',b:'cerveja',a:'descontraido',d:'cerveja',_:'descontraido'},
+    d:{f:'analisa_proprio',b:'analitico_sofa',a:'equipamento',g:'fase',c:'cerveja',i:'equipamento',h:'fase',_:'fase'},
+    e:{i:'culpa_tudo',b:'promessa',g:'lesionado',f:'desculpas',a:'promessa',c:'lesionado',h:'resiliente',_:'lesionado'},
+    f:{d:'analisa_proprio',b:'aquecimento',a:'estratega',g:'fim_semana',c:'filosofo',i:'analisa_proprio',h:'comandante',_:'analitico_sofa'},
+    g:{c:'cerveja',b:'whatsapp',h:'jogador_equipa',f:'fim_semana',i:'tarde',a:'convivio',d:'convivio',_:'convivio'},
+    i:{e:'desculpas',b:'arbitor',c:'tarde',a:'chegou_tarde_dicas',g:'culpa_tudo',f:'culpa_tudo',h:'arbitor',d:'culpa_tudo',_:'culpa_tudo'},
   };
   const branch=TREE[top1]||{};
   return branch[top2]||branch['_']||'convivio';

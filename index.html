@@ -18,6 +18,8 @@
   <meta property="og:title" content="PadelCost — Compara preços de padel em Portugal">
   <meta property="og:description" content="Encontra a melhor oferta entre várias lojas de padel em Portugal.">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="https://padelcost.pt">
+  <meta property="og:image" content="https://padelcost.pt/favicon-49.png">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://padelcost.pt">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -3955,12 +3957,31 @@
           text.startsWith('grip ') ||
           text.includes('hesacore') ||
           text.includes('antivibr') ||
-          text.includes('protector')
+          text.includes('protector') ||
+          text.includes('protetor') ||
+          text.includes('protection') ||
+          text.includes('aderencia') ||
+          text.includes('aderência') ||
+          text.includes('adhesive') ||
+          text.includes('tambor') ||
+          text.includes('chaveiro') ||
+          text.includes('porta chaves') ||
+          text.includes('keyring') ||
+          text.includes('keychain')
         ) {
           return true;
         }
 
         if (text.includes('fronton') || text.includes('frontón')) {
+          return true;
+        }
+
+        if (
+          text.includes('badminton') ||
+          text.includes('praia') ||
+          text.includes('beach') ||
+          text.includes('frescobol')
+        ) {
           return true;
         }
 
@@ -4635,9 +4656,8 @@
                         <div className="guide-card-hero-label">Perfil de Jogador</div>
                       </div>
                       <div className="blog-card-body">
-                        <div className="blog-card-tag">Mais Partilhável</div>
-                        <div className="blog-card-title">Que tipo de jogador de padel és?</div>
-                        <div className="blog-card-desc">Um quiz rápido e partilhável para descobrires o teu perfil em court.</div>
+                        <div className="blog-card-title">Descobre o teu perfil de jogador</div>
+                        <div className="blog-card-desc">Um quiz rápido para perceberes melhor o teu estilo de jogo em court.</div>
                         <div className="blog-card-cta">Começar quiz →</div>
                       </div>
                     </div>

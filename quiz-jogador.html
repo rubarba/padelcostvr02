@@ -433,10 +433,7 @@ const PERFIS = [
     tag:'2 meses. Já tem 3 raquetes.',
     desc:'Entusiasmo absoluto. Longevidade: a apostar.',
     traits:[{l:'Há quanto tempo',v:'Pouco'},{l:'Entusiasmo',v:'Absoluto'},{l:'Longevidade',v:'A apostar'}]},
-  { id:'amanha', nome:'Auto-proclamado Agustín Tapia', emoji:'🚀', img:'nomes_de_guerra/AUTOPROCLAMADO.jpg', badge:'Especial', bc:'#0f766e', bt:'white',
-    tag:'Auto-proclamado. O grupo finge. Há 3 anos.',
-    desc:'Com treino certo seria profissional.',
-    traits:[{l:'Potencial (auto)',v:'Profissional'},{l:'Potencial (grupo)',v:'Amigável'},{l:'Optimismo',v:'Inabalável'}]}
+  
 ];
 
 // ALGORITMO
@@ -500,7 +497,7 @@ function getResult(){
   if(norm[top1]-norm[top2]<0.08 && norm[top2]-norm[top3]<0.08) return 'fenomeno';
   const TREE={
     h:{a:'nunca_desiste',f:'comandante',c:'artista',g:'jogador_equipa',b:'regras',i:'resiliente',_:'letal'},
-    a:{h:'intenso',f:'estratega',b:'comentador',g:'amanha',i:'chegou_tarde_dicas',c:'amanha',d:'equipamento',_:'intenso'},
+    a:{h:'intenso',f:'estratega',b:'comentador',g:'fase',i:'chegou_tarde_dicas',c:'fase',d:'equipamento',_:'intenso'},
     b:{f:'regras',i:'arbitor',a:'comentador',g:'whatsapp',c:'aquecimento',h:'coach',d:'analitico_sofa',_:'coach'},
     c:{g:'fim_semana',f:'filosofo',h:'descontraido',i:'tarde',b:'cerveja',a:'descontraido',d:'cerveja',_:'descontraido'},
     d:{f:'analisa_proprio',b:'analitico_sofa',a:'equipamento',g:'fase',c:'cerveja',i:'equipamento',h:'fase',_:'fase'},
@@ -518,8 +515,11 @@ function showResult(){
   const id=getResult();
   const p=PERFIS.find(x=>x.id===id)||PERFIS[0];
   document.getElementById('result-wrap').classList.add('active');
-  const baseUrl = location.protocol === 'file:' ? 'https://padelcost.pt/quiz-jogador.html' : location.href.split('?')[0];
-  const shareUrl=`${baseUrl}?tipo=${encodeURIComponent(p.nome)}`;
+  const slugifyNome = (s) => s.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/[^a-z0-9]+/g,'-')
+    .replace(/^-+|-+$/g,'');
+  const shareUrl=`https://padelcost.pt/quiz-share/quiz-jogador-${slugifyNome(p.nome)}.html`;
   const shareText=`Fiz o quiz do PadelCost e sou... ${p.nome} ${p.emoji}\n"${p.tag}"\nDescobre o teu tipo: `;
   const avatar = p.img
     ? `<div class="result-avatar-wrap"><img class="result-avatar" src="${encodeURI(p.img)}" alt="${p.nome}"></div>`

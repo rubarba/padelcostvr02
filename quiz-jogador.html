@@ -520,7 +520,7 @@ function showResult(){
     .replace(/[^a-z0-9]+/g,'-')
     .replace(/^-+|-+$/g,'');
   const shareUrl=`https://padelcost.pt/quiz-share/quiz-jogador-${slugifyNome(p.nome)}.html`;
-  const shareText=`Fiz o quiz do PadelCost e sou... ${p.nome} ${p.emoji}\n"${p.tag}"\nDescobre o teu tipo: `;
+  const shareText=`Fiz o quiz do PadelCost. Descobre o teu tipo de jogador 👇\n`;
   const avatar = p.img
     ? `<div class="result-avatar-wrap"><img class="result-avatar" src="${encodeURI(p.img)}" alt="${p.nome}"></div>`
     : `<span class="result-emoji">${p.emoji}</span>`;

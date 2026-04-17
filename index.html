@@ -658,7 +658,7 @@
 
     /* ========== BANNER SLIDER ========== */
     .banner-slider {
-      margin-top: 2rem;
+      margin-top: 1.05rem;
       border-radius: 0;
       overflow: hidden;
       position: relative;
@@ -718,13 +718,43 @@
       margin-bottom: 1rem;
       line-height: 1.2;
       text-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      white-space: pre-line;
     }
 
     .slide-text {
-      font-size: 1rem;
+      font-size: 0.94rem;
       color: rgba(255, 255, 255, 0.95);
-      line-height: 1.6;
+      line-height: 1.5;
       text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+      white-space: pre-line;
+    }
+
+    .slide-actions {
+      display: flex;
+      gap: 0.55rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .slide-cta-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 36px;
+      padding: 0.56rem 1.05rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.96);
+      color: #10202f;
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-decoration: none;
+      box-shadow: 0 10px 24px rgba(4, 15, 27, 0.22);
+      transition: transform 0.2s ease, background 0.2s ease;
+    }
+
+    .slide-cta-btn:hover {
+      background: #ffffff;
+      transform: translateY(-1px);
     }
 
     .slider-dots {
@@ -844,6 +874,21 @@
       border-top: 1px solid rgba(19, 32, 44, 0.08);
     }
 
+    .novelty-section {
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .novelty-section .section-header {
+      margin-bottom: 1.35rem;
+    }
+
+    .novelty-section .section-title {
+      font-size: 1.22rem;
+      letter-spacing: -0.015em;
+    }
+
     .partner-banner-section {
       margin-top: 1.15rem;
       margin-bottom: 0.35rem;
@@ -905,43 +950,37 @@
       margin: 0.9rem 0.9rem 0;
       border-radius: 14px;
       min-height: 132px;
-      padding: 1.15rem 1.15rem 1rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      gap: 0.8rem;
-      background: linear-gradient(135deg, #13202c 0%, #246fb2 100%);
-      color: #fff;
-      transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+      overflow: hidden;
+      background: #13202c;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
-    .guide-card-hero-icon {
-      font-size: 3.7rem;
-      opacity: 0.95;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transform: scale(1);
+    .guide-card-hero img {
+      width: 100%;
+      height: 132px;
+      display: block;
+      object-fit: cover;
       transition: transform 0.3s ease;
     }
 
-    .guide-card-hero-label {
-      font-size: 0.84rem;
-      font-weight: 800;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.76);
+    .guide-card-hero img.guide-card-image-profile {
+      object-position: center;
+    }
+
+    .guide-card-hero img.guide-card-image-rackets {
+      object-position: center;
+    }
+
+    .guide-card-hero img.guide-card-image-shoes {
+      object-position: center;
     }
 
     .guide-grid .blog-card:hover .guide-card-hero {
       transform: translateY(-2px);
       box-shadow: inset 0 0 0 1px rgba(255,255,255,0.08), 0 16px 34px rgba(15, 42, 73, 0.22);
-      background: linear-gradient(135deg, #12263b 0%, #2b82cf 100%);
     }
 
-    .guide-grid .blog-card:hover .guide-card-hero-icon {
+    .guide-grid .blog-card:hover .guide-card-hero img {
       transform: scale(1.06);
     }
 
@@ -2574,6 +2613,149 @@
 
 
     /* ========== RESPONSIVE ========== */
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .container {
+        padding: 0 1.2rem;
+      }
+
+      .header {
+        padding: 0.82rem 0;
+      }
+
+      .header-top {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 0.85rem 1rem;
+        align-items: center;
+      }
+
+      .logo svg {
+        height: 46px;
+      }
+
+      .header-tagline {
+        min-width: 0;
+        padding-left: 1rem;
+        margin-left: 0;
+      }
+
+      .header-tagline p {
+        font-size: 0.72rem;
+        line-height: 1.35;
+      }
+
+      .header-tagline p:last-child {
+        display: none;
+      }
+
+      .search-wrapper {
+        grid-column: 1 / -1;
+        width: 100%;
+        max-width: none;
+      }
+
+      .favorites-trigger {
+        padding: 0.62rem 0.8rem;
+        gap: 0.42rem;
+        font-size: 0.78rem;
+        white-space: nowrap;
+      }
+
+      .favorites-trigger-count {
+        min-width: 20px;
+        height: 20px;
+        font-size: 0.68rem;
+      }
+
+      .categories-container {
+        gap: 0.45rem;
+      }
+
+      .category-btn {
+        padding: 0.78rem 1rem;
+        font-size: 0.88rem;
+      }
+
+      .main-layout {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+
+      .sidebar {
+        display: none;
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 330px;
+        max-width: 86vw;
+        z-index: 100;
+        border-radius: 0;
+        max-height: 100vh;
+        margin-top: 0;
+      }
+
+      .sidebar.open {
+        display: block;
+      }
+
+      .sidebar-overlay.active {
+        display: block;
+      }
+
+      .mobile-filters-btn {
+        display: flex;
+        position: static;
+        bottom: auto;
+        right: auto;
+        padding: 0.68rem 0.95rem;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        box-shadow: none;
+        white-space: nowrap;
+        background: #fff;
+        color: var(--text);
+        border: 1px solid var(--border);
+        font-weight: 700;
+        min-width: fit-content;
+      }
+
+      .mobile-filters-btn i {
+        color: var(--text-muted);
+      }
+
+      .products-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 0.95rem;
+      }
+
+      .products-grid.products-grid-catalog {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .product-card {
+        padding: 0.82rem;
+      }
+
+      .product-image {
+        height: 178px;
+      }
+
+      .product-name {
+        font-size: 0.88rem;
+      }
+
+      .product-actions {
+        gap: 0.45rem;
+      }
+
+      .btn-small {
+        padding: 0.62rem 0.58rem;
+        font-size: 0.76rem;
+        white-space: nowrap;
+      }
+    }
+
     @media (max-width: 768px) {
       .container {
         padding: 0 1rem;
@@ -2769,9 +2951,20 @@
         line-height: 1.08;
       }
 
-      .slide-subtitle {
+      .slide-text {
         font-size: 0.82rem;
         margin-top: 0.35rem;
+      }
+
+      .slide-actions {
+        gap: 0.45rem;
+        margin-top: 0.75rem;
+      }
+
+      .slide-cta-btn {
+        min-height: 34px;
+        padding: 0.52rem 0.78rem;
+        font-size: 0.72rem;
       }
 
       .slide-badge {
@@ -3561,6 +3754,13 @@
   ];
 
   const productsData = window.PADELCOST_PRODUCTS || [];
+  const catalogUpdatedAt = window.PADELCOST_UPDATED_AT || null;
+  const catalogUpdatedLabel = (() => {
+    if (!catalogUpdatedAt) return 'Atualizado recentemente';
+    const date = new Date(catalogUpdatedAt);
+    if (Number.isNaN(date.getTime())) return 'Atualizado recentemente';
+    return `Atualizado em ${date.toLocaleDateString('pt-PT', { day: 'numeric', month: 'long' })}`;
+  })();
 
   const STORE_PRIORITY = {
     'Padel Market': 0,
@@ -3787,35 +3987,31 @@
 
   const bannerSlides = [
     {
-      badge: 'PadelCost',
-      title: 'Compara preços de artigos de padel',
+      badge: '',
+      title: 'Compara preços\nde artigos de padel',
       text: 'Encontra a melhor oferta entre várias lojas num só lugar.',
       cta: 'Explorar catálogo',
       href: './index.html',
       bg: 'linear-gradient(to right, rgba(12,20,29,0.78) 0%, rgba(12,20,29,0.38) 38%, rgba(12,20,29,0.04) 78%), url("./images/banner-slide-01.jpg")'
     },
     {
-      badge: 'Guia de Raquetes',
-      title: 'Primeira raquete? Não compres sem ler isto',
-      text: 'Um guia rápido para perceber forma, peso e nível antes de escolher a tua próxima raquete.',
-      cta: 'Ler guia',
-      href: './guia-raquetes.html',
-      bg: 'linear-gradient(to right, rgba(12,20,29,0.8) 0%, rgba(12,20,29,0.28) 100%), url("./images/side-view-woman-holding-palette (1).jpg")'
+      badge: '',
+      title: 'Faz o Quiz e Encontra\no Equipamento Ideal',
+      text: 'Responde a algumas perguntas e recebe 3 sugestões\npersonalizadas para o teu jogo.',
+      actions: [
+        { label: 'Quiz de Raquetes', href: './guia-raquetes.html' },
+        { label: 'Quiz de Sapatilhas', href: './guia-sapatilhas.html' }
+      ],
+      bg: 'linear-gradient(to right, rgba(12,20,29,0.8) 0%, rgba(12,20,29,0.36) 42%, rgba(12,20,29,0.06) 78%), url("./images/banner-slide-02.jpg")'
     },
-    featuredBannerProduct ? {
-      badge: 'Produto em destaque',
-      title: 'Oportunidade em destaque',
-      text: `${truncateText(featuredBannerProduct.product.name, 68)} desde ${formatPrice(featuredBannerProduct.bestStore.price)} em ${featuredBannerProduct.bestStore.name}.`,
-      cta: 'Ver produto',
-      href: `./index.html?q=${encodeURIComponent(featuredBannerProduct.product.name)}`,
-      bg: `linear-gradient(to right, rgba(12,20,29,0.84) 0%, rgba(12,20,29,0.24) 100%), url("${featuredBannerProduct.product.image}")`
-    } : {
-      badge: 'PadelCost',
-      title: 'Compara artigos de padel com mais contexto',
-      text: 'Quizzes, guias e produtos em destaque para tornar a escolha mais simples.',
-      cta: 'Explorar catálogo',
-      href: './index.html',
-      bg: 'linear-gradient(to right, rgba(12,20,29,0.8) 0%, rgba(12,20,29,0.3) 100%), url("./images/guide-sapatilhas-card.png")'
+    {
+      badge: '',
+      title: 'Que Tipo de Jogador És?',
+      text: 'Um quiz rápido para revelar o jogador que há em ti.',
+      actions: [
+        { label: 'Fazer quiz', href: './quiz-jogador.html' }
+      ],
+      bg: 'linear-gradient(to right, rgba(12,20,29,0.84) 0%, rgba(12,20,29,0.46) 42%, rgba(12,20,29,0.08) 78%), url("./images/banner-slide-03.jpg")'
     }
   ];
 
@@ -3962,11 +4158,46 @@
         .filter(Boolean)
         .join(' | ')
         .toLowerCase();
+      const hasAny = (terms) => terms.some(term => text.includes(term));
 
       if (category === 'raquetes') {
         if (
-          text.includes('overgrip') ||
-          text.includes('overgrips') ||
+          hasAny([
+            'overgrip',
+            'overgrips',
+            'punho',
+            'punhos',
+            'balanceador',
+            'peso personalizado',
+            'optiweight',
+            'spray',
+            'totalseco',
+            'pendente',
+            'joyas',
+            'colar',
+            'joia',
+            'jewelry',
+            'bola',
+            'bolas',
+            'pote de bolas',
+            'tubo de bola',
+            'tubo selecionador',
+            'manga ',
+            'mangas ',
+            'cotoveleira',
+            'joelheira',
+            'calça',
+            'calças',
+            'pólo',
+            'polo',
+            'camiseta',
+            'camisa',
+            't-shirt',
+            'vestido',
+            'saia',
+            'sack protour',
+            'sck protour',
+          ]) ||
           text.includes(' grip ') ||
           text.startsWith('grip ') ||
           text.includes('hesacore') ||
@@ -4018,8 +4249,66 @@
         }
       }
 
+      if (category === 'sapatilhas') {
+        if (
+          hasAny([
+            'ropa',
+            'accesorios',
+            'pelotas',
+            'calça',
+            'calças',
+            'calções',
+            'shorts',
+            'pólo',
+            'polo',
+            'camiseta',
+            'camisa',
+            't-shirt',
+            'tee ',
+            'vestido',
+            'saia',
+            'manga ',
+            'mangas ',
+            'cotoveleira',
+            'joelheira',
+            'meias',
+            'sock',
+            'socks',
+            'overgrip',
+            'grip ',
+            'cheiro',
+            'spray',
+            'footgel',
+            'bola',
+            'bolas',
+            'pote de bolas',
+            'tubo de bola',
+            'tubo selecionador',
+            'raquete',
+            'raqueta',
+            'badminton',
+            'pendente',
+            'joyas',
+            'colar',
+            'saco ',
+            'mochila',
+            'paletero',
+            'raquetero',
+          ])
+        ) {
+          return true;
+        }
+      }
+
       return false;
     };
+
+    const monitoredProductsCount = useMemo(() => {
+      return catalogProductsData.filter((product) =>
+        ['raquetes', 'sapatilhas', 'sacos'].includes(product.category) &&
+        !isCategoryIntruder(product, product.category)
+      ).length;
+    }, []);
 
     // Get filter options based on active category
     const getOptions = () => {
@@ -4068,6 +4357,56 @@
     };
 
     const options = getOptions();
+
+    const baseFilterProducts = useMemo(() => {
+      return catalogProductsData.filter(product => {
+        if (activeCategory !== 'all' && product.category !== activeCategory) return false;
+        if (activeCategory !== 'all' && isCategoryIntruder(product, activeCategory)) return false;
+        if (searchQuery && !product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
+            !product.brand.toLowerCase().includes(searchQuery.toLowerCase())) return false;
+        if (product.price > filters.precoMax) return false;
+        return true;
+      });
+    }, [activeCategory, searchQuery, filters.precoMax]);
+
+    const matchesFiltersExcept = (product, ignoredType) => {
+      if (ignoredType !== 'marcas' && filters.marcas.length > 0 && !filters.marcas.includes(product.brand)) return false;
+      if (ignoredType !== 'lojas' && filters.lojas.length > 0) {
+        const hasSelectedStore = product.stores?.some(store => filters.lojas.includes(store.name));
+        if (!hasSelectedStore) return false;
+      }
+
+      if (activeCategory === 'raquetes') {
+        if (ignoredType !== 'forma' && filters.forma.length > 0 && !filters.forma.includes(product.specs.forma)) return false;
+        if (ignoredType !== 'nivel' && filters.nivel.length > 0 && !filters.nivel.includes(product.specs.nivel)) return false;
+      }
+
+      if (activeCategory === 'sapatilhas') {
+        if (ignoredType !== 'genero' && filters.genero.length > 0 && !filters.genero.includes(product.specs.genero)) return false;
+        if (ignoredType !== 'tamanho' && filters.tamanho.length > 0) {
+          const hasSize = filters.tamanho.some(t => product.specs.tamanhos?.includes(t));
+          if (!hasSize) return false;
+        }
+      }
+
+      return true;
+    };
+
+    const getOptionCount = (type, value) => {
+      return baseFilterProducts.filter(product => {
+        if (!matchesFiltersExcept(product, type)) return false;
+        if (type === 'marcas') return product.brand === value;
+        if (type === 'lojas') return product.stores?.some(store => store.name === value);
+        if (type === 'forma') return product.specs?.forma === value;
+        if (type === 'nivel') return product.specs?.nivel === value;
+        if (type === 'genero') return product.specs?.genero === value;
+        if (type === 'tamanho') return product.specs?.tamanhos?.includes(value);
+        if (type === 'tipo') return product.specs?.tipo === value;
+        return false;
+      }).length;
+    };
+
+    const optionLabel = (type, value) => `${value} (${getOptionCount(type, value)})`;
 
     // Filter products
     const filteredProducts = useMemo(() => {
@@ -4565,20 +4904,43 @@
             <div className="container">
               <div className="banner-slider">
               <div className="slider-wrapper">
-                {bannerSlides.map((slide, idx) => (
-                  <a
-                    key={idx}
-                    className={`slide ${idx === currentSlide ? 'active' : ''}`}
-                    href={slide.href || '#'}
-                    style={{ backgroundImage: slide.bg }}
-                  >
+                {bannerSlides.map((slide, idx) => {
+                  const slideBody = (
                     <div className="slide-content">
-                      <div className="slide-badge">{slide.badge}</div>
+                      {slide.badge && <div className="slide-badge">{slide.badge}</div>}
                       <h2 className="slide-title">{slide.title}</h2>
                       <p className="slide-text">{slide.text}</p>
+                      {slide.actions && (
+                        <div className="slide-actions">
+                          {slide.actions.map((action) => (
+                            <a key={action.href} className="slide-cta-btn" href={action.href}>
+                              {action.label}
+                            </a>
+                          ))}
+                        </div>
+                      )}
                     </div>
-                  </a>
-                ))}
+                  );
+
+                  return slide.actions ? (
+                    <div
+                      key={idx}
+                      className={`slide ${idx === currentSlide ? 'active' : ''}`}
+                      style={{ backgroundImage: slide.bg }}
+                    >
+                      {slideBody}
+                    </div>
+                  ) : (
+                    <a
+                      key={idx}
+                      className={`slide ${idx === currentSlide ? 'active' : ''}`}
+                      href={slide.href || '#'}
+                      style={{ backgroundImage: slide.bg }}
+                    >
+                      {slideBody}
+                    </a>
+                  );
+                })}
               </div>
               <div className="slider-dots">
                 {bannerSlides.map((_, idx) => (
@@ -4595,10 +4957,10 @@
 
             {/* HOMEPAGE SECTIONS */}
             {activeCategory === 'all' && (
-              <div className="container" style={{ marginTop: '2rem' }}>
+              <div className="container" style={{ marginTop: '0.95rem' }}>
 
                 {/* Novidades & Lançamentos */}
-                <div className="guide-section">
+                <div className="guide-section novelty-section">
                   <div className="section-header">
                     <div>
                       <h2 className="section-title">Novidades & Lançamentos</h2>
@@ -4666,8 +5028,7 @@
                   <div className="blog-grid guide-grid">
                     <div className="blog-card" onClick={() => window.location.href='./quiz-jogador.html'} style={{ cursor: 'pointer' }}>
                       <div className="guide-card-hero">
-                        <div className="guide-card-hero-icon"><i className="fas fa-bolt"></i></div>
-                        <div className="guide-card-hero-label">Perfil de Jogador</div>
+                        <img className="guide-card-image-profile" src="./images/guide-card-perfil-jogador.jpg" alt="Jogador de padel em ambiente cinematográfico" loading="lazy" />
                       </div>
                       <div className="blog-card-body">
                         <div className="blog-card-title">Descobre o teu perfil de jogador</div>
@@ -4677,8 +5038,7 @@
                     </div>
                     <div className="blog-card" onClick={() => window.location.href='./guia-raquetes.html'} style={{ cursor: 'pointer' }}>
                       <div className="guide-card-hero">
-                        <div className="guide-card-hero-icon">{categoryIcons.raquetes}</div>
-                        <div className="guide-card-hero-label">Raquetes</div>
+                        <img className="guide-card-image-rackets" src="./images/guide-card-raquetes.jpg" alt="Raquete de padel com desenho técnico" loading="lazy" />
                       </div>
                       <div className="blog-card-body">
                         <div className="blog-card-tag">Quiz de Compra</div>
@@ -4689,8 +5049,7 @@
                     </div>
                     <div className="blog-card" onClick={() => window.location.href='./guia-sapatilhas.html'} style={{ cursor: 'pointer' }}>
                       <div className="guide-card-hero">
-                        <div className="guide-card-hero-icon">{categoryIcons.sapatilhas}</div>
-                        <div className="guide-card-hero-label">Sapatilhas</div>
+                        <img className="guide-card-image-shoes" src="./images/guide-card-sapatilhas.jpg" alt="Sapatilha de padel em movimento" loading="lazy" />
                       </div>
                       <div className="blog-card-body">
                         <div className="blog-card-tag">Quiz de Compra</div>
@@ -4733,7 +5092,7 @@
                             onClick={() => toggle('marcas', m)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {m}
+                            {optionLabel('marcas', m)}
                           </div>
                         ))}
                       </div>
@@ -4755,7 +5114,7 @@
                             onClick={() => toggle('forma', f)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {f}
+                            {optionLabel('forma', f)}
                           </div>
                         ))}
                       </div>
@@ -4777,7 +5136,7 @@
                             onClick={() => toggle('nivel', n)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {n}
+                            {optionLabel('nivel', n)}
                           </div>
                         ))}
                       </div>
@@ -4799,7 +5158,7 @@
                             onClick={() => toggle('genero', g)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {g}
+                            {optionLabel('genero', g)}
                           </div>
                         ))}
                       </div>
@@ -4821,7 +5180,7 @@
                             onClick={() => toggle('tamanho', t)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {t}
+                            {optionLabel('tamanho', t)}
                           </div>
                         ))}
                       </div>
@@ -4843,7 +5202,7 @@
                             onClick={() => toggle('tipo', t)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {t}
+                            {optionLabel('tipo', t)}
                           </div>
                         ))}
                       </div>
@@ -4889,7 +5248,7 @@
                             onClick={() => toggle('lojas', loja)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {loja}
+                            {optionLabel('lojas', loja)}
                           </div>
                         ))}
                       </div>
@@ -5473,8 +5832,8 @@
                     </svg>
                   </div>
                   <p>Compara preços de raquetes, sapatilhas e sacos de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.</p>
-                  <div className="footer-catalog-stat">{productsData.length} produtos monitorizados neste momento</div>
-                  <div className="footer-catalog-updated">Atualizado em 15 de abril</div>
+                  <div className="footer-catalog-stat">{monitoredProductsCount} produtos monitorizados neste momento</div>
+                  <div className="footer-catalog-updated">{catalogUpdatedLabel}</div>
                 </div>
 
                 {/* Categorias */}
@@ -5485,22 +5844,22 @@
                   <a href="./" onClick={(e) => { e.preventDefault(); setActiveCategory('sacos'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sacos</a>
                 </div>
 
-                {/* Informações */}
+                {/* Sobre */}
                 <div className="footer-col">
-                  <h4>Informações</h4>
+                  <h4>Sobre</h4>
                   <a href="./como-funciona.html">Como Funciona</a>
+                  <a href="./sobre.html">Quem Somos</a>
+                  <a href="./lojas.html">Lojas Parceiras</a>
+                  <a href="./contacto.html">Contacto</a>
+                </div>
+
+                {/* Legal */}
+                <div className="footer-col">
+                  <h4>Legal</h4>
                   <a href="./dados.html">Condições de Uso</a>
                   <a href="./dados.html">Aviso Legal</a>
                   <a href="./privacidade.html">Política de Privacidade</a>
                   <a href="./cookies.html">Política de Cookies</a>
-                </div>
-
-                {/* PadelCost */}
-                <div className="footer-col">
-                  <h4>PadelCost</h4>
-                  <a href="./sobre.html">Quem Somos</a>
-                  <a href="./contacto.html">Contacto</a>
-                  <a href="./lojas.html">Lojas Parceiras</a>
                 </div>
 
                 {/* Redes */}

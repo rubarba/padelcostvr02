@@ -11,6 +11,8 @@ const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse');
+const { normalizeProductName } = require('./name-normalization');
+const { isCoreCatalogProduct } = require('./category-rules');
 
 const CONFIG = {
   feedUrl: process.env.PADEL_MARKET_FEED_URL || '',
@@ -258,7 +260,29 @@ function mapCategory(row) {
     combined.includes('sandália') ||
     combined.includes('chinelo') ||
     combined.includes('slide') ||
-    combined.includes('footgel')
+    combined.includes('footgel') ||
+    combined.includes('overgrip') ||
+    combined.includes('grip ') ||
+    combined.startsWith('grip ') ||
+    combined.includes('hesacore') ||
+    combined.includes('protector') ||
+    combined.includes('protetor') ||
+    combined.includes('protection') ||
+    combined.includes('aderencia') ||
+    combined.includes('adhesive') ||
+    combined.includes('tambor') ||
+    combined.includes('chaveiro') ||
+    combined.includes('porta chaves') ||
+    combined.includes('keyring') ||
+    combined.includes('keychain')
+  ) return 'acessorios';
+
+  if (
+    combined.includes('badminton') ||
+    combined.includes('praia') ||
+    combined.includes('beach') ||
+    combined.includes('frescobol') ||
+    combined.includes('fronton')
   ) return 'acessorios';
 
   if (
@@ -310,10 +334,10 @@ function rowToOffer(row, id) {
   const parsedShoeSpecs = category === 'sapatilhas' ? extractShoeSpecs(row) : null;
   const rating = cleanPrice(row.average_rating || row.rating);
 
-  return {
+  const offer = {
     id,
     slug: slugify(`${row.product_name}-${row.aw_product_id || row.merchant_product_id || id}`),
-    name: row.product_name || '',
+    name: normalizeProductName(row.product_name || '', category),
     brand: row.brand_name || '',
     category,
     price,
@@ -350,6 +374,8 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  return isCoreCatalogProduct(offer) ? offer : null;
 }
 
 async function main() {
@@ -374,7 +400,7 @@ async function main() {
     console.log(`✂️   Limitado a ${CONFIG.maxProducts} produtos`);
   }
 
-  const offers = unique.map((row, i) => rowToOffer(row, i + 1)).filter(offer => offer.name && offer.price != null);
+  const offers = unique.map((row, i) => rowToOffer(row, i + 1)).filter(offer => offer?.name && offer.price != null);
 
   const outputPath = path.resolve(__dirname, CONFIG.outputDir, 'padel-market-data.js');
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });

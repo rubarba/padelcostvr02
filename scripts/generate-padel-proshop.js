@@ -10,6 +10,8 @@ const https = require('https');
 const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
+const { normalizeProductName } = require('./name-normalization');
+const { isCoreCatalogProduct } = require('./category-rules');
 
 const CONFIG = {
   feedUrl: process.env.PADEL_PROSHOP_FEED_URL || '',
@@ -264,6 +266,15 @@ function mapCategory(row) {
     combined.startsWith('grip ') ||
     combined.includes('hesacore') ||
     combined.includes('protector') ||
+    combined.includes('protetor') ||
+    combined.includes('protection') ||
+    combined.includes('aderencia') ||
+    combined.includes('adhesive') ||
+    combined.includes('tambor') ||
+    combined.includes('chaveiro') ||
+    combined.includes('porta chaves') ||
+    combined.includes('keyring') ||
+    combined.includes('keychain') ||
     combined.includes('antivibr') ||
     combined.includes('meia') ||
     combined.includes('meias') ||
@@ -277,6 +288,14 @@ function mapCategory(row) {
     combined.includes('fita') ||
     combined.includes('tape')
   ) return 'acessorios';
+
+  if (
+    combined.includes('badminton') ||
+    combined.includes('praia') ||
+    combined.includes('beach') ||
+    combined.includes('frescobol') ||
+    combined.includes('fronton')
+  ) return null;
 
   if (
     (combined.includes('tenis') || combined.includes('tennis')) &&
@@ -347,6 +366,7 @@ function rowToOffer(row, id) {
   const price = cleanPrice(getField(row, 'SalePrice', 'g:sale_price', 'Price', 'CurrentPrice', 'g:price', 'price'));
   const originalPrice = cleanPrice(getField(row, 'OriginalPrice', 'OldPrice', 'g:price', 'price'));
   const category = mapCategory(row);
+  if (!category) return null;
   const racketSpecs = category === 'raquetes' ? extractRacketSpecs(row) : null;
   const shoeSpecs = category === 'sapatilhas' ? extractShoeSpecs(row) : null;
   const stockValue = normalizeText(getField(row, 'Instock', 'InStock', 'g:availability', 'availability'));
@@ -361,10 +381,10 @@ function rowToOffer(row, id) {
     stockValue === 'disponivel' ||
     stockValue === 'disponivel agora';
 
-  return {
+  const offer = {
     id,
     slug: slugify(`${getField(row, 'Name', 'title') || 'produto'}-${getField(row, 'ItemGroupId', 'g:item_group_id', 'SKU', 'g:id', 'Ean', 'g:gtin', 'ManufacturerArticleNumber', 'g:mpn') || id}`),
-    name: getField(row, 'Name', 'title') || '',
+    name: normalizeProductName(getField(row, 'Name', 'title') || '', category),
     brand: getField(row, 'Brand', 'g:brand', 'brand') || '',
     category,
     price,
@@ -401,6 +421,8 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  return isCoreCatalogProduct(offer) ? offer : null;
 }
 
 async function main() {
@@ -454,7 +476,7 @@ async function main() {
 
   const offers = uniqueRows
     .map((row, i) => rowToOffer(row, i + 1))
-    .filter(offer => ['raquetes', 'sapatilhas', 'sacos'].includes(offer.category))
+    .filter(Boolean)
     .filter(offer => offer.name && offer.price != null);
 
   const outputPath = path.resolve(__dirname, CONFIG.outputDir, 'padel-proshop-data.js');

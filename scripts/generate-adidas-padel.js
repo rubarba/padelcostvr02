@@ -13,6 +13,8 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse');
+const { normalizeProductName } = require('./name-normalization');
+const { isCoreCatalogProduct } = require('./category-rules');
 
 const CONFIG = {
   feedUrl:
@@ -258,10 +260,10 @@ function rowToOffer(row, id) {
   const category = mapCategory(row);
   const parsedSpecs = category === 'raquetes' ? extractRacketSpecs(row) : null;
   const parsedShoeSpecs = category === 'sapatilhas' ? extractShoeSpecs(row) : null;
-  return {
+  const offer = {
     id,
     slug: slugify(`${row.name}-${row['product ID']}`),
-    name: row.name || '',
+    name: normalizeProductName(row.name || '', category),
     brand: 'Adidas',
     category,
     price,
@@ -296,6 +298,8 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  return isCoreCatalogProduct(offer) ? offer : null;
 }
 
 async function main() {
@@ -320,7 +324,7 @@ async function main() {
     console.log(`✂️   Limitado a ${CONFIG.maxProducts} produtos`);
   }
 
-  const offers = unique.map((row, i) => rowToOffer(row, i + 1));
+  const offers = unique.map((row, i) => rowToOffer(row, i + 1)).filter(Boolean);
 
   const outputPath = path.resolve(__dirname, CONFIG.outputDir, 'adidas-padel-data.js');
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });

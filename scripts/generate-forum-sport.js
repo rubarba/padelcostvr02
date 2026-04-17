@@ -12,6 +12,8 @@ const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse');
+const { normalizeProductName } = require('./name-normalization');
+const { isCoreCatalogProduct } = require('./category-rules');
 
 const CONFIG = {
   feedUrl: process.env.FORUM_SPORT_FEED_URL || '',
@@ -38,6 +40,15 @@ const EXCLUDE_PRODUCT_MARKERS = [
   'antivibrador',
   'cordaje',
   'protector',
+  'protetor',
+  'protection',
+  'aderencia',
+  'adhesive',
+  'tambor',
+  'chaveiro',
+  'porta chaves',
+  'keyring',
+  'keychain',
   'varios padel',
   'varios tenis',
   'neceser',
@@ -53,6 +64,10 @@ const EXCLUDE_PRODUCT_MARKERS = [
   'goma fronton',
   'goma frontón',
   'pala cuero',
+  'badminton',
+  'praia',
+  'beach',
+  'frescobol',
   'muñequera',
   'pulsera',
   'pulsiera',
@@ -378,13 +393,13 @@ function toOffer(row) {
   if (price == null) return null;
 
   const oldPrice = cleanPrice(firstNonEmpty(row.rrp_price, row.product_price_old, row.base_price, row.base_price_amount));
-  const name = normalizeSpaces(row.product_name);
+  const name = normalizeProductName(row.product_name, category);
   const brand = normalizeSpaces(row.brand_name || row.merchant_name || '');
   const sourceProductId = row.merchant_product_id || row.aw_product_id || null;
   const url = firstNonEmpty(row.merchant_deep_link, row.aw_deep_link);
   if (!name || !url) return null;
 
-  return {
+  const offer = {
     id: `forum-sport-${slugify(name)}-${sourceProductId || slugify(row.ean || row.product_GTIN || row.mpn || '')}`,
     name,
     brand,
@@ -410,6 +425,8 @@ function toOffer(row) {
       },
     ],
   };
+
+  return isCoreCatalogProduct(offer) ? offer : null;
 }
 
 function main() {

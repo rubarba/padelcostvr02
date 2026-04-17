@@ -19,6 +19,8 @@ const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse');
+const { normalizeProductName } = require('./name-normalization');
+const { isCategoryIntruder } = require('./category-rules');
 
 // ─── Configuração ──────────────────────────────────────────────────────────────
 
@@ -144,6 +146,28 @@ function mapCategory(row) {
   const combined = [productType, merchantCategory, categoryName, name, description]
     .filter(Boolean)
     .join(' | ');
+
+  if (
+    combined.includes('overgrip') ||
+    combined.includes('grip ') ||
+    combined.startsWith('grip ') ||
+    combined.includes('hesacore') ||
+    combined.includes('protector') ||
+    combined.includes('protetor') ||
+    combined.includes('protection') ||
+    combined.includes('aderencia') ||
+    combined.includes('adhesive') ||
+    combined.includes('tambor') ||
+    combined.includes('chaveiro') ||
+    combined.includes('porta chaves') ||
+    combined.includes('keyring') ||
+    combined.includes('keychain') ||
+    combined.includes('badminton') ||
+    combined.includes('praia') ||
+    combined.includes('beach') ||
+    combined.includes('frescobol') ||
+    combined.includes('fronton')
+  ) return 'acessorios';
 
   // Prioridade alta: roupa tem de ganhar logo para não cair em acessórios.
   if (includesAnyKeyword(combined, CATEGORY_KEYWORDS.roupa)) return 'roupa';
@@ -306,7 +330,7 @@ function rowToProduct(row, id) {
 
   return {
     id,
-    name:     row.product_name || '',
+    name:     normalizeProductName(row.product_name || '', category),
     brand:    row.brand_name   || '',
     category,
     price,
@@ -471,7 +495,9 @@ async function main() {
   }
 
   // 7. Transformar para estrutura do PadelCost
-  const products = unique.map((row, i) => rowToProduct(row, i + 1));
+  const products = unique
+    .map((row, i) => rowToProduct(row, i + 1))
+    .filter(product => !isCategoryIntruder(product, product.category));
 
   // 8. Gerar ficheiro JS
   const outputPath = path.resolve(__dirname, CONFIG.outputDir, 'products-data.js');
@@ -485,6 +511,7 @@ async function main() {
     `// NÃO EDITES ESTE FICHEIRO MANUALMENTE - é gerado pelo script generate-products.js`,
     `// NÃO COMMITAS chaves de API - este ficheiro apenas contém dados públicos`,
     ``,
+    `window.PADELCOST_UPDATED_AT = ${JSON.stringify(now)};`,
     `window.PADELCOST_PRODUCTS = ${JSON.stringify(products, null, 2)};`,
   ].join('\n');
 

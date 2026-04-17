@@ -8,7 +8,8 @@
     "generate:padelmarket": "node generate-padel-market.js",
     "generate:padelproshop": "node generate-padel-proshop.js",
     "generate:forumsport": "node generate-forum-sport.js",
-    "merge:offers": "node merge-offers.js"
+    "merge:offers": "node merge-offers.js",
+    "report:quality": "node report-quality.js"
   },
   "dependencies": {
     "csv-parse": "^5.5.6",

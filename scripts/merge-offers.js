@@ -14,6 +14,8 @@
 
 const fs = require('fs');
 const path = require('path');
+const { normalizeProductName } = require('./name-normalization');
+const { isCategoryIntruder } = require('./category-rules');
 
 const DATA_DIR = path.resolve(__dirname, '../data');
 const MAIN_FILE = path.join(DATA_DIR, 'products-data.js');
@@ -193,7 +195,7 @@ function nextProductId(products) {
 function createProductFromOffer(offer, id) {
   return {
     id,
-    name: offer.name || '',
+    name: normalizeProductName(offer.name || '', offer.category),
     brand: offer.brand || '',
     category: offer.category || 'acessorios',
     price: offer.price ?? null,
@@ -268,6 +270,11 @@ function processOffers({
   const { byEan, byGtin, byMpn, bySignature, byName } = indexes;
 
   for (const offer of offers) {
+    if (isCategoryIntruder(offer, offer.category)) {
+      counters.skipped += 1;
+      continue;
+    }
+
     const offerKey = `${offer.category}::${normalizeText(offer.name)}`;
     if (rejectedKeys.has(offerKey)) {
       counters.skipped += 1;
@@ -294,7 +301,10 @@ function processOffers({
     if (!target) {
       const explicitTarget = safeNameMap.get(offerKey);
       if (explicitTarget) {
-        target = byName.get(`${offer.category}::${normalizeText(explicitTarget)}`) || null;
+        target =
+          byName.get(`${offer.category}::${normalizeText(explicitTarget)}`) ||
+          byName.get(`${offer.category}::${normalizeText(normalizeProductName(explicitTarget, offer.category))}`) ||
+          null;
         if (target) counters.mapped += 1;
       }
     }
@@ -337,6 +347,14 @@ function processOffers({
 
 function main() {
   const products = extractWindowData(MAIN_FILE, 'PADELCOST_PRODUCTS');
+  for (const product of products) {
+    product.name = normalizeProductName(product.name, product.category);
+  }
+  for (let i = products.length - 1; i >= 0; i -= 1) {
+    if (isCategoryIntruder(products[i], products[i].category)) {
+      products.splice(i, 1);
+    }
+  }
   const adidas = extractWindowData(ADIDAS_FILE, 'PADELCOST_ADIDAS_PRODUCTS');
   const padelMarket = fs.existsSync(PADEL_MARKET_FILE)
     ? extractWindowData(PADEL_MARKET_FILE, 'PADELCOST_PADEL_MARKET_PRODUCTS')
@@ -416,6 +434,7 @@ function main() {
     `// Produtos: ${products.length}`,
     `// Merge lojas: ${counters.merged} ofertas integradas, ${counters.skipped} por rever`,
     ``,
+    `window.PADELCOST_UPDATED_AT = ${JSON.stringify(now)};`,
     `window.PADELCOST_PRODUCTS = ${JSON.stringify(products, null, 2)};`,
   ].join('\n');
 

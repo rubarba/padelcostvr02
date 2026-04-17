@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página não encontrada | PadelCost</title>
+  <meta name="description" content="A página que procuras não foi encontrada no PadelCost. Volta ao comparador ou explora as categorias principais.">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://padelcost.pt/404.html">
+  <link rel="icon" type="image/png" sizes="49x49" href="./favicon-49.png">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MN6K5WQWLZ');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      font-family: 'Manrope', sans-serif;
+      color: #13202c;
+      background:
+        radial-gradient(circle at 20% 10%, rgba(0,119,204,0.08), transparent 34%),
+        linear-gradient(180deg, #eef2f6 0%, #f7f9fb 100%);
+    }
+    a { color: inherit; text-decoration: none; }
+    .container { width: min(100% - 2rem, 1180px); margin: 0 auto; }
+
+    .header {
+      background: linear-gradient(135deg, #0c141d 0%, #163047 48%, #1f6ead 100%);
+      padding: 1.1rem 0;
+    }
+    .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+    .header-logo img { display: block; width: 180px; max-width: 48vw; height: auto; }
+    .header-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      color: rgba(255,255,255,0.82);
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    .main { flex: 1; display: grid; place-items: center; padding: 4rem 0; }
+    .error-card {
+      width: min(100%, 780px);
+      background: rgba(255,255,255,0.92);
+      border: 1px solid rgba(19,32,44,0.08);
+      border-radius: 28px;
+      padding: clamp(2rem, 6vw, 4rem);
+      text-align: center;
+      box-shadow: 0 28px 70px rgba(15,26,38,0.12);
+    }
+    .error-code {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 88px;
+      height: 42px;
+      margin-bottom: 1.25rem;
+      border-radius: 999px;
+      background: #eaf2fb;
+      color: #0077cc;
+      font-size: 0.82rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 6vw, 4.6rem);
+      line-height: 0.98;
+      letter-spacing: -0.06em;
+      margin-bottom: 1rem;
+    }
+    .lead {
+      max-width: 560px;
+      margin: 0 auto 2rem;
+      color: #5f7287;
+      font-size: 1rem;
+      line-height: 1.75;
+    }
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      min-height: 44px;
+      padding: 0.75rem 1.25rem;
+      border-radius: 999px;
+      font-size: 0.9rem;
+      font-weight: 800;
+      border: 1px solid rgba(19,32,44,0.1);
+    }
+    .btn-primary { background: #0077cc; color: #fff; box-shadow: 0 14px 28px rgba(0,119,204,0.22); }
+    .btn-secondary { background: #fff; color: #13202c; }
+    .quick-links {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
+      max-width: 520px;
+      margin: 0 auto;
+    }
+    .quick-links a {
+      padding: 0.85rem;
+      border-radius: 16px;
+      background: #f5f8fc;
+      color: #4a6077;
+      font-weight: 800;
+      font-size: 0.88rem;
+    }
+    .quick-links i { color: #0077cc; margin-right: 0.35rem; }
+
+    .footer {
+      padding: 1.2rem 0;
+      background: #0e1e35;
+      color: rgba(255,255,255,0.55);
+      font-size: 0.84rem;
+    }
+    .footer-inner { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+    .footer a { color: rgba(255,255,255,0.78); }
+
+    @media (max-width: 640px) {
+      .header-inner { align-items: flex-start; flex-direction: column; }
+      .main { padding: 2.2rem 0; }
+      .error-card { border-radius: 22px; }
+      .quick-links { grid-template-columns: 1fr; }
+      .actions { flex-direction: column; }
+      .btn { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a class="header-logo" href="./index.html" aria-label="PadelCost">
+        <img src="./logos/padelcost-footer-logo.svg" alt="PadelCost">
+      </a>
+      <a class="header-link" href="./index.html"><i class="fas fa-arrow-left"></i> Voltar ao comparador</a>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <section class="error-card" aria-labelledby="error-title">
+        <div class="error-code">Erro 404</div>
+        <h1 id="error-title">Página fora do court.</h1>
+        <p class="lead">O link pode ter mudado, sido removido ou estar mal escrito. Continua a explorar o PadelCost e encontra a melhor oferta para o teu equipamento.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="./index.html"><i class="fas fa-house"></i> Ir para a homepage</a>
+          <a class="btn btn-secondary" href="./contacto.html"><i class="far fa-envelope"></i> Contactar PadelCost</a>
+        </div>
+        <nav class="quick-links" aria-label="Categorias principais">
+          <a href="./index.html"><i class="fas fa-table-tennis-paddle-ball"></i> Raquetes</a>
+          <a href="./index.html"><i class="fas fa-shoe-prints"></i> Sapatilhas</a>
+          <a href="./index.html"><i class="fas fa-briefcase"></i> Sacos</a>
+        </nav>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span>© PadelCost 2026. Todos os direitos reservados.</span>
+      <span>Os preços podem variar. Confirma sempre na loja.</span>
+    </div>
+  </footer>
+</body>
+</html>

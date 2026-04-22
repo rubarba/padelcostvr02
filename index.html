@@ -11,15 +11,16 @@
   </script>
   <meta charset="UTF-8">
   <meta name="mylead-verification" content="e2cf2643c83c44b1553489d0db500d33" />
-  <link rel="icon" type="image/png" sizes="49x49" href="./favicon-49.png">
-    <link rel="apple-touch-icon" href="./favicon-49.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
   <meta name="description" content="Compara preços de raquetes, sapatilhas, bolas e acessórios de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.">
   <meta name="keywords" content="padel, raquetes padel, sapatilhas padel, comparador preços padel, padel portugal">
   <meta property="og:title" content="PadelCost — Compara preços de padel em Portugal">
   <meta property="og:description" content="Encontra a melhor oferta entre várias lojas de padel em Portugal.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://padelcost.pt">
-  <meta property="og:image" content="https://padelcost.pt/favicon-49.png">
+  <meta property="og:image" content="https://padelcost.pt/favicon-192.png">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://padelcost.pt">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +31,7 @@
       "@type": "Organization",
       "name": "PadelCost",
       "url": "https://padelcost.pt",
-      "logo": "https://padelcost.pt/favicon-49.png"
+      "logo": "https://padelcost.pt/favicon-192.png"
     }
   </script>
   <script type="application/ld+json">
@@ -2939,11 +2940,15 @@
       }
 
       .banner-slider {
-        height: 192px;
+        height: 170px;
       }
 
       .slide {
         padding: 1rem;
+      }
+
+      .slide-0 {
+        background-position: 78% center;
       }
 
       .slide-title {
@@ -4925,7 +4930,7 @@
                   return slide.actions ? (
                     <div
                       key={idx}
-                      className={`slide ${idx === currentSlide ? 'active' : ''}`}
+                      className={`slide slide-${idx} ${idx === currentSlide ? 'active' : ''}`}
                       style={{ backgroundImage: slide.bg }}
                     >
                       {slideBody}
@@ -4933,7 +4938,7 @@
                   ) : (
                     <a
                       key={idx}
-                      className={`slide ${idx === currentSlide ? 'active' : ''}`}
+                      className={`slide slide-${idx} ${idx === currentSlide ? 'active' : ''}`}
                       href={slide.href || '#'}
                       style={{ backgroundImage: slide.bg }}
                     >

@@ -132,7 +132,6 @@
           <div class="quiz-opts" id="q-opts"></div>
           <div class="quiz-nav">
             <button class="quiz-btn-back" id="btn-back" onclick="goBack()" style="display:none">← Voltar</button>
-            <button class="quiz-btn-next" id="btn-next" onclick="goNext()" disabled>Continuar →</button>
           </div>
         </div>
       </div>
@@ -453,9 +452,8 @@ function renderQ() {
   document.getElementById('q-counter').textContent=`Pergunta ${step+1} de ${QS.length}`;
   document.getElementById('q-progress').style.width=pct+'%';
   document.getElementById('q-text').textContent=q.q;
+  document.querySelector('#quiz-wrap .quiz-nav').style.display=step>0?'flex':'none';
   document.getElementById('btn-back').style.display=step>0?'block':'none';
-  document.getElementById('btn-next').disabled=answers[step]===undefined;
-  document.getElementById('btn-next').textContent=step===QS.length-1?'Ver resultado →':'Continuar →';
   const L=['A','B','C','D'];
   document.getElementById('q-opts').innerHTML=q.opts.map((o,i)=>`
     <div class="quiz-opt${answers[step]===i?' sel':''}" onclick="pick(${i})">
@@ -464,7 +462,7 @@ function renderQ() {
     </div>`).join('');
 }
 
-function pick(i){answers[step]=i;document.getElementById('btn-next').disabled=false;renderQ();}
+function pick(i){answers[step]=i;goNext();}
 
 function goNext(){
   if(answers[step]===undefined)return;

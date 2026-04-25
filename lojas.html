@@ -610,8 +610,12 @@
   </footer>
 
   <script src="./data/products-data.js"></script>
+  <script src="./data/amazon-manual-data.js"></script>
   <script>
-    const products = Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : [];
+    const products = [
+      ...(Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : []),
+      ...(Array.isArray(window.PADELCOST_AMAZON_PRODUCTS) ? window.PADELCOST_AMAZON_PRODUCTS : [])
+    ];
     const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos']);
     const monitoredProducts = products.filter((product) => coreCategories.has(product.category)).length;
     const storeInfo = {
@@ -629,6 +633,9 @@
       },
       'Forum Sport ES': {
         url: 'https://www.forumsport.com/es-es/'
+      },
+      'Amazon ES': {
+        url: 'https://www.amazon.es/'
       }
     };
     const storeMap = new Map();
@@ -691,6 +698,9 @@
       }
       if (storeName === 'Forum Sport ES') {
         return '<img src="./logos/logo-forum-sport-es.webp" alt="Forum Sport ES">';
+      }
+      if (storeName === 'Amazon ES') {
+        return '<img src="./logos/amazon-logo.png" alt="Amazon ES">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;

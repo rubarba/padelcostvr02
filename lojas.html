@@ -567,7 +567,7 @@
             <h4>Categorias</h4>
             <a href="./index.html">Raquetes</a>
             <a href="./index.html">Sapatilhas</a>
-            <a href="./index.html">Sacos</a>
+            <a href="./index.html">Sacos de padel</a>
           </div>
           <div class="footer-col">
             <h4>Informações</h4>
@@ -612,10 +612,33 @@
   <script src="./data/products-data.js"></script>
   <script src="./data/amazon-manual-data.js"></script>
   <script>
-    const products = [
+    const rawProducts = [
       ...(Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : []),
       ...(Array.isArray(window.PADELCOST_AMAZON_PRODUCTS) ? window.PADELCOST_AMAZON_PRODUCTS : [])
     ];
+    const normalizeText = (value) => (value || '')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const normalizeCategory = (product) => {
+      if (!product || product.category !== 'bolas') return product?.category;
+      const text = normalizeText([
+        product?.name,
+        product?.sourceCategory,
+        product?.description
+      ].filter(Boolean).join(' | '));
+      const hasRacketHint = ['raquete de padel', 'raqueta de padel', 'racket', 'pala de padel', 'palas de padel']
+        .some((hint) => text.includes(hint));
+      const hasAccessoryHint = ['overgrip', 'grip', 'spray', 'pendente', 'joia', 'joyas', 'bola', 'bolas', 'pack x3', 'pacote x3', 'pacote x6', 'tubo', 'pote']
+        .some((hint) => text.includes(hint));
+      return hasRacketHint && !hasAccessoryHint ? 'raquetes' : product.category;
+    };
+    const products = rawProducts.map((product) => {
+      const category = normalizeCategory(product);
+      return category === product.category ? product : { ...product, category };
+    });
     const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos']);
     const monitoredProducts = products.filter((product) => coreCategories.has(product.category)).length;
     const storeInfo = {

@@ -2264,6 +2264,72 @@
       background: #edf2f7;
     }
 
+    .comparison-store-links {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .comparison-store-links-best {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.42rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .comparison-store-links-best-label,
+    .comparison-store-links-other-label {
+      font-size: 0.68rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+    }
+
+    .comparison-store-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 128px;
+      padding: 0.55rem 0.9rem;
+      border-radius: 999px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 0.82rem;
+      font-weight: 700;
+      line-height: 1;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .comparison-store-link-best {
+      background: #0f9d58;
+      min-width: 180px;
+    }
+
+    .comparison-store-link-best:hover {
+      background: #0b864a;
+    }
+
+    .comparison-store-link-secondary {
+      background: #eef3f8;
+      color: var(--text);
+      border: 1px solid var(--border);
+      min-width: 168px;
+    }
+
+    .comparison-store-link-secondary:hover {
+      background: #e0e8f1;
+      color: var(--text);
+    }
+
+    .comparison-store-link:hover {
+      background: #0066bb;
+      transform: translateY(-1px);
+    }
+
     .no-results {
       text-align: center;
       padding: 4rem 2rem;
@@ -3509,6 +3575,31 @@
         font-size: 0.72rem;
       }
 
+      .comparison-store-links {
+        gap: 0.38rem;
+      }
+
+      .comparison-store-links-best {
+        margin-bottom: 0.18rem;
+      }
+
+      .comparison-store-links-best-label,
+      .comparison-store-links-other-label {
+        font-size: 0.56rem;
+      }
+
+      .comparison-store-link {
+        min-width: 100%;
+        padding: 0.48rem 0.6rem;
+        font-size: 0.66rem;
+        text-align: center;
+      }
+
+      .comparison-store-link-best,
+      .comparison-store-link-secondary {
+        min-width: 100%;
+      }
+
       .blog-grid {
         grid-template-columns: 1fr;
         gap: 0.8rem;
@@ -3932,10 +4023,10 @@
   const categories = [
     { id: 'raquetes', name: 'Raquetes', icon: 'fas fa-table-tennis', color: '#e77926' },
     { id: 'sapatilhas', name: 'Sapatilhas', icon: 'fas fa-shoe-prints', color: '#8b5cf6' },
-    { id: 'sacos', name: 'Sacos', icon: 'fas fa-shopping-bag', color: '#f59e0b' }
+    { id: 'sacos', name: 'Sacos de padel', icon: 'fas fa-shopping-bag', color: '#f59e0b' }
   ];
 
-  const productsData = [
+  const rawProductsData = [
     ...(window.PADELCOST_PRODUCTS || []),
     ...(window.PADELCOST_AMAZON_PRODUCTS || [])
   ];
@@ -3987,6 +4078,58 @@
     .replace(/\s+/g, ' ')
     .trim();
 
+  const normalizeCatalogCategory = (product) => {
+    if (!product || product.category !== 'bolas') return product?.category;
+
+    const text = normalizeCatalogText([
+      product?.name,
+      product?.sourceCategory,
+      product?.description
+    ].filter(Boolean).join(' | '));
+
+    const racketHints = [
+      'raquete de padel',
+      'raqueta de padel',
+      'racket',
+      'pala de padel',
+      'palas de padel'
+    ];
+
+    const accessoryHints = [
+      'overgrip',
+      'grip',
+      'spray',
+      'pendente',
+      'joia',
+      'joyas',
+      'bola',
+      'bolas',
+      'pack x3',
+      'pacote x3',
+      'pacote x6',
+      'tubo',
+      'pote'
+    ];
+
+    const hasRacketHint = racketHints.some((hint) => text.includes(hint));
+    const hasAccessoryHint = accessoryHints.some((hint) => text.includes(hint));
+
+    if (hasRacketHint && !hasAccessoryHint) {
+      return 'raquetes';
+    }
+
+    return product.category;
+  };
+
+  const productsData = rawProductsData.map((product) => {
+    const normalizedCategory = normalizeCatalogCategory(product);
+    if (normalizedCategory === product.category) return product;
+    return {
+      ...product,
+      category: normalizedCategory
+    };
+  });
+
   const normalizeCatalogIdentifier = (value) => {
     const digits = String(value || '').replace(/[^0-9]/g, '');
     if (!digits) return '';
@@ -3996,6 +4139,119 @@
 
   const getCatalogPrimaryIdentifier = (product) => {
     return normalizeCatalogIdentifier(product?.productGTIN || product?.ean || product?.upc);
+  };
+
+  const SHOE_SIZE_THIRD_MAP = {
+    '1/3': 1 / 3,
+    '2/3': 2 / 3
+  };
+
+  const parseShoeSizeValue = (value) => {
+    if (typeof value === 'number' && Number.isFinite(value)) {
+      return Number(value.toFixed(3));
+    }
+
+    const text = String(value || '')
+      .replace(',', '.')
+      .trim();
+
+    if (!text) return null;
+
+    const thirdMatch = text.match(/^([34][0-9])\s*([12]\/3)$/);
+    if (thirdMatch) {
+      const base = Number(thirdMatch[1]);
+      const extra = SHOE_SIZE_THIRD_MAP[thirdMatch[2]];
+      return Number((base + extra).toFixed(3));
+    }
+
+    const decimal = Number(text);
+    if (Number.isFinite(decimal)) {
+      return Number(decimal.toFixed(3));
+    }
+
+    return null;
+  };
+
+  const formatShoeSizeLabel = (value) => {
+    const size = parseShoeSizeValue(value);
+    if (!Number.isFinite(size)) return String(value);
+
+    const base = Math.floor(size);
+    const fraction = Number((size - base).toFixed(3));
+
+    if (Math.abs(fraction) < 0.01) return `${base}`;
+    if (Math.abs(fraction - 0.5) < 0.01) return `${base}.5`;
+    if (Math.abs(fraction - (1 / 3)) < 0.02) return `${base} 1/3`;
+    if (Math.abs(fraction - (2 / 3)) < 0.02) return `${base} 2/3`;
+
+    return `${Number(size.toFixed(2))}`;
+  };
+
+  const extractShoeSizesFromText = (value) => {
+    const text = String(value || '').replace(/,/g, '.');
+    if (!text) return [];
+
+    const matches = [
+      ...text.matchAll(/(?:^|[\s_-])((?:3[6-9]|4[0-9])(?:\.(?:5))?)(?=$|[\s_-])/g),
+      ...text.matchAll(/(?:^|[\s_-])((?:3[6-9]|4[0-9])\s*(?:1\/3|2\/3))(?=$|[\s_-])/g)
+    ];
+
+    return Array.from(new Set(
+      matches
+        .map((match) => parseShoeSizeValue(match[1]))
+        .filter((size) => Number.isFinite(size))
+    )).sort((a, b) => a - b);
+  };
+
+  const MODAL_SPEC_LABELS = {
+    peso: 'Peso',
+    forma: 'Forma',
+    equilibrio: 'Equilíbrio',
+    nivel: 'Nível',
+    material: 'Material',
+    estilo: 'Estilo',
+    sola: 'Sola',
+    uso: 'Uso',
+    genero: 'Género',
+    cor: 'Cor',
+    amortecimento: 'Amortecimento',
+    tamanhos: 'Tamanhos'
+  };
+
+  const getModalSpecs = (product) => {
+    if (!product?.specs) return [];
+
+    const specOrderByCategory = {
+      raquetes: ['peso', 'forma', 'equilibrio', 'nivel', 'material', 'estilo'],
+      sapatilhas: ['genero', 'tamanhos', 'sola', 'amortecimento', 'uso', 'cor'],
+      sacos: ['genero', 'cor', 'material']
+    };
+
+    const orderedKeys = specOrderByCategory[product.category] || Object.keys(product.specs);
+
+    return orderedKeys
+      .map((key) => {
+        const rawValue = product.specs?.[key];
+        if (Array.isArray(rawValue)) {
+          if (rawValue.length === 0) return null;
+          return {
+            key,
+            label: MODAL_SPEC_LABELS[key] || (key.charAt(0).toUpperCase() + key.slice(1)),
+            value: key === 'tamanhos'
+              ? rawValue.map(formatShoeSizeLabel).join(', ')
+              : rawValue.join(', ')
+          };
+        }
+
+        if (rawValue === null || rawValue === undefined || rawValue === '') return null;
+
+        return {
+          key,
+          label: MODAL_SPEC_LABELS[key] || (key.charAt(0).toUpperCase() + key.slice(1)),
+          value: rawValue
+        };
+      })
+      .filter(Boolean);
   };
 
   const getCatalogSpecsScore = (product) => {
@@ -4020,7 +4276,7 @@
     const existingSizes = product?.specs?.tamanhos;
     if (Array.isArray(existingSizes) && existingSizes.length > 0) {
       return existingSizes
-        .map(value => Number(String(value).replace(',', '.')))
+        .map(parseShoeSizeValue)
         .filter(value => Number.isFinite(value));
     }
 
@@ -4031,14 +4287,8 @@
     ].filter(Boolean);
 
     for (const candidate of candidates) {
-      const text = String(candidate).replace(',', '.');
-      const matches = text.match(/(?:^|[_\\-\\s])(3[6-9](?:\\.5)?|4[0-6](?:\\.5)?)(?=$|[_\\-\\s])/g);
-      if (matches && matches.length > 0) {
-        const sizes = matches
-          .map(match => Number(match.replace(/[^0-9.]/g, '')))
-          .filter(value => Number.isFinite(value));
-        if (sizes.length > 0) return sizes;
-      }
+      const sizes = extractShoeSizesFromText(candidate);
+      if (sizes.length > 0) return sizes;
     }
 
     return [];
@@ -4048,7 +4298,8 @@
     const brand = normalizeCatalogText(product?.brand);
     const name = normalizeCatalogText(product?.name)
       .replace(/\s*\((?:shoes|shoe)\)\s*$/i, '')
-      .replace(/\b\d{2}(?:\.\d)?\b(?=\s*(?:eu|uk|us)?$)/g, '')
+      .replace(/\b\d{2}(?:\.\d+)?\b(?=\s*(?:eu|uk|us)?$)/g, '')
+      .replace(/\b\d{2}\s*[12]\/3\b(?=\s*(?:eu|uk|us)?$)/g, '')
       .trim();
     return `${brand}::${name}`;
   };
@@ -4696,7 +4947,10 @@
       }).length;
     };
 
-    const optionLabel = (type, value) => `${value} (${getOptionCount(type, value)})`;
+    const optionLabel = (type, value) => {
+      const label = type === 'tamanho' ? formatShoeSizeLabel(value) : value;
+      return `${label} (${getOptionCount(type, value)})`;
+    };
 
     // Filter products
     const filteredProducts = useMemo(() => {
@@ -5821,6 +6075,55 @@
               alwaysShow: true,
               render: (product) => `${product.stores.length} lojas`,
             },
+            {
+              key: 'store-links',
+              label: 'Ir para lojas',
+              alwaysShow: true,
+              render: (product) => {
+                const sortedStores = [...(product.stores || [])].sort(compareStores);
+                const bestPrice = sortedStores.length > 0 ? sortedStores[0].price : null;
+                const bestStores = sortedStores.filter((store) => store.price === bestPrice);
+                const otherStores = sortedStores.filter((store) => store.price !== bestPrice);
+
+                return (
+                  <div className="comparison-store-links">
+                    <div className="comparison-store-links-best">
+                      <span className="comparison-store-links-best-label">
+                        {bestStores.length > 1 ? 'Melhor preço' : 'Loja mais barata'}
+                      </span>
+                      {bestStores.map((store) => (
+                        <a
+                          key={`${product.id}-${store.name}`}
+                          href={store.url}
+                          className="comparison-store-link comparison-store-link-best"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {store.name} - {formatPrice(store.price)}
+                        </a>
+                      ))}
+                    </div>
+
+                    {otherStores.length > 0 && (
+                      <>
+                        <span className="comparison-store-links-other-label">Outras lojas</span>
+                        {otherStores.map((store) => (
+                          <a
+                            key={`${product.id}-${store.name}`}
+                            href={store.url}
+                            className="comparison-store-link comparison-store-link-secondary"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {store.name}
+                          </a>
+                        ))}
+                      </>
+                    )}
+                  </div>
+                );
+              },
+            },
           ].filter((row) => {
             if (row.alwaysShow) return true;
             const hasValue = row.hasValue || ((product) => {
@@ -5999,6 +6302,10 @@
           <div className="modal" onClick={(e) => e.stopPropagation()}>
             {selectedProduct && (
               <>
+                {(() => {
+                  const modalSpecs = getModalSpecs(selectedProduct);
+                  return (
+              <>
                 <div className="modal-header">
                   <div className="modal-product-image">
                     <img src={selectedProduct.image} alt={selectedProduct.name} className={getProductImageClassName(selectedProduct)} />
@@ -6006,14 +6313,12 @@
                   <div className="modal-product-info">
                     <div className="modal-product-brand">{selectedProduct.brand}</div>
                     <h2 className="modal-product-title">{selectedProduct.name}</h2>
-                    {selectedProduct.specs && Object.values(selectedProduct.specs).some(val => val) && (
+                    {modalSpecs.length > 0 && (
                       <div className="modal-specs">
-                        {Object.entries(selectedProduct.specs)
-                          .filter(([, val]) => val)
-                          .map(([key, val]) => (
-                          <div key={key} className="modal-spec-item">
-                            <span className="modal-spec-label">{key.charAt(0).toUpperCase() + key.slice(1)}</span>
-                            <span className="modal-spec-value">{val}</span>
+                        {modalSpecs.map((spec) => (
+                          <div key={spec.key} className="modal-spec-item">
+                            <span className="modal-spec-label">{spec.label}</span>
+                            <span className="modal-spec-value">{spec.value}</span>
                           </div>
                         ))}
                       </div>
@@ -6046,6 +6351,9 @@
                     <button className="modal-close" onClick={closeModal}>✕</button>
                   </div>
                 </div>
+              </>
+                  );
+                })()}
 
                 <div className="modal-body">
                   <h3 className="comparison-title">Compara preços em {selectedProduct.stores.length} {selectedProduct.stores.length === 1 ? 'loja' : 'lojas'}</h3>
@@ -6083,17 +6391,6 @@
                           </div>
                         );
                       })}
-                    {[1, 2, 3, 4].map((item) => (
-                      <div key={`upcoming-${item}`} className="store-item store-item-upcoming" aria-hidden="true">
-                        <div className="store-logo">Breve</div>
-                        <div className="store-info">
-                          <div className="store-name">Loja parceira em breve</div>
-                          <div className="store-stock">Estamos a expandir a comparação para mais lojas.</div>
-                        </div>
-                        <div className="store-price">--</div>
-                        <span className="store-action store-action-disabled">Em breve</span>
-                      </div>
-                    ))}
                   </div>
                   <p className="modal-store-note">Estamos a adicionar mais lojas para comparação.</p>
                 </div>
@@ -6187,7 +6484,7 @@
                   <h4>Categorias</h4>
                   <a href="./" onClick={(e) => { e.preventDefault(); setActiveCategory('raquetes'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Raquetes</a>
                   <a href="./" onClick={(e) => { e.preventDefault(); setActiveCategory('sapatilhas'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sapatilhas</a>
-                  <a href="./" onClick={(e) => { e.preventDefault(); setActiveCategory('sacos'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sacos</a>
+                  <a href="./" onClick={(e) => { e.preventDefault(); setActiveCategory('sacos'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sacos de padel</a>
                 </div>
 
                 {/* Sobre */}

@@ -173,9 +173,9 @@
       display: inline-flex;
       align-items: center;
       gap: 0.55rem;
-      padding: 0.78rem 1.05rem;
+      padding: 0.72rem 0;
       border-radius: 999px;
-      border: 1px solid rgba(255,255,255,0.24);
+      border: none;
       background: transparent;
       color: #fff;
       font-family: 'Manrope', sans-serif;
@@ -183,12 +183,11 @@
       font-weight: 700;
       cursor: pointer;
       transition: all 0.25s ease;
-      backdrop-filter: blur(12px);
     }
 
     .favorites-trigger:hover {
       background: transparent;
-      border-color: rgba(255,255,255,0.42);
+      color: rgba(255,255,255,0.86);
       transform: translateY(-1px);
     }
 
@@ -205,6 +204,39 @@
       font-size: 0.74rem;
       font-weight: 800;
       line-height: 1;
+    }
+
+    .categories-inner {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .categories-container {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .category-help-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: #51627a;
+      font-size: 0.95rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: color 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .category-help-link:hover {
+      color: var(--accent);
+      transform: translateY(-1px);
+    }
+
+    .category-help-link i {
+      font-size: 0.88rem;
     }
 
     .search-suggestions {
@@ -1116,6 +1148,13 @@
       z-index: 2;
     }
 
+    .product-badge-opportunity {
+      background: linear-gradient(135deg, #f59e0b 0%, #e77926 100%);
+      text-transform: none;
+      letter-spacing: 0;
+      box-shadow: 0 8px 20px rgba(231, 121, 38, 0.28);
+    }
+
     .product-favorite-btn {
       position: absolute;
       top: 1.2rem;
@@ -1257,6 +1296,107 @@
     .product-actions {
       display: flex;
       gap: 0.6rem;
+    }
+
+    .editorial-product-actions {
+      display: flex;
+      flex-direction: column-reverse;
+      gap: 0.55rem;
+      margin-top: 0.95rem;
+    }
+
+    .editorial-product-actions .btn-buy {
+      width: 100%;
+      justify-content: center;
+      min-height: 46px;
+    }
+
+    .editorial-product-actions .btn-compare {
+      width: 100%;
+      justify-content: center;
+      background: transparent;
+      border: none;
+      border-top: 1px solid rgba(19, 32, 44, 0.1);
+      border-radius: 0;
+      color: var(--text-soft);
+      font-size: 0.84rem;
+      font-weight: 700;
+      min-height: 34px;
+      padding: 0.22rem 0 0;
+    }
+
+    .editorial-product-actions .btn-compare:hover {
+      color: var(--text);
+      background: transparent;
+      transform: none;
+      box-shadow: none;
+    }
+
+    .editorial-product-actions .btn-compare.active {
+      color: var(--accent);
+      background: transparent;
+      border-top-color: rgba(0, 119, 204, 0.22);
+      box-shadow: none;
+    }
+
+    .editorial-product-actions .btn-compare.active:hover {
+      background: transparent;
+    }
+
+    .trust-strip {
+      margin: 1.2rem 0 0.35rem;
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid rgba(19, 32, 44, 0.06);
+      border-radius: 18px;
+      box-shadow: 0 10px 28px rgba(15, 26, 38, 0.05);
+      overflow: hidden;
+    }
+
+    .trust-strip-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .trust-strip-item {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1.1rem 1.35rem;
+      min-height: 104px;
+    }
+
+    .trust-strip-item + .trust-strip-item {
+      border-left: 1px solid rgba(19, 32, 44, 0.08);
+    }
+
+    .trust-strip-icon {
+      width: 46px;
+      height: 46px;
+      flex-shrink: 0;
+      color: #1b3550;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .trust-strip-icon svg {
+      width: 100%;
+      height: 100%;
+      stroke: currentColor;
+    }
+
+    .trust-strip-title {
+      font-size: 0.98rem;
+      font-weight: 800;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 0.18rem;
+    }
+
+    .trust-strip-text {
+      font-size: 0.91rem;
+      color: var(--text-soft);
+      line-height: 1.45;
     }
 
     .btn-small {
@@ -1884,6 +2024,22 @@
       margin-top: 0.7rem;
       font-size: 0.88rem;
       color: var(--text-soft);
+    }
+
+    .modal-opportunity-note {
+      margin: 0.2rem 0 1rem;
+      font-size: 0.95rem;
+      color: #d97706;
+      font-weight: 800;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .modal-opportunity-note i {
+      font-size: 0.88rem;
+      color: #f59e0b;
+      line-height: 1;
     }
 
     .best-price-badge {
@@ -2797,6 +2953,23 @@
         font-size: 0.68rem;
       }
 
+      .trust-strip-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .trust-strip-item:nth-child(3),
+      .trust-strip-item:nth-child(4) {
+        border-top: 1px solid rgba(19, 32, 44, 0.08);
+      }
+
+      .trust-strip-item:nth-child(3) {
+        border-left: none;
+      }
+
+      .category-help-link {
+        font-size: 0.9rem;
+      }
+
       .categories-container {
         gap: 0.45rem;
       }
@@ -3173,6 +3346,47 @@
         right: 0.65rem;
         padding: 0.28rem 0.55rem;
         font-size: 0.56rem;
+      }
+
+      .trust-strip {
+        margin-top: 1rem;
+        border-radius: 16px;
+      }
+
+      .trust-strip-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .trust-strip-item {
+        min-height: auto;
+        padding: 0.95rem 1rem;
+      }
+
+      .trust-strip-item + .trust-strip-item {
+        border-left: none;
+        border-top: 1px solid rgba(19, 32, 44, 0.08);
+      }
+
+      .trust-strip-item:nth-child(3),
+      .trust-strip-item:nth-child(4) {
+        border-top: 1px solid rgba(19, 32, 44, 0.08);
+      }
+
+      .trust-strip-icon {
+        width: 40px;
+        height: 40px;
+      }
+
+      .trust-strip-title {
+        font-size: 0.92rem;
+      }
+
+      .trust-strip-text {
+        font-size: 0.84rem;
+      }
+
+      .category-help-link {
+        display: none;
       }
 
       .product-favorite-btn {
@@ -5174,6 +5388,46 @@
       return getBestStore(stores)?.price ?? getLowestPrice(stores);
     };
 
+    const getOpportunityMeta = (product) => {
+      const validStores = (product?.stores || []).filter((store) => typeof store.price === 'number');
+      if (validStores.length < 2) return null;
+
+      const sortedStores = [...validStores].sort(compareStores);
+      const bestStore = sortedStores[0];
+      const secondStore = sortedStores[1];
+
+      if (!bestStore || !secondStore) return null;
+
+      const euroGap = secondStore.price - bestStore.price;
+      if (!(euroGap > 0)) return null;
+
+      const percentGap = secondStore.price > 0 ? (euroGap / secondStore.price) * 100 : 0;
+      const qualifies = euroGap >= 30;
+
+      if (!qualifies) return null;
+
+      return {
+        label: 'Oportunidade',
+        bestStore,
+        secondStore,
+        euroGap,
+        percentGap
+      };
+    };
+
+    const getCardBadgeMeta = (product) => {
+      if (product?.badge && product.badge !== 'Amazon') {
+        return { label: product.badge, className: '' };
+      }
+
+      const opportunity = getOpportunityMeta(product);
+      if (opportunity) {
+        return { label: opportunity.label, className: ' product-badge-opportunity' };
+      }
+
+      return null;
+    };
+
     const getProductIdentitySet = (product) => [product.id, ...(product.variantIds || [])];
 
     const isFavorite = (product) => {
@@ -5426,21 +5680,29 @@
             {/* CATEGORIES BAR */}
             <div className="categories-bar">
               <div className="container">
-                <div className="categories-container">
-                  {categories.map((cat) => (
-                    <button
-                      key={cat.id}
-                      className={`category-btn ${activeCategory === cat.id ? 'active' : ''}`}
-                      onClick={() => {
-                        setActiveCategory(cat.id);
-                      }}
-                    >
-                      <div className="category-icon">
-                        <span style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>{categoryIcons[cat.id]}</span>
-                      </div>
-                      <span>{cat.name}</span>
-                    </button>
-                  ))}
+                <div className="categories-inner">
+                  <div className="categories-container">
+                    {categories.map((cat) => (
+                      <button
+                        key={cat.id}
+                        className={`category-btn ${activeCategory === cat.id ? 'active' : ''}`}
+                        onClick={() => {
+                          setActiveCategory(cat.id);
+                        }}
+                      >
+                        <div className="category-icon">
+                          <span style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>{categoryIcons[cat.id]}</span>
+                        </div>
+                        <span>{cat.name}</span>
+                      </button>
+                    ))}
+                  </div>
+                  {activeCategory === 'all' && (
+                    <a className="category-help-link" href="./como-funciona.html">
+                      <i className="far fa-question-circle" aria-hidden="true"></i>
+                      <span>Como funciona?</span>
+                    </a>
+                  )}
                 </div>
               </div>
             </div>
@@ -5536,9 +5798,11 @@
                     </a>
                   </div>
                   <div className="products-grid">
-                    {visibleNoveltyProducts.map(product => (
+                    {visibleNoveltyProducts.map(product => {
+                      const cardBadge = getCardBadgeMeta(product);
+                      return (
                       <div key={product.id} className="product-card">
-                        {product.badge && product.badge !== 'Amazon' && <span className="product-badge">{product.badge}</span>}
+                        {cardBadge && <span className={`product-badge${cardBadge.className}`}>{cardBadge.label}</span>}
                         <button
                           className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
                           aria-label={isFavorite(product) ? 'Remover dos favoritos' : 'Guardar produto'}
@@ -5559,7 +5823,7 @@
                             <div className="current-price">{formatPrice(product.price)}</div>
                             {product.oldPrice && <div className="original-price">{formatPrice(product.oldPrice)}</div>}
                           </div>
-                          <div className="product-actions">
+                          <div className="editorial-product-actions">
                             <button className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`} onClick={() => toggleCompare(product)}>
                               <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                               {isInCompare(product) ? ' Na comparação' : ' Comparar'}
@@ -5568,7 +5832,7 @@
                           </div>
                         </div>
                       </div>
-                    ))}
+                    )})}
                   </div>
                   <div className="section-pagination-wrap">
                     <div className="section-pagination">
@@ -5581,6 +5845,61 @@
                           {idx + 1}
                         </button>
                       ))}
+                    </div>
+                  </div>
+                  <div className="trust-strip">
+                    <div className="trust-strip-grid">
+                      <div className="trust-strip-item">
+                        <span className="trust-strip-icon" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M20 10c0 4.418-3.582 8-8 8H6l-3 3v-9c0-4.418 3.582-8 8-8h1c4.418 0 8 3.582 8 8Z"></path>
+                            <path d="M8.5 10.5h7"></path>
+                            <path d="M8.5 14h4.5"></path>
+                          </svg>
+                        </span>
+                        <div>
+                          <div className="trust-strip-title">Preços lado a lado</div>
+                          <div className="trust-strip-text">Vês rapidamente em que loja compensa mais comprar.</div>
+                        </div>
+                      </div>
+                      <div className="trust-strip-item">
+                        <span className="trust-strip-icon" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M7 11V8a5 5 0 0 1 10 0v3"></path>
+                            <rect x="5" y="11" width="14" height="10" rx="2"></rect>
+                            <path d="M12 15v2"></path>
+                          </svg>
+                        </span>
+                        <div>
+                          <div className="trust-strip-title">Compra com confiança</div>
+                          <div className="trust-strip-text">Lojas verificadas e comparação clara antes de clicares.</div>
+                        </div>
+                      </div>
+                      <div className="trust-strip-item">
+                        <span className="trust-strip-icon" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
+                            <circle cx="12" cy="12" r="8"></circle>
+                            <path d="M12 8v4l2.5 2.5"></path>
+                            <path d="M4 4l2 2"></path>
+                          </svg>
+                        </span>
+                        <div>
+                          <div className="trust-strip-title">Poupa tempo</div>
+                          <div className="trust-strip-text">Nós comparamos por ti. Tu escolhes a melhor saída.</div>
+                        </div>
+                      </div>
+                      <div className="trust-strip-item">
+                        <span className="trust-strip-icon" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M12 3l7 3v5c0 4.5-2.7 7.8-7 10-4.3-2.2-7-5.5-7-10V6l7-3Z"></path>
+                            <path d="m9.5 12 1.7 1.7 3.8-3.8"></path>
+                          </svg>
+                        </span>
+                        <div>
+                          <div className="trust-strip-title">100% gratuito</div>
+                          <div className="trust-strip-text">Usas o comparador à vontade, sem conta nem custos.</div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -5865,9 +6184,11 @@
                   {filteredProducts.length > 0 ? (
                     <>
                     <div className="products-grid products-grid-catalog">
-                      {pagedProducts.map((product) => (
+                      {pagedProducts.map((product) => {
+                        const cardBadge = getCardBadgeMeta(product);
+                        return (
                         <div key={product.id} className="product-card">
-                          {product.badge && product.badge !== 'Amazon' && <span className="product-badge">{product.badge}</span>}
+                          {cardBadge && <span className={`product-badge${cardBadge.className}`}>{cardBadge.label}</span>}
                           <button
                             className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
                             aria-label={isFavorite(product) ? 'Remover dos favoritos' : 'Guardar produto'}
@@ -5888,7 +6209,7 @@
                               <div className="current-price">{formatPrice(product.price)}</div>
                               {product.oldPrice && <div className="original-price">{formatPrice(product.oldPrice)}</div>}
                             </div>
-                            <div className="product-actions">
+                            <div className="editorial-product-actions">
                               <button
                                 className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`}
                                 onClick={() => toggleCompare(product)}
@@ -5902,7 +6223,7 @@
                             </div>
                           </div>
                         </div>
-                      ))}
+                      )})}
                     </div>
                     {totalPages > 1 && (
                       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', marginTop: '2rem', flexWrap: 'wrap' }}>
@@ -6356,7 +6677,17 @@
                 })()}
 
                 <div className="modal-body">
+                  {(() => {
+                    const opportunity = getOpportunityMeta(selectedProduct);
+                    return (
+                      <>
                   <h3 className="comparison-title">Compara preços em {selectedProduct.stores.length} {selectedProduct.stores.length === 1 ? 'loja' : 'lojas'}</h3>
+                  {opportunity && (
+                    <p className="modal-opportunity-note">
+                      <i className="fas fa-bolt" aria-hidden="true"></i>
+                      Menos <strong>{formatPrice(opportunity.euroGap)}</strong> que a 2.ª oferta.
+                    </p>
+                  )}
                   <div className="store-list">
                     {[...selectedProduct.stores]
                       .sort(compareStores)
@@ -6393,6 +6724,9 @@
                       })}
                   </div>
                   <p className="modal-store-note">Estamos a adicionar mais lojas para comparação.</p>
+                      </>
+                    );
+                  })()}
                 </div>
               </>
             )}
@@ -6509,7 +6843,7 @@
                 <div className="footer-col">
                   <h4>Redes</h4>
                   <a href="#" title="LinkedIn"><i className="fab fa-linkedin-in" style={{ marginRight: '0.45rem' }}></i>LinkedIn</a>
-                  <a href="#" title="Instagram"><i className="fab fa-instagram" style={{ marginRight: '0.45rem' }}></i>Instagram</a>
+                  <a href="https://www.instagram.com/padelcost/" title="Instagram" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram" style={{ marginRight: '0.45rem' }}></i>Instagram</a>
                   <a href="#" title="Facebook"><i className="fab fa-facebook-f" style={{ marginRight: '0.45rem' }}></i>Facebook</a>
                 </div>
 

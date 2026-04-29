@@ -34,13 +34,31 @@
 
     /* Page content */
     .page-content { flex: 1; padding: 3rem 0; }
-    .page-card { background: white; border-radius: 16px; padding: 2.5rem; max-width: 720px; margin: 0 auto; box-shadow: 0 4px 24px rgba(15,26,38,0.08); }
-    .page-card h1 { font-family: 'Space Grotesk', sans-serif; font-size: 2rem; color: #13202c; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 2px solid #eef2f6; }
-    .page-card p { line-height: 1.8; color: #4a6077; margin-bottom: 1.2rem; font-size: 1rem; }
-    .page-card p:last-child { margin-bottom: 0; }
-    .page-card .contact-info { background: #eef2f6; border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; }
-    .page-card .contact-info p { margin: 0; color: #13202c; }
-    .page-card .contact-info a { color: #0077cc; font-weight: 600; }
+    .page-card { background: white; border-radius: 18px; padding: 2.8rem; max-width: 1100px; margin: 0 auto; box-shadow: 0 4px 24px rgba(15,26,38,0.08); }
+    .page-card h1 { font-family: 'Space Grotesk', sans-serif; font-size: 2.2rem; color: #13202c; margin-bottom: 0.85rem; text-align: center; }
+    .page-intro { max-width: 720px; margin: 0 auto 2.5rem; text-align: center; line-height: 1.8; color: #4a6077; font-size: 1rem; }
+    .steps-title { text-align: center; font-size: 2rem; font-weight: 800; color: #13202c; margin-bottom: 2rem; }
+    .steps-title span { color: #246fb2; }
+    .steps-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; align-items: start; }
+    .step-card { text-align: center; padding: 1.2rem 1rem 0; }
+    .step-number { width: 32px; height: 32px; border-radius: 999px; background: #246fb2; color: white; display: inline-flex; align-items: center; justify-content: center; font-size: 0.9rem; font-weight: 800; margin-bottom: 1rem; }
+    .step-visual { width: 156px; height: 156px; margin: 0 auto 1.25rem; border-radius: 999px; background: radial-gradient(circle at 30% 30%, #f7fbff 0%, #edf4ff 70%, #e7effb 100%); display: flex; align-items: center; justify-content: center; color: #1f3d5c; }
+    .step-visual svg { width: 84px; height: 84px; stroke: currentColor; }
+    .step-card h3 { font-size: 1.35rem; line-height: 1.2; margin-bottom: 0.5rem; color: #13202c; }
+    .step-card p { font-size: 0.98rem; line-height: 1.65; color: #5a6d84; max-width: 270px; margin: 0 auto; }
+    .trust-title { text-align: center; font-size: 2rem; font-weight: 800; color: #13202c; margin: 3rem 0 1.75rem; }
+    .trust-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; border: 1px solid rgba(19,32,44,0.08); border-radius: 18px; overflow: hidden; background: #fff; box-shadow: 0 10px 28px rgba(15,26,38,0.05); }
+    .trust-item { padding: 1.5rem 1.35rem; text-align: center; }
+    .trust-item + .trust-item { border-left: 1px solid rgba(19,32,44,0.08); }
+    .trust-icon { width: 72px; height: 72px; margin: 0 auto 1rem; border-radius: 999px; display: flex; align-items: center; justify-content: center; }
+    .trust-icon svg { width: 36px; height: 36px; stroke: currentColor; }
+    .trust-icon.prices { background: #edf8eb; color: #3c9d4c; }
+    .trust-icon.stores { background: #edf4ff; color: #246fb2; }
+    .trust-icon.free { background: #edf8eb; color: #3c9d4c; }
+    .trust-icon.transparent { background: #edf4ff; color: #246fb2; }
+    .trust-item h3 { font-size: 1.12rem; line-height: 1.2; margin-bottom: 0.45rem; color: #13202c; }
+    .trust-item p { font-size: 0.94rem; line-height: 1.6; color: #5a6d84; }
+    .contact-line { text-align: center; margin-top: 2rem; color: #4a6077; font-size: 1rem; }
     .back-link { display: inline-flex; align-items: center; gap: 0.5rem; color: #0077cc; font-weight: 600; margin-bottom: 1.5rem; font-size: 0.9rem; }
     .back-link:hover { text-decoration: none; opacity: 0.8; }
 
@@ -288,7 +306,14 @@
 
     @media (max-width: 768px) {
       .page-card { padding: 1.5rem; }
-      .page-card h1 { font-size: 1.5rem; }
+      .page-card h1 { font-size: 1.7rem; }
+      .page-intro { margin-bottom: 2rem; }
+      .steps-title, .trust-title { font-size: 1.55rem; }
+      .steps-grid { grid-template-columns: 1fr; gap: 1.75rem; }
+      .step-visual { width: 132px; height: 132px; }
+      .step-visual svg { width: 72px; height: 72px; }
+      .trust-grid { grid-template-columns: 1fr; }
+      .trust-item + .trust-item { border-left: none; border-top: 1px solid rgba(19,32,44,0.08); }
       .footer-grid { grid-template-columns: 1fr 1fr; }
       .footer-brand-col { grid-column: 1 / -1; }
       .footer-bottom-content { align-items: flex-start; flex-direction: column; }
@@ -331,22 +356,102 @@
       <a href="./index.html" class="back-link">← Voltar ao site</a>
       <div class="page-card">
         <h1>Como Funciona o PadelCost</h1>
+        <p class="page-intro">Comparamos preços de padel em várias lojas para te ajudar a encontrar a melhor oferta com menos esforço e mais clareza.</p>
 
-        <p>O PadelCost é um comparador de preços especializado em padel. Explicamos aqui como o site funciona e como pode tirar o máximo partido dele.</p>
+        <h2 class="steps-title">Em apenas <span>3 passos</span> simples</h2>
+        <div class="steps-grid">
+          <div class="step-card">
+            <div class="step-number">1</div>
+            <div class="step-visual">
+              <svg viewBox="0 0 64 64" fill="none" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="10" y="37" width="44" height="10" rx="5"></rect>
+                <circle cx="28" cy="25" r="10"></circle>
+                <path d="m35 32 8 8"></path>
+              </svg>
+            </div>
+            <h3>Procuras um produto</h3>
+            <p>Escreve o nome da raquete, sapatilha ou marca que queres comparar.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">2</div>
+            <div class="step-visual">
+              <svg viewBox="0 0 64 64" fill="none" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="10" y="13" width="44" height="30" rx="4"></rect>
+                <path d="M24 51h16"></path>
+                <path d="M32 43v8"></path>
+                <path d="M18 23h10"></path>
+                <path d="M18 31h10"></path>
+                <path d="M36 23h10"></path>
+                <path d="M36 31h10"></path>
+                <path d="M31 21v14"></path>
+              </svg>
+            </div>
+            <h3>Nós comparamos por ti</h3>
+            <p>Recolhemos preços de várias lojas e mostramos logo as melhores ofertas.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">3</div>
+            <div class="step-visual">
+              <svg viewBox="0 0 64 64" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="47" cy="17" r="8"></circle>
+                <path d="m43.5 17 2.3 2.3 4.7-4.7"></path>
+                <path d="M11 16h8l6 24h22"></path>
+                <path d="M22 24h22l-3 12H25"></path>
+                <circle cx="28" cy="50" r="3"></circle>
+                <circle cx="44" cy="50" r="3"></circle>
+              </svg>
+            </div>
+            <h3>Escolhes e compras</h3>
+            <p>Seleciona a loja que te compensa mais e finaliza a compra diretamente no parceiro.</p>
+          </div>
+        </div>
 
-        <p><strong>1. Comparação de preços</strong><br>
-        Reunimos informações de preços de várias lojas online para os produtos de padel mais procurados em Portugal. Pode ver rapidamente em que loja o produto está mais barato e com stock disponível.</p>
+        <h2 class="trust-title">Porque confiar no PadelCost?</h2>
+        <div class="trust-grid">
+          <div class="trust-item">
+            <div class="trust-icon prices">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M7 7h7a3 3 0 0 1 0 6H10a3 3 0 0 0 0 6h7"></path>
+                <path d="M12 4v3"></path>
+                <path d="M12 17v3"></path>
+              </svg>
+            </div>
+            <h3>Preços atualizados</h3>
+            <p>Atualizamos os preços com regularidade para te mostrar ofertas relevantes.</p>
+          </div>
+          <div class="trust-item">
+            <div class="trust-icon stores">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 3l7 3v5c0 4.5-2.7 7.8-7 10-4.3-2.2-7-5.5-7-10V6l7-3Z"></path>
+                <path d="m9.5 12 1.7 1.7 3.8-3.8"></path>
+              </svg>
+            </div>
+            <h3>Lojas verificadas</h3>
+            <p>Trabalhamos apenas com lojas e programas parceiros que fazem sentido para o projeto.</p>
+          </div>
+          <div class="trust-item">
+            <div class="trust-icon free">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 4v16"></path>
+                <path d="M16.5 7.5c0-1.93-2.02-3.5-4.5-3.5s-4.5 1.57-4.5 3.5S9.52 11 12 11s4.5 1.57 4.5 3.5S14.48 18 12 18s-4.5-1.57-4.5-3.5"></path>
+              </svg>
+            </div>
+            <h3>Sem custos para ti</h3>
+            <p>Usar o PadelCost é gratuito. Compares o que quiseres, as vezes que quiseres.</p>
+          </div>
+          <div class="trust-item">
+            <div class="trust-icon transparent">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+            </div>
+            <h3>Transparência total</h3>
+            <p>Mostramos as opções lado a lado para decidires com mais confiança.</p>
+          </div>
+        </div>
 
-        <p><strong>2. Como escolhemos os produtos?</strong><br>
-        Seleccionamos produtos populares e com procura activa no mercado português. Priorizamos marcas reconhecidas (Bullpadel, NOX, Head, Adidas, etc.) e produtos com boa relação qualidade/preço para cada nível de jogo.</p>
-
-        <p><strong>3. Actualização de preços</strong><br>
-        Os preços apresentados são actualizados regularmente, mas podem variar. Recomendamos que confirme sempre o preço final na loja antes de concluir a compra.</p>
-
-        <p><strong>4. Independência editorial</strong><br>
-        A selecção de produtos e as comparações são feitas de forma independente. A ordenação dos produtos reflecte a relevância e popularidade, não acordos comerciais.</p>
-
-        <p>Tem dúvidas? <a href="./contacto.html">Contacte-nos</a>.</p>
+        <p class="contact-line">Tens dúvidas? <a href="./contacto.html">Contacta-nos</a>.</p>
       </div>
     </div>
   </main>

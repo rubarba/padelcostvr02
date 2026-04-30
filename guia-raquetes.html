@@ -77,6 +77,25 @@
     .result-head p { font-size: 0.88rem; color: rgba(255,255,255,0.55); }
     .result-body { padding: 1.5rem 2rem 1.75rem; }
     .result-budget { display: inline-flex; align-items: center; gap: 0.4rem; background: rgba(0,119,204,0.08); border: 1px solid rgba(0,119,204,0.18); border-radius: 999px; padding: 6px 14px; font-size: 0.82rem; font-weight: 700; color: var(--accent); margin-bottom: 1.1rem; }
+    .profile-overview { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(250px, 0.95fr); gap: 1rem; margin-bottom: 1.1rem; }
+    .profile-panel { background: #f7faff; border: 1.5px solid var(--border); border-radius: 18px; padding: 1.15rem; }
+    .profile-panel-title { font-size: 1rem; font-weight: 800; color: var(--text); margin-bottom: 0.15rem; }
+    .profile-panel-subtitle { font-size: 0.8rem; color: var(--text-soft); margin-bottom: 0.9rem; }
+    .profile-overview-grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(220px, 0.95fr); gap: 1rem; align-items: center; }
+    .profile-radar-box { display: flex; justify-content: center; align-items: center; padding: 0.25rem 0; }
+    .profile-radar { width: 100%; max-width: 285px; height: auto; }
+    .profile-summary { display: flex; flex-direction: column; gap: 0.7rem; }
+    .profile-summary-item { display: flex; align-items: flex-start; gap: 0.7rem; }
+    .profile-summary-icon { width: 34px; height: 34px; border-radius: 12px; background: rgba(0,119,204,0.08); color: var(--accent); display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .profile-summary-icon svg { width: 18px; height: 18px; }
+    .profile-summary-label { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-soft); font-weight: 700; margin-bottom: 2px; }
+    .profile-summary-value { font-size: 0.9rem; font-weight: 700; color: var(--text); }
+    .profile-tip-panel { background: linear-gradient(180deg, #f5f9ff 0%, #eef5ff 100%); display: flex; flex-direction: column; justify-content: space-between; min-height: 100%; }
+    .profile-tip-icon { width: 36px; height: 36px; border-radius: 12px; background: rgba(0,119,204,0.1); color: var(--accent); display: inline-flex; align-items: center; justify-content: center; margin-bottom: 0.75rem; }
+    .profile-tip-icon svg { width: 18px; height: 18px; }
+    .profile-tip-text { font-size: 0.88rem; color: var(--text-soft); line-height: 1.65; }
+    .profile-tip-visual { margin-top: 1rem; display: flex; justify-content: flex-end; }
+    .profile-tip-visual svg { width: 96px; height: 96px; color: rgba(0,119,204,0.28); }
     .result-specs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.65rem; margin-bottom: 1.1rem; }
     .result-spec { background: #f5f8fc; border-radius: 10px; padding: 0.75rem 0.9rem; }
     .result-spec-lbl { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-soft); font-weight: 700; margin-bottom: 3px; }
@@ -119,18 +138,53 @@
 
     /* REFS */
     .section-title { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-soft); margin-bottom: 1rem; }
-    .ref-grid { display: flex; flex-direction: column; gap: 0.65rem; }
-    .ref-card { background: var(--surface); border-radius: 14px; border: 1.5px solid var(--border); overflow: hidden; padding: 1.25rem; display: flex; flex-direction: column; gap: 0.9rem; }
-    .ref-card-left { display: flex; flex-direction: column; gap: 0.35rem; }
-    .ref-card-right { }
-    .ref-nivel { font-weight: 800; color: var(--text); font-size: 0.92rem; display: flex; align-items: center; gap: 0.5rem; }
-    .ref-nivel-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-    .ref-desc { font-size: 0.82rem; color: var(--text-soft); line-height: 1.65; }
-    .ref-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-    .ref-pill { display: inline-flex; flex-direction: column; align-items: center; background: #f5f8fc; border: 1px solid var(--border); border-radius: 10px; padding: 0.6rem 0.9rem; min-width: 80px; text-align: center; gap: 0.25rem; }
-    .ref-pill svg { color: var(--accent); opacity: 0.8; }
-    .ref-pill-lbl { font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-soft); }
-    .ref-pill-val { font-size: 0.78rem; font-weight: 700; color: var(--text); line-height: 1.2; }
+    .ref-section-head { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+    .ref-section-link { color: var(--accent); font-size: 0.82rem; font-weight: 800; white-space: nowrap; }
+    .ref-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.9rem; }
+    .ref-card { border-radius: 18px; border: 1px solid rgba(19,32,44,0.08); padding: 1.1rem 1rem 1rem; display: flex; flex-direction: column; gap: 0.95rem; box-shadow: 0 12px 28px rgba(15,26,38,0.04); min-height: 100%; }
+    .ref-card-head { display: flex; align-items: center; gap: 0.65rem; }
+    .ref-icon { width: 36px; height: 36px; border-radius: 12px; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .ref-icon svg { width: 17px; height: 17px; }
+    .ref-nivel { font-weight: 800; font-size: 0.95rem; line-height: 1.2; }
+    .ref-list { list-style: none; display: flex; flex-direction: column; gap: 0.55rem; }
+    .ref-list li { display: flex; align-items: flex-start; gap: 0.45rem; font-size: 0.82rem; color: #566a80; line-height: 1.45; }
+    .ref-list li svg { width: 15px; height: 15px; color: #22c55e; flex-shrink: 0; margin-top: 1px; }
+    .ref-cta { margin-top: auto; display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; min-height: 46px; border-radius: 999px; border: 1.5px solid currentColor; font-size: 0.84rem; font-weight: 800; padding: 0.72rem 1rem; background: rgba(255,255,255,0.7); }
+    .ref-cta-btn { cursor: pointer; font-family: 'Manrope', sans-serif; }
+    .ref-card-green { background: linear-gradient(180deg, #fbfffd 0%, #f5fbf7 100%); }
+    .ref-card-green .ref-icon { background: rgba(34, 197, 94, 0.10); color: #16a34a; }
+    .ref-card-green .ref-nivel, .ref-card-green .ref-cta { color: #16a34a; }
+    .ref-card-orange { background: linear-gradient(180deg, #fffdfa 0%, #fff8f0 100%); }
+    .ref-card-orange .ref-icon { background: rgba(245, 158, 11, 0.10); color: #d97706; }
+    .ref-card-orange .ref-nivel, .ref-card-orange .ref-cta { color: #d97706; }
+    .ref-card-blue { background: linear-gradient(180deg, #fbfdff 0%, #f3f7ff 100%); }
+    .ref-card-blue .ref-icon { background: rgba(59, 130, 246, 0.10); color: #2563eb; }
+    .ref-card-blue .ref-nivel, .ref-card-blue .ref-cta { color: #2563eb; }
+    .ref-card-purple { background: linear-gradient(180deg, #fdfcff 0%, #f6f1ff 100%); }
+    .ref-card-purple .ref-icon { background: rgba(168, 85, 247, 0.10); color: #7c3aed; }
+    .ref-card-purple .ref-nivel, .ref-card-purple .ref-cta { color: #7c3aed; }
+    .ref-card-red { background: linear-gradient(180deg, #fffafb 0%, #fff2f4 100%); }
+    .ref-card-red .ref-icon { background: rgba(239, 68, 68, 0.10); color: #dc2626; }
+    .ref-card-red .ref-nivel, .ref-card-red .ref-cta { color: #dc2626; }
+    .ref-results { margin-top: 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: 0 12px 28px rgba(15,26,38,0.05); padding: 1.2rem; display: none; }
+    .ref-results.active { display: block; }
+    .ref-results-head { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 0.9rem; }
+    .ref-results-title { font-size: 1rem; font-weight: 800; color: var(--text); }
+    .ref-results-close { border: none; background: transparent; color: var(--text-soft); font-size: 0.84rem; font-weight: 800; cursor: pointer; }
+    .ref-results-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
+    .ref-empty { font-size: 0.85rem; color: var(--text-soft); line-height: 1.6; }
+    .ref-results.results-green { background: linear-gradient(180deg, #fdfffe 0%, #f6fbf8 100%); border-color: rgba(34, 197, 94, 0.18); }
+    .ref-results.results-green .ref-results-title,
+    .ref-results.results-green .ref-results-close { color: #16a34a; }
+    .ref-results.results-orange { background: linear-gradient(180deg, #fffefd 0%, #fff8f1 100%); border-color: rgba(245, 158, 11, 0.18); }
+    .ref-results.results-orange .ref-results-title,
+    .ref-results.results-orange .ref-results-close { color: #d97706; }
+    .ref-results.results-blue { background: linear-gradient(180deg, #fcfdff 0%, #f4f7ff 100%); border-color: rgba(59, 130, 246, 0.18); }
+    .ref-results.results-blue .ref-results-title,
+    .ref-results.results-blue .ref-results-close { color: #2563eb; }
+    .ref-results.results-red { background: linear-gradient(180deg, #fffdfd 0%, #fff3f4 100%); border-color: rgba(239, 68, 68, 0.18); }
+    .ref-results.results-red .ref-results-title,
+    .ref-results.results-red .ref-results-close { color: #dc2626; }
 
     /* FOOTER */
     .footer { background: #09111a; color: rgba(255,255,255,0.65); padding: 2rem 0; margin-top: auto; }
@@ -157,11 +211,14 @@
     .war-name-tag { font-size: 0.82rem; color: rgba(255,255,255,0.55); font-style: italic; line-height: 1.5; }
 
     @media (max-width: 680px) {
-      .quiz-opts, .quiz-opts.cols-3, .grid-2, .result-specs, .suggestions-grid { grid-template-columns: 1fr; }
+      .quiz-opts, .quiz-opts.cols-3, .grid-2, .profile-overview, .profile-overview-grid, .result-specs, .suggestions-grid, .ref-grid, .ref-results-grid { grid-template-columns: 1fr; }
+      .profile-tip-visual { justify-content: center; }
       .quiz-body, .result-body { padding: 1.25rem; }
       .quiz-head, .result-head { padding: 1.25rem; }
       .war-name-title { font-size: 1.5rem; }
       .suggestions-grid { gap: 0.8rem; }
+      .ref-section-head { flex-direction: column; align-items: flex-start; }
+      .ref-results-head { flex-direction: column; align-items: flex-start; }
       .sug-card { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 0.85rem; align-items: center; padding: 0.85rem; }
       .sug-card:hover { transform: none; }
       .sug-img-wrap { width: 96px; height: 126px; margin-bottom: 0; }
@@ -188,53 +245,78 @@
 
       <div class="quiz-wrap" id="quiz-root"></div>
 
-      <p class="section-title">Referência rápida</p>
+      <div class="ref-section-head">
+        <p class="section-title" style="margin-bottom:0;font-size:0.82rem;letter-spacing:0.08em;">Referência rápida por nível</p>
+        <a class="ref-section-link" href="./index.html">Ver todas as raquetes →</a>
+      </div>
       <div class="ref-grid">
-        <div class="ref-card">
-          <div class="ref-card-left">
-            <div class="ref-nivel"><span class="ref-nivel-dot" style="background:#4ade80"></span>Iniciante</div>
-            <div class="ref-desc">Ainda a descobrir o jogo. O mais importante é sentir confiança — uma raquete leve, com sweet spot amplo e materiais absorventes faz toda a diferença.</div>
+        <div class="ref-card ref-card-green">
+          <div class="ref-card-head">
+            <div class="ref-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 4v5l4 2"/><circle cx="8" cy="17" r="3"/><circle cx="16" cy="7" r="3"/><path d="M10.5 15l3-5"/></svg>
+            </div>
+            <div class="ref-nivel">Iniciante</div>
           </div>
-          <div class="ref-card-right">
-            <div class="ref-pills"><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="12" rx="8" ry="11"/><line x1="12" y1="1" x2="12" y2="23"/></svg><span class="ref-pill-lbl">Forma</span><span class="ref-pill-val">Redonda</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a3 3 0 100 6 3 3 0 000-6z"/><path d="M6.5 9h11l2 12h-15z"/></svg><span class="ref-pill-lbl">Peso</span><span class="ref-pill-val">Leve &lt;360g</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="4" rx="1"/><rect x="3" y="10" width="18" height="4" rx="1"/><rect x="3" y="16" width="18" height="4" rx="1"/></svg><span class="ref-pill-lbl">Núcleo</span><span class="ref-pill-val">Foam / EVA soft</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg><span class="ref-pill-lbl">Superfície</span><span class="ref-pill-val">Fibra de vidro</span></div></div>
-          </div>
+          <ul class="ref-list">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Fácil controlo</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Sweet spot grande</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Leves e confortáveis</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Mais tolerante</span></li>
+          </ul>
+          <button class="ref-cta ref-cta-btn" type="button" onclick="toggleReferenceResults('beginner','Iniciante','results-green')">Ver raquetes →</button>
         </div>
-        <div class="ref-card">
-          <div class="ref-card-left">
-            <div class="ref-nivel"><span class="ref-nivel-dot" style="background:#60a5fa"></span>Intermédio</div>
-            <div class="ref-desc">Consistência nos batimentos e começa a trabalhar o efeito. Procura uma raquete que não limite a progressão mas que perdoe nos momentos de pressão.</div>
+        <div class="ref-card ref-card-orange">
+          <div class="ref-card-head">
+            <div class="ref-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="7" r="3"/><path d="M12 10v10"/><path d="M7 22l5-5 5 5"/><path d="M7 14l5-4 5 4"/></svg>
+            </div>
+            <div class="ref-nivel">Intermédio</div>
           </div>
-          <div class="ref-card-right">
-            <div class="ref-pills"><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="12" rx="8" ry="11"/><line x1="12" y1="1" x2="12" y2="23"/></svg><span class="ref-pill-lbl">Forma</span><span class="ref-pill-val">Lágrima</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a3 3 0 100 6 3 3 0 000-6z"/><path d="M6.5 9h11l2 12h-15z"/></svg><span class="ref-pill-lbl">Peso</span><span class="ref-pill-val">Médio 360–375g</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="4" rx="1"/><rect x="3" y="10" width="18" height="4" rx="1"/><rect x="3" y="16" width="18" height="4" rx="1"/></svg><span class="ref-pill-lbl">Núcleo</span><span class="ref-pill-val">EVA médio</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg><span class="ref-pill-lbl">Superfície</span><span class="ref-pill-val">Híbrida</span></div></div>
-          </div>
+          <ul class="ref-list">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Mais controlo</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Boa saída de bola</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Equilíbrio potência/controlo</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Evolução no jogo</span></li>
+          </ul>
+          <button class="ref-cta ref-cta-btn" type="button" onclick="toggleReferenceResults('control','Intermédio','results-orange')">Ver raquetes →</button>
         </div>
-        <div class="ref-card">
-          <div class="ref-card-left">
-            <div class="ref-nivel"><span class="ref-nivel-dot" style="background:#f59e0b"></span>Avançado</div>
-            <div class="ref-desc">Técnica consolidada e leitura de jogo. Raquetes mais exigentes com maior resposta, saída de bola mais rápida e sweet spot mais preciso.</div>
+        <div class="ref-card ref-card-blue">
+          <div class="ref-card-head">
+            <div class="ref-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="7" r="3"/><path d="M12 10v10"/><path d="M6 15l6-4 6 4"/><path d="M7 22h10"/></svg>
+            </div>
+            <div class="ref-nivel">Avançado</div>
           </div>
-          <div class="ref-card-right">
-            <div class="ref-pills"><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="12" rx="8" ry="11"/><line x1="12" y1="1" x2="12" y2="23"/></svg><span class="ref-pill-lbl">Forma</span><span class="ref-pill-val">Lágrima / Diamante</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a3 3 0 100 6 3 3 0 000-6z"/><path d="M6.5 9h11l2 12h-15z"/></svg><span class="ref-pill-lbl">Peso</span><span class="ref-pill-val">Médio a pesado</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="4" rx="1"/><rect x="3" y="10" width="18" height="4" rx="1"/><rect x="3" y="16" width="18" height="4" rx="1"/></svg><span class="ref-pill-lbl">Núcleo</span><span class="ref-pill-val">EVA duro</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg><span class="ref-pill-lbl">Superfície</span><span class="ref-pill-val">Carbono</span></div></div>
-          </div>
+          <ul class="ref-list">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Máximo controlo</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Respostas precisas</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Materiais premium</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Para jogadores exigentes</span></li>
+          </ul>
+          <button class="ref-cta ref-cta-btn" type="button" onclick="toggleReferenceResults('balanced','Avançado','results-blue')">Ver raquetes →</button>
         </div>
-        <div class="ref-card">
-          <div class="ref-card-left">
-            <div class="ref-nivel"><span class="ref-nivel-dot" style="background:#e2f850"></span>Expert</div>
-            <div class="ref-desc">Federado ou alta competição. Modelos de topo com carbono premium e EVA de dureza elevada para potência, efeito e velocidade máximos.</div>
+        <div class="ref-card ref-card-red">
+          <div class="ref-card-head">
+            <div class="ref-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 21h8"/><path d="M12 17v4"/><path d="M7 4h10v3a5 5 0 0 1-10 0V4Z"/><path d="M5 6H3a3 3 0 0 0 3 3"/><path d="M19 6h2a3 3 0 0 1-3 3"/></svg>
+            </div>
+            <div class="ref-nivel">Expert</div>
           </div>
-          <div class="ref-card-right">
-            <div class="ref-pills"><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="12" rx="8" ry="11"/><line x1="12" y1="1" x2="12" y2="23"/></svg><span class="ref-pill-lbl">Forma</span><span class="ref-pill-val">Diamante</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a3 3 0 100 6 3 3 0 000-6z"/><path d="M6.5 9h11l2 12h-15z"/></svg><span class="ref-pill-lbl">Peso</span><span class="ref-pill-val">Pesado +375g</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="4" rx="1"/><rect x="3" y="10" width="18" height="4" rx="1"/><rect x="3" y="16" width="18" height="4" rx="1"/></svg><span class="ref-pill-lbl">Núcleo</span><span class="ref-pill-val">EVA duro</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg><span class="ref-pill-lbl">Superfície</span><span class="ref-pill-val">Carbono 12K/18K</span></div></div>
-          </div>
+          <ul class="ref-list">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Máxima performance</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Potência explosiva</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Tecnologia avançada</span></li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg><span>Para competição</span></li>
+          </ul>
+          <button class="ref-cta ref-cta-btn" type="button" onclick="toggleReferenceResults('power','Expert','results-red')">Ver raquetes →</button>
         </div>
-        <div class="ref-card">
-          <div class="ref-card-left">
-            <div class="ref-nivel"><span class="ref-nivel-dot" style="background:#f87171"></span>Lesão / Conforto</div>
-            <div class="ref-desc">Problemas no cotovelo, ombro ou pulso. Redonda, núcleo suave e fibra de vidro são os três fatores que mais reduzem as vibrações transmitidas ao braço.</div>
-          </div>
-          <div class="ref-card-right">
-            <div class="ref-pills"><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="12" rx="8" ry="11"/><line x1="12" y1="1" x2="12" y2="23"/></svg><span class="ref-pill-lbl">Forma</span><span class="ref-pill-val">Redonda</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a3 3 0 100 6 3 3 0 000-6z"/><path d="M6.5 9h11l2 12h-15z"/></svg><span class="ref-pill-lbl">Peso</span><span class="ref-pill-val">Leve a médio</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="4" rx="1"/><rect x="3" y="10" width="18" height="4" rx="1"/><rect x="3" y="16" width="18" height="4" rx="1"/></svg><span class="ref-pill-lbl">Núcleo</span><span class="ref-pill-val">EVA soft / Foam</span></div><div class="ref-pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg><span class="ref-pill-lbl">Superfície</span><span class="ref-pill-val">Fibra de vidro</span></div></div>
-          </div>
+      </div>
+      <div class="ref-results" id="ref-results">
+        <div class="ref-results-head">
+          <div class="ref-results-title" id="ref-results-title">Raquetes para este perfil</div>
+          <button class="ref-results-close" type="button" onclick="closeReferenceResults()">Fechar ×</button>
         </div>
+        <div class="ref-results-grid" id="ref-results-grid"></div>
       </div>
       <p style="font-size:0.72rem;color:var(--text-soft);margin-top:1rem;line-height:1.6;">* Orientações gerais — a escolha final depende sempre das características específicas de cada modelo.</p>
       <div class="partner-banner-section">
@@ -569,6 +651,117 @@ function getBudgetLabel() {
   return ['80€–150€','150€–280€','+280€'][a.orcamento_b || 0];
 }
 
+function getSelectedLabel(stepKey, index) {
+  if (index === undefined || index === null || !STEPS[stepKey]) return 'A definir';
+  return STEPS[stepKey].opts[index]?.t || 'A definir';
+}
+
+function getProfileSummary(profile) {
+  const a = answers;
+  const nivel = getSelectedLabel('nivel', a.nivel);
+  const isPathA = (a.nivel || 0) <= 1;
+
+  let estilo = 'A definir';
+  if (a.estilo !== undefined) estilo = getSelectedLabel('estilo', a.estilo);
+  else if (profile.profileKey === 'comfort') estilo = 'Conforto';
+  else if (profile.profileKey === 'beginner') estilo = 'Em evolução';
+  else if (profile.profileKey === 'recreational') estilo = 'Lazer / diversão';
+
+  let foco = 'A definir';
+  if (isPathA) foco = getSelectedLabel('objetivo', a.objetivo);
+  else if (profile.profileKey === 'control') foco = 'Controlo';
+  else if (profile.profileKey === 'power') foco = 'Potência';
+  else if (profile.profileKey === 'balanced') foco = 'Equilíbrio';
+  else if (profile.profileKey === 'tactical') foco = 'Leitura de jogo';
+  else if (profile.profileKey === 'comfort') foco = 'Conforto';
+
+  let experiencia = 'A definir';
+  if (isPathA && a.frequencia !== undefined) experiencia = getSelectedLabel('frequencia', a.frequencia);
+  else if (!isPathA) {
+    if ((a.nivel || 0) >= 4) experiencia = 'Alta competição';
+    else if ((a.nivel || 0) >= 3) experiencia = 'Competitivo';
+    else experiencia = 'Jogo regular';
+  }
+
+  return [
+    { icon: 'level', label: 'Nível', value: nivel },
+    { icon: 'style', label: 'Estilo de jogo', value: estilo },
+    { icon: 'focus', label: 'Foco principal', value: foco },
+    { icon: 'experience', label: 'Experiência', value: experiencia }
+  ];
+}
+
+function getRadarMetrics(profileKey) {
+  const presets = {
+    beginner:     [80, 38, 48, 86, 80],
+    recreational: [66, 52, 56, 76, 72],
+    comfort:      [74, 34, 42, 92, 78],
+    control:      [92, 40, 52, 70, 82],
+    power:        [42, 92, 88, 34, 46],
+    balanced:     [74, 72, 74, 64, 68],
+    tactical:     [84, 56, 68, 70, 76]
+  };
+  return presets[profileKey] || presets.balanced;
+}
+
+function getSummaryIcon(icon) {
+  const icons = {
+    level: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l3 6 6 .9-4.5 4.4 1 6.2-5.5-3-5.5 3 1-6.2L3 9.9 9 9z"/></svg>',
+    style: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 20l4-1 9-9a2.1 2.1 0 0 0-3-3l-9 9-1 4z"/><path d="M13.5 6.5l4 4"/></svg>',
+    focus: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>',
+    experience: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c1.8-3.2 4.5-4.8 8-4.8S18.2 16.8 20 20"/></svg>'
+  };
+  return icons[icon] || icons.focus;
+}
+
+function renderRadarSVG(profileKey) {
+  const values = getRadarMetrics(profileKey);
+  const labels = [
+    { text: 'Controlo', x: 100, y: 18, anchor: 'middle' },
+    { text: 'Potência', x: 184, y: 68, anchor: 'start' },
+    { text: 'Saída de bola', x: 184, y: 170, anchor: 'start' },
+    { text: 'Manobrabilidade', x: 100, y: 222, anchor: 'middle' },
+    { text: 'Conforto', x: 16, y: 170, anchor: 'start' }
+  ];
+  const centerX = 100;
+  const centerY = 118;
+  const radius = 72;
+  const angles = [-90, -18, 54, 126, 198];
+
+  const toPoint = (angle, factor) => {
+    const rad = angle * (Math.PI / 180);
+    return [
+      centerX + Math.cos(rad) * radius * factor,
+      centerY + Math.sin(rad) * radius * factor
+    ];
+  };
+
+  const gridLevels = [1, 0.75, 0.5, 0.25];
+  const gridPolygons = gridLevels.map(level => {
+    const points = angles.map(angle => toPoint(angle, level).map(v => v.toFixed(1)).join(',')).join(' ');
+    return `<polygon points="${points}" fill="none" stroke="rgba(19,32,44,0.10)" stroke-width="1"/>`;
+  }).join('');
+
+  const axes = angles.map(angle => {
+    const [x, y] = toPoint(angle, 1);
+    return `<line x1="${centerX}" y1="${centerY}" x2="${x.toFixed(1)}" y2="${y.toFixed(1)}" stroke="rgba(19,32,44,0.10)" stroke-width="1"/>`;
+  }).join('');
+
+  const shape = angles.map((angle, index) => {
+    const [x, y] = toPoint(angle, values[index] / 100);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+
+  return `
+    <svg class="profile-radar" viewBox="0 0 220 230" aria-hidden="true">
+      ${gridPolygons}
+      ${axes}
+      <polygon points="${shape}" fill="rgba(0,119,204,0.22)" stroke="rgba(0,119,204,0.85)" stroke-width="2.5"/>
+      <circle cx="${centerX}" cy="${centerY}" r="3" fill="rgba(0,119,204,0.8)"/>
+      ${labels.map(label => `<text x="${label.x}" y="${label.y}" text-anchor="${label.anchor}" font-size="11" fill="rgba(95,114,135,0.95)" font-family="Manrope, sans-serif">${label.text}</text>`).join('')}
+    </svg>`;
+}
+
 // ─── 45 NOMES DE GUERRA (40 bons + 5 maus) ───────────────────
 const BAD_NAMES = new Set(['O Génio Incompreendido','O Investidor Imprudente','O Aquecedor de Banco','O Confuso do Court','O Peso Morto da Equipa']);
 
@@ -751,6 +944,83 @@ function getSuggestions(profileKey, [minP, maxP]) {
   return result;
 }
 
+function getReferenceSuggestions(profileKey) {
+  if (typeof window.PADELCOST_PRODUCTS === 'undefined') return [];
+  const all = window.PADELCOST_PRODUCTS.filter(p =>
+    p.category === 'raquetes' &&
+    p.image && p.stores && p.stores.length > 0
+  );
+  const keywordMap = {
+    beginner: ['drive','match','team light','vibe','evo','bolt','light'],
+    control: ['control','ctrl','radical','gravity','counter','vertex ctrl','cross it ctrl'],
+    balanced: ['motion','team','blade','cross it','speed team','bela','neuron','extreme one'],
+    power: ['pro','hack','vertex','metalbone','attack','coello','extreme pro','speed pro']
+  };
+  const keywords = keywordMap[profileKey] || keywordMap.balanced;
+  const scored = all.map(product => ({
+    ...product,
+    _score: keywords.reduce((acc, keyword) => acc + (product.name.toLowerCase().includes(keyword) ? 1 : 0), 0)
+  })).filter(product => product._score > 0);
+  const pool = scored.length >= 4 ? scored : all;
+  pool.sort((a, b) => (b._score || 0) - (a._score || 0) || (b.stores?.length || 0) - (a.stores?.length || 0) || a.price - b.price);
+
+  const results = [];
+  const brands = new Set();
+  for (const product of pool) {
+    if (brands.has(product.brand)) continue;
+    brands.add(product.brand);
+    results.push(product);
+    if (results.length === 4) break;
+  }
+  if (results.length < 4) {
+    for (const product of pool) {
+      if (!results.find(item => item.id === product.id)) results.push(product);
+      if (results.length === 4) break;
+    }
+  }
+  return results;
+}
+
+function closeReferenceResults() {
+  const wrap = document.getElementById('ref-results');
+  if (wrap) wrap.classList.remove('active');
+}
+
+function toggleReferenceResults(profileKey, label, toneClass) {
+  const wrap = document.getElementById('ref-results');
+  const grid = document.getElementById('ref-results-grid');
+  const title = document.getElementById('ref-results-title');
+  if (!wrap || !grid || !title) return;
+
+  const isSame = wrap.dataset.profileKey === profileKey && wrap.classList.contains('active');
+  if (isSame) {
+    closeReferenceResults();
+    return;
+  }
+
+  const suggestions = getReferenceSuggestions(profileKey);
+  wrap.dataset.profileKey = profileKey;
+  wrap.classList.remove('results-green', 'results-orange', 'results-blue', 'results-red');
+  if (toneClass) wrap.classList.add(toneClass);
+  title.textContent = `Raquetes para nível ${label}`;
+  grid.innerHTML = suggestions.length ? suggestions.map(r => `
+    <div class="sug-card">
+      <div class="sug-img-wrap">
+        <img class="sug-img" src="${r.image}" alt="${r.name}" loading="lazy" onerror="this.parentElement.style.background='#f5f8fc'">
+      </div>
+      <div class="sug-info">
+        <div class="sug-brand">${r.brand}</div>
+        <div class="sug-name">${cleanName(r.name)}</div>
+        <div class="sug-price">${r.price.toFixed(2)}€</div>
+      </div>
+      <a class="sug-link" href="./index.html?q=${encodeURIComponent(r.name)}" target="_blank" rel="noopener noreferrer">Ver preços →</a>
+    </div>
+  `).join('') : '<div class="ref-empty">Ainda não há raquetes suficientes para mostrar neste perfil.</div>';
+
+  wrap.classList.add('active');
+  wrap.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
 function copyShare(url, btn) {
   navigator.clipboard.writeText(url).then(() => {
     btn.textContent = 'Copiado!';
@@ -794,6 +1064,7 @@ function renderResult(root) {
   const p              = getProfile();
   const budgetRange    = getBudgetRange();
   const budgetLbl      = getBudgetLabel();
+  const profileSummary = getProfileSummary(p);
   const _urlParams = new URLSearchParams(location.search);
   const _sharedProfile = _urlParams.get('perfilNome');
   const profileTitle   = _sharedProfile || p.lbl;
@@ -814,7 +1085,7 @@ function renderResult(root) {
             <div class="sug-name">${cleanName(r.name)}</div>
             <div class="sug-price">${r.price.toFixed(2)}€</div>
           </div>
-          <a class="sug-link" href="./index.html?q=${encodeURIComponent(r.name)}" rel="noopener">Ver preços →</a>
+          <a class="sug-link" href="./index.html?q=${encodeURIComponent(r.name)}" target="_blank" rel="noopener noreferrer">Ver preços →</a>
         </div>`).join('')}
     </div>` : '';
   root.innerHTML = `
@@ -825,6 +1096,44 @@ function renderResult(root) {
       </div>
     </div>
     <div class="result-body">
+      <div class="profile-overview">
+        <div class="profile-panel">
+          <div class="profile-panel-title">O teu perfil</div>
+          <div class="profile-panel-subtitle">Leitura rápida baseada nas respostas que deste no quiz.</div>
+          <div class="profile-overview-grid">
+            <div class="profile-radar-box">${renderRadarSVG(p.profileKey)}</div>
+            <div class="profile-summary">
+              ${profileSummary.map(item => `
+                <div class="profile-summary-item">
+                  <div class="profile-summary-icon">${getSummaryIcon(item.icon)}</div>
+                  <div>
+                    <div class="profile-summary-label">${item.label}</div>
+                    <div class="profile-summary-value">${item.value}</div>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+        <div class="profile-panel profile-tip-panel">
+          <div>
+            <div class="profile-tip-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M9 18h6"/><path d="M10 22h4"/><path d="M8 14c-1.3-1-2-2.6-2-4.3A6 6 0 0 1 12 4a6 6 0 0 1 6 5.7c0 1.7-.7 3.3-2 4.3-.7.6-1.2 1.4-1.4 2.3h-5.2c-.2-.9-.7-1.7-1.4-2.3Z"/>
+              </svg>
+            </div>
+            <div class="profile-panel-title">Dica</div>
+            <div class="profile-tip-text">Não existe raquete perfeita. O mais importante é encontrares uma que combine com a tua fase de jogo e te dê confiança para evoluir.</div>
+          </div>
+          <div class="profile-tip-visual">
+            <svg viewBox="0 0 96 96" fill="none" stroke="currentColor" stroke-width="3">
+              <circle cx="48" cy="48" r="28"/><circle cx="48" cy="48" r="18"/><circle cx="48" cy="48" r="8"/>
+              <path d="M66 30l11-11"/><path d="M61 35l14 14"/><path d="M75 49l7-7"/><path d="M78 16l3 10-10-3"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="result-budget">Faixa de preço recomendada: ${budgetLbl}</div>
       <div class="result-specs">
         <div class="result-spec"><div class="result-spec-lbl">Perfil</div><div class="result-spec-val">${p.lbl}</div></div>
         <div class="result-spec"><div class="result-spec-lbl">Forma</div><div class="result-spec-val">${p.forma}</div></div>

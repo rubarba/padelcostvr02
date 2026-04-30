@@ -933,6 +933,7 @@
     }
 
     .guide-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 3.1rem;
       margin-top: 0;
     }
@@ -1126,6 +1127,9 @@
       transition: all 0.3s ease;
       cursor: pointer;
       position: relative;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
     }
 
     .product-card:hover {
@@ -1232,6 +1236,9 @@
 
     .product-info {
       text-align: left;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
     }
 
     .product-brand {
@@ -1249,6 +1256,11 @@
       color: var(--text);
       margin-bottom: 0.5rem;
       line-height: 1.3;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      overflow: hidden;
+      min-height: 3.9em;
     }
 
     .product-rating {
@@ -1279,6 +1291,7 @@
       align-items: baseline;
       gap: 0.6rem;
       margin-bottom: 0.8rem;
+      min-height: 2.1rem;
     }
 
     .current-price {
@@ -1303,6 +1316,7 @@
       flex-direction: column-reverse;
       gap: 0.55rem;
       margin-top: 0.95rem;
+      margin-top: auto;
     }
 
     .editorial-product-actions .btn-buy {
@@ -3167,7 +3181,7 @@
         z-index: 99;
         background: rgba(255,255,255,0.98);
         border-bottom: 1px solid rgba(19, 32, 44, 0.06);
-        padding: 0;
+        padding: 0.25rem 0 0.75rem;
         box-shadow: 0 22px 42px rgba(9, 23, 40, 0.14);
       }
 
@@ -3180,37 +3194,56 @@
         display: flex;
         flex-direction: column;
         align-items: stretch;
-        padding: 0.25rem 1rem 0.35rem;
+        justify-content: flex-start;
+        min-height: 46vh;
+        padding: 0.65rem 1rem 0.25rem;
         background: transparent;
         border: none;
         border-radius: 0;
         box-shadow: none;
         width: 100%;
         margin: 0;
+        gap: 0.5rem;
       }
 
       .mobile-category-item {
         display: flex;
         align-items: center;
-        gap: 0.7rem;
-        padding: 0.82rem 0;
+        gap: 0.95rem;
+        padding: 1rem 1rem;
         width: 100%;
-        background: transparent;
-        border: none;
+        min-height: 64px;
+        background: rgba(255, 255, 255, 0.94);
+        border: 1px solid rgba(19, 32, 44, 0.08);
+        border-radius: 18px;
         color: var(--text-soft);
         font-family: 'Manrope', sans-serif;
-        font-size: 0.98rem;
-        font-weight: 600;
+        font-size: 1.08rem;
+        font-weight: 700;
         text-align: left;
         cursor: pointer;
+        box-shadow: 0 10px 24px rgba(12, 21, 33, 0.05);
       }
 
       .mobile-category-item + .mobile-category-item {
-        border-top: 1px solid rgba(19, 32, 44, 0.06);
+        border-top: none;
       }
 
       .mobile-category-item.active {
         color: var(--text);
+        background: rgba(36, 111, 178, 0.08);
+        border-color: rgba(36, 111, 178, 0.24);
+        box-shadow: 0 12px 26px rgba(22, 64, 104, 0.1);
+      }
+
+      .mobile-category-item .category-icon {
+        width: 46px;
+        height: 46px;
+        color: #3e4e5d;
+      }
+
+      .mobile-category-item.active .category-icon {
+        color: var(--accent);
       }
 
       .search-input {
@@ -4719,15 +4752,6 @@
         { label: 'Quiz de Sapatilhas', href: './guia-sapatilhas.html' }
       ],
       bg: 'linear-gradient(to right, rgba(12,20,29,0.8) 0%, rgba(12,20,29,0.36) 42%, rgba(12,20,29,0.06) 78%), url("./images/banner-slide-02.jpg")'
-    },
-    {
-      badge: '',
-      title: 'Que Tipo de Jogador És?',
-      text: 'Um quiz rápido para revelar o jogador que há em ti.',
-      actions: [
-        { label: 'Fazer quiz', href: './quiz-jogador.html' }
-      ],
-      bg: 'linear-gradient(to right, rgba(12,20,29,0.84) 0%, rgba(12,20,29,0.46) 42%, rgba(12,20,29,0.08) 78%), url("./images/banner-slide-03.jpg")'
     }
   ];
 
@@ -4798,6 +4822,8 @@
     const [currentPage, setCurrentPage] = useState(1);
     const [noveltyPage, setNoveltyPage] = useState(1);
     const bannerTouchStart = useRef({ x: 0, y: 0 });
+    const noveltySectionRef = useRef(null);
+    const catalogSectionRef = useRef(null);
     const PRODUCTS_PER_PAGE = 15;
     const FAVORITES_STORAGE_KEY = 'padelcost-favorites';
 
@@ -4814,10 +4840,7 @@
     });
 
     const noveltyProducts = useMemo(() =>
-      catalogProductsData
-        .filter((product) => product.category === 'raquetes')
-        .sort((a, b) => launchScore(b) - launchScore(a) || a.price - b.price)
-        .slice(0, 15)
+      buildNoveltyProducts(catalogProductsData, 20, 2)
     , [catalogProductsData]);
 
     const NOVELTY_PRODUCTS_PER_PAGE = 10;
@@ -5058,17 +5081,21 @@
       return false;
     };
 
-    const monitoredProductsCount = useMemo(() => {
+    const visibleCatalogProducts = useMemo(() => {
       return catalogProductsData.filter((product) =>
         ['raquetes', 'sapatilhas', 'sacos'].includes(product.category) &&
         !isCategoryIntruder(product, product.category)
-      ).length;
-    }, []);
+      );
+    }, [catalogProductsData]);
+
+    const monitoredProductsCount = useMemo(() => {
+      return visibleCatalogProducts.length;
+    }, [visibleCatalogProducts]);
 
     // Get filter options based on active category
     const getOptions = () => {
       const catProducts = activeCategory === 'all'
-        ? catalogProductsData
+        ? visibleCatalogProducts
         : catalogProductsData.filter(p => p.category === activeCategory && !isCategoryIntruder(p, activeCategory));
 
       const opts = {
@@ -5114,7 +5141,8 @@
     const options = getOptions();
 
     const baseFilterProducts = useMemo(() => {
-      return catalogProductsData.filter(product => {
+      const sourceProducts = activeCategory === 'all' ? visibleCatalogProducts : catalogProductsData;
+      return sourceProducts.filter(product => {
         if (activeCategory !== 'all' && product.category !== activeCategory) return false;
         if (activeCategory !== 'all' && isCategoryIntruder(product, activeCategory)) return false;
         if (searchQuery && !product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
@@ -5122,7 +5150,7 @@
         if (product.price > filters.precoMax) return false;
         return true;
       });
-    }, [activeCategory, searchQuery, filters.precoMax]);
+    }, [activeCategory, searchQuery, filters.precoMax, visibleCatalogProducts]);
 
     const matchesFiltersExcept = (product, ignoredType) => {
       if (ignoredType !== 'marcas' && filters.marcas.length > 0 && !filters.marcas.includes(product.brand)) return false;
@@ -5168,7 +5196,8 @@
 
     // Filter products
     const filteredProducts = useMemo(() => {
-      return catalogProductsData.filter(product => {
+      const sourceProducts = activeCategory === 'all' ? visibleCatalogProducts : catalogProductsData;
+      return sourceProducts.filter(product => {
         if (activeCategory !== 'all' && product.category !== activeCategory) return false;
         if (activeCategory !== 'all' && isCategoryIntruder(product, activeCategory)) return false;
         if (searchQuery && !product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
@@ -5195,7 +5224,7 @@
 
         return true;
       });
-    }, [activeCategory, searchQuery, filters]);
+    }, [activeCategory, searchQuery, filters, visibleCatalogProducts]);
 
     const countFilledSpecs = (product) => {
       if (!product?.specs) return 0;
@@ -5388,7 +5417,7 @@
       return getBestStore(stores)?.price ?? getLowestPrice(stores);
     };
 
-    const getOpportunityMeta = (product) => {
+    function getOpportunityMeta(product) {
       const validStores = (product?.stores || []).filter((store) => typeof store.price === 'number');
       if (validStores.length < 2) return null;
 
@@ -5413,7 +5442,7 @@
         euroGap,
         percentGap
       };
-    };
+    }
 
     const getCardBadgeMeta = (product) => {
       if (product?.badge && product.badge !== 'Amazon') {
@@ -5427,6 +5456,46 @@
 
       return null;
     };
+
+    function buildNoveltyProducts(products, limit = 15, maxPerBrand = 2) {
+      const rackets = products
+        .filter((product) => product.category === 'raquetes' && (product.stores?.length || 0) > 1)
+        .sort((a, b) => launchScore(b) - launchScore(a) || a.price - b.price);
+
+      const selected = [];
+      const brandCounts = new Map();
+
+      const tryAddProduct = (product) => {
+        if (!product || selected.some((item) => item.id === product.id)) return false;
+        const brandKey = (product.brand || 'Sem marca').trim();
+        const count = brandCounts.get(brandKey) || 0;
+        if (count >= maxPerBrand) return false;
+        selected.push(product);
+        brandCounts.set(brandKey, count + 1);
+        return true;
+      };
+
+      const topOpportunity = rackets.find((product) => !!getOpportunityMeta(product));
+      if (topOpportunity) {
+        tryAddProduct(topOpportunity);
+      }
+
+      rackets.forEach((product) => {
+        if (selected.length >= limit) return;
+        tryAddProduct(product);
+      });
+
+      if (selected.length < limit) {
+        rackets.forEach((product) => {
+          if (selected.length >= limit) return;
+          if (!selected.some((item) => item.id === product.id)) {
+            selected.push(product);
+          }
+        });
+      }
+
+      return selected.slice(0, limit);
+    }
 
     const getProductIdentitySet = (product) => [product.id, ...(product.variantIds || [])];
 
@@ -5584,6 +5653,13 @@
 
     const isInCompare = (product) => getProductIdentitySet(product).some((id) => compareIds.includes(id));
 
+    const scrollToSectionTop = (sectionRef) => {
+      if (!sectionRef?.current) return;
+      const headerOffset = window.innerWidth <= 768 ? 112 : 132;
+      const top = sectionRef.current.getBoundingClientRect().top + window.pageYOffset - headerOffset;
+      window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+    };
+
     return (
       <div>
         {/* HEADER */}
@@ -5615,7 +5691,7 @@
                 </div>
                 {showSuggestions && searchQuery.length >= 1 && (() => {
                   const q = searchQuery.toLowerCase();
-                  const matches = catalogProductsData.filter(p =>
+                  const matches = visibleCatalogProducts.filter(p =>
                     p.name.toLowerCase().includes(q) || p.brand.toLowerCase().includes(q)
                   ).slice(0, 6);
                   return matches.length > 0 ? (
@@ -5780,7 +5856,7 @@
               <div className="container" style={{ marginTop: '0.95rem' }}>
 
                 {/* Novidades & Lançamentos */}
-                <div className="guide-section novelty-section">
+                <div className="guide-section novelty-section" ref={noveltySectionRef}>
                   <div className="section-header">
                     <div>
                       <h2 className="section-title">Novidades & Lançamentos</h2>
@@ -5840,7 +5916,10 @@
                         <button
                           key={`novelty-page-${idx + 1}`}
                           className={`section-page-btn ${noveltyPage === idx + 1 ? 'active' : ''}`}
-                          onClick={() => setNoveltyPage(idx + 1)}
+                          onClick={() => {
+                            setNoveltyPage(idx + 1);
+                            scrollToSectionTop(noveltySectionRef);
+                          }}
                         >
                           {idx + 1}
                         </button>
@@ -5927,16 +6006,6 @@
                 {/* Guia de Compra */}
                 <div className="guide-section">
                   <div className="blog-grid guide-grid">
-                    <div className="blog-card" onClick={() => window.location.href='./quiz-jogador.html'} style={{ cursor: 'pointer' }}>
-                      <div className="guide-card-hero">
-                        <img className="guide-card-image-profile" src="./images/guide-card-perfil-jogador.jpg" alt="Jogador de padel em ambiente cinematográfico" loading="lazy" />
-                      </div>
-                      <div className="blog-card-body">
-                        <div className="blog-card-title">Descobre o teu perfil de jogador</div>
-                        <div className="blog-card-desc">Um quiz rápido para perceberes melhor o teu estilo de jogo em court.</div>
-                        <div className="blog-card-cta">Começar quiz →</div>
-                      </div>
-                    </div>
                     <div className="blog-card" onClick={() => window.location.href='./guia-raquetes.html'} style={{ cursor: 'pointer' }}>
                       <div className="guide-card-hero">
                         <img className="guide-card-image-rackets" src="./images/guide-card-raquetes.jpg" alt="Raquete de padel com desenho técnico" loading="lazy" />
@@ -5965,7 +6034,7 @@
               </div>
             )}
 
-            <div className="container" style={{ marginTop: '2rem', display: activeCategory === 'all' ? 'none' : 'block' }}>
+            <div className="container" ref={catalogSectionRef} style={{ marginTop: '2rem', display: activeCategory === 'all' ? 'none' : 'block' }}>
               <div className="main-layout">
 
                 {/* SIDEBAR */}
@@ -6228,7 +6297,10 @@
                     {totalPages > 1 && (
                       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', marginTop: '2rem', flexWrap: 'wrap' }}>
                         <button
-                          onClick={() => { setCurrentPage(p => Math.max(1, p - 1)); window.scrollTo(0, 0); }}
+                          onClick={() => {
+                            setCurrentPage(p => Math.max(1, p - 1));
+                            scrollToSectionTop(catalogSectionRef);
+                          }}
                           disabled={currentPage === 1}
                           style={{ padding: '0.5rem 1rem', borderRadius: '8px', border: '1px solid var(--border)', background: currentPage === 1 ? '#ffffff' : 'var(--accent)', color: currentPage === 1 ? 'var(--text-muted)' : '#fff', cursor: currentPage === 1 ? 'not-allowed' : 'pointer', fontWeight: 600 }}
                         >
@@ -6241,10 +6313,13 @@
                         }, []).map((item, idx) =>
                           item === '...'
                             ? <span key={`e${idx}`} style={{ padding: '0.5rem 0.25rem', color: 'var(--text-muted)' }}>…</span>
-                            : <button key={item} onClick={() => { setCurrentPage(item); window.scrollTo(0, 0); }} style={{ padding: '0.5rem 0.85rem', borderRadius: '8px', border: '1px solid var(--border)', background: currentPage === item ? 'var(--accent)' : '#ffffff', color: currentPage === item ? '#fff' : 'var(--text)', cursor: 'pointer', fontWeight: currentPage === item ? 700 : 400 }}>{item}</button>
+                            : <button key={item} onClick={() => { setCurrentPage(item); scrollToSectionTop(catalogSectionRef); }} style={{ padding: '0.5rem 0.85rem', borderRadius: '8px', border: '1px solid var(--border)', background: currentPage === item ? 'var(--accent)' : '#ffffff', color: currentPage === item ? '#fff' : 'var(--text)', cursor: 'pointer', fontWeight: currentPage === item ? 700 : 400 }}>{item}</button>
                         )}
                         <button
-                          onClick={() => { setCurrentPage(p => Math.min(totalPages, p + 1)); window.scrollTo(0, 0); }}
+                          onClick={() => {
+                            setCurrentPage(p => Math.min(totalPages, p + 1));
+                            scrollToSectionTop(catalogSectionRef);
+                          }}
                           disabled={currentPage === totalPages}
                           style={{ padding: '0.5rem 1rem', borderRadius: '8px', border: '1px solid var(--border)', background: currentPage === totalPages ? '#ffffff' : 'var(--accent)', color: currentPage === totalPages ? 'var(--text-muted)' : '#fff', cursor: currentPage === totalPages ? 'not-allowed' : 'pointer', fontWeight: 600 }}
                         >

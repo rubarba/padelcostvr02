@@ -4846,7 +4846,7 @@
     const [brandSlide, setBrandSlide] = useState(0);
     const [searchQuery, setSearchQuery] = useState('');
     const [sortBy, setSortBy] = useState('relevancia');
-    const [cookieAccepted, setCookieAccepted] = useState(false);
+    const [cookieConsent, setCookieConsent] = useState(null);
     const [selectedProduct, setSelectedProduct] = useState(null);
     const [modalActive, setModalActive] = useState(false);
     const [compareIds, setCompareIds] = useState([]);
@@ -4862,6 +4862,7 @@
     const noveltySectionRef = useRef(null);
     const catalogSectionRef = useRef(null);
     const PRODUCTS_PER_PAGE = 15;
+    const COOKIE_CONSENT_STORAGE_KEY = 'padelcost-cookie-consent';
     const FAVORITES_STORAGE_KEY = 'padelcost-favorites';
 
     // Filters state
@@ -4927,25 +4928,51 @@
 
     useEffect(() => {
       try {
-        const saved = window.localStorage.getItem(FAVORITES_STORAGE_KEY);
-        if (saved) {
-          const parsed = JSON.parse(saved);
-          if (Array.isArray(parsed)) {
-            setFavoriteIds(parsed);
+        const savedConsent = window.localStorage.getItem(COOKIE_CONSENT_STORAGE_KEY);
+        if (savedConsent === 'accepted' || savedConsent === 'rejected') {
+          setCookieConsent(savedConsent);
+
+          if (savedConsent === 'accepted') {
+            const savedFavorites = window.localStorage.getItem(FAVORITES_STORAGE_KEY);
+            if (savedFavorites) {
+              const parsed = JSON.parse(savedFavorites);
+              if (Array.isArray(parsed)) {
+                setFavoriteIds(parsed);
+              }
+            }
           }
         }
       } catch (error) {
-        console.warn('Não foi possível carregar favoritos.', error);
+        console.warn('Não foi possível carregar preferências de cookies.', error);
       }
     }, []);
 
     useEffect(() => {
+      if (!cookieConsent) return;
+
       try {
+        window.localStorage.setItem(COOKIE_CONSENT_STORAGE_KEY, cookieConsent);
+
+        if (cookieConsent === 'rejected') {
+          window.localStorage.removeItem(FAVORITES_STORAGE_KEY);
+          return;
+        }
+
         window.localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(favoriteIds));
       } catch (error) {
-        console.warn('Não foi possível guardar favoritos.', error);
+        console.warn('Não foi possível guardar preferências de cookies.', error);
       }
-    }, [favoriteIds]);
+    }, [cookieConsent, favoriteIds]);
+
+    const handleAcceptCookies = () => {
+      setCookieConsent('accepted');
+    };
+
+    const handleRejectCookies = () => {
+      setCookieConsent('rejected');
+      setFavoriteIds([]);
+      setFavoritesOpen(false);
+    };
 
     // Clear filters when category changes
     useEffect(() => {
@@ -7004,14 +7031,14 @@
           </div>
         </footer>
       {/* COOKIE BANNER */}
-      {!cookieAccepted && (
+      {!cookieConsent && (
         <div className="cookie-banner">
           <div className="cookie-text">
             Usamos cookies para melhorar a tua experiência. Ao continuar, aceitas a nossa <a href="./cookies.html">Política de Cookies</a> e <a href="./privacidade.html">Política de Privacidade</a>.
           </div>
           <div className="cookie-actions">
-            <button className="btn-cookie-reject" onClick={() => setCookieAccepted(true)}>Rejeitar</button>
-            <button className="btn-cookie-accept" onClick={() => setCookieAccepted(true)}>Aceitar</button>
+            <button className="btn-cookie-reject" onClick={handleRejectCookies}>Rejeitar</button>
+            <button className="btn-cookie-accept" onClick={handleAcceptCookies}>Aceitar</button>
           </div>
         </div>
       )}

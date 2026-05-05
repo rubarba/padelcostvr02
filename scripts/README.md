@@ -62,6 +62,19 @@ Este script gera `../data/padel-market-data.js` com os produtos do Padel Market:
 - mapeados para as categorias do PadelCost
 - preparados com `EAN`, `GTIN`, `MPN` e imagens para o merge
 
+
+### Zona de Padel (Google Merchant XML)
+
+```bash
+npm run generate:zonadepadel
+```
+
+Este script gera `../data/zona-de-padel-data.js` com os produtos da Zona de Padel:
+- lê o feed XML Google Merchant
+- mapeia apenas `raquetes`, `sapatilhas` e `sacos` para o catálogo core
+- aplica as regras globais contra packs, bolas, roupa e acessórios misturados
+- permite acrescentar o sufixo/parâmetro de afiliado via `ZONA_DE_PADEL_AFFILIATE_SUFFIX`
+
 ### Merge de ofertas
 
 ```bash

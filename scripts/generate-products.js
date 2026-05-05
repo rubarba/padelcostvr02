@@ -20,6 +20,7 @@ const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse');
 const { normalizeProductName } = require('./name-normalization');
+const { normalizeBrand } = require('./brand-normalization');
 const { isCategoryIntruder } = require('./category-rules');
 
 // ─── Configuração ──────────────────────────────────────────────────────────────
@@ -331,7 +332,7 @@ function rowToProduct(row, id) {
   return {
     id,
     name:     normalizeProductName(row.product_name || '', category),
-    brand:    row.brand_name   || '',
+    brand:    normalizeBrand(row.brand_name),
     category,
     price,
     oldPrice: null,

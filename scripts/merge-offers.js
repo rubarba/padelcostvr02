@@ -15,6 +15,7 @@
 const fs = require('fs');
 const path = require('path');
 const { normalizeProductName } = require('./name-normalization');
+const { normalizeBrand } = require('./brand-normalization');
 const { isCategoryIntruder } = require('./category-rules');
 
 const DATA_DIR = path.resolve(__dirname, '../data');
@@ -23,6 +24,7 @@ const ADIDAS_FILE = path.join(DATA_DIR, 'adidas-padel-data.js');
 const PADEL_MARKET_FILE = path.join(DATA_DIR, 'padel-market-data.js');
 const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
 const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
+const ZONA_DE_PADEL_FILE = path.join(DATA_DIR, 'zona-de-padel-data.js');
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
   ['raquetes::raquete de padel adidas metalbone 2026 ale galan', 'Pala de pádel adidas metalbone 2026 ale galán preto/vermelho'],
@@ -104,6 +106,7 @@ const STORE_PRIORITY = {
   'Atmosfera Sport': 2,
   'Padel Proshop PT': 3,
   'Forum Sport ES': 4,
+  'Zona de Padel': 5,
 };
 
 function compareStores(a, b) {
@@ -153,7 +156,7 @@ function mergeProductData(product, offer) {
   }
 
   const preferBetterAffiliateImage =
-    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es') &&
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es' || offer.source === 'zona-de-padel') &&
     offer.image &&
     (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
 
@@ -196,7 +199,7 @@ function createProductFromOffer(offer, id) {
   return {
     id,
     name: normalizeProductName(offer.name || '', offer.category),
-    brand: offer.brand || '',
+    brand: normalizeBrand(offer.brand),
     category: offer.category || 'acessorios',
     price: offer.price ?? null,
     oldPrice: offer.oldPrice ?? null,
@@ -270,6 +273,7 @@ function processOffers({
   const { byEan, byGtin, byMpn, bySignature, byName } = indexes;
 
   for (const offer of offers) {
+    offer.brand = normalizeBrand(offer.brand);
     if (isCategoryIntruder(offer, offer.category)) {
       counters.skipped += 1;
       continue;
@@ -349,6 +353,7 @@ function main() {
   const products = extractWindowData(MAIN_FILE, 'PADELCOST_PRODUCTS');
   for (const product of products) {
     product.name = normalizeProductName(product.name, product.category);
+    product.brand = normalizeBrand(product.brand);
   }
   for (let i = products.length - 1; i >= 0; i -= 1) {
     if (isCategoryIntruder(products[i], products[i].category)) {
@@ -364,6 +369,9 @@ function main() {
     : [];
   const forumSport = fs.existsSync(FORUM_SPORT_FILE)
     ? extractWindowData(FORUM_SPORT_FILE, 'PADELCOST_FORUM_SPORT_PRODUCTS')
+    : [];
+  const zonaDePadel = fs.existsSync(ZONA_DE_PADEL_FILE)
+    ? extractWindowData(ZONA_DE_PADEL_FILE, 'PADELCOST_ZONA_DE_PADEL_PRODUCTS')
     : [];
   const indexes = buildIndex(products);
 
@@ -419,6 +427,18 @@ function main() {
     processOffers({
       label: 'Forum Sport ES',
       offers: forumSport,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (zonaDePadel.length > 0) {
+    processOffers({
+      label: 'Zona de Padel',
+      offers: zonaDePadel,
       products,
       indexes,
       allowSignatureMatch: false,

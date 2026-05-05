@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-PT">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-MN6K5WQWLZ');
-  </script>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lojas Parceiras | PadelCost</title>
   <meta name="description" content="Consulta as lojas parceiras atuais do PadelCost e quantos produtos estão disponíveis em cada uma.">
@@ -23,6 +15,28 @@
   <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
@@ -284,6 +298,7 @@
     }
     .footer-newsletter-form {
       display: flex;
+      flex-wrap: wrap;
       gap: 0;
       flex: 1;
       max-width: 420px;
@@ -511,6 +526,9 @@
       .footer-grid { grid-template-columns: 1fr; }
       .footer-bottom-content { align-items: flex-start; flex-direction: column; }
     }
+  
+    .newsletter-privacy { flex: 0 0 100%; width: 100%; margin: 0.5rem 0 0; color: #7d8a9a; font-size: 0.7rem; line-height: 1.45; }
+    .newsletter-privacy a { color: #66758a; font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
   </style>
 </head>
 <body>
@@ -550,6 +568,7 @@
           <form class="footer-newsletter-form" action="https://padelcost.us15.list-manage.com/subscribe/post?u=677366095347cdd9b410aecc5&id=6b851bf4f2" method="POST" target="_blank">
             <input type="email" name="EMAIL" placeholder="O teu endereço de e-mail" required>
             <button type="submit">Enviar</button>
+            <p class="newsletter-privacy">Ao subscrever, aceitas receber emails do PadelCost. Podes cancelar a qualquer momento. Consulta a <a href="./privacidade.html">Política de Privacidade</a>.</p>
           </form>
         </div>
       </div>
@@ -573,8 +592,8 @@
           <div class="footer-col">
             <h4>Informações</h4>
             <a href="./como-funciona.html">Como Funciona</a>
-            <a href="./dados.html">Condições de Uso</a>
-            <a href="./dados.html">Aviso Legal</a>
+            <a href="./dados.html">Dados e Transparência</a>
+            <a href="./dados.html">Aviso de Afiliados</a>
             <a href="./privacidade.html">Política de Privacidade</a>
             <a href="./cookies.html">Política de Cookies</a>
           </div>
@@ -587,9 +606,7 @@
           <div class="footer-col">
             <h4>Redes</h4>
             <div class="footer-social">
-              <a href="https://www.linkedin.com/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
               <a href="https://www.instagram.com/" title="Instagram" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-              <a href="https://www.facebook.com/" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
             </div>
           </div>
         </div>
@@ -601,7 +618,7 @@
           <p>© PadelCost 2026. Todos os direitos reservados.</p>
           <div class="footer-bottom-links">
             <a href="./privacidade.html">Privacidade</a>
-            <a href="./dados.html">Termos</a>
+            <a href="./dados.html">Dados</a>
             <a href="./cookies.html">Cookies</a>
           </div>
           <p>Os preços podem variar. Confirma sempre na loja.</p>
@@ -610,8 +627,8 @@
     </div>
   </footer>
 
-  <script src="./data/products-data.js"></script>
-  <script src="./data/amazon-manual-data.js"></script>
+  <script src="./data/products-data.js?v=20260505-manual-zona-clean"></script>
+  <script src="./data/amazon-manual-data.js?v=20260505-manual-zona-clean"></script>
   <script>
     const rawProducts = [
       ...(Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : []),
@@ -641,7 +658,57 @@
       return category === product.category ? product : { ...product, category };
     });
     const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos']);
-    const monitoredProducts = products.filter((product) => coreCategories.has(product.category)).length;
+    const normalizeCatalogText = (value) => normalizeText(value)
+      .replace(/\b(tamanho|tam|size)\s*\d+(?:\.\d+)?\b/g, ' ')
+      .replace(/\b\d{2}(?:\.\d+)?\b/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const getShoeGroupKey = (product) => {
+      const brand = normalizeCatalogText(product?.brand);
+      const name = normalizeCatalogText(product?.name);
+      return `${brand}::${name}`;
+    };
+    const mergeStores = (variants) => {
+      const byStore = new Map();
+      variants.forEach((variant) => {
+        (variant.stores || []).forEach((store) => {
+          if (!store || !store.name) return;
+          const current = byStore.get(store.name);
+          if (!current || store.price < current.price) {
+            byStore.set(store.name, { ...store });
+          }
+        });
+      });
+      return Array.from(byStore.values()).sort((a, b) => a.price - b.price);
+    };
+    const aggregateCatalogProducts = (items) => {
+      const groupedShoes = new Map();
+      const result = [];
+      items.forEach((product) => {
+        if (product.category !== 'sapatilhas') {
+          result.push(product);
+          return;
+        }
+        const key = getShoeGroupKey(product);
+        if (!groupedShoes.has(key)) groupedShoes.set(key, []);
+        groupedShoes.get(key).push(product);
+      });
+      groupedShoes.forEach((variants, key) => {
+        const representative = variants[0];
+        result.push({
+          ...representative,
+          id: `shoe-group:${key}`,
+          variantIds: variants.map((variant) => variant.id),
+          price: Math.min(...variants.map((variant) => variant.price).filter(Number.isFinite)),
+          stores: mergeStores(variants)
+        });
+      });
+      return result;
+    };
+    const visibleProducts = aggregateCatalogProducts(
+      products.filter((product) => coreCategories.has(product.category))
+    );
+    const monitoredProducts = visibleProducts.length;
     const storeInfo = {
       'Adidas Padel': {
         url: 'https://www.adidaspadel.com/'
@@ -658,13 +725,16 @@
       'Forum Sport ES': {
         url: 'https://www.forumsport.com/es-es/'
       },
+      'Zona de Padel': {
+        url: 'https://www.zonadepadel.es/'
+      },
       'Amazon ES': {
         url: 'https://www.amazon.es/'
       }
     };
     const storeMap = new Map();
 
-    products.forEach((product) => {
+    visibleProducts.forEach((product) => {
       (product.stores || []).forEach((store) => {
         if (!store || !store.name) return;
         if (!storeMap.has(store.name)) {
@@ -676,9 +746,7 @@
           });
         }
         const entry = storeMap.get(store.name);
-        if (product.category && coreCategories.has(product.category)) {
-          entry.products.add(product.id);
-        }
+        entry.products.add(product.id);
         const bestStore = (product.stores || []).slice().sort((a, b) => a.price - b.price)[0];
         if (bestStore && bestStore.name === store.name) entry.bestPriceCount += 1;
       });
@@ -725,6 +793,9 @@
       }
       if (storeName === 'Amazon ES') {
         return '<img src="./logos/amazon-logo.png" alt="Amazon ES">';
+      }
+      if (storeName === 'Zona de Padel') {
+        return '<img src="./logos/zonadepadel.png" alt="Zona de Padel">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;

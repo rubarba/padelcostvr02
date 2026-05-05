@@ -1,19 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-PT">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-MN6K5WQWLZ');
-  </script>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <meta name="mylead-verification" content="e2cf2643c83c44b1553489d0db500d33" />
   <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
     <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <meta name="description" content="Compara preços de raquetes, sapatilhas, bolas e acessórios de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.">
   <meta name="keywords" content="padel, raquetes padel, sapatilhas padel, comparador preços padel, padel portugal">
   <meta property="og:title" content="PadelCost — Compara preços de padel em Portugal">
@@ -2656,6 +2670,7 @@
 
     .footer-newsletter-form {
       display: flex;
+      flex-wrap: wrap;
       gap: 0;
       flex: 1;
       max-width: 420px;
@@ -4264,14 +4279,17 @@
     }
 
     .btn-dev-close:hover { background: #0066bb; }
+  
+    .newsletter-privacy { flex: 0 0 100%; width: 100%; margin: 0.5rem 0 0; color: #7d8a9a; font-size: 0.7rem; line-height: 1.45; }
+    .newsletter-privacy a { color: #66758a; font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
   </style>
 </head>
 <body>
 
 <div id="root"></div>
 
-<script src="./data/products-data.js"></script>
-<script src="./data/amazon-manual-data.js"></script>
+<script src="./data/products-data.js?v=20260505-manual-zona-clean"></script>
+<script src="./data/amazon-manual-data.js?v=20260505-manual-zona-clean"></script>
 <script type="text/babel">
   const { useState, useEffect, useMemo, useRef } = React;
 
@@ -4337,7 +4355,8 @@
     'Atmosfera Sport': 2,
     'Padel Proshop PT': 3,
     'Forum Sport ES': 4,
-    'Amazon ES': 5,
+    'Zona de Padel': 5,
+    'Amazon ES': 6,
   };
 
   const compareStores = (a, b) => {
@@ -4949,6 +4968,10 @@
 
     useEffect(() => {
       if (!cookieConsent) return;
+
+      if (cookieConsent === 'accepted' && window.loadPadelCostAnalytics) {
+        window.loadPadelCostAnalytics();
+      }
 
       try {
         window.localStorage.setItem(COOKIE_CONSENT_STORAGE_KEY, cookieConsent);
@@ -5668,6 +5691,16 @@
           <img
             src="./logos/amazon-logo.png"
             alt="Amazon ES"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
+      if (storeName === 'Zona de Padel') {
+        return (
+          <img
+            src="./logos/zonadepadel.png"
+            alt="Zona de Padel"
             style={{ width: '100%', height: '100%', objectFit: 'contain' }}
           />
         );
@@ -6944,6 +6977,7 @@
                 <form className="footer-newsletter-form" action="https://padelcost.us15.list-manage.com/subscribe/post?u=677366095347cdd9b410aecc5&id=6b851bf4f2" method="POST" target="_blank">
                   <input type="email" name="EMAIL" placeholder="O teu endereço de e-mail" required />
                   <button type="submit">Enviar</button>
+                  <p className="newsletter-privacy">Ao subscrever, aceitas receber emails do PadelCost. Podes cancelar a qualquer momento. Consulta a <a href="./privacidade.html">Política de Privacidade</a>.</p>
                 </form>
               </div>
             </div>
@@ -6997,8 +7031,8 @@
                 {/* Legal */}
                 <div className="footer-col">
                   <h4>Legal</h4>
-                  <a href="./dados.html">Condições de Uso</a>
-                  <a href="./dados.html">Aviso Legal</a>
+                  <a href="./dados.html">Dados e Transparência</a>
+                  <a href="./dados.html">Aviso de Afiliados</a>
                   <a href="./privacidade.html">Política de Privacidade</a>
                   <a href="./cookies.html">Política de Cookies</a>
                 </div>
@@ -7006,9 +7040,7 @@
                 {/* Redes */}
                 <div className="footer-col">
                   <h4>Redes</h4>
-                  <a href="#" title="LinkedIn"><i className="fab fa-linkedin-in" style={{ marginRight: '0.45rem' }}></i>LinkedIn</a>
                   <a href="https://www.instagram.com/padelcost/" title="Instagram" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram" style={{ marginRight: '0.45rem' }}></i>Instagram</a>
-                  <a href="#" title="Facebook"><i className="fab fa-facebook-f" style={{ marginRight: '0.45rem' }}></i>Facebook</a>
                 </div>
 
               </div>
@@ -7022,7 +7054,7 @@
                 <p>© PadelCost 2026. Todos os direitos reservados.</p>
                 <div className="footer-bottom-links">
                   <a href="./privacidade.html">Privacidade</a>
-                  <a href="./dados.html">Termos</a>
+                  <a href="./dados.html">Dados</a>
                   <a href="./cookies.html">Cookies</a>
                 </div>
                 <p>Os preços podem variar. Confirma sempre na loja.</p>

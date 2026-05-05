@@ -1,0 +1,186 @@
+PadelCost - Nomes suspeitos para revisão
+=========================================
+
+Como preencher:
+- Em "decisao", escreve OK se for falso positivo ou REMOVER/CORRIGIR se for erro.
+- Em "nota", escreve a categoria correta ou a razão.
+
+1. [bola em categoria core] [sacos] Slinger - Máquina de lança Bolas de padel Slinger Tênis
+   ID: 1675
+   Preço: 1450
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: pelotas
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=45518900986161&url=https://padelproshop.com/pt-pt/products/maquina-de-lanca-bolas-de-padel-slinger-tenis
+   Decisão: 
+   Nota: 
+
+2. [bola em categoria core] [sacos] Drop Shot - Pacote Raquete de Padel Drop Shot Axion Attack 1.0 LTD 2025 Jon Sanz + saco PadelPROShop + Bolas de padel PadelPROShop Fast
+   ID: 2041
+   Preço: 249
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: accesorios
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52037375230257&url=https://padelproshop.com/pt-pt/products/pacote-raquete-de-padel-drop-shot-axion-attack-1-0-ltd-2025-jon-sanz-paletero-padelproshop-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+3. [bola em categoria core] [sacos] Adidas - Pack de Raquete de Padel Adidas Granite 2.0 + Bolsa Padel PadelPROShop + Bolas de padel PadelPROShop Fast
+   ID: 2042
+   Preço: 106.9
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52037421367601&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-adidas-granite-2-0-bolsa-padel-padelproshop-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+4. [bola em categoria core] [sacos] Adidas - Pack de Raquete de Padel Adidas Granite 2.0 Pro Carbon + Bolsa padel PadelPROShop + Bolas de padel PadelPROShop Fast
+   ID: 2043
+   Preço: 172
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52037433491761&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-adidas-granite-2-0-pro-carbon-bolsa-padel-padelproshop-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+5. [bola em categoria core] [sacos] Nox - Pacote Nox AT10 Genius 18K Alum 2025 Agustín Tapia + Bolsa padel PadelPROShop Preto + Bolas de padel PadelPROShop Fast
+   ID: 2077
+   Preço: 201.95
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52074817257777&url=https://padelproshop.com/pt-pt/products/pacote-nox-at10-genius-18k-alum-2025-agustin-tapia-bolsa-padel-padelproshop-preto-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+6. [roupa/acessorio em categoria core] [sacos] Bullpadel - Vestido Bullpadel BOLSAS Preto
+   ID: 4098
+   Preço: 49
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: ropa
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=48270008025393&url=https://padelproshop.com/pt-pt/products/vestido-bullpadel-bolsas-preto
+   Decisão: 
+   Nota: 
+
+7. [roupa/acessorio em categoria core] [sacos] Bullpadel - Vestido Bullpadel BOLSAS Preto
+   ID: 4099
+   Preço: 49
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: ropa
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=48270008058161&url=https://padelproshop.com/pt-pt/products/vestido-bullpadel-bolsas-preto
+   Decisão: 
+   Nota: 
+
+8. [bola em categoria core] [sacos] Oxdog - Carrinho dobrável Oxdog
+   ID: 4122
+   Preço: 119
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: pelotas
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=48379727348017&url=https://padelproshop.com/pt-pt/products/carrinho-dobravel-oxdog
+   Decisão: 
+   Nota: 
+
+9. [bola em categoria core] [sacos] PadelPROShop - Cesta de bolas PadelPROShop Tecido Preto 2026
+   ID: 6115
+   Preço: 64.5
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: pelotas
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52461523042609&url=https://padelproshop.com/pt-pt/products/cesta-de-bolas-padelproshop-tecido-preto-2026
+   Decisão: 
+   Nota: 
+
+10. [bola em categoria core] [sacos] Oxdog - Pack de Raquete de Padel Oxdog Ultimate Pro 2025 + Bolsa padel Oxdog FEP Hyper Pro Thermo bolsa padel + 3 Tubos de bolas Oxdog Boost
+   ID: 7372
+   Preço: 309
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52053126938929&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-oxdog-ultimate-pro-2025-bolsa-padel-oxdog-fep-hyper-pro-thermo-bolsa-padel-3-tubos-de-bolas-oxdog-boost
+   Decisão: 
+   Nota: 
+
+11. [bola em categoria core] [sacos] Oxdog - Pack de Raquete de Padel Oxdog Ultimate Smash 2025 + Bolsa padel Oxdog FEP Hyper Pro Thermo bolsa padel + 3 Tubos de bolas Oxdog BOOST+
+   ID: 7373
+   Preço: 304
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52053128249649&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-oxdog-ultimate-smash-2025-bolsa-padel-oxdog-fep-hyper-pro-thermo-bolsa-padel-3-tubos-de-bolas-oxdog-boost
+   Decisão: 
+   Nota: 
+
+12. [bola em categoria core] [sacos] Oxdog - Pack de Raquete de Padel Oxdog Ultimate Tour 2025 + Bolsa padel Oxdog FEP Hyper Pro Thermo bolsa padel + 3 Tubos de bolas Oxdog BOOST+
+   ID: 7374
+   Preço: 258
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52053128610097&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-oxdog-ultimate-tour-2025-bolsa-padel-oxdog-fep-hyper-pro-thermo-bolsa-padel-3-tubos-de-bolas-oxdog-boost
+   Decisão: 
+   Nota: 
+
+13. [bola em categoria core] [sacos] Oxdog - Raquete de Padel Oxdog Ultimate Court + Bolsa padel Oxdog FEP ultra tour Padel bag + Pote de Bolas de padel Oxdog BOOST+
+   ID: 7375
+   Preço: 129.9
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52053132050737&url=https://padelproshop.com/pt-pt/products/raquete-de-padel-oxdog-ultimate-court-bolsa-padel-oxdog-fep-ultra-tour-padel-bag-pote-de-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+14. [bola em categoria core] [sacos] Siux - Pack de Raquete de Padel Siux Electra Estupa ST2 Pro + Bolsa padel Oxdog Ultra Tour+ Bolas de padel Oxdog BOOST+
+   ID: 7376
+   Preço: 182
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52074857201969&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-siux-electra-estupa-st2-pro-bolsa-padel-oxdog-ultra-tour-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+15. [bola em categoria core] [sacos] Adidas - Pack de Raquete de Padel Adidas Metalbone 3.3 DRH+ Ale Galán + Bolsa padel Oxdog Ultra Tour Preto + Bolas de padel Oxdog BOOST+
+   ID: 7377
+   Preço: 234.95
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52074861920561&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-adidas-metalbone-3-3-drh-ale-galan-bolsa-padel-oxdog-ultra-tour-preto-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+16. [bola em categoria core] [sacos] Bullpadel - Pack de Raquete de Padel Bullpadel VERTEX 04 + Bolsa padel Oxdog Ultra Tour Preto + Bolas de padel Oxdog BOOST+
+   ID: 7378
+   Preço: 229.9
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52074899243313&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-bullpadel-vertex-04-bolsa-padel-oxdog-ultra-tour-preto-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+17. [bola em categoria core] [sacos] Head - Pack de Raquete de Padel Head Coello Pro 2025 + Bolsa padel Oxdog Ultra Tour Preto + Bolas de padel Oxdog BOOST+
+   ID: 7379
+   Preço: 258
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52074904125745&url=https://padelproshop.com/pt-pt/products/pack-de-raquete-de-padel-head-coello-pro-2025-bolsa-padel-oxdog-ultra-tour-preto-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 
+
+18. [bola em categoria core] [sacos] Babolat - Pacote Babolat Technical Viper 2025 + Bolsa padel Oxdog Ultra Tour Preto + Bolas de padel Oxdog BOOST+
+   ID: 7380
+   Preço: 269
+   Lojas: Padel Proshop PT
+   Origem: padel-proshop
+   Categoria origem: Palas de padel
+   URL: https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=52107104846129&url=https://padelproshop.com/pt-pt/products/pacote-babolat-technical-viper-2025-bolsa-padel-oxdog-ultra-tour-preto-bolas-de-padel-oxdog-boost
+   Decisão: 
+   Nota: 

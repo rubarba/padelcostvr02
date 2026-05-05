@@ -6,6 +6,28 @@
   <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <title>Guia de Sapatilhas | PadelCost</title>
   <meta name="description" content="Descobre qual a sapatilha de padel ideal para ti com o quiz do PadelCost.">
   <meta name="robots" content="index, follow">
@@ -15,9 +37,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://padelcost.pt/guia-sapatilhas.html">
   <meta property="og:image" content="https://padelcost.pt/og-sapatilhas.jpg">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN6K5WQWLZ"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-MN6K5WQWLZ');</script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
   <style>
@@ -235,7 +255,7 @@
       </div>
     </div>
   </footer>
-<script src="./data/products-data.js"></script>
+<script src="./data/products-data.js?v=20260505-manual-zona-clean"></script>
 <script>
 const CHECK_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l4 4L19 6"/></svg>';
 const REF_CARD_ICON = {

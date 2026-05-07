@@ -10,7 +10,8 @@
     "generate:forumsport": "node generate-forum-sport.js",
     "merge:offers": "node merge-offers.js",
     "report:quality": "node report-quality.js",
-    "generate:zonadepadel": "node generate-zona-de-padel.js"
+    "generate:zonadepadel": "node generate-zona-de-padel.js",
+    "generate:seo": "node generate-seo-pages.js"
   },
   "dependencies": {
     "csv-parse": "^5.5.6",

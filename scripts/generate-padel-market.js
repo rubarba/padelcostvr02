@@ -351,6 +351,7 @@ function rowToOffer(row, id) {
     source: 'padel-market',
     sourceProductId: row.aw_product_id || row.merchant_product_id || null,
     sourceCategory: row.merchant_product_category_path || row.merchant_category || row.category_name || null,
+    description: normalizeSpaces(row.description || row.product_description || row.long_description || row.short_description || '') || null,
     specs: {
       peso: parsedSpecs?.peso ?? null,
       forma: parsedSpecs?.forma ?? null,

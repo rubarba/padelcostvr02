@@ -411,6 +411,7 @@ function toOffer(row) {
     source: 'forum-sport-es',
     sourceProductId,
     sourceCategory: row.merchant_product_category_path || row.category_name || row.merchant_category || null,
+    description: normalizeSpaces(row.description || row.product_description || row.long_description || row.short_description || '') || null,
     ean: normalizeSpaces(row.ean || '') || null,
     productGTIN: normalizeSpaces(row.product_GTIN || '') || null,
     mpn: normalizeSpaces(row.mpn || row.model_number || row.merchant_product_id || '') || null,

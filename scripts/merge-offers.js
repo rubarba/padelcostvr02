@@ -181,6 +181,10 @@ function mergeProductData(product, offer) {
     product.sourceCategory = offer.sourceCategory;
   }
 
+  if (!product.description && offer.description) {
+    product.description = offer.description;
+  }
+
   const targetSpecs = product.specs || {};
   const sourceSpecs = offer.specs || {};
   for (const key of ['peso', 'forma', 'equilibrio', 'nivel', 'material', 'estilo', 'sola', 'genero', 'cor', 'uso', 'amortecimento']) {
@@ -213,6 +217,7 @@ function createProductFromOffer(offer, id) {
     imageSource: offer.source || 'adidas-padel',
     sourceProductId: offer.sourceProductId || null,
     sourceCategory: offer.sourceCategory || null,
+    description: offer.description || null,
     specs: {
       peso: offer.specs?.peso ?? null,
       forma: offer.specs?.forma ?? null,

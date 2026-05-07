@@ -435,6 +435,7 @@ function rowToOffer(row, id) {
     source: 'zona-de-padel',
     sourceProductId: getField(row, 'ItemGroupId', 'g:item_group_id', 'SKU', 'g:id', 'ManufacturerArticleNumber') || null,
     sourceCategory: getField(row, 'Category', 'g:product_type', 'product_type') || null,
+    description: normalizeSpaces(getField(row, 'Description', 'description', 'g:description') || '') || null,
     specs: {
       peso: racketSpecs?.peso ?? null,
       forma: racketSpecs?.forma ?? null,

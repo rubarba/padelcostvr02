@@ -345,6 +345,7 @@ function rowToProduct(row, id) {
     source:   'atmosfera-sport',
     sourceProductId: row.merchant_product_id || row.aw_product_id || null,
     sourceCategory: row.merchant_category || row.category_name || row.product_type || null,
+    description: normalizeSpaces(row.description || row.product_description || row.long_description || row.short_description || '') || null,
     specs: {
       peso:       parsedSpecs?.peso ?? null,
       forma:      parsedSpecs?.forma ?? null,

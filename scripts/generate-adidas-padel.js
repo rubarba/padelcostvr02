@@ -275,6 +275,7 @@ function rowToOffer(row, id) {
     source: 'adidas-padel',
     sourceProductId: row['product ID'] || null,
     sourceCategory: row.categories || null,
+    description: normalizeSpaces(row.description || row.longDescription || row.shortDescription || '') || null,
     specs: {
       peso: parsedSpecs?.peso ?? null,
       forma: parsedSpecs?.forma ?? null,

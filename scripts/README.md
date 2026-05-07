@@ -120,3 +120,13 @@ E um script agregador `generate-all.js` que os chama a todos e faz merge dos `st
 
 Atualmente o site mostra todos os produtos de uma vez.  
 Recomendado: **24 produtos por página** — implementar quando migrar para Next.js.
+
+## Páginas SEO estáticas
+
+Para gerar as páginas indexáveis de categorias e produtos comparáveis:
+
+```bash
+npm run generate:seo
+```
+
+Este comando lê `../data/products-data.js`, cria páginas em `../categoria/` e `../produto/` apenas para produtos das categorias principais com 2 ou mais lojas, remove duplicados por nome/marca/categoria e atualiza `../sitemap.xml`. A app principal continua a funcionar no `index.html`; estas páginas são uma camada SEO complementar.

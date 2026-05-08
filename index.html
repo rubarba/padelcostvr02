@@ -372,6 +372,29 @@
       transform: scale(0.96);
     }
 
+    .category-icon-fa {
+      width: 71px;
+      height: 71px;
+      border-radius: 999px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #8fa0b5;
+      background: linear-gradient(180deg, #fff 0%, #eef3f7 100%);
+      font-size: 2rem;
+      box-shadow: 0 10px 22px rgba(15, 28, 42, 0.08);
+      transition: color 0.22s ease, transform 0.22s ease, background 0.22s ease;
+    }
+
+    .category-btn:hover .category-icon-fa,
+    .category-btn.active .category-icon-fa,
+    .mobile-category-item:hover .category-icon-fa,
+    .mobile-category-item.active .category-icon-fa {
+      color: #0b7ed0;
+      transform: scale(1.03);
+      background: #eef7ff;
+    }
+
     .category-btn:hover .category-icon,
     .category-btn.active .category-icon {
       transform: translateY(-1px);
@@ -1553,13 +1576,22 @@
     .modal-header {
       padding: 1rem 1.2rem;
       border-bottom: 1px solid var(--border);
-      display: flex;
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
       gap: 1.5rem;
       align-items: flex-start;
+      position: relative;
     }
 
     .modal-header-top {
       display: none;
+    }
+
+    .modal-product-media {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      min-width: 0;
     }
 
     .modal-product-image {
@@ -1592,6 +1624,21 @@
       transform: scale(1.36);
     }
 
+    .modal-brand-logo {
+      min-height: 72px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.4rem;
+      background: #fff;
+    }
+
+    .modal-brand-logo img {
+      max-width: 210px;
+      max-height: 70px;
+      object-fit: contain;
+    }
+
     .modal-close {
       background: none;
       border: none;
@@ -1607,7 +1654,9 @@
     }
 
     .modal-header-actions {
-      margin-left: auto;
+      position: absolute;
+      top: 0.75rem;
+      right: 0.8rem;
       display: flex;
       align-items: center;
       gap: 0.55rem;
@@ -1647,7 +1696,7 @@
       }
 
     .modal-secondary-actions {
-      margin-top: 0.55rem;
+      margin-top: 1rem;
       display: flex;
       align-items: center;
       gap: 0.9rem;
@@ -1911,7 +1960,6 @@
     }
 
     .modal-product-info {
-      flex: 1;
       display: flex;
       flex-direction: column;
       gap: 0.3rem;
@@ -1933,17 +1981,39 @@
       letter-spacing: 0.06em;
     }
 
+    .modal-product-summary {
+      margin: 0.35rem 0 0.65rem;
+      color: var(--text-soft);
+      font-size: 0.9rem;
+      line-height: 1.5;
+      max-width: 620px;
+    }
+
     .modal-specs {
-      margin-top: 0.8rem;
+      margin-top: 0.55rem;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 0.35rem 0.8rem;
+      gap: 0.55rem 0.85rem;
     }
 
     .modal-spec-item {
-      display: flex;
-      flex-direction: column;
-      gap: 0.1rem;
+      display: grid;
+      grid-template-columns: 32px 1fr;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .modal-spec-icon {
+      width: 31px;
+      height: 31px;
+      border-radius: 9px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.82rem;
+      box-shadow: inset 0 0 0 1px rgba(32, 111, 220, 0.08);
     }
 
     .modal-spec-label {
@@ -1958,6 +2028,26 @@
       font-size: 0.82rem;
       font-weight: 600;
       color: var(--text);
+    }
+
+    .modal-product-description {
+      margin-top: 1.05rem;
+      max-width: 650px;
+    }
+
+    .modal-product-description h3 {
+      margin: 0 0 0.55rem;
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .modal-product-description p {
+      margin: 0;
+      color: var(--text-soft);
+      font-size: 0.9rem;
+      line-height: 1.6;
     }
 
     .modal-body {
@@ -3593,8 +3683,24 @@
         padding: 0.72rem 0.72rem;
       }
 
-      .modal-product-image {
+      .modal-header {
+        display: grid;
+        grid-template-areas:
+          "image info"
+          "save info";
+        grid-template-columns: 104px 1fr;
+      }
+
+      .modal-product-media {
         grid-area: image;
+        gap: 0.3rem;
+      }
+
+      .modal-brand-logo {
+        display: none;
+      }
+
+      .modal-product-image {
         width: 104px;
         min-width: 104px;
         height: 104px;
@@ -3636,14 +3742,6 @@
         padding-left: 0.1rem;
       }
 
-      .modal-header-actions .modal-save-btn {
-        display: none;
-      }
-
-      .modal-save-inline-mobile {
-        display: inline-flex;
-      }
-
       .modal-save-btn {
         padding: 0.38rem 0.5rem;
         min-width: 30px;
@@ -3660,9 +3758,26 @@
         display: inline;
       }
 
+      .modal-product-summary,
+      .modal-product-description {
+        display: none;
+      }
+
       .modal-specs {
         margin-top: 0.42rem;
-        gap: 0.18rem 0.45rem;
+        gap: 0.28rem 0.45rem;
+      }
+
+      .modal-spec-item {
+        grid-template-columns: 24px 1fr;
+        gap: 0.32rem;
+      }
+
+      .modal-spec-icon {
+        width: 23px;
+        height: 23px;
+        border-radius: 7px;
+        font-size: 0.66rem;
       }
 
       .modal-spec-label {
@@ -4332,7 +4447,8 @@
   const categories = [
     { id: 'raquetes', name: 'Raquetes', icon: 'fas fa-table-tennis', color: '#e77926' },
     { id: 'sapatilhas', name: 'Sapatilhas', icon: 'fas fa-shoe-prints', color: '#8b5cf6' },
-    { id: 'sacos', name: 'Sacos de padel', icon: 'fas fa-shopping-bag', color: '#f59e0b' }
+    { id: 'sacos', name: 'Sacos de padel', icon: 'fas fa-shopping-bag', color: '#f59e0b' },
+    { id: 'acessorios', name: 'Acessórios', icon: 'fas fa-circle-dot', color: '#0b7ed0' }
   ];
   const searchCategories = [{ id: 'all', name: 'Tudo' }, ...categories];
 
@@ -4389,41 +4505,77 @@
     .replace(/\s+/g, ' ')
     .trim();
 
+  const getCatalogSearchText = (product) => normalizeCatalogText([
+    product?.name,
+    product?.brand,
+    product?.sourceCategory,
+    product?.description
+  ].filter(Boolean).join(' | ')).replace(/[^a-z0-9]+/g, ' ').replace(/\s+/g, ' ').trim();
+
+  const catalogHasWord = (text, terms) => terms.some((term) => new RegExp('(^| )' + term + '( |$)').test(text));
+  const catalogHasPhrase = (text, terms) => terms.some((term) => text.includes(term));
+
+  const ACCESSORY_WORD_HINTS = [
+    'bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls',
+    'overgrip', 'overgrips', 'grip', 'hesacore',
+    'protetor', 'protector', 'antivibrador', 'antivibradores',
+    'amortecedor', 'amortecedores', 'cordao', 'cordon', 'cordones',
+    'pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta'
+  ];
+
+  const ACCESSORY_PHRASE_HINTS = [
+    'custom weight', 'contrapeso', 'contrapesos', 'peso de padel',
+    'protection tape', 'antishock', 'wrist cord', 'pick up ball',
+    'pickup ball', 'pascal box', 'dry grip', 'crystal grip', 'power grip', 'gel grip'
+  ];
+
+  const ACCESSORY_EXCLUDE_WORDS = [
+    'meia', 'meias', 'sock', 'socks', 'bone', 'gorra', 'viseira', 'visor',
+    'toalha', 'toalla', 'garrafa', 'botella', 'wallet', 'carteira', 'necessaire',
+    'bolsa', 'mochila', 'paletero', 'raquetero', 'sandalia', 'sandal',
+    'sapatilha', 'sapatilhas', 'sapato', 'sapatos', 'zapatilla', 'zapatillas', 'shoe', 'shoes',
+    'camiseta', 'camisa', 'polo', 'short', 'shorts', 'calca', 'calcas', 'pants', 'trousers',
+    'jacket', 'chaqueta', 'hood', 'sweat', 'sudadera', 'moletom', 'vestido', 'saia', 'falda',
+    'legging', 'malla', 'mallas', 'cotovelo', 'cotoveleira', 'joelheira', 'bandana',
+    'pendente', 'joia', 'joya', 'colar', 'raquete', 'raqueta', 'racket', 'pala'
+  ];
+
+  const ACCESSORY_EXCLUDE_PHRASES = [
+    't shirt', 'saco para acessorios', 'pack cross', 'red de mini padel',
+    'carro de bola', 'carrinho', 'bola de praia', 'pingente'
+  ];
+
+  const isCleanAccessoryProduct = (product) => {
+    if (!product || !['acessorios', 'bolas'].includes(product.category)) return false;
+    const text = getCatalogSearchText(product);
+    if (catalogHasWord(text, ACCESSORY_EXCLUDE_WORDS) || catalogHasPhrase(text, ACCESSORY_EXCLUDE_PHRASES)) return false;
+    return catalogHasWord(text, ACCESSORY_WORD_HINTS) || catalogHasPhrase(text, ACCESSORY_PHRASE_HINTS);
+  };
+
+  const getAccessoryProductType = (product) => {
+    const text = getCatalogSearchText(product);
+    if (catalogHasWord(text, ['overgrip', 'overgrips', 'grip', 'hesacore']) || catalogHasPhrase(text, ['dry grip', 'crystal grip', 'power grip', 'gel grip'])) return 'Overgrips';
+    if (catalogHasWord(text, ['protetor', 'protector']) || catalogHasPhrase(text, ['protection tape', 'antishock'])) return 'Protetores';
+    if (catalogHasWord(text, ['antivibrador', 'antivibradores', 'amortecedor', 'amortecedores'])) return 'Antivibradores';
+    if (catalogHasWord(text, ['cordao', 'cordon', 'cordones']) || catalogHasPhrase(text, ['wrist cord'])) return 'Cordões';
+    if (catalogHasPhrase(text, ['custom weight', 'contrapeso', 'contrapesos', 'peso de padel'])) return 'Pesos';
+    if (catalogHasWord(text, ['pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta']) || catalogHasPhrase(text, ['pascal box'])) return 'Bolas e tubos';
+    if (catalogHasWord(text, ['bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls'])) return 'Bolas';
+    return 'Acessórios';
+  };
+
   const normalizeCatalogCategory = (product) => {
-    if (!product || product.category !== 'bolas') return product?.category;
+    if (!product) return product?.category;
 
-    const text = normalizeCatalogText([
-      product?.name,
-      product?.sourceCategory,
-      product?.description
-    ].filter(Boolean).join(' | '));
+    if (isCleanAccessoryProduct(product)) {
+      return 'acessorios';
+    }
 
-    const racketHints = [
-      'raquete de padel',
-      'raqueta de padel',
-      'racket',
-      'pala de padel',
-      'palas de padel'
-    ];
+    if (product.category !== 'bolas') return product.category;
 
-    const accessoryHints = [
-      'overgrip',
-      'grip',
-      'spray',
-      'pendente',
-      'joia',
-      'joyas',
-      'bola',
-      'bolas',
-      'pack x3',
-      'pacote x3',
-      'pacote x6',
-      'tubo',
-      'pote'
-    ];
-
-    const hasRacketHint = racketHints.some((hint) => text.includes(hint));
-    const hasAccessoryHint = accessoryHints.some((hint) => text.includes(hint));
+    const text = getCatalogSearchText(product);
+    const hasRacketHint = catalogHasPhrase(text, ['raquete de padel', 'raqueta de padel', 'pala de padel', 'palas de padel']) || catalogHasWord(text, ['racket']);
+    const hasAccessoryHint = catalogHasWord(text, ACCESSORY_WORD_HINTS) || catalogHasPhrase(text, ACCESSORY_PHRASE_HINTS);
 
     if (hasRacketHint && !hasAccessoryHint) {
       return 'raquetes';
@@ -4434,10 +4586,14 @@
 
   const productsData = rawProductsData.map((product) => {
     const normalizedCategory = normalizeCatalogCategory(product);
-    if (normalizedCategory === product.category) return product;
+    const accessoryType = normalizedCategory === 'acessorios' ? getAccessoryProductType(product) : null;
+    if (normalizedCategory === product.category && !accessoryType) return product;
     return {
       ...product,
-      category: normalizedCategory
+      category: normalizedCategory,
+      specs: accessoryType
+        ? { ...(product.specs || {}), tipo: product.specs?.tipo || accessoryType }
+        : product.specs
     };
   });
 
@@ -4526,7 +4682,43 @@
     genero: 'Género',
     cor: 'Cor',
     amortecimento: 'Amortecimento',
-    tamanhos: 'Tamanhos'
+    tamanhos: 'Tamanhos',
+    tipo: 'Tipo'
+  };
+
+  const BRAND_LOGOS = {
+    adidas: './logos_marcas/palas-de-padel-adidas.jpg',
+    'adidas padel': './logos_marcas/palas-de-padel-adidas.jpg',
+    asics: './logos_marcas/zapatillas-de-padel-asics.jpg',
+    babolat: './logos_marcas/palas-de-padel-babolat.jpg',
+    'black crown': './logos_marcas/palas-de-padel-black-crown.jpg',
+    bullpadel: './logos_marcas/palas-de-padel-bullpadel-.jpg',
+    dreampadel: './logos_marcas/palas-de-padel-dreampadel.jpg',
+    'drop shot': './logos_marcas/palas-de-padel-drop-shot.jpg',
+    dunlop: './logos_marcas/palas-de-padel-dunlop.jpg',
+    enebe: './logos_marcas/palas-de-padel-enebe.jpg',
+    head: './logos_marcas/9-b-prod.png',
+    joma: './logos_marcas/palas-de-padel-joma.jpg',
+    kombat: './logos_marcas/palas-de-padel-kombat.jpg',
+    lacoste: './logos_marcas/zapatillas-lacoste.jpg',
+    lok: './logos_marcas/palas-de-padel-lok.jpg',
+    mizuno: './logos_marcas/zapatillas-mizuno.jpg',
+    munich: './logos_marcas/zapatillas-munich.jpg',
+    nox: './logos_marcas/palas-de-padel-nox.jpg',
+    puma: './logos_marcas/zapatillas-puma.jpg',
+    'royal padel': './logos_marcas/palas-de-padel-royal-padel.jpg',
+    siux: './logos_marcas/palas-de-padel-siux.jpg',
+    'star vie': './logos_marcas/palas-de-padel-star-vie.jpg',
+    starvie: './logos_marcas/palas-de-padel-star-vie.jpg',
+    tecnifibre: './logos_marcas/palas-de-padel-tecnifibre.jpg',
+    vibora: './logos_marcas/palas-de-padel-vibora.jpg',
+    'vibor-a': './logos_marcas/palas-de-padel-vibora.jpg',
+    wilson: './logos_marcas/palas-de-padel-wilson.jpg'
+  };
+
+  const getBrandLogo = (product) => {
+    const key = normalizeCatalogText(product?.brand || '');
+    return BRAND_LOGOS[key] || '';
   };
 
   const getModalSpecs = (product) => {
@@ -4535,7 +4727,8 @@
     const specOrderByCategory = {
       raquetes: ['peso', 'forma', 'equilibrio', 'nivel', 'material', 'estilo'],
       sapatilhas: ['genero', 'tamanhos', 'sola', 'amortecimento', 'uso', 'cor'],
-      sacos: ['genero', 'cor', 'material']
+      sacos: ['genero', 'cor', 'material'],
+      acessorios: ['tipo', 'cor', 'material']
     };
 
     const orderedKeys = specOrderByCategory[product.category] || Object.keys(product.specs);
@@ -4563,6 +4756,102 @@
         };
       })
       .filter(Boolean);
+  };
+
+  const getModalSpecIconClass = (key) => {
+    const icons = {
+      peso: 'fa-weight-hanging',
+      forma: 'fa-gem',
+      equilibrio: 'fa-scale-balanced',
+      nivel: 'fa-chart-line',
+      material: 'fa-layer-group',
+      estilo: 'fa-bolt',
+      sola: 'fa-shoe-prints',
+      genero: 'fa-user',
+      cor: 'fa-palette',
+      uso: 'fa-fire',
+      amortecimento: 'fa-shield-halved',
+      tipo: 'fa-briefcase',
+      tamanhos: 'fa-ruler'
+    };
+    return icons[key] || 'fa-circle-info';
+  };
+
+  const buildModalProductSummary = (product) => {
+    const specs = product?.specs || {};
+    const title = product?.name || 'Este produto';
+    const level = specs.nivel ? String(specs.nivel).toLowerCase() : '';
+    const style = specs.estilo || specs.uso || '';
+    const shape = specs.forma ? String(specs.forma).toLowerCase() : '';
+    const material = specs.material ? String(specs.material).toLowerCase() : '';
+    const sole = specs.sola ? String(specs.sola).toLowerCase() : '';
+    const cushioning = specs.amortecimento ? String(specs.amortecimento).toLowerCase() : '';
+    const gender = specs.genero ? String(specs.genero).toLowerCase() : '';
+
+    if (product?.category === 'raquetes') {
+      const profile = level ? `de nível ${level}` : 'para diferentes níveis de jogo';
+      const intent = style ? `orientada para ${String(style).toLowerCase()}` : 'com boa combinação entre controlo e saída de bola';
+      const details = [shape && `formato ${shape}`, material && `construção em ${material}`].filter(Boolean).join(' e ');
+      return `${title} é uma raquete ${profile}, ${intent}${details ? `, com ${details}` : ''}.`;
+    }
+
+    if (product?.category === 'sapatilhas') {
+      const target = gender ? `para ${gender}` : 'para jogar padel';
+      const details = [sole && `sola ${sole}`, cushioning && `amortecimento ${cushioning}`].filter(Boolean).join(' e ');
+      return `${title} são sapatilhas de padel ${target}, pensadas para conforto, estabilidade e aderência${details ? `, com ${details}` : ''}.`;
+    }
+
+    if (product?.category === 'sacos') {
+      return `${title} é um saco de padel pensado para transportar raquetes, roupa e acessórios com organização e praticidade.`;
+    }
+
+    if (product?.category === 'acessorios') {
+      const type = specs.tipo ? String(specs.tipo).toLowerCase() : 'acessório de padel';
+      return `${title} é um ${type} pensado para completar o teu equipamento de padel com mais conforto e praticidade.`;
+    }
+
+    return `${title} é um artigo de padel pensado para apoiar o teu jogo com equipamento adequado.`;
+  };
+
+  const buildModalProductDescription = (product) => {
+    const specs = product?.specs || {};
+    const title = product?.name || 'Este produto';
+    const brandText = product?.brand ? ` da ${product.brand}` : '';
+    const style = specs.estilo || specs.uso || '';
+    const level = specs.nivel || '';
+    const shape = specs.forma || '';
+    const material = specs.material || '';
+    const sole = specs.sola || '';
+    const cushioning = specs.amortecimento || '';
+    const gender = specs.genero || '';
+    const color = specs.cor || '';
+
+    if (product?.category === 'raquetes') {
+      const profile = level ? `jogadores de nível ${String(level).toLowerCase()}` : 'jogadores que querem evoluir em pista';
+      const intent = style ? `procuram ${String(style).toLowerCase()}` : 'procuram uma boa combinação entre controlo, saída de bola e estabilidade';
+      const details = [shape && `formato ${String(shape).toLowerCase()}`, material && `construção em ${String(material).toLowerCase()}`].filter(Boolean).join(' e ');
+      return `${title} é uma raquete de padel${brandText} pensada para ${profile} que ${intent}. ${details ? `Com ${details}, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.` : 'É uma opção a considerar para quem procura rendimento consistente e boas sensações em jogo.'}`;
+    }
+
+    if (product?.category === 'sapatilhas') {
+      const target = gender ? `para ${String(gender).toLowerCase()}` : 'para jogar padel';
+      const useText = style ? ` para ${String(style).toLowerCase() === 'intenso' ? 'uso intenso' : String(style).toLowerCase()}` : '';
+      const details = [sole && `sola ${String(sole).toLowerCase()}`, cushioning && `amortecimento ${String(cushioning).toLowerCase()}`, color && `cor ${String(color).toLowerCase()}`].filter(Boolean).join(', ');
+      return `${title} são sapatilhas de padel${brandText} ${target}, indicadas para quem procura conforto, estabilidade e aderência em campo${useText}. ${details ? `Destacam-se por ${details}, ajudando a manter segurança nos apoios e mudanças de direção.` : 'Foram pensadas para acompanhar movimentos rápidos, travagens e mudanças de direção típicas do padel.'}`;
+    }
+
+    if (product?.category === 'sacos') {
+      const details = [color && `cor ${String(color).toLowerCase()}`, specs.tipo && `tipo ${String(specs.tipo).toLowerCase()}`].filter(Boolean).join(', ');
+      return `${title} é um saco de padel${brandText} pensado para transportar o equipamento de forma prática e organizada. ${details ? `Com ${details}, é uma opção útil para levar raquetes, roupa e acessórios para treinos ou jogos.` : 'É uma opção útil para levar raquetes, roupa e acessórios para treinos ou jogos.'}`;
+    }
+
+    if (product?.category === 'acessorios') {
+      const type = specs.tipo ? String(specs.tipo).toLowerCase() : 'acessório de padel';
+      const detail = color ? ` em ${String(color).toLowerCase()}` : '';
+      return `${title} é um ${type}${brandText}${detail} pensado para complementar o equipamento de padel. É uma opção útil para quem procura pequenos detalhes que ajudam no conforto, na manutenção ou na preparação para jogar.`;
+    }
+
+    return `${title} é um artigo de padel${brandText} pensado para quem procura equipamento fiável e adequado ao seu jogo.`;
   };
 
   const getCatalogSpecsScore = (product) => {
@@ -4862,6 +5151,10 @@
         sacos: {
           white: './logos/category-icons/WHITE_SACOS_TRANSPARENT.png?v=20260506-category-icons',
           color: './logos/category-icons/COLOR_SACOS.png?v=20260506-category-icons'
+        },
+        acessorios: {
+          white: './logos/category-icons/MONO_BOLAS.png?v=20260508-accessories-icon',
+          color: './logos/category-icons/COR_BOLAS.png?v=20260508-accessories-icon'
         }
       };
       const icon = sources[type];
@@ -4878,13 +5171,14 @@
       all: null,
       raquetes: <CategoryIcon type="raquetes" />,
       sapatilhas: <CategoryIcon type="sapatilhas" />,
-      sacos: <CategoryIcon type="sacos" />
+      sacos: <CategoryIcon type="sacos" />,
+      acessorios: <CategoryIcon type="acessorios" />
     };
 
   function App() {
     const initialCategory = (() => {
       const value = new URLSearchParams(window.location.search).get('categoria');
-      return ['raquetes', 'sapatilhas', 'sacos'].includes(value) ? value : 'all';
+      return ['raquetes', 'sapatilhas', 'sacos', 'acessorios'].includes(value) ? value : 'all';
     })();
     const [activeCategory, setActiveCategory] = useState(initialCategory);
     const [currentSlide, setCurrentSlide] = useState(0);
@@ -5062,8 +5356,6 @@
             'colar',
             'joia',
             'jewelry',
-            'bola',
-            'bolas',
             'pote de bolas',
             'tubo de bola',
             'tubo selecionador',
@@ -5134,6 +5426,10 @@
         }
       }
 
+      if (category === 'acessorios') {
+        return !isCleanAccessoryProduct(product);
+      }
+
       if (category === 'sapatilhas') {
         if (
           hasAny([
@@ -5164,8 +5460,6 @@
             'cheiro',
             'spray',
             'footgel',
-            'bola',
-            'bolas',
             'pote de bolas',
             'tubo de bola',
             'tubo selecionador',
@@ -5190,7 +5484,7 @@
 
     const visibleCatalogProducts = useMemo(() => {
       return catalogProductsData.filter((product) =>
-        ['raquetes', 'sapatilhas', 'sacos'].includes(product.category) &&
+        ['raquetes', 'sapatilhas', 'sacos', 'acessorios'].includes(product.category) &&
         !isCategoryIntruder(product, product.category)
       );
     }, [catalogProductsData]);
@@ -5226,10 +5520,9 @@
         opts.precoRange = { min: 20, max: 300 };
       }
 
-      if (activeCategory === 'bolas') {
-        opts.precoRange = { min: 3, max: 30 };
-        delete opts.precoRange; // bolas só tem marca
-        opts.soMarca = true;
+      if (activeCategory === 'acessorios') {
+        opts.tipo = [...new Set(catProducts.map(product => product.specs?.tipo).filter(Boolean))].sort();
+        opts.precoRange = { min: 1, max: 200 };
       }
 
       if (activeCategory === 'sacos') {
@@ -5265,6 +5558,8 @@
         const hasSelectedStore = product.stores?.some(store => filters.lojas.includes(store.name));
         if (!hasSelectedStore) return false;
       }
+
+      if (ignoredType !== 'tipo' && filters.tipo.length > 0 && !filters.tipo.includes(product.specs?.tipo)) return false;
 
       if (activeCategory === 'raquetes') {
         if (ignoredType !== 'forma' && filters.forma.length > 0 && !filters.forma.includes(product.specs.forma)) return false;
@@ -5329,6 +5624,8 @@
           }
         }
 
+        if (activeCategory === 'acessorios' && filters.tipo.length > 0 && !filters.tipo.includes(product.specs?.tipo)) return false;
+
         return true;
       });
     }, [activeCategory, searchQuery, filters, visibleCatalogProducts]);
@@ -5383,8 +5680,21 @@
       const minPrice = prices.length ? Math.min(...prices) : 0;
       const maxPrice = prices.length ? Math.max(...prices) : 0;
       const priceSpan = maxPrice - minPrice;
+      const normalizedSearchQuery = searchQuery.trim().toLowerCase();
+      const searchCategoryPriority = {
+        raquetes: 420,
+        sapatilhas: 360,
+        sacos: 140,
+        acessorios: 80,
+      };
 
       const relevanceScore = (product) => {
+        const categoryScore = normalizedSearchQuery
+          ? (searchCategoryPriority[product.category] || 0)
+          : 0;
+        const brandScore = normalizedSearchQuery && product.brand?.toLowerCase() === normalizedSearchQuery
+          ? 50
+          : 0;
         const storesScore = Math.min((product?.stores?.length || 0), 4) * 18;
         const specsScore = Math.min(countFilledSpecs(product), 8) * 4.5;
         const imageScore = getImageQualityScore(product) * 7;
@@ -5399,7 +5709,7 @@
           }
         }
 
-        return storesScore + specsScore + imageScore + recentScore + priceScore;
+        return categoryScore + brandScore + storesScore + specsScore + imageScore + recentScore + priceScore;
       };
 
       return arr.sort((a, b) => {
@@ -5407,7 +5717,7 @@
         if (diff !== 0) return diff;
         return a.price - b.price;
       });
-    }, [filteredProducts, sortBy]);
+    }, [filteredProducts, sortBy, searchQuery]);
 
     const totalPages = Math.ceil(sortedProducts.length / PRODUCTS_PER_PAGE);
     const pagedProducts = sortedProducts.slice((currentPage - 1) * PRODUCTS_PER_PAGE, currentPage * PRODUCTS_PER_PAGE);
@@ -5437,7 +5747,7 @@
     };
 
     const getCategoryMaxPrice = () => {
-      const ranges = { raquetes: 800, sapatilhas: 300, sacos: 300, roupa: 150, bolas: 30, acessorios: 50 };
+      const ranges = { raquetes: 800, sapatilhas: 300, sacos: 300, roupa: 150, bolas: 30, acessorios: 200 };
       return ranges[activeCategory] || 300;
     };
 
@@ -6843,26 +7153,49 @@
                 {(() => {
                   const modalSpecs = getModalSpecs(selectedProduct);
                   const modalSeoUrl = getSeoProductUrl(selectedProduct);
+                  const modalSummary = buildModalProductSummary(selectedProduct);
+                  const modalDescription = buildModalProductDescription(selectedProduct);
+                  const modalBrandLogo = getBrandLogo(selectedProduct);
                   return (
               <>
                 <div className="modal-header">
-                  <div className="modal-product-image">
-                    <img src={selectedProduct.image} alt={selectedProduct.name} className={getProductImageClassName(selectedProduct)} />
+                  <div className="modal-product-media">
+                    <div className="modal-product-image">
+                      <img src={selectedProduct.image} alt={selectedProduct.name} className={getProductImageClassName(selectedProduct)} />
+                    </div>
+                    {modalBrandLogo && (
+                      <div className="modal-brand-logo"><img src={modalBrandLogo} alt={selectedProduct.brand || 'Marca'} /></div>
+                    )}
                   </div>
                   <div className="modal-product-info">
                     <div className="modal-product-brand">{selectedProduct.brand}</div>
                     <h2 className="modal-product-title">{selectedProduct.name}</h2>
+                    <p className="modal-product-summary">{modalSummary}</p>
                     {modalSpecs.length > 0 && (
                       <div className="modal-specs">
                         {modalSpecs.map((spec) => (
                           <div key={spec.key} className="modal-spec-item">
-                            <span className="modal-spec-label">{spec.label}</span>
-                            <span className="modal-spec-value">{spec.value}</span>
+                            <span className="modal-spec-icon" aria-hidden="true"><i className={`fas ${getModalSpecIconClass(spec.key)}`}></i></span>
+                            <div>
+                              <span className="modal-spec-label">{spec.label}</span>
+                              <span className="modal-spec-value">{spec.value}</span>
+                            </div>
                           </div>
                         ))}
                       </div>
                     )}
+                    <div className="modal-product-description">
+                      <h3>Descrição do produto</h3>
+                      <p>{modalDescription}</p>
+                    </div>
                     <div className="modal-secondary-actions">
+                      <button
+                        className={`modal-save-btn ${isFavorite(selectedProduct) ? 'active' : ''}`}
+                        onClick={() => toggleFavorite(selectedProduct)}
+                      >
+                        <i className={`${isFavorite(selectedProduct) ? 'fas' : 'far'} fa-heart`}></i>
+                        <span>{isFavorite(selectedProduct) ? 'Guardado' : 'Guardar produto'}</span>
+                      </button>
                       <button className="modal-share-link" onClick={() => shareProduct(selectedProduct)}>
                         <i className="fas fa-share-alt"></i>
                         Partilhar
@@ -6873,26 +7206,9 @@
                           Ver página do produto
                         </a>
                       )}
-                      <button
-                        className={`modal-save-btn modal-save-inline-mobile ${isFavorite(selectedProduct) ? 'active' : ''}`}
-                        onClick={() => toggleFavorite(selectedProduct)}
-                      >
-                        <i className={`${isFavorite(selectedProduct) ? 'fas' : 'far'} fa-heart`}></i>
-                        <span className="modal-save-text-mobile" aria-hidden="true"></span>
-                      </button>
                     </div>
                   </div>
                   <div className="modal-header-actions">
-                    <button
-                      className={`modal-save-btn ${isFavorite(selectedProduct) ? 'active' : ''}`}
-                      onClick={() => toggleFavorite(selectedProduct)}
-                    >
-                      <i className={`${isFavorite(selectedProduct) ? 'fas' : 'far'} fa-heart`}></i>
-                      <span className="modal-save-text-desktop">
-                        {isFavorite(selectedProduct) ? 'Guardado' : 'Guardar produto'}
-                      </span>
-                      <span className="modal-save-text-mobile" aria-hidden="true"></span>
-                    </button>
                     <button className="modal-close" onClick={closeModal}>✕</button>
                   </div>
                 </div>
@@ -7011,7 +7327,7 @@
                       <circle className="fl" cx="1221.84" cy="268.06" r="35.13"/>
                     </svg>
                   </div>
-                  <p>Compara preços de raquetes, sapatilhas e sacos de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.</p>
+                  <p>Compara preços de raquetes, sapatilhas, sacos e acessórios de padel nas melhores lojas de Portugal. Encontra sempre a melhor oferta.</p>
                   <div className="footer-catalog-stat">{monitoredProductsCount} produtos monitorizados neste momento</div>
                   <div className="footer-catalog-updated">{catalogUpdatedLabel}</div>
                 </div>
@@ -7022,6 +7338,7 @@
                   <a href="./categoria/raquetes-de-padel.html" onClick={(e) => { e.preventDefault(); setActiveCategory('raquetes'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Raquetes</a>
                   <a href="./categoria/sapatilhas-de-padel.html" onClick={(e) => { e.preventDefault(); setActiveCategory('sapatilhas'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sapatilhas</a>
                   <a href="./categoria/sacos-de-padel.html" onClick={(e) => { e.preventDefault(); setActiveCategory('sacos'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Sacos de padel</a>
+                  <a href="./categoria/acessorios-de-padel.html" onClick={(e) => { e.preventDefault(); setActiveCategory('acessorios'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>Acessórios</a>
                 </div>
 
                 {/* Sobre */}

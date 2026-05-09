@@ -183,6 +183,57 @@ function removeProductsWithoutStores(products) {
   return removedProducts;
 }
 
+function getProductIdentifierKey(product) {
+  const identifier = product.ean || product.productGTIN;
+  if (!identifier || !product.category) return null;
+  return `${product.category}::${identifier}`;
+}
+
+function chooseConsolidationTarget(group) {
+  return [...group].sort((a, b) => {
+    const storesDiff = (b.stores?.length || 0) - (a.stores?.length || 0);
+    if (storesDiff !== 0) return storesDiff;
+
+    const priceDiff = (a.price || Infinity) - (b.price || Infinity);
+    if (priceDiff !== 0) return priceDiff;
+
+    return (Number(b.id) || 0) - (Number(a.id) || 0);
+  })[0];
+}
+
+function consolidateDuplicateProducts(products) {
+  const byIdentifier = new Map();
+  for (const product of products) {
+    const key = getProductIdentifierKey(product);
+    if (!key) continue;
+    if (!byIdentifier.has(key)) byIdentifier.set(key, []);
+    byIdentifier.get(key).push(product);
+  }
+
+  const remove = new Set();
+  for (const group of byIdentifier.values()) {
+    if (group.length < 2) continue;
+
+    const target = chooseConsolidationTarget(group);
+    for (const duplicate of group) {
+      if (duplicate === target) continue;
+      mergeProductData(target, duplicate);
+      for (const store of duplicate.stores || []) {
+        addStoreToProduct(target, { stores: [store] });
+      }
+      remove.add(duplicate);
+    }
+  }
+
+  if (remove.size === 0) return 0;
+  for (let i = products.length - 1; i >= 0; i -= 1) {
+    if (remove.has(products[i])) {
+      products.splice(i, 1);
+    }
+  }
+  return remove.size;
+}
+
 function mergeProductData(product, offer) {
   if (!product.image && offer.image) {
     product.image = offer.image;
@@ -486,6 +537,7 @@ function main() {
       products.splice(i, 1);
     }
   }
+  const consolidatedDuplicateProducts = consolidateDuplicateProducts(products);
   const removedStaleOffers = clearMergedStoreOffers(products);
   const adidas = extractWindowData(ADIDAS_FILE, 'PADELCOST_ADIDAS_PRODUCTS');
   const padelMarket = fs.existsSync(PADEL_MARKET_FILE)
@@ -598,6 +650,7 @@ function main() {
   console.log(`   Matches por assinatura: ${counters.matchesBySignature}`);
   console.log(`   Novos produtos de lojas adicionados: ${counters.addedAsNewProducts}`);
   console.log(`   Ofertas por rever: ${counters.skipped}`);
+  console.log(`   Produtos duplicados por EAN/GTIN consolidados: ${consolidatedDuplicateProducts}`);
   console.log(`   Ofertas antigas removidas antes do merge: ${removedStaleOffers}`);
   console.log(`   Produtos sem lojas removidos no fim: ${removedProductsWithoutStores}`);
 }

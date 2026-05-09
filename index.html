@@ -5489,9 +5489,16 @@
       );
     }, [catalogProductsData]);
 
+    const monitoredProducts = useMemo(() => {
+      return productsData.filter((product) =>
+        ['raquetes', 'sapatilhas', 'sacos', 'acessorios'].includes(product.category) &&
+        !isCategoryIntruder(product, product.category)
+      );
+    }, [productsData]);
+
     const monitoredProductsCount = useMemo(() => {
-      return visibleCatalogProducts.length;
-    }, [visibleCatalogProducts]);
+      return monitoredProducts.length;
+    }, [monitoredProducts]);
 
     // Get filter options based on active category
     const getOptions = () => {

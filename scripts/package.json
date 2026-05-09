@@ -11,7 +11,8 @@
     "merge:offers": "node merge-offers.js",
     "report:quality": "node report-quality.js",
     "generate:zonadepadel": "node generate-zona-de-padel.js",
-    "generate:seo": "node generate-seo-pages.js"
+    "generate:seo": "node generate-seo-pages.js",
+    "update:weekly:no-atmosfera": "node update-weekly-no-atmosfera.js"
   },
   "dependencies": {
     "csv-parse": "^5.5.6",

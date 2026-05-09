@@ -37,6 +37,28 @@ O script gera automaticamente `../data/products-data.js`.
 
 Depois é só fazer commit desse ficheiro para o repositório do site.
 
+## Atualização semanal sem Atmosfera Sport
+
+Enquanto o feed da Atmosfera Sport estiver em revisão, usa a rotina semanal sem
+essa loja:
+
+```bash
+npm run update:weekly:no-atmosfera
+```
+
+Este comando corre, por ordem:
+- Zona de Padel
+- Adidas Padel
+- Padel Market
+- Padel Proshop PT
+- Forum Sport ES
+- merge de ofertas
+- relatório de qualidade
+- páginas SEO e sitemap
+
+Importante: esta rotina não corre `generate-products.js`, porque esse script
+substitui a base gerada a partir da Atmosfera Sport.
+
 ### Adidas Padel (TradeTracker)
 
 ```bash

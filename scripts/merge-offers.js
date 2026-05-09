@@ -26,6 +26,14 @@ const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
 const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
 const ZONA_DE_PADEL_FILE = path.join(DATA_DIR, 'zona-de-padel-data.js');
 
+const MERGED_STORE_NAMES = new Set([
+  'Adidas Padel',
+  'Padel Market',
+  'Padel Proshop PT',
+  'Forum Sport ES',
+  'Zona de Padel',
+]);
+
 const SAFE_ADIDAS_NAME_MAP = new Map([
   ['raquetes::raquete de padel adidas metalbone 2026 ale galan', 'Pala de pádel adidas metalbone 2026 ale galán preto/vermelho'],
   ['raquetes::raquete de padel adidas metalbone hrd 2026 ale galan', 'Pala de pádel adidas metalbone hrd+ 2026 ale galán preto/vermelho'],
@@ -59,7 +67,6 @@ const SAFE_ADIDAS_NAME_MAP = new Map([
 ]);
 
 const REJECTED_ADIDAS_KEYS = new Set([
-  'sapatilhas::sapatilhas de padel adidas crazyquick ls m',
   'sapatilhas::sapatilhas de padel adidas crazyquick ls w::marrom',
   'sapatilhas::sapatilhas de padel adidas crazyquick ls m::branco',
 ]);
@@ -84,6 +91,10 @@ function normalizeText(str) {
     .replace(/[^a-z0-9]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+function hasWord(text, word) {
+  return text.split(' ').includes(word);
 }
 
 const STOPWORDS = new Set([
@@ -147,6 +158,29 @@ function addStoreToProduct(product, offer) {
   product.stores.sort(compareStores);
   product.price = product.stores[0].price;
   return true;
+}
+
+function clearMergedStoreOffers(products) {
+  let removedOffers = 0;
+  for (const product of products) {
+    const stores = Array.isArray(product.stores) ? product.stores : [];
+    const keptStores = stores.filter(store => !MERGED_STORE_NAMES.has(store.name));
+    removedOffers += stores.length - keptStores.length;
+    product.stores = keptStores.sort(compareStores);
+    product.price = product.stores[0]?.price ?? null;
+  }
+  return removedOffers;
+}
+
+function removeProductsWithoutStores(products) {
+  let removedProducts = 0;
+  for (let i = products.length - 1; i >= 0; i -= 1) {
+    if (!Array.isArray(products[i].stores) || products[i].stores.length === 0) {
+      products.splice(i, 1);
+      removedProducts += 1;
+    }
+  }
+  return removedProducts;
 }
 
 function mergeProductData(product, offer) {
@@ -235,6 +269,91 @@ function createProductFromOffer(offer, id) {
   };
 }
 
+function inferCatalogCategory(item) {
+  const text = normalizeText([
+    item?.name,
+    item?.brand,
+    item?.sourceCategory,
+  ].filter(Boolean).join(' | '));
+
+  if (!text) return item?.category;
+
+  if (
+    text.includes('camiseta') ||
+    text.includes('camisola') ||
+    text.includes('t shirt') ||
+    text.includes('polo') ||
+    text.includes('saia') ||
+    text.includes('vestido') ||
+    text.includes('short') ||
+    text.includes('calcas') ||
+    text.includes('calcoes') ||
+    text.includes('pantalon') ||
+    text.includes('pantalones') ||
+    text.includes('legging') ||
+    text.includes('sweatshirt') ||
+    text.includes('hoodie') ||
+    text.includes('sudadera') ||
+    text.includes('jacket') ||
+    hasWord(text, 'falda')
+  ) return 'roupa';
+
+  if (
+    text.includes('overgrip') ||
+    text.includes(' grip ') ||
+    text.startsWith('grip ') ||
+    text.includes('protector') ||
+    text.includes('protetor') ||
+    text.includes('antivibr') ||
+    text.includes('cordao') ||
+    text.includes('lanyard') ||
+    text.includes('meia') ||
+    text.includes('meias') ||
+    text.includes('sock') ||
+    text.includes('socks') ||
+    text.includes('bandana')
+  ) return 'acessorios';
+
+  if (
+    text.includes('paletero') ||
+    text.includes('mochila') ||
+    text.includes('bolsa') ||
+    text.includes('saco') ||
+    text.includes('bag') ||
+    text.includes('backpack')
+  ) return 'sacos';
+
+  if (
+    text.includes('sapatilha') ||
+    text.includes('zapatilla') ||
+    text.includes('shoe') ||
+    text.includes('shoes') ||
+    text.includes('zapatos')
+  ) return 'sapatilhas';
+
+  if (
+    text.includes('raquete') ||
+    text.includes('raquetas') ||
+    text.includes('pala') ||
+    text.includes('palas') ||
+    text.includes('racket')
+  ) return 'raquetes';
+
+  if (/\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(text)) return 'acessorios';
+
+  return item?.category;
+}
+
+function normalizeCatalogCategory(item) {
+  const inferred = inferCatalogCategory(item);
+  if (inferred && inferred !== item.category) {
+    item.category = inferred;
+  }
+  if (item.category === 'bolas') {
+    item.category = 'acessorios';
+  }
+}
+
 function buildIndex(products) {
   const byEan = new Map();
   const byGtin = new Map();
@@ -279,6 +398,7 @@ function processOffers({
 
   for (const offer of offers) {
     offer.brand = normalizeBrand(offer.brand);
+    normalizeCatalogCategory(offer);
     if (isCategoryIntruder(offer, offer.category)) {
       counters.skipped += 1;
       continue;
@@ -359,12 +479,14 @@ function main() {
   for (const product of products) {
     product.name = normalizeProductName(product.name, product.category);
     product.brand = normalizeBrand(product.brand);
+    normalizeCatalogCategory(product);
   }
   for (let i = products.length - 1; i >= 0; i -= 1) {
     if (isCategoryIntruder(products[i], products[i].category)) {
       products.splice(i, 1);
     }
   }
+  const removedStaleOffers = clearMergedStoreOffers(products);
   const adidas = extractWindowData(ADIDAS_FILE, 'PADELCOST_ADIDAS_PRODUCTS');
   const padelMarket = fs.existsSync(PADEL_MARKET_FILE)
     ? extractWindowData(PADEL_MARKET_FILE, 'PADELCOST_PADEL_MARKET_PRODUCTS')
@@ -452,6 +574,8 @@ function main() {
     });
   }
 
+  const removedProductsWithoutStores = removeProductsWithoutStores(products);
+
   const now = new Date().toISOString();
   const content = [
     `// PadelCost - Catálogo gerado automaticamente`,
@@ -474,6 +598,8 @@ function main() {
   console.log(`   Matches por assinatura: ${counters.matchesBySignature}`);
   console.log(`   Novos produtos de lojas adicionados: ${counters.addedAsNewProducts}`);
   console.log(`   Ofertas por rever: ${counters.skipped}`);
+  console.log(`   Ofertas antigas removidas antes do merge: ${removedStaleOffers}`);
+  console.log(`   Produtos sem lojas removidos no fim: ${removedProductsWithoutStores}`);
 }
 
 main();

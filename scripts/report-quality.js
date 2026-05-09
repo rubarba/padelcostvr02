@@ -9,6 +9,7 @@ const path = require('path');
 const { CORE_CATEGORIES, isCategoryIntruder } = require('./category-rules');
 
 const DATA_FILE = path.resolve(__dirname, '../data/products-data.js');
+const PUBLIC_CATEGORIES = new Set([...CORE_CATEGORIES, 'acessorios']);
 
 function extractWindowData(filePath, variableName) {
   const raw = fs.readFileSync(filePath, 'utf8');
@@ -166,15 +167,17 @@ function main() {
   const updatedAt = extractUpdatedAt(DATA_FILE);
   const products = extractWindowData(DATA_FILE, 'PADELCOST_PRODUCTS');
 
+  const publicProducts = products.filter(product => PUBLIC_CATEGORIES.has(product.category));
+  const nonPublicProducts = products.filter(product => !PUBLIC_CATEGORIES.has(product.category));
   const coreProducts = products.filter(product => CORE_CATEGORIES.has(product.category));
-  const nonCoreProducts = products.filter(product => !CORE_CATEGORIES.has(product.category));
   const intruders = coreProducts.filter(product => isCategoryIntruder(product, product.category));
   const visibleCoreRaw = coreProducts.filter(product => !isCategoryIntruder(product, product.category));
   const visibleCore = aggregateCatalogProducts(visibleCoreRaw);
+  const visiblePublic = products.filter(product => PUBLIC_CATEGORIES.has(product.category));
 
-  const noImage = visibleCore.filter(product => !hasValidImage(product));
-  const noPrice = visibleCore.filter(product => !hasValidPrice(product));
-  const noStores = visibleCore.filter(product => !hasStores(product));
+  const noImage = visiblePublic.filter(product => !hasValidImage(product));
+  const noPrice = visiblePublic.filter(product => !hasValidPrice(product));
+  const noStores = visiblePublic.filter(product => !hasStores(product));
   const suspiciousNames = visibleCore
     .map(product => ({ ...product, suspiciousReason: getSuspiciousNameReason(product) }))
     .filter(product => product.suspiciousReason);
@@ -187,21 +190,21 @@ function main() {
 
   printSection('Resumo');
   console.log(`Produtos totais no ficheiro: ${formatNumber(products.length)}`);
-  console.log(`Produtos core brutos: ${formatNumber(coreProducts.length)}`);
+  console.log(`Produtos publicos: ${formatNumber(publicProducts.length)}`);
   console.log(`Produtos core visiveis/agregados: ${formatNumber(visibleCore.length)}`);
-  console.log(`Produtos fora do core: ${formatNumber(nonCoreProducts.length)}`);
+  console.log(`Produtos fora do publico: ${formatNumber(nonPublicProducts.length)}`);
   console.log(`Intrusos core detetados: ${formatNumber(intruders.length)}`);
   console.log(`Sem imagem: ${formatNumber(noImage.length)}`);
   console.log(`Sem preco: ${formatNumber(noPrice.length)}`);
   console.log(`Sem lojas: ${formatNumber(noStores.length)}`);
   console.log(`Nomes suspeitos: ${formatNumber(suspiciousNames.length)}`);
 
-  printTopList('Produtos core por categoria', countBy(visibleCore, product => product.category), 10);
+  printTopList('Produtos publicos por categoria', countBy(visiblePublic, product => product.category), 10);
   printTopList('Produtos por categoria bruta', countBy(products, product => product.category), 12);
-  printTopList('Top marcas core', countBy(visibleCore, product => product.brand), 15);
+  printTopList('Top marcas publicas', countBy(visiblePublic, product => product.brand), 15);
   printTopList(
     'Ofertas por loja',
-    countBy(visibleCore.flatMap(product => product.stores || []), store => store.name),
+    countBy(visiblePublic.flatMap(product => product.stores || []), store => store.name),
     10,
   );
   printTopList('Produtos por origem', countBy(products, product => product.source), 10);

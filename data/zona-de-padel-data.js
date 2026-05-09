@@ -1,5 +1,5 @@
 // PadelCost - Zona de Padel normalizado automaticamente
-// Gerado em: 2026-05-09T22:38:22.208Z
+// Gerado em: 2026-05-09T23:04:37.192Z
 // Produtos: 547
 
 window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [

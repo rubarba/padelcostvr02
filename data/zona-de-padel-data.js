@@ -1,6 +1,6 @@
 // PadelCost - Zona de Padel normalizado automaticamente
-// Gerado em: 2026-05-08T14:51:08.875Z
-// Produtos: 550
+// Gerado em: 2026-05-09T22:38:22.208Z
+// Produtos: 547
 
 window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   {
@@ -50,7 +50,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Babolat HR Pro Padel Lebrón azul verde 2026",
     "brand": "Babolat",
     "category": "sacos",
-    "price": 120.01,
+    "price": 135.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -79,7 +79,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 120.01,
+        "price": 135.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/15229-paletero-babolat-hr-pro-padel-lebron-azul-verde-2026.html"
       }
@@ -1157,7 +1157,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup England 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1186,7 +1186,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15067-adidas-world-cup-england-2026.html"
       }
@@ -1198,7 +1198,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup Italy 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1227,7 +1227,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html"
       }
@@ -1280,7 +1280,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup Argentina 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1309,7 +1309,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15064-adidas-world-cup-argentina-2026.html"
       }
@@ -1321,7 +1321,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup France 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1350,7 +1350,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15063-adidas-world-cup-france-2026.html"
       }
@@ -1362,7 +1362,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup Spain 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1391,7 +1391,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15062-adidas-world-cup-spain-2026.html"
       }
@@ -1772,7 +1772,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Head Coello Pro X Duffle negro 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 140.96,
+    "price": 142.01,
     "oldPrice": 159,
     "rating": null,
     "badge": null,
@@ -1801,7 +1801,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 140.96,
+        "price": 142.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14839-paletero-head-coello-pro-x-duffle-negro-2026.html"
       }
@@ -1895,7 +1895,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Asics Solution Speed FF 4 Clay bluebell white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 107.93,
+    "price": 134.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1924,7 +1924,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 107.93,
+        "price": 134.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14749-zapatillas-asics-solution-speed-ff-4-clay-bluebell-white-2026.html"
       }
@@ -2018,7 +2018,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Wilson Rush Tour 5 Clay white bay blue 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 180.01,
+    "price": 169.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -2047,7 +2047,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 180.01,
+        "price": 169.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14735-zapatillas-wilson-rush-tour-5-clay-white-bay-blue-2026.html"
       }
@@ -2223,7 +2223,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Asics Gel Resolution X Clay white morganite 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 114.96,
+    "price": 104.8,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -2252,7 +2252,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.96,
+        "price": 104.8,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14712-zapatillas-asics-gel-resolution-x-clay-white-morganite-2026.html"
       }
@@ -2305,7 +2305,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Wilson Optix V2 Power azul 2026",
     "brand": "Wilson Padel",
     "category": "raquetes",
-    "price": 106.96,
+    "price": 92.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -2334,7 +2334,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 106.96,
+        "price": 92.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14687-wilson-optix-v2-power-azul-2026.html"
       }
@@ -2674,7 +2674,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Defiant Speed 2 M black lucid orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 89.95,
+    "price": 81.4,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2703,7 +2703,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.95,
+        "price": 81.4,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14587-zapatillas-adidas-defiant-speed-2-m-black-lucid-orange-2026.html"
       }
@@ -2756,7 +2756,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Ionic Woman 26V beige 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 96.96,
+    "price": 91.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2785,7 +2785,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 96.96,
+        "price": 91.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14583-zapatillas-bullpadel-ionic-woman-26v-beige-2026.html"
       }
@@ -3043,7 +3043,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Babolat Jet Premura 2 Men black gold 2026",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 112.51,
+    "price": 97.2,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3072,7 +3072,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 112.51,
+        "price": 97.2,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14537-zapatillas-babolat-jet-premura-2-men-black-gold-2026.html"
       }
@@ -3084,7 +3084,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Babolat Movea 2 Men seaport cherry tomato 2026",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 87.93,
+    "price": 87.9,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -3113,7 +3113,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 87.93,
+        "price": 87.9,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14536-zapatillas-babolat-movea-2-men-seaport-cherry-tomato-2026.html"
       }
@@ -3125,7 +3125,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Babolat Jet Viva Men blue moon seaport 2026",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 72.18,
+    "price": 71.91,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -3154,7 +3154,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 72.18,
+        "price": 71.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14535-zapatillas-babolat-jet-viva-men-blue-moon-seaport-2026.html"
       }
@@ -3166,7 +3166,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas Arrow Hit Hexagon LTD 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 189.91,
+    "price": 189.95,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -3195,7 +3195,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 189.91,
+        "price": 189.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14533-adidas-arrow-hit-hexagon-ltd-2026.html"
       }
@@ -3207,7 +3207,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Indiga Woman 26V grapefruit 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 62.71,
+    "price": 47.3,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -3236,7 +3236,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.71,
+        "price": 47.3,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14527-zapatillas-bullpadel-indiga-woman-26v-grapefruit-2026.html"
       }
@@ -3371,7 +3371,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Head Bolt blanca gris 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 79.96,
+    "price": 89.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -3400,7 +3400,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 89.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14518-head-bolt-blanca-gris-2026.html"
       }
@@ -3576,7 +3576,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Courtjam Control 3 W white beam orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 62.92,
+    "price": 69.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -3605,7 +3605,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.92,
+        "price": 69.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14487-zapatillas-adidas-courtjam-control-3-w-white-beam-orange-2026.html"
       }
@@ -3658,7 +3658,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Crazyquick Boost Padel M orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 114.68,
+    "price": 108.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3687,7 +3687,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.68,
+        "price": 108.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14483-zapatillas-adidas-crazyquick-boost-padel-m-orange-2026.html"
       }
@@ -3863,7 +3863,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Mochila Adidas Protour rosa negra 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 61.96,
+    "price": 67.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -3892,7 +3892,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.96,
+        "price": 67.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14465-mochila-adidas-protour-rosa-negra-2026.html"
       }
@@ -4068,7 +4068,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Adidas Tour plata 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 61.95,
+    "price": 61.96,
     "oldPrice": 85,
     "rating": null,
     "badge": null,
@@ -4097,7 +4097,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.95,
+        "price": 61.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14460-paletero-adidas-tour-plata-2026.html"
       }
@@ -4314,7 +4314,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Wonder 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 121.95,
+    "price": 114.96,
     "oldPrice": 135,
     "rating": null,
     "badge": null,
@@ -4343,7 +4343,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 121.95,
+        "price": 114.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14435-zapatillas-bullpadel-wonder-26v-white-2026.html"
       }
@@ -4478,7 +4478,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Drop Shot Explorer Soft Woman 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 189.91,
+    "price": 209.96,
     "oldPrice": 210,
     "rating": null,
     "badge": null,
@@ -4507,7 +4507,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 189.91,
+        "price": 209.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14429-drop-shot-explorer-soft-woman-2026.html"
       }
@@ -4642,7 +4642,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Babolat Counter Vertuo 2.6 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 135.93,
+    "price": 161.91,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -4671,7 +4671,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 135.93,
+        "price": 161.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14424-babolat-counter-vertuo-26-2026.html"
       }
@@ -5011,7 +5011,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Vertex Vibram Woman 26V black 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 119.91,
+    "price": 114.96,
     "oldPrice": 155,
     "rating": null,
     "badge": null,
@@ -5040,7 +5040,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 114.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14410-zapatillas-bullpadel-vertex-vibram-woman-26v-black-2026.html"
       }
@@ -5175,7 +5175,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Neuron 26V navy 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 111.01,
+    "price": 125.95,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -5204,7 +5204,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 111.01,
+        "price": 125.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14405-zapatillas-bullpadel-neuron-26v-navy-2026.html"
       }
@@ -5544,7 +5544,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white pinkesque 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 79.96,
+    "price": 82.51,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5573,7 +5573,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 82.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14389-zapatillas-mizuno-wave-enforce-court-cc-white-pinkesque-2026.html"
       }
@@ -5667,7 +5667,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white dazzling blue 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 81.92,
+    "price": 77.01,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5696,7 +5696,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 81.92,
+        "price": 77.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14384-zapatillas-mizuno-wave-enforce-court-cc-white-dazzling-blue-2026.html"
       }
@@ -5749,7 +5749,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 CC white dazzling blue 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 114.91,
+    "price": 112.01,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -5778,7 +5778,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.91,
+        "price": 112.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14382-zapatillas-mizuno-wave-enforce-tour-2-cc-white-dazzling-blue-2026.html"
       }
@@ -5790,7 +5790,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel black foliage green 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 92.91,
+    "price": 79.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5819,7 +5819,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 92.91,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14381-zapatillas-mizuno-wave-enforce-court-padel-black-foliage-green-2026.html"
       }
@@ -5831,7 +5831,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Mizuno Wave Exceed Tour 7 Padel black glowing apple 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 109.96,
+    "price": 134.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -5860,7 +5860,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 134.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14380-zapatillas-mizuno-wave-exceed-tour-7-padel-black-glowing-apple-2026.html"
       }
@@ -6118,7 +6118,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Bullpadel BPP26014 Advance negro naranja 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 49,
+    "price": 52.96,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -6147,7 +6147,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 49,
+        "price": 52.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14371-paletero-bullpadel-bpp26014-advance-negro-naranja-2026.html"
       }
@@ -6446,7 +6446,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Bullpadel BPP26016 Casual negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 56.01,
+    "price": 56,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -6475,7 +6475,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 56.01,
+        "price": 56,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14353-paletero-bullpadel-bpp26016-casual-negro-2026.html"
       }
@@ -6651,7 +6651,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Drop Shot Canyon Pro Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.96,
+    "price": 251.91,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6680,7 +6680,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.96,
+        "price": 251.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14341-drop-shot-canyon-pro-attack-soft-2026.html"
       }
@@ -6692,7 +6692,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Drop Shot Explorer Pro Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.95,
+    "price": 251.91,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6721,7 +6721,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.95,
+        "price": 251.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14340-drop-shot-explorer-pro-attack-soft-2026.html"
       }
@@ -6733,7 +6733,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Drop Shot Axion Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.95,
+    "price": 251.91,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6762,7 +6762,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.95,
+        "price": 251.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14339-drop-shot-axion-attack-soft-2026.html"
       }
@@ -6774,7 +6774,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Drop Shot Flame Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.96,
+    "price": 209.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6803,7 +6803,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.96,
+        "price": 209.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14338-drop-shot-flame-soft-2026.html"
       }
@@ -7020,7 +7020,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Barricade 14 M Clay white black lucid red 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 119.96,
+    "price": 108.6,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -7049,7 +7049,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.96,
+        "price": 108.6,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14315-zapatillas-adidas-barricade-14-m-clay-white-black-lucid-red-2026.html"
       }
@@ -7676,7 +7676,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Nox Nerbo white vetiver 2026",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 119.91,
+    "price": 99.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -7705,7 +7705,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/14160-zapatillas-nox-nerbo-white-vetiver-2026.html"
       }
@@ -7717,7 +7717,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Nox Nerbo white raven 2026",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 119.91,
+    "price": 99.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -7746,7 +7746,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/14159-zapatillas-nox-nerbo-white-raven-2026.html"
       }
@@ -7918,47 +7918,6 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   },
   {
     "id": 639,
-    "slug": "zapatillas-nox-at10-pro-turquoise-white-2026-14151",
-    "name": "Sapatilhas Nox AT10 Pro turquoise white 2026",
-    "brand": "Nox",
-    "category": "sapatilhas",
-    "price": 74.35,
-    "oldPrice": 120,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/29732-large_default/zapatillas-nox-at10-pro-turquoise-white-2026.jpg",
-    "ean": "8435778906209",
-    "productGTIN": "8435778906209",
-    "mpn": "14151",
-    "source": "zona-de-padel",
-    "sourceProductId": "14151",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Nox",
-    "description": "Las zapatillas Nox AT10 Pro turquoise white 2026 para hombre combinan tecnología avanzada y diseño moderno, ideales para jugadores que buscan control, velocidad y estabilidad en cada movimiento en pista. Este calzado, edición oficial de Agustín Tapia, garantiza comodidad superior y resistencia en cada partido. Diseñadas para deportistas que realizan desplazamientos laterales intensos y cambios de ritmo continuos, estas zapatillas ofrecen la combinación perfecta de ligereza y soporte, perfeccionando el rendimiento en cada jugada. No dejes pasar la oportunidad de mejorar tu juego con un calzado técnico y exclusivo que destaca en la temporada 2026. Características y tecnologías de la zapatillas Nox AT10 Pro turquesa y blancas 2026 Suela New Padel: Proporciona un agarre híbrido excepcional que se adapta a diferentes superficies, asegurando movimientos explosivos y cambios de dirección rápidos con seguridad. Diseño ergonómico y confort avanzado: Mediasuela amortiguada con drop balanceado que reduce la fatiga muscular. Testadas en laboratorio para proteger las articulaciones durante largos partidos. Soporte lateral reforzado: Estabilidad máxima en desplazamientos laterales, evitando lesiones y garantizando firmeza en cada pivote. Upper transpirable y envolvente: Ajuste perfecto que garantiza ventilación óptima para mantener los pies frescos y secos, incluso en entrenamientos intensos. Pertenece a la colección de 2026, reflejando innovación y las últimas tendencias en zapatillas de pádel. ¿Para quien son las Nox AT10 Pro turquoise white 26? Estas zapatillas están diseñadas para jugadores exigentes que buscan un calzado que combine durabilidad, dinamismo y control. Perfectas para quienes entrenan o compiten regularmente y necesitan rendimiento continuo en pista. Indicadas para deportistas que realizan desplazamientos laterales intensos y cambios rápidos de ritmo, estas zapatillas ofrecen un soporte óptimo en cada acción, asegurando seguridad y confort durante todo el juego. ¿Por qué te van a gustar estas zapatillas de pádel CAL26PROTUWH? El acabado en color turquesa con detalles en verde aporta un estilo fresco y moderno, que destaca en la pista sin perder la elegancia masculina. Su diseño técnico refleja un calzado premium con una silueta ergonómica que realza la exclusividad de la colección oficial de Agustín Tapia. Además, la combinación de tecnologías como la plantilla Ortholite y los refuerzos estratégicos ofrecen un ajuste cómodo y duradero, lo que las convierte en una opción ideal para jugadores que valoran tanto el rendimiento como la estética. Descubre más sobre la marca Nox Nox es una marca reconocida por su compromiso con la innovación y calidad en el pádel, desarrollando productos que mejoran el rendimiento de los jugadores en todos los niveles. Su trayectoria en el mundo del deporte la posiciona como referencia en calzado técnico. Con un enfoque especializado en zapatillas de pádel, Nox ha logrado combinar tecnología de punta con diseño ergonómico, ofreciendo modelos como estas zapatillas de 2026 que garantizan comodidad, estabilidad y resistencia en cada partido.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": "Branco",
-      "uso": "Intenso",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 74.35,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/nox/14151-zapatillas-nox-at10-pro-turquoise-white-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 640,
     "slug": "zapatillas-nox-at10-pro-sea-coral-white-2026-14148",
     "name": "Sapatilhas Nox AT10 Pro sea coral white 2026",
     "brand": "Nox",
@@ -7999,7 +7958,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 641,
+    "id": 640,
     "slug": "zapatillas-nox-at10-lux-dark-slate-allure-2026-14144",
     "name": "Sapatilhas Nox AT10 Lux dark slate allure 2026",
     "brand": "Nox",
@@ -8040,7 +7999,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 651,
+    "id": 650,
     "slug": "babolat-viper-soft-juan-lebron-3-0-2026-14125",
     "name": "Babolat Viper Soft Juan Lebron 3.0 2026",
     "brand": "Babolat",
@@ -8081,12 +8040,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 666,
+    "id": 665,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026-14110",
     "name": "Sapatilhas Asics Gel Resolution X Clay white bluebell 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 129.96,
+    "price": 136.01,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8115,14 +8074,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 129.96,
+        "price": 136.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14110-zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026.html"
       }
     ]
   },
   {
-    "id": 667,
+    "id": 666,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-sienna-2026-14109",
     "name": "Sapatilhas Asics Gel Resolution X Clay black sienna 2026",
     "brand": "Asics",
@@ -8163,7 +8122,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 668,
+    "id": 667,
     "slug": "zapatillas-asics-gel-challenger-15-padel-l-e-safety-yellow-2026-14108",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel L.E. safety yellow 2026",
     "brand": "Asics",
@@ -8204,7 +8163,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 669,
+    "id": 668,
     "slug": "zapatillas-asics-gel-challenger-15-clay-ironclad-grey-blue-2026-14107",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay ironclad grey blue 2026",
     "brand": "Asics",
@@ -8245,7 +8204,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 670,
+    "id": 669,
     "slug": "zapatillas-asics-gel-challenger-15-clay-white-digital-sakura-2026-14106",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay white digital sakura 2026",
     "brand": "Asics",
@@ -8286,7 +8245,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 671,
+    "id": 670,
     "slug": "zapatillas-asics-gel-challenger-15-padel-white-misty-pine-2026-14105",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel white misty pine 2026",
     "brand": "Asics",
@@ -8327,7 +8286,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 672,
+    "id": 671,
     "slug": "zapatillas-asics-gel-challenger-15-padel-guava-amethyst-2026-14104",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel guava amethyst 2026",
     "brand": "Asics",
@@ -8368,7 +8327,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 673,
+    "id": 672,
     "slug": "zapatillas-asics-gel-challenger-15-padel-white-guava-2026-14103",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel white guava 2026",
     "brand": "Asics",
@@ -8409,7 +8368,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 674,
+    "id": 673,
     "slug": "zapatillas-asics-gel-resolution-x-padel-amethyst-illuminate-green-2026-14102",
     "name": "Sapatilhas Asics Gel Resolution X Padel amethyst illuminate green 2026",
     "brand": "Asics",
@@ -8450,12 +8409,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 675,
+    "id": 674,
     "slug": "zapatillas-asics-gel-challenger-15-padel-saba-blue-vital-green-2026-14101",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel saba blue vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 104.91,
+    "price": 78.6,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8484,14 +8443,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.91,
+        "price": 78.6,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14101-zapatillas-asics-gel-challenger-15-padel-saba-blue-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 676,
+    "id": 675,
     "slug": "zapatillas-asics-gel-resolution-x-padel-saba-blue-cool-grey-2026-14100",
     "name": "Sapatilhas Asics Gel Resolution X Padel saba blue cool grey 2026",
     "brand": "Asics",
@@ -8532,7 +8491,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 677,
+    "id": 676,
     "slug": "zapatillas-asics-gel-resolution-x-clay-digital-sakura-white-2026-14095",
     "name": "Sapatilhas Asics Gel Resolution X Clay digital sakura white 2026",
     "brand": "Asics",
@@ -8573,7 +8532,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 678,
+    "id": 677,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-aurora-green-2026-14094",
     "name": "Sapatilhas Asics Gel Resolution X Clay black aurora green 2026",
     "brand": "Asics",
@@ -8614,7 +8573,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 680,
+    "id": 679,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-aurora-green-2026-14092",
     "name": "Sapatilhas Asics Gel Resolution X Clay white aurora green 2026",
     "brand": "Asics",
@@ -8655,7 +8614,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 682,
+    "id": 681,
     "slug": "zapatillas-asics-game-ff-padel-white-guava-2026-14087",
     "name": "Sapatilhas Asics Game FF Padel white guava 2026",
     "brand": "Asics",
@@ -8696,7 +8655,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 683,
+    "id": 682,
     "slug": "zapatillas-asics-game-ff-padel-guava-white-2026-14086",
     "name": "Sapatilhas Asics Game FF Padel guava white 2026",
     "brand": "Asics",
@@ -8737,7 +8696,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 684,
+    "id": 683,
     "slug": "zapatillas-asics-game-ff-padel-saba-blue-cool-grey-2026-14085",
     "name": "Sapatilhas Asics Game FF Padel saba blue cool grey 2026",
     "brand": "Asics",
@@ -8778,12 +8737,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 685,
+    "id": 684,
     "slug": "zapatillas-asics-game-ff-padel-white-misty-pine-2026-14084",
     "name": "Sapatilhas Asics Game FF Padel white misty pine 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 62.51,
+    "price": 57.01,
     "oldPrice": 95,
     "rating": null,
     "badge": null,
@@ -8812,14 +8771,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.51,
+        "price": 57.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14084-zapatillas-asics-game-ff-padel-white-misty-pine-2026.html"
       }
     ]
   },
   {
-    "id": 686,
+    "id": 685,
     "slug": "zapatillas-asics-game-ff-clay-grey-blue-ironclad-2026-14083",
     "name": "Sapatilhas Asics Game FF Clay grey blue ironclad 2026",
     "brand": "Asics",
@@ -8860,12 +8819,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 687,
+    "id": 686,
     "slug": "zapatillas-asics-game-ff-clay-white-dark-neptune-2026-14082",
     "name": "Sapatilhas Asics Game FF Clay white dark neptune 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 58.01,
+    "price": 65.07,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8894,19 +8853,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 58.01,
+        "price": 65.07,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14082-zapatillas-asics-game-ff-clay-white-dark-neptune-2026.html"
       }
     ]
   },
   {
-    "id": 697,
+    "id": 696,
     "slug": "zapatillas-asics-solution-swift-ff-2-clay-white-digital-sakura-2026-14072",
     "name": "Sapatilhas Asics Solution Swift FF 2 Clay white digital sakura 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 84.91,
+    "price": 76.42,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8935,14 +8894,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.91,
+        "price": 76.42,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14072-zapatillas-asics-solution-swift-ff-2-clay-white-digital-sakura-2026.html"
       }
     ]
   },
   {
-    "id": 698,
+    "id": 697,
     "slug": "zapatillas-asics-solution-swift-ff-2-padel-saba-blue-vital-green-2026-14071",
     "name": "Sapatilhas Asics Solution Swift FF 2 Padel saba blue vital green 2026",
     "brand": "Asics",
@@ -8983,12 +8942,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 700,
+    "id": 699,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026-14068",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel black vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 56.96,
+    "price": 55.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9017,19 +8976,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 56.96,
+        "price": 55.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14068-zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 701,
+    "id": 700,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-misty-pine-white-2026-14067",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel misty pine white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 64.91,
+    "price": 52.51,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9058,14 +9017,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 64.91,
+        "price": 52.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14067-zapatillas-asics-gel-dedicate-8-padel-misty-pine-white-2026.html"
       }
     ]
   },
   {
-    "id": 702,
+    "id": 701,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-white-guava-2026-14066",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white guava 2026",
     "brand": "Asics",
@@ -9106,12 +9065,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 703,
+    "id": 702,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-amethyst-white-2026-14065",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel amethyst white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 52.51,
+    "price": 47.93,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9140,19 +9099,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 52.51,
+        "price": 47.93,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14065-zapatillas-asics-gel-dedicate-8-padel-amethyst-white-2026.html"
       }
     ]
   },
   {
-    "id": 705,
+    "id": 704,
     "slug": "adidas-match-light-2026-14063",
     "name": "Adidas Match Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 66.96,
+    "price": 67.46,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9181,19 +9140,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 66.96,
+        "price": 67.46,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14063-adidas-match-light-2026.html"
       }
     ]
   },
   {
-    "id": 706,
+    "id": 705,
     "slug": "adidas-match-black-green-2026-14062",
     "name": "Adidas Match black green 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 59.96,
+    "price": 66.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9222,14 +9181,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.96,
+        "price": 66.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14062-adidas-match-black-green-2026.html"
       }
     ]
   },
   {
-    "id": 707,
+    "id": 706,
     "slug": "adidas-match-black-orange-2026-14061",
     "name": "Adidas Match black orange 2026",
     "brand": "Adidas Padel",
@@ -9270,7 +9229,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 708,
+    "id": 707,
     "slug": "adidas-drive-light-2026-14060",
     "name": "Adidas Drive Light 2026",
     "brand": "Adidas Padel",
@@ -9311,7 +9270,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 710,
+    "id": 709,
     "slug": "adidas-drive-blue-2026-14058",
     "name": "Adidas Drive blue 2026",
     "brand": "Adidas Padel",
@@ -9352,7 +9311,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 711,
+    "id": 710,
     "slug": "adidas-rx-series-light-2026-14057",
     "name": "Adidas RX Series Light 2026",
     "brand": "Adidas Padel",
@@ -9393,12 +9352,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 712,
+    "id": 711,
     "slug": "adidas-rx-series-2026-14056",
     "name": "Adidas RX Series 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 119.95,
+    "price": 107.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -9427,14 +9386,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.95,
+        "price": 107.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14056-adidas-rx-series-2026.html"
       }
     ]
   },
   {
-    "id": 713,
+    "id": 712,
     "slug": "zapatillas-asics-sonicsmash-ff-vital-green-misty-pine-2026-14053",
     "name": "Sapatilhas Asics Sonicsmash FF vital green misty pine 2026",
     "brand": "Asics",
@@ -9475,12 +9434,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 714,
+    "id": 713,
     "slug": "zapatillas-asics-sonicsmash-ff-saba-blue-vital-green-2026-14052",
     "name": "Sapatilhas Asics Sonicsmash FF saba blue vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 99.96,
+    "price": 91.7,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -9509,14 +9468,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 99.96,
+        "price": 91.7,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14052-zapatillas-asics-sonicsmash-ff-saba-blue-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 720,
+    "id": 719,
     "slug": "adidas-cross-it-team-light-2026-14040",
     "name": "Adidas Cross It Team Light 2026",
     "brand": "Adidas Padel",
@@ -9557,7 +9516,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 722,
+    "id": 721,
     "slug": "adidas-cross-it-carbon-control-2026-14038",
     "name": "Adidas Cross It Carbon Control 2026",
     "brand": "Adidas Padel",
@@ -9598,7 +9557,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 723,
+    "id": 722,
     "slug": "adidas-cross-it-carbon-2026-14037",
     "name": "Adidas Cross It Carbon 2026",
     "brand": "Adidas Padel",
@@ -9639,12 +9598,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 724,
+    "id": 723,
     "slug": "adidas-cross-it-light-2026-14036",
     "name": "Adidas Cross It Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 299.95,
+    "price": 250,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -9673,14 +9632,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 299.95,
+        "price": 250,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14036-adidas-cross-it-light-2026.html"
       }
     ]
   },
   {
-    "id": 727,
+    "id": 726,
     "slug": "adidas-arrow-hit-junior-pink-2026-14032",
     "name": "Adidas Arrow Hit Junior pink 2026",
     "brand": "Adidas Padel",
@@ -9721,12 +9680,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 728,
+    "id": 727,
     "slug": "adidas-arrow-hit-junior-blue-2026-14031",
     "name": "Adidas Arrow Hit Junior blue 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 74.96,
+    "price": 66.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9755,19 +9714,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 74.96,
+        "price": 66.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14031-adidas-arrow-hit-junior-blue-2026.html"
       }
     ]
   },
   {
-    "id": 729,
+    "id": 728,
     "slug": "adidas-arrow-hit-carbon-control-2026-14030",
     "name": "Adidas Arrow Hit Carbon Control 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 162.01,
+    "price": 184.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -9796,14 +9755,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 162.01,
+        "price": 184.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14030-adidas-arrow-hit-carbon-control-2026.html"
       }
     ]
   },
   {
-    "id": 730,
+    "id": 729,
     "slug": "adidas-arrow-hit-carbon-attack-2026-14029",
     "name": "Adidas Arrow Hit Carbon Attack 2026",
     "brand": "Adidas Padel",
@@ -9844,7 +9803,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 731,
+    "id": 730,
     "slug": "adidas-arrow-hit-control-2026-14028",
     "name": "Adidas Arrow Hit Control 2026",
     "brand": "Adidas Padel",
@@ -9885,12 +9844,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 732,
+    "id": 731,
     "slug": "adidas-arrow-hit-attack-2026-14027",
     "name": "Adidas Arrow Hit Attack 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 268.96,
+    "price": 282.96,
     "oldPrice": 400,
     "rating": null,
     "badge": null,
@@ -9919,19 +9878,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 268.96,
+        "price": 282.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14027-adidas-arrow-hit-attack-2026.html"
       }
     ]
   },
   {
-    "id": 733,
+    "id": 732,
     "slug": "adidas-metalbone-superlight-2026-14026",
     "name": "Adidas Metalbone Superlight 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 115.96,
+    "price": 134.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -9960,19 +9919,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 115.96,
+        "price": 134.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14026-adidas-metalbone-superlight-2026.html"
       }
     ]
   },
   {
-    "id": 734,
+    "id": 733,
     "slug": "adidas-metalbone-team-light-2026-14025",
     "name": "Adidas Metalbone Team Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 153.96,
+    "price": 158.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -10001,19 +9960,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 153.96,
+        "price": 158.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14025-adidas-metalbone-team-light-2026.html"
       }
     ]
   },
   {
-    "id": 735,
+    "id": 734,
     "slug": "adidas-metalbone-team-2026-14024",
     "name": "Adidas Metalbone Team 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 144.96,
+    "price": 159.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -10042,14 +10001,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 144.96,
+        "price": 159.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14024-adidas-metalbone-team-2026.html"
       }
     ]
   },
   {
-    "id": 736,
+    "id": 735,
     "slug": "adidas-metalbone-carbon-control-2026-14023",
     "name": "Adidas Metalbone Carbon Control 2026",
     "brand": "Adidas Padel",
@@ -10090,7 +10049,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 737,
+    "id": 736,
     "slug": "adidas-metalbone-carbon-2026-14021",
     "name": "Adidas Metalbone Carbon 2026",
     "brand": "Adidas Padel",
@@ -10131,7 +10090,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 739,
+    "id": 738,
     "slug": "adidas-metalbone-hrd-2026-14019",
     "name": "Adidas Metalbone HRD+ 2026",
     "brand": "Adidas Padel",
@@ -10172,12 +10131,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 740,
+    "id": 739,
     "slug": "adidas-metalbone-2026-14018",
     "name": "Adidas Metalbone 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 273.96,
+    "price": 278.96,
     "oldPrice": 390,
     "rating": null,
     "badge": null,
@@ -10206,14 +10165,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 273.96,
+        "price": 278.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html"
       }
     ]
   },
   {
-    "id": 761,
+    "id": 760,
     "slug": "siux-beat-junior-2026-13985",
     "name": "Siux Beat Junior 2026",
     "brand": "Siux",
@@ -10254,7 +10213,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 762,
+    "id": 761,
     "slug": "siux-beat-hybrid-air-2026-13982",
     "name": "Siux Beat Hybrid Air 2026",
     "brand": "Siux",
@@ -10295,7 +10254,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 763,
+    "id": 762,
     "slug": "siux-beat-hybrid-2026-13981",
     "name": "Siux Beat Hybrid 2026",
     "brand": "Siux",
@@ -10336,12 +10295,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 764,
+    "id": 763,
     "slug": "siux-beat-control-2026-13980",
     "name": "Siux Beat Control 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 89.96,
+    "price": 98.96,
     "oldPrice": 99,
     "rating": null,
     "badge": null,
@@ -10370,19 +10329,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.96,
+        "price": 98.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13980-siux-beat-control-2026.html"
       }
     ]
   },
   {
-    "id": 768,
+    "id": 767,
     "slug": "siux-astra-hybrid-air-2026-13975",
     "name": "Siux Astra Hybrid Air 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 119.96,
+    "price": 119.91,
     "oldPrice": 149,
     "rating": null,
     "badge": null,
@@ -10411,14 +10370,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.96,
+        "price": 119.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13975-siux-astra-hybrid-air-2026.html"
       }
     ]
   },
   {
-    "id": 775,
+    "id": 774,
     "slug": "siux-electra-elite-2026-13960",
     "name": "Siux Electra Elite 2026",
     "brand": "Siux",
@@ -10459,7 +10418,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 777,
+    "id": 776,
     "slug": "siux-astra-hybrid-2026-13957",
     "name": "Siux Astra Hybrid 2026",
     "brand": "Siux",
@@ -10500,7 +10459,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 778,
+    "id": 777,
     "slug": "siux-gea-2026-13956",
     "name": "Siux Gea 2026",
     "brand": "Siux",
@@ -10541,7 +10500,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 779,
+    "id": 778,
     "slug": "siux-trilogy-elite-2026-13955",
     "name": "Siux Trilogy Elite 2026",
     "brand": "Siux",
@@ -10582,7 +10541,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 780,
+    "id": 779,
     "slug": "siux-pegasus-elite-2026-13954",
     "name": "Siux Pegasus Elite 2026",
     "brand": "Siux",
@@ -10623,7 +10582,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 781,
+    "id": 780,
     "slug": "siux-diablo-elite-2026-13953",
     "name": "Siux Diablo Elite 2026",
     "brand": "Siux",
@@ -10664,7 +10623,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 782,
+    "id": 781,
     "slug": "siux-valkiria-elite-2026-13952",
     "name": "Siux Valkiria Elite 2026",
     "brand": "Siux",
@@ -10705,7 +10664,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 795,
+    "id": 794,
     "slug": "siux-pegasus-pro-storm-grey-2026-13937",
     "name": "Siux Pegasus Pro Storm Grey 2026",
     "brand": "Siux",
@@ -10746,7 +10705,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 796,
+    "id": 795,
     "slug": "siux-pegasus-pro-lava-orange-2026-13936",
     "name": "Siux Pegasus Pro Lava Orange 2026",
     "brand": "Siux",
@@ -10787,7 +10746,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 798,
+    "id": 797,
     "slug": "siux-fenix-pro-glow-purple-2026-13934",
     "name": "Siux Fenix Pro Glow Purple 2026",
     "brand": "Siux",
@@ -10828,12 +10787,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 799,
+    "id": 798,
     "slug": "siux-electra-pro-shadow-red-2026-13933",
     "name": "Siux Electra Pro Shadow Red 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 210.01,
+    "price": 219.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10862,14 +10821,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 210.01,
+        "price": 219.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13933-siux-electra-pro-shadow-red-2026.html"
       }
     ]
   },
   {
-    "id": 800,
+    "id": 799,
     "slug": "siux-electra-pro-fire-red-2026-13932",
     "name": "Siux Electra Pro Fire Red 2026",
     "brand": "Siux",
@@ -10910,7 +10869,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 801,
+    "id": 800,
     "slug": "siux-diablo-pro-night-blue-2026-13931",
     "name": "Siux Diablo Pro Night Blue 2026",
     "brand": "Siux",
@@ -10951,7 +10910,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 802,
+    "id": 801,
     "slug": "siux-diablo-pro-royal-blue-2026-13930",
     "name": "Siux Diablo Pro Royal Blue 2026",
     "brand": "Siux",
@@ -10992,7 +10951,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 803,
+    "id": 802,
     "slug": "siux-valkiria-pro-2026-13929",
     "name": "Siux Valkiria Pro 2026",
     "brand": "Siux",
@@ -11033,7 +10992,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 804,
+    "id": 803,
     "slug": "siux-trilogy-pro-noir-fog-2026-13928",
     "name": "Siux Trilogy Pro Noir Fog 2026",
     "brand": "Siux",
@@ -11074,7 +11033,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 805,
+    "id": 804,
     "slug": "siux-trilogy-pro-ash-green-2026-13927",
     "name": "Siux Trilogy Pro Ash Green 2026",
     "brand": "Siux",
@@ -11115,7 +11074,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 806,
+    "id": 805,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-green-2026-13926",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V green 2026",
     "brand": "Bullpadel",
@@ -11156,12 +11115,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 807,
+    "id": 806,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-bone-2026-13925",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V bone 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 116.96,
+    "price": 94.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -11190,14 +11149,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 116.96,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13925-zapatillas-bullpadel-premier-padel-p2-26v-bone-2026.html"
       }
     ]
   },
   {
-    "id": 808,
+    "id": 807,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-anthracite-2026-13924",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11238,7 +11197,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 809,
+    "id": 808,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-green-2026-13923",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V green 2026",
     "brand": "Bullpadel",
@@ -11279,12 +11238,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 810,
+    "id": 809,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-bone-2026-13922",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V bone 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 126.95,
+    "price": 104.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -11313,14 +11272,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 126.95,
+        "price": 104.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13922-zapatillas-bullpadel-premier-padel-p1-26v-bone-2026.html"
       }
     ]
   },
   {
-    "id": 811,
+    "id": 810,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-anthracite-2026-13921",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11361,12 +11320,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 812,
+    "id": 811,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-kaki-2026-13920",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V kaki 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 144.95,
+    "price": 134.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -11395,14 +11354,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 144.95,
+        "price": 134.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13920-zapatillas-bullpadel-premier-padel-major-26v-kaki-2026.html"
       }
     ]
   },
   {
-    "id": 814,
+    "id": 813,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-anthracite-2026-13918",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11443,12 +11402,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 823,
+    "id": 822,
     "slug": "zapatillas-bullpadel-vertex-woman-pro-line-tour-final-26v-atomic-blue-2026-13879",
     "name": "Sapatilhas Bullpadel Vertex Woman Pro Line Tour Final 26V atomic blue 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 134.96,
+    "price": 100.6,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -11477,14 +11436,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.96,
+        "price": 100.6,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13879-zapatillas-bullpadel-vertex-woman-pro-line-tour-final-26v-atomic-blue-2026.html"
       }
     ]
   },
   {
-    "id": 824,
+    "id": 823,
     "slug": "zapatillas-bullpadel-x-plo-pro-line-tour-final-26v-navy-blue-2026-13878",
     "name": "Sapatilhas Bullpadel X-PLO Pro Line Tour Final 26V navy blue 2026",
     "brand": "Bullpadel",
@@ -11525,12 +11484,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 825,
+    "id": 824,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-kaki-2026-13876",
     "name": "Saco Bullpadel BPP26015 Tour Premier kaki 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 34.96,
+    "price": 44.95,
     "oldPrice": 50,
     "rating": null,
     "badge": null,
@@ -11559,14 +11518,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 34.96,
+        "price": 44.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13876-paletero-bullpadel-bpp26015-tour-premier-kaki-2026.html"
       }
     ]
   },
   {
-    "id": 826,
+    "id": 825,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-crudo-2026-13875",
     "name": "Saco Bullpadel BPP26015 Tour Premier crudo 2026",
     "brand": "Bullpadel",
@@ -11607,7 +11566,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 827,
+    "id": 826,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-premier-crudo-2026-13874",
     "name": "Saco Bullpadel BPP26003 Vertex Woman Premier crudo 2026",
     "brand": "Bullpadel",
@@ -11648,12 +11607,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 831,
+    "id": 830,
     "slug": "mochila-bullpadel-bpm26020-neuron-premier-negra-2026-13863",
     "name": "Mochila Bullpadel BPM26020 Neuron Premier negra 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 59.96,
+    "price": 71.95,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -11682,14 +11641,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.96,
+        "price": 71.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13863-mochila-bullpadel-bpm26020-neuron-premier-negra-2026.html"
       }
     ]
   },
   {
-    "id": 832,
+    "id": 831,
     "slug": "paletero-bullpadel-bpp26020-neuron-premier-negro-2026-13862",
     "name": "Saco Bullpadel BPP26020 Neuron Premier negro 2026",
     "brand": "Bullpadel",
@@ -11730,7 +11689,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 833,
+    "id": 832,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-premier-negra-2026-13861",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo Premier negra 2026",
     "brand": "Bullpadel",
@@ -11771,7 +11730,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 835,
+    "id": 834,
     "slug": "mochila-bullpadel-bpm26002-hack-premier-negra-2026-13859",
     "name": "Mochila Bullpadel BPM26002 Hack Premier negra 2026",
     "brand": "Bullpadel",
@@ -11812,7 +11771,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 836,
+    "id": 835,
     "slug": "paletero-bullpadel-bpp26013-hack-premier-kaki-2026-13858",
     "name": "Saco Bullpadel BPP26013 Hack Premier kaki 2026",
     "brand": "Bullpadel",
@@ -11853,12 +11812,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 837,
+    "id": 836,
     "slug": "bullpadel-vertex-05-light-premier-2026-13857",
     "name": "Bullpadel Vertex 05 Light Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 209.96,
+    "price": 204.96,
     "oldPrice": 285,
     "rating": null,
     "badge": null,
@@ -11887,14 +11846,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 209.96,
+        "price": 204.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13857-bullpadel-vertex-05-light-premier-2026.html"
       }
     ]
   },
   {
-    "id": 838,
+    "id": 837,
     "slug": "bullpadel-hack-04-premier-2026-13856",
     "name": "Bullpadel Hack 04 Premier 2026",
     "brand": "Bullpadel",
@@ -11935,7 +11894,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 840,
+    "id": 839,
     "slug": "bullpadel-neuron-02-premier-2026-13854",
     "name": "Bullpadel Neuron 02 Premier 2026",
     "brand": "Bullpadel",
@@ -11976,12 +11935,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 841,
+    "id": 840,
     "slug": "bullpadel-vertex-05-geo-premier-2026-13853",
     "name": "Bullpadel Vertex 05 GEO Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 271.96,
+    "price": 284.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -12010,14 +11969,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 271.96,
+        "price": 284.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13853-bullpadel-vertex-05-geo-premier-2026.html"
       }
     ]
   },
   {
-    "id": 842,
+    "id": 841,
     "slug": "paletero-bullpadel-bpp26006-flow-negro-2026-13850",
     "name": "Saco Bullpadel BPP26006 Flow negro 2026",
     "brand": "Bullpadel",
@@ -12058,7 +12017,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 843,
+    "id": 842,
     "slug": "paletero-bullpadel-bpp26019-elite-blanco-2026-13849",
     "name": "Saco Bullpadel BPP26019 Elite blanco 2026",
     "brand": "Bullpadel",
@@ -12099,7 +12058,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 844,
+    "id": 843,
     "slug": "paletero-bullpadel-bpp26024-wonder-chocolate-2026-13848",
     "name": "Saco Bullpadel BPP26024 Wonder chocolate 2026",
     "brand": "Bullpadel",
@@ -12140,7 +12099,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 846,
+    "id": 845,
     "slug": "paletero-bullpadel-bpp26021-pearl-azul-verdoso-2026-13846",
     "name": "Saco Bullpadel BPP26021 Pearl azul verdoso 2026",
     "brand": "Bullpadel",
@@ -12181,7 +12140,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 848,
+    "id": 847,
     "slug": "paletero-bullpadel-bpp26023-icon-verde-2026-13844",
     "name": "Saco Bullpadel BPP26023 Icon verde 2026",
     "brand": "Bullpadel",
@@ -12222,7 +12181,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 849,
+    "id": 848,
     "slug": "paletero-bullpadel-bpp26022-xplo-gris-medio-2026-13842",
     "name": "Saco Bullpadel BPP26022 XPLO gris medio 2026",
     "brand": "Bullpadel",
@@ -12263,7 +12222,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 850,
+    "id": 849,
     "slug": "paletero-bullpadel-bpp26022-xplo-negro-2026-13841",
     "name": "Saco Bullpadel BPP26022 XPLO negro 2026",
     "brand": "Bullpadel",
@@ -12304,7 +12263,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 852,
+    "id": 851,
     "slug": "paletero-bullpadel-bpp26020-neuron-negro-2026-13839",
     "name": "Saco Bullpadel BPP26020 Neuron negro 2026",
     "brand": "Bullpadel",
@@ -12345,7 +12304,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 853,
+    "id": 852,
     "slug": "paletero-bullpadel-bpp26017-neuron-gris-oscuro-2026-13838",
     "name": "Saco Bullpadel BPP26017 Neuron gris oscuro 2026",
     "brand": "Bullpadel",
@@ -12386,7 +12345,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 854,
+    "id": 853,
     "slug": "mochila-bullpadel-bpm26002-hack-gris-verdosa-2026-13837",
     "name": "Mochila Bullpadel BPM26002 Hack gris verdosa 2026",
     "brand": "Bullpadel",
@@ -12427,7 +12386,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 855,
+    "id": 854,
     "slug": "mochila-bullpadel-bpm26001-hack-negra-2026-13836",
     "name": "Mochila Bullpadel BPM26001 Hack negra 2026",
     "brand": "Bullpadel",
@@ -12468,7 +12427,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 856,
+    "id": 855,
     "slug": "paletero-bullpadel-bpp26012-hack-gris-2026-13835",
     "name": "Saco Bullpadel BPP26012 Hack gris 2026",
     "brand": "Bullpadel",
@@ -12509,7 +12468,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 857,
+    "id": 856,
     "slug": "paletero-bullpadel-bpp26012-hack-negro-2026-13834",
     "name": "Saco Bullpadel BPP26012 Hack negro 2026",
     "brand": "Bullpadel",
@@ -12550,7 +12509,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 859,
+    "id": 858,
     "slug": "mochila-bullpadel-bpm26009-vertex-woman-blanca-2026-13832",
     "name": "Mochila Bullpadel BPM26009 Vertex Woman blanca 2026",
     "brand": "Bullpadel",
@@ -12591,7 +12550,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 860,
+    "id": 859,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-azul-intenso-2026-13831",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo azul intenso 2026",
     "brand": "Bullpadel",
@@ -12632,7 +12591,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 861,
+    "id": 860,
     "slug": "mochila-bullpadel-bpm26007-vertex-negra-2026-13830",
     "name": "Mochila Bullpadel BPM26007 Vertex negra 2026",
     "brand": "Bullpadel",
@@ -12673,12 +12632,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 862,
+    "id": 861,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-celeste-2026-13829",
     "name": "Saco Bullpadel BPP26003 Vertex Woman celeste 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 74.96,
+    "price": 82.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -12707,14 +12666,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 74.96,
+        "price": 82.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13829-paletero-bullpadel-bpp26003-vertex-woman-celeste-2026.html"
       }
     ]
   },
   {
-    "id": 863,
+    "id": 862,
     "slug": "paletero-bullpadel-bpp26002-vertex-geo-azul-2026-13828",
     "name": "Saco Bullpadel BPP26002 Vertex Geo azul 2026",
     "brand": "Bullpadel",
@@ -12755,7 +12714,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 864,
+    "id": 863,
     "slug": "paletero-bullpadel-bpp26001-vertex-negro-2026-13827",
     "name": "Saco Bullpadel BPP26001 Vertex negro 2026",
     "brand": "Bullpadel",
@@ -12796,7 +12755,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 865,
+    "id": 864,
     "slug": "bullpadel-indiga-woman-2026-13794",
     "name": "Bullpadel Indiga Woman 2026",
     "brand": "Bullpadel",
@@ -12837,7 +12796,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 866,
+    "id": 865,
     "slug": "bullpadel-indiga-control-2026-13793",
     "name": "Bullpadel Indiga Control 2026",
     "brand": "Bullpadel",
@@ -12878,7 +12837,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 868,
+    "id": 867,
     "slug": "nox-x-zero-red-2026-13791",
     "name": "Nox X-Zero Red 2026",
     "brand": "Nox",
@@ -12919,7 +12878,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 869,
+    "id": 868,
     "slug": "nox-x-hero-blue-2026-13790",
     "name": "Nox X-Hero Blue 2026",
     "brand": "Nox",
@@ -12960,7 +12919,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 870,
+    "id": 869,
     "slug": "nox-x-hero-red-2026-13789",
     "name": "Nox X-Hero Red 2026",
     "brand": "Nox",
@@ -13001,7 +12960,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 871,
+    "id": 870,
     "slug": "nox-x-hero-white-2026-13788",
     "name": "Nox X-Hero White 2026",
     "brand": "Nox",
@@ -13042,7 +13001,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 872,
+    "id": 871,
     "slug": "nox-x-zero-blue-2026-13787",
     "name": "Nox X-Zero Blue 2026",
     "brand": "Nox",
@@ -13083,7 +13042,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 876,
+    "id": 875,
     "slug": "nox-at10-pro-cup-soft-by-agustin-tapia-2026-13782",
     "name": "Nox AT10 Pro Cup Soft by Agustín Tapia 2026",
     "brand": "Nox",
@@ -13124,7 +13083,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 880,
+    "id": 879,
     "slug": "nox-ea10-ventus-attack-12k-xtrem-2026-13778",
     "name": "Nox EA10 Ventus Attack 12K XTREM 2026",
     "brand": "Nox",
@@ -13165,7 +13124,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 881,
+    "id": 880,
     "slug": "nox-ml10-ventus-control-3k-miguel-lamperti-2026-13777",
     "name": "Nox ML10 Ventus Control 3K Miguel Lamperti 2026",
     "brand": "Nox",
@@ -13206,7 +13165,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 882,
+    "id": 881,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-lite-2026-13774",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM Lite 2026",
     "brand": "Nox",
@@ -13247,7 +13206,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 883,
+    "id": 882,
     "slug": "nox-at10-luxury-genius-attack-18k-alum-2026-13773",
     "name": "Nox AT10 Luxury Genius Attack 18K Alum 2026",
     "brand": "Nox",
@@ -13288,7 +13247,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 884,
+    "id": 883,
     "slug": "nox-at10-luxury-genius-attack-12k-alum-xtrem-2026-13772",
     "name": "Nox AT10 Luxury Genius Attack 12K Alum XTREM 2026",
     "brand": "Nox",
@@ -13329,7 +13288,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 886,
+    "id": 885,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-2026-13770",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM 2026",
     "brand": "Nox",
@@ -13370,12 +13329,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 908,
+    "id": 907,
     "slug": "paletero-lok-one-negro-verde-2026-13703",
     "name": "Saco Lok One negro verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 31.96,
+    "price": 40.5,
     "oldPrice": 45,
     "rating": null,
     "badge": null,
@@ -13404,14 +13363,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 31.96,
+        "price": 40.5,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13703-paletero-lok-one-negro-verde-2026.html"
       }
     ]
   },
   {
-    "id": 909,
+    "id": 908,
     "slug": "paletero-lok-one-negro-naranja-2026-13702",
     "name": "Saco Lok One negro naranja 2026",
     "brand": "Lok",
@@ -13452,12 +13411,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 910,
+    "id": 909,
     "slug": "mochila-lok-adventure-gen-2-negra-verde-2026-13701",
     "name": "Mochila Lok Adventure Gen 2 negra verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 44.96,
+    "price": 51.91,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
@@ -13486,19 +13445,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.96,
+        "price": 51.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13701-mochila-lok-adventure-gen-2-negra-verde-2026.html"
       }
     ]
   },
   {
-    "id": 911,
+    "id": 910,
     "slug": "mochila-lok-maxx-gen-2-negra-verde-2026-13700",
     "name": "Mochila Lok Maxx Gen 2 negra verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 54.96,
+    "price": 63.91,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -13527,14 +13486,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.96,
+        "price": 63.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13700-mochila-lok-maxx-gen-2-negra-verde-2026.html"
       }
     ]
   },
   {
-    "id": 912,
+    "id": 911,
     "slug": "mochila-lok-maxx-gen-2-negra-naranja-2026-13699",
     "name": "Mochila Lok Maxx Gen 2 negra naranja 2026",
     "brand": "Lok",
@@ -13575,7 +13534,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 913,
+    "id": 912,
     "slug": "paletero-lok-maxx-gen-2-negro-verde-2026-13698",
     "name": "Saco Lok Maxx Gen 2 negro verde 2026",
     "brand": "Lok",
@@ -13616,12 +13575,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 914,
+    "id": 913,
     "slug": "paletero-lok-maxx-gen-2-negro-naranja-2026-13697",
     "name": "Saco Lok Maxx Gen 2 negro naranja 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 69.96,
+    "price": 89.95,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -13650,14 +13609,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13697-paletero-lok-maxx-gen-2-negro-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 915,
+    "id": 914,
     "slug": "lok-jungle-lite-2026-13696",
     "name": "Lok Jungle Lite 2026",
     "brand": "Lok",
@@ -13698,7 +13657,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 916,
+    "id": 915,
     "slug": "lok-jungle-2026-13695",
     "name": "Lok Jungle 2026",
     "brand": "Lok",
@@ -13739,7 +13698,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 917,
+    "id": 916,
     "slug": "lok-be-flow-pink-gen-2-2026-13694",
     "name": "Lok Be Flow Pink Gen 2 2026",
     "brand": "Lok",
@@ -13780,7 +13739,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 918,
+    "id": 917,
     "slug": "lok-be-flow-yellow-gen-2-2026-13693",
     "name": "Lok Be Flow Yellow Gen 2 2026",
     "brand": "Lok",
@@ -13821,7 +13780,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 919,
+    "id": 918,
     "slug": "lok-be-hype-gen-2-2026-13692",
     "name": "Lok Be Hype Gen 2 2026",
     "brand": "Lok",
@@ -13862,7 +13821,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 920,
+    "id": 919,
     "slug": "lok-easy-flow-gen-2-2026-13691",
     "name": "Lok Easy Flow Gen 2 2026",
     "brand": "Lok",
@@ -13903,7 +13862,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 921,
+    "id": 920,
     "slug": "lok-easy-hype-gen-2-2026-13690",
     "name": "Lok Easy Hype Gen 2 2026",
     "brand": "Lok",
@@ -13944,7 +13903,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 923,
+    "id": 922,
     "slug": "lok-carbon-fdb-gen-2-2026-13688",
     "name": "Lok Carbon FDB Gen 2 2026",
     "brand": "Lok",
@@ -13985,7 +13944,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 924,
+    "id": 923,
     "slug": "lok-carbon-hype-gen-2-2026-13687",
     "name": "Lok Carbon Hype Gen 2 2026",
     "brand": "Lok",
@@ -14026,7 +13985,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 925,
+    "id": 924,
     "slug": "lok-maxx-flow-gen-2-2026-13686",
     "name": "Lok Maxx Flow Gen 2 2026",
     "brand": "Lok",
@@ -14067,7 +14026,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 927,
+    "id": 926,
     "slug": "star-vie-nyra-2026-13683",
     "name": "Star Vie Nyra 2026",
     "brand": "Star Vie",
@@ -14108,12 +14067,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 928,
+    "id": 927,
     "slug": "star-vie-arkos-2026-13682",
     "name": "Star Vie Arkos 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 96.92,
+    "price": 109.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -14142,14 +14101,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 96.92,
+        "price": 109.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13682-star-vie-arkos-2026.html"
       }
     ]
   },
   {
-    "id": 929,
+    "id": 928,
     "slug": "star-vie-polaris-2026-13681",
     "name": "Star Vie Polaris 2026",
     "brand": "Star Vie",
@@ -14190,7 +14149,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 931,
+    "id": 930,
     "slug": "star-vie-drax-2026-13666",
     "name": "Star Vie Drax + 2026",
     "brand": "Star Vie",
@@ -14231,7 +14190,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 935,
+    "id": 934,
     "slug": "star-vie-raptor-2026-13662",
     "name": "Star Vie Raptor + 2026",
     "brand": "Star Vie",
@@ -14272,12 +14231,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 936,
+    "id": 935,
     "slug": "star-vie-black-titan-2026-13660",
     "name": "Star Vie Black Titan 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 209.96,
+    "price": 219.01,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -14306,14 +14265,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 209.96,
+        "price": 219.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13660-star-vie-black-titan-2026.html"
       }
     ]
   },
   {
-    "id": 937,
+    "id": 936,
     "slug": "babolat-alioth-mini-junior-2025-13659",
     "name": "Babolat Alioth Mini Junior 2025",
     "brand": "Babolat",
@@ -14354,7 +14313,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 938,
+    "id": 937,
     "slug": "babolat-alioth-junior-2025-13658",
     "name": "Babolat Alioth Junior 2025",
     "brand": "Babolat",
@@ -14395,7 +14354,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 939,
+    "id": 938,
     "slug": "head-evo-extreme-2026-13657",
     "name": "Head Evo Extreme 2026",
     "brand": "Head Padel",
@@ -14436,7 +14395,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 940,
+    "id": 939,
     "slug": "head-extreme-team-2026-13656",
     "name": "Head Extreme Team 2026",
     "brand": "Head Padel",
@@ -14477,7 +14436,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 941,
+    "id": 940,
     "slug": "head-extreme-motion-2026-13655",
     "name": "Head Extreme Motion 2026",
     "brand": "Head Padel",
@@ -14518,7 +14477,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 942,
+    "id": 941,
     "slug": "head-extreme-pro-2026-13654",
     "name": "Head Extreme Pro 2026",
     "brand": "Head Padel",
@@ -14559,7 +14518,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 944,
+    "id": 943,
     "slug": "head-extreme-one-x-2026-13652",
     "name": "Head Extreme One X 2026",
     "brand": "Head Padel",
@@ -14600,7 +14559,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 945,
+    "id": 944,
     "slug": "zapatillas-adidas-defiant-speed-2-m-black-silver-pink-2025-13627",
     "name": "Sapatilhas Adidas Defiant Speed 2 M black silver pink 2025",
     "brand": "Adidas Padel",
@@ -14641,7 +14600,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 974,
+    "id": 973,
     "slug": "bullpadel-discover-power-2025-13581",
     "name": "Bullpadel Discover Power 2025",
     "brand": "Bullpadel",
@@ -14682,7 +14641,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 975,
+    "id": 974,
     "slug": "bullpadel-discover-control-2025-13580",
     "name": "Bullpadel Discover Control 2025",
     "brand": "Bullpadel",
@@ -14723,12 +14682,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 979,
+    "id": 978,
     "slug": "bullpadel-ionic-light-2026-13575",
     "name": "Bullpadel Ionic Light 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 115.96,
+    "price": 127.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -14757,14 +14716,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 115.96,
+        "price": 127.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13575-bullpadel-ionic-light-2026.html"
       }
     ]
   },
   {
-    "id": 981,
+    "id": 980,
     "slug": "bullpadel-ionic-power-2026-13573",
     "name": "Bullpadel Ionic Power 2026",
     "brand": "Bullpadel",
@@ -14805,7 +14764,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 982,
+    "id": 981,
     "slug": "bullpadel-vertex-05-woman-cloud-2026-13572",
     "name": "Bullpadel Vertex 05 Woman Cloud 2026",
     "brand": "Bullpadel",
@@ -14846,7 +14805,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 983,
+    "id": 982,
     "slug": "bullpadel-neuron-02-cloud-2026-13571",
     "name": "Bullpadel Neuron 02 Cloud 2026",
     "brand": "Bullpadel",
@@ -14887,7 +14846,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 986,
+    "id": 985,
     "slug": "bullpadel-flow-legend-2026-13567",
     "name": "Bullpadel Flow Legend 2026",
     "brand": "Bullpadel",
@@ -14928,7 +14887,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 987,
+    "id": 986,
     "slug": "bullpadel-elite-woman-2026-13566",
     "name": "Bullpadel Elite Woman 2026",
     "brand": "Bullpadel",
@@ -14969,7 +14928,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 988,
+    "id": 987,
     "slug": "bullpadel-wonder-2026-13565",
     "name": "Bullpadel Wonder 2026",
     "brand": "Bullpadel",
@@ -15010,7 +14969,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 989,
+    "id": 988,
     "slug": "bullpadel-pearl-2026-13562",
     "name": "Bullpadel Pearl 2026",
     "brand": "Bullpadel",
@@ -15051,7 +15010,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 990,
+    "id": 989,
     "slug": "bullpadel-icon-2026-13561",
     "name": "Bullpadel Icon 2026",
     "brand": "Bullpadel",
@@ -15092,12 +15051,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 991,
+    "id": 990,
     "slug": "bullpadel-xplo-comfort-2026-13560",
     "name": "Bullpadel XPLO Comfort 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 178.51,
+    "price": 191.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -15126,14 +15085,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 178.51,
+        "price": 191.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13560-bullpadel-xplo-comfort-2026.html"
       }
     ]
   },
   {
-    "id": 992,
+    "id": 991,
     "slug": "bullpadel-xplo-2026-13559",
     "name": "Bullpadel XPLO 2026",
     "brand": "Bullpadel",
@@ -15174,7 +15133,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 993,
+    "id": 992,
     "slug": "bullpadel-neuron-02-edge-2026-13558",
     "name": "Bullpadel Neuron 02 Edge 2026",
     "brand": "Bullpadel",
@@ -15215,7 +15174,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 994,
+    "id": 993,
     "slug": "bullpadel-neuron-02-2026-13556",
     "name": "Bullpadel Neuron 02 2026",
     "brand": "Bullpadel",
@@ -15256,7 +15215,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 995,
+    "id": 994,
     "slug": "bullpadel-hack-04-comfort-2026-13555",
     "name": "Bullpadel Hack 04 Comfort 2026",
     "brand": "Bullpadel",
@@ -15297,7 +15256,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 996,
+    "id": 995,
     "slug": "bullpadel-hack-04-hybrid-2026-13554",
     "name": "Bullpadel Hack 04 Hybrid 2026",
     "brand": "Bullpadel",
@@ -15338,7 +15297,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 997,
+    "id": 996,
     "slug": "bullpadel-hack-04-2026-13553",
     "name": "Bullpadel Hack 04 2026",
     "brand": "Bullpadel",
@@ -15379,7 +15338,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 998,
+    "id": 997,
     "slug": "bullpadel-vertex-05-woman-2026-13552",
     "name": "Bullpadel Vertex 05 Woman 2026",
     "brand": "Bullpadel",
@@ -15420,7 +15379,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 999,
+    "id": 998,
     "slug": "bullpadel-vertex-05-hybrid-2026-13550",
     "name": "Bullpadel Vertex 05 Hybrid 2026",
     "brand": "Bullpadel",
@@ -15461,7 +15420,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1000,
+    "id": 999,
     "slug": "bullpadel-vertex-05-geo-2026-13549",
     "name": "Bullpadel Vertex 05 GEO 2026",
     "brand": "Bullpadel",
@@ -15502,7 +15461,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1001,
+    "id": 1000,
     "slug": "bullpadel-vertex-05-2026-13548",
     "name": "Bullpadel Vertex 05 2026",
     "brand": "Bullpadel",
@@ -15543,7 +15502,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1005,
+    "id": 1004,
     "slug": "zapatillas-adidas-crazyquick-ls-padel-w-lucid-lemon-2025-13536",
     "name": "Sapatilhas Adidas Crazyquick LS Padel W lucid lemon 2025",
     "brand": "Adidas Padel",
@@ -15584,7 +15543,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1011,
+    "id": 1010,
     "slug": "zapatillas-mizuno-wave-enforce-court-padel-vibrant-yellow-2025-13514",
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel vibrant yellow 2025",
     "brand": "Mizuno",
@@ -15626,47 +15585,6 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   },
   {
     "id": 1012,
-    "slug": "zapatillas-mizuno-wave-exceed-tour-6-padel-vibrant-yellow-2025-13512",
-    "name": "Sapatilhas Mizuno Wave Exceed Tour 6 Padel vibrant yellow 2025",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 90.01,
-    "oldPrice": 150,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/26930-large_default/zapatillas-mizuno-wave-exceed-tour-6-padel-vibrant-yellow-2025.jpg",
-    "ean": "5059882574067",
-    "productGTIN": "5059882574067",
-    "mpn": "13512",
-    "source": "zona-de-padel",
-    "sourceProductId": "13512",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Mizuno",
-    "description": "Zapatillas Mizuno Wave Exceed Tour 6 Padel vibrant yellow 2025 ofrecen un calzado de alto rendimiento diseñado para jugadores exigentes que buscan ligereza y dinamismo en cada movimiento. Con su parte superior 3D-Solid, combinan transpirabilidad y durabilidad, ideales para enfrentar largos partidos con comodidad y control. Estas zapatillas mantienen tu pie firme gracias a su innovador sistema de doble hebilla. Dirigidas especialmente a jugadores de pádel avanzados, estas Mizuno Wave Exceed Tour 6 para pádel están concebidas para quienes necesitan velocidad y agilidad, facilitando desplazamientos rápidos y movimientos explosivos en pista. Su exclusiva suela con tecnología D-Flex Groove asegura una excelente estabilidad lateral. Características y tecnologías de la zapatilla Mizuno Wave Exceed Tour 6 Padel amarillas 2025 Nivel Avanzado: Diseñadas para jugadores de alto rendimiento que exigen máxima respuesta y confort en cada punto. Juego Ligero: La combinación de su malla con TPU en estructura de nido de abeja ofrece ligereza sin sacrificar durabilidad ni soporte. Suela New Padel: Con un diseño específico para pádel que mejora la tracción y la estabilidad en movimientos laterales. Amortiguación avanzada: Incorporan tecnologías Enerzy y Enerzy NXT que garantizan confort y dinamismo usando materiales biológicos de última generación. Innovación 2025: Pertenece a la colección de 2025, con actualizaciones en diseño y tecnologías para optimizar la experiencia en pista. ¿Para quien son las Mizuno Wave Exceed Tour 6 Padel 25? Estas zapatillas son perfectas para jugadores masculinos que priorizan la velocidad y agilidad en su juego. Son ideales para competir en niveles avanzados, donde la estabilidad y la rapidez marcan la diferencia en cada enfrentamiento. Quienes elijan este modelo encontrarán un calzado que potencia movimientos explosivos, gracias a su suela y sistema de amortiguación. Es un diseño pensado para deportistas que buscan seguridad en sus desplazamientos laterales sin perder comodidad. ¿Por qué te van a gustar estas zapatillas de pádel? Te fascinarán por sus destacadas tecnologías que aseguran una pisada cómoda y dinámica. La combinación de mediasuela Enerzy y la placa Wave aporta estabilidad y amortiguación que notarás en cada paso. Además, su llamativo color amarillo vibrante con detalles en negro no solo te garantiza rendimiento sino también un diseño moderno y distintivo en la pista, para que destaques durante el partido. Descubre más sobre la marca Mizuno Mizuno es una firma japonesa con décadas de experiencia en equipamiento deportivo, reconocida por su innovación en calzado para deportes de alta exigencia como el pádel. Su constante búsqueda en tecnología asegura productos que combinan rendimiento y durabilidad. Especializada en calzado técnico, Mizuno ha sabido adaptar sus avances en amortiguación y estabilidad a las necesidades del pádel, creando zapatillas que favorecen el dinamismo y protección del jugador en cada partido.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": "Amarelo",
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 90.01,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/mizuno/13512-zapatillas-mizuno-wave-exceed-tour-6-padel-vibrant-yellow-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1014,
     "slug": "zapatillas-mizuno-wave-exceed-court-cc-white-calypso-coral-2025-13505",
     "name": "Sapatilhas Mizuno Wave Exceed Court CC white calypso coral 2025",
     "brand": "Mizuno",
@@ -15707,7 +15625,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1015,
+    "id": 1013,
     "slug": "zapatillas-mizuno-wave-exceed-court-cc-odyssey-gray-white-2025-13504",
     "name": "Sapatilhas Mizuno Wave Exceed Court CC odyssey gray white 2025",
     "brand": "Mizuno",
@@ -15748,7 +15666,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1019,
+    "id": 1017,
     "slug": "wilson-bela-pro-v3-2025-13466",
     "name": "Wilson Bela Pro V3 2025",
     "brand": "Wilson Padel",
@@ -15789,7 +15707,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1025,
+    "id": 1023,
     "slug": "paletero-babolat-hr-pro-padel-lebron-naranja-2026-13455",
     "name": "Saco Babolat HR Pro Padel Lebrón naranja 2026",
     "brand": "Babolat",
@@ -15830,7 +15748,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1026,
+    "id": 1024,
     "slug": "babolat-technical-veron-juan-lebron-3-0-2026-13447",
     "name": "Babolat Technical Veron Juan Lebron 3.0 2026",
     "brand": "Babolat",
@@ -15871,7 +15789,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1076,
+    "id": 1074,
     "slug": "babolat-alioth-pro-junior-2025-13310",
     "name": "Babolat Alioth Pro Junior 2025",
     "brand": "Babolat",
@@ -15912,7 +15830,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1093,
+    "id": 1091,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-white-orange-glow-2025-13265",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white orange glow 2025",
     "brand": "Asics",
@@ -15953,7 +15871,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1095,
+    "id": 1093,
     "slug": "zapatillas-asics-gel-challenger-15-padel-stone-wash-orange-glow-2025-13260",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025",
     "brand": "Asics",
@@ -15994,7 +15912,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1096,
+    "id": 1094,
     "slug": "zapatillas-asics-solution-swift-ff2-padel-orange-glow-cream-2025-13258",
     "name": "Sapatilhas Asics Solution Swift FF2 Padel orange glow cream 2025",
     "brand": "Asics",
@@ -16035,12 +15953,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1097,
+    "id": 1095,
     "slug": "zapatillas-asics-game-ff-clay-cream-bright-rose-2025-13253",
     "name": "Sapatilhas Asics Game FF Clay cream bright rose 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 56.96,
+    "price": 54.01,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -16069,19 +15987,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 56.96,
+        "price": 54.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/13253-zapatillas-asics-game-ff-clay-cream-bright-rose-2025.html"
       }
     ]
   },
   {
-    "id": 1098,
+    "id": 1096,
     "slug": "zapatillas-asics-gel-challenger-15-clay-cream-bright-rose-2025-13251",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay cream bright rose 2025",
     "brand": "Siux",
     "category": "sapatilhas",
-    "price": 76.42,
+    "price": 84.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -16110,14 +16028,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 76.42,
+        "price": 84.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13251-zapatillas-asics-gel-challenger-15-clay-cream-bright-rose-2025.html"
       }
     ]
   },
   {
-    "id": 1099,
+    "id": 1097,
     "slug": "zapatillas-asics-solution-swift-ff2-clay-bright-rose-dark-cobalt-2025-13250",
     "name": "Sapatilhas Asics Solution Swift FF2 Clay bright rose dark cobalt 2025",
     "brand": "Asics",
@@ -16158,7 +16076,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1100,
+    "id": 1098,
     "slug": "zapatillas-asics-solution-speed-ff3-clay-white-bright-rose-2025-13249",
     "name": "Sapatilhas Asics Solution Speed FF3 Clay white bright rose 2025",
     "brand": "Asics",
@@ -16199,7 +16117,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1102,
+    "id": 1100,
     "slug": "nox-ml10-pro-cup-2025-13240",
     "name": "Nox ML10 Pro Cup 2025",
     "brand": "Nox",
@@ -16240,7 +16158,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1104,
+    "id": 1102,
     "slug": "zapatillas-asics-game-ff-padel-black-vivid-coral-2025-13234",
     "name": "Sapatilhas Asics Game FF Padel black vivid coral 2025",
     "brand": "Asics",
@@ -16281,7 +16199,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1105,
+    "id": 1103,
     "slug": "zapatillas-asics-solution-swift-ff2-padel-dark-cobalt-menthol-2025-13230",
     "name": "Sapatilhas Asics Solution Swift FF2 Padel dark cobalt menthol 2025",
     "brand": "Asics",
@@ -16322,7 +16240,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1108,
+    "id": 1106,
     "slug": "mochila-babolat-lite-azul-2026-13220",
     "name": "Mochila Babolat Lite azul 2026",
     "brand": "Babolat",
@@ -16363,7 +16281,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1109,
+    "id": 1107,
     "slug": "zapatillas-asics-game-ff-clay-white-black-2025-13217",
     "name": "Sapatilhas Asics Game FF Clay white black 2025",
     "brand": "Asics",
@@ -16404,7 +16322,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1110,
+    "id": 1108,
     "slug": "paletero-babolat-court-s-azul-2026-13216",
     "name": "Saco Babolat Court S azul 2026",
     "brand": "Babolat",
@@ -16445,7 +16363,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1111,
+    "id": 1109,
     "slug": "paletero-babolat-court-s-negro-2026-13215",
     "name": "Saco Babolat Court S negro 2026",
     "brand": "Babolat",
@@ -16486,12 +16404,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1112,
+    "id": 1110,
     "slug": "zapatillas-asics-game-ff-clay-black-white-2025-13214",
     "name": "Sapatilhas Asics Game FF Clay black white 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 54.01,
+    "price": 53.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -16520,14 +16438,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.01,
+        "price": 53.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/13214-zapatillas-asics-game-ff-clay-black-white-2025.html"
       }
     ]
   },
   {
-    "id": 1113,
+    "id": 1111,
     "slug": "zapatillas-asics-solution-swift-ff2-clay-white-dark-cobalt-2025-13209",
     "name": "Sapatilhas Asics Solution Swift FF2 Clay white dark cobalt 2025",
     "brand": "Asics",
@@ -16568,7 +16486,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1168,
+    "id": 1166,
     "slug": "zapatillas-asics-gel-resolution-x-clay-night-energy-2025-13100",
     "name": "Sapatilhas Asics Gel Resolution X Clay night energy 2025",
     "brand": "Asics",
@@ -16609,7 +16527,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1222,
+    "id": 1220,
     "slug": "zapatillas-bullpadel-flow-25i-dark-blue-2025-13007",
     "name": "Sapatilhas Bullpadel Flow 25I dark blue 2025",
     "brand": "Bullpadel",
@@ -16650,7 +16568,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1223,
+    "id": 1221,
     "slug": "zapatillas-bullpadel-hybrid-fly-25i-steel-blue-2025-12999",
     "name": "Sapatilhas Bullpadel Hybrid Fly 25I steel blue 2025",
     "brand": "Bullpadel",
@@ -16691,7 +16609,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1224,
+    "id": 1222,
     "slug": "zapatillas-bullpadel-hybrid-fly-25i-white-orange-2025-12998",
     "name": "Sapatilhas Bullpadel Hybrid Fly 25I white orange 2025",
     "brand": "Bullpadel",
@@ -16732,7 +16650,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1225,
+    "id": 1223,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-maroon-white-2025-12997",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I maroon white 2025",
     "brand": "Bullpadel",
@@ -16773,7 +16691,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1226,
+    "id": 1224,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-steel-blue-2025-12996",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I steel blue 2025",
     "brand": "Bullpadel",
@@ -16814,7 +16732,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1227,
+    "id": 1225,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-dark-grey-2025-12995",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I dark grey 2025",
     "brand": "Bullpadel",
@@ -16855,7 +16773,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1228,
+    "id": 1226,
     "slug": "zapatillas-bullpadel-ionic-25i-royal-white-2025-12992",
     "name": "Sapatilhas Bullpadel Ionic 25I royal white 2025",
     "brand": "Bullpadel",
@@ -16896,7 +16814,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1229,
+    "id": 1227,
     "slug": "zapatillas-bullpadel-ionic-25i-dark-blue-2025-12991",
     "name": "Sapatilhas Bullpadel Ionic 25I dark blue 2025",
     "brand": "Bullpadel",
@@ -16937,7 +16855,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1230,
+    "id": 1228,
     "slug": "zapatillas-bullpadel-neuron-vibram-25i-navy-blue-2025-12989",
     "name": "Sapatilhas Bullpadel Neuron Vibram 25I navy blue 2025",
     "brand": "Bullpadel",
@@ -16978,7 +16896,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1232,
+    "id": 1230,
     "slug": "zapatillas-adidas-courtquick-padel-w-ftwr-white-2025-12982",
     "name": "Sapatilhas Adidas Courtquick Padel W ftwr white 2025",
     "brand": "Adidas Padel",
@@ -17019,7 +16937,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1233,
+    "id": 1231,
     "slug": "zapatillas-bullpadel-vertex-vibram-25i-maroon-2025-12981",
     "name": "Sapatilhas Bullpadel Vertex Vibram 25I maroon 2025",
     "brand": "Bullpadel",
@@ -17060,7 +16978,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1241,
+    "id": 1239,
     "slug": "zapatillas-joma-spin-men-2602-white-2026-12923",
     "name": "Sapatilhas Joma Spin Men 2602 white 2026",
     "brand": "Joma",
@@ -17101,7 +17019,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1242,
+    "id": 1240,
     "slug": "zapatillas-joma-spin-men-2632-white-blue-2026-12919",
     "name": "Sapatilhas Joma Spin Men 2632 white blue 2026",
     "brand": "Joma",
@@ -17142,7 +17060,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1243,
+    "id": 1241,
     "slug": "zapatillas-joma-open-men-2609-yellow-2026-12912",
     "name": "Sapatilhas Joma Open Men 2609 yellow 2026",
     "brand": "Joma",
@@ -17183,7 +17101,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1244,
+    "id": 1242,
     "slug": "zapatillas-joma-slam-classic-2609-yellow-2026-12910",
     "name": "Sapatilhas Joma Slam Classic 2609 yellow 2026",
     "brand": "Joma",
@@ -17224,7 +17142,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1245,
+    "id": 1243,
     "slug": "zapatillas-joma-slam-classic-2602-white-2026-12908",
     "name": "Sapatilhas Joma Slam Classic 2602 white 2026",
     "brand": "Joma",
@@ -17265,7 +17183,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1246,
+    "id": 1244,
     "slug": "zapatillas-joma-slam-men-2632-white-2026-12906",
     "name": "Sapatilhas Joma Slam Men 2632 white 2026",
     "brand": "Joma",
@@ -17306,7 +17224,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1247,
+    "id": 1245,
     "slug": "zapatillas-joma-slam-men-2601-black-2026-12905",
     "name": "Sapatilhas Joma Slam Men 2601 black 2026",
     "brand": "Joma",
@@ -17347,7 +17265,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1250,
+    "id": 1248,
     "slug": "zapatillas-joma-spin-lady-2612-light-grey-2026-12862",
     "name": "Sapatilhas Joma Spin Lady 2612 light grey 2026",
     "brand": "Joma",
@@ -17388,7 +17306,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1251,
+    "id": 1249,
     "slug": "zapatillas-joma-slam-men-2615-green-2026-12860",
     "name": "Sapatilhas Joma Slam Men 2615 green 2026",
     "brand": "Joma",
@@ -17429,48 +17347,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1252,
-    "slug": "zapatillas-adidas-barricade-m-clay-black-lucid-lemon-2025-12859",
-    "name": "Sapatilhas Adidas Barricade M Clay black lucid lemon 2025",
-    "brand": "Adidas Padel",
-    "category": "sapatilhas",
-    "price": 90.01,
-    "oldPrice": 150,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/25518-large_default/zapatillas-adidas-barricade-m-clay-black-lucid-lemon-2025.jpg",
-    "ean": "067898189596",
-    "productGTIN": "067898189596",
-    "mpn": "12859",
-    "source": "zona-de-padel",
-    "sourceProductId": "12859",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
-    "description": "Las zapatillas de pádel Adidas Barricade M Clay black lucid lemon 2025 están diseñadas para jugadores masculinos que buscan dominar la pista con estabilidad y comodidad. Su combinación de tecnologías avanzadas y materiales reciclados las convierte en una opción sostenible y de alto rendimiento para los entusiastas del pádel. Con un diseño en negro y amarillo flúor, las Adidas Barricade M Clay black lucid lemon ofrecen una estética moderna y agresiva que refleja la intensidad del juego. Además se convierten en el calzado más completo de la marca, ideales para quienes buscan un alto rendimiento en cada punto combinado con estilo, funcionalidad y compromiso con el medio ambiente. Características y tecnologías de las zapatillas Adidas Barricade M Clay negras y amarillas Sistema de torsión: Proporciona estabilidad en los giros y movimientos laterales rápidos. Lazada asimétrica: Asegura un ajuste firme, manteniendo el pie en su lugar durante movimientos intensos. Mediasuela REPETITOR+: Ofrece soporte y transiciones suaves entre pasos, mejorando la comodidad en el juego. Geofit Sensepods: Se adaptan a la forma natural del talón, brindando una sujeción personalizada y mayor confort. Suela Adiwear con punta Adituff: Garantiza durabilidad y tracción óptima en superficies de arcilla, resistiendo el desgaste. Pertenece a la colección de zapatillas Adidas Pádel 2025. ¿Para quién son las Adidas Barricade M Clay black lucid lemon 2025? Estas zapatillas están dirigidas a jugadores de pádel masculinos que buscan un calzado que les proporcione estabilidad, comodidad y durabilidad en la pista. Ideales para aquellos que realizan movimientos rápidos y giros constantes, gracias a su diseño y tecnologías integradas. Si eres un jugador que valora la precisión en cada paso y deseas un calzado que te acompañe en partidos intensos, las Adidas Barricade M Clay black lucid lemon son la elección perfecta para ti. ¿Por qué te va a gustar las zapatillas Barricade M Clay IH2560? Las Adidas Barricade M Clay black lucid lemon destacan por su combinación de tecnologías que mejoran el rendimiento en la pista. El sistema de torsión y la lazada asimétrica ofrecen una estabilidad y ajuste superiores, permitiéndote moverte con confianza y rapidez. Además, su compromiso con la sostenibilidad, incorporando al menos un 20% de material reciclado, te permite contribuir al cuidado del medio ambiente mientras disfrutas de un calzado de alto rendimiento. Adidas es una marca alemana fundada en 1949, reconocida mundialmente por su innovación y calidad en productos deportivos. Elegir Adidas es optar por décadas de experiencia y compromiso con el deporte, garantizando productos que cumplen con las exigencias de los atletas más destacados.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": "Homem",
-      "cor": "Preto",
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 90.01,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/adidas-padel/12859-zapatillas-adidas-barricade-m-clay-black-lucid-lemon-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1253,
+    "id": 1250,
     "slug": "paletero-lok-granite-a1padel-rojo-2025-12855",
     "name": "Saco Lok Granite A1Padel rojo 2025",
     "brand": "Lok",
@@ -17511,7 +17388,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1266,
+    "id": 1263,
     "slug": "siux-trilogy-go-5-2025-12784",
     "name": "Siux Trilogy Go 5 2025",
     "brand": "Siux",
@@ -17552,7 +17429,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1294,
+    "id": 1291,
     "slug": "bolsa-joma-open-azul-lima-2025-12651",
     "name": "Bolsa Joma Open azul lima 2025",
     "brand": "Joma",
@@ -17593,7 +17470,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1357,
+    "id": 1354,
     "slug": "zapatillas-asics-game-ff-clay-indigo-fog-white-2025-12532",
     "name": "Sapatilhas Asics Game FF Clay indigo fog white 2025",
     "brand": "Asics",
@@ -17634,7 +17511,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1391,
+    "id": 1388,
     "slug": "zapatillas-wilson-intrigue-lite-navy-blaze-2025-12466",
     "name": "Sapatilhas Wilson Intrigue Lite navy blaze 2025",
     "brand": "Wilson Padel",
@@ -17675,7 +17552,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1404,
+    "id": 1401,
     "slug": "mochila-nox-pro-series-blanca-2025-12443",
     "name": "Mochila Nox Pro Series blanca 2025",
     "brand": "Nox",
@@ -17716,7 +17593,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1405,
+    "id": 1402,
     "slug": "paletero-nox-pro-series-blanco-2025-12442",
     "name": "Saco Nox Pro Series blanco 2025",
     "brand": "Nox",
@@ -17757,7 +17634,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1417,
+    "id": 1414,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25v-navy-2025-12371",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25V navy 2025",
     "brand": "Bullpadel",
@@ -17798,7 +17675,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1427,
+    "id": 1424,
     "slug": "wilson-defy-ls-v1-2025-12346",
     "name": "Wilson Defy LS V1 2025",
     "brand": "Wilson Padel",
@@ -17839,7 +17716,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1436,
+    "id": 1433,
     "slug": "zapatillas-puma-nova-court-red-dark-crimson-2025-12320",
     "name": "Sapatilhas Puma Nova Court red dark crimson 2025",
     "brand": "Puma",
@@ -17880,7 +17757,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1439,
+    "id": 1436,
     "slug": "paletero-head-coello-pro-x-duffle-bag-2025-12313",
     "name": "Saco Head Coello Pro X Duffle Bag 2025",
     "brand": "Head Padel",
@@ -17921,7 +17798,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1513,
+    "id": 1510,
     "slug": "wilson-defy-v1-2025-12117",
     "name": "Wilson Defy V1 2025",
     "brand": "Wilson Padel",
@@ -17962,7 +17839,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1516,
+    "id": 1513,
     "slug": "wilson-defy-pro-v1-2025-12111",
     "name": "Wilson Defy Pro V1 2025",
     "brand": "Wilson Padel",
@@ -18003,7 +17880,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1526,
+    "id": 1523,
     "slug": "zapatillas-bullpadel-premier-major-black-2025-12093",
     "name": "Sapatilhas Bullpadel Premier Major black 2025",
     "brand": "Bullpadel",
@@ -18044,7 +17921,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1546,
+    "id": 1543,
     "slug": "head-coello-team-2025-11997",
     "name": "Head Coello Team 2025",
     "brand": "Head Padel",
@@ -18085,7 +17962,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1547,
+    "id": 1544,
     "slug": "head-coello-motion-2025-11996",
     "name": "Head Coello Motion 2025",
     "brand": "Head Padel",
@@ -18126,7 +18003,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1548,
+    "id": 1545,
     "slug": "head-coello-pro-2025-11995",
     "name": "Head Coello Pro 2025",
     "brand": "Head Padel",
@@ -18167,7 +18044,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1549,
+    "id": 1546,
     "slug": "zapatillas-joma-slam-lady-2501-black-2025-11994",
     "name": "Sapatilhas Joma Slam Lady 2501 black 2025",
     "brand": "Joma",
@@ -18208,7 +18085,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1550,
+    "id": 1547,
     "slug": "head-speed-pro-x-2025-11985",
     "name": "Head Speed Pro X 2025",
     "brand": "Head Padel",
@@ -18249,7 +18126,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1551,
+    "id": 1548,
     "slug": "siux-valkiria-go-2025-11983",
     "name": "Siux Valkiria Go 2025",
     "brand": "Siux",
@@ -18290,7 +18167,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1552,
+    "id": 1549,
     "slug": "siux-electra-pro-st4-2025-11977",
     "name": "Siux Electra Pro ST4 2025",
     "brand": "Siux",
@@ -18331,7 +18208,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1554,
+    "id": 1551,
     "slug": "paletero-nox-ml10-team-blanco-gris-2025-11963",
     "name": "Saco Nox ML10 Team blanco gris 2025",
     "brand": "Nox",
@@ -18372,7 +18249,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1555,
+    "id": 1552,
     "slug": "paletero-nox-ml10-team-negro-azul-2025-11962",
     "name": "Saco Nox ML10 Team negro azul 2025",
     "brand": "Nox",
@@ -18413,7 +18290,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1556,
+    "id": 1553,
     "slug": "paletero-nox-ml10-team-negro-arcilla-2025-11961",
     "name": "Saco Nox ML10 Team negro arcilla 2025",
     "brand": "Nox",
@@ -18454,7 +18331,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1557,
+    "id": 1554,
     "slug": "mochila-head-pro-x-backpack-25l-negra-2025-11957",
     "name": "Mochila Head Pro X Backpack 25L negra 2025",
     "brand": "Head Padel",
@@ -18495,7 +18372,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1558,
+    "id": 1555,
     "slug": "zapatillas-wilson-rush-pro-4-5-clay-white-bosphorus-2025-11946",
     "name": "Sapatilhas Wilson Rush Pro 4.5 Clay white bosphorus 2025",
     "brand": "Wilson Padel",
@@ -18536,7 +18413,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1559,
+    "id": 1556,
     "slug": "zapatillas-joma-set-2543-turquoise-navy-2025-11944",
     "name": "Sapatilhas Joma Set 2543 turquoise navy 2025",
     "brand": "Joma",
@@ -18577,7 +18454,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1560,
+    "id": 1557,
     "slug": "paletero-babolat-rh-pro-padel-negro-2025-11930",
     "name": "Saco Babolat RH Pro Padel negro 2025",
     "brand": "Babolat",
@@ -18618,7 +18495,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1569,
+    "id": 1566,
     "slug": "mochila-head-pro-x-backpack-negra-gris-2025-11874",
     "name": "Mochila Head Pro X Backpack negra gris 2025",
     "brand": "Head Padel",
@@ -18659,7 +18536,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1570,
+    "id": 1567,
     "slug": "mochila-head-tour-backpack-25l-verde-2025-11873",
     "name": "Mochila Head Tour Backpack 25L verde 2025",
     "brand": "Head Padel",
@@ -18700,7 +18577,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1572,
+    "id": 1569,
     "slug": "paletero-adidas-control-3-4-naranja-2025-11860",
     "name": "Saco Adidas Control 3.4 naranja 2025",
     "brand": "Adidas Padel",
@@ -18741,7 +18618,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1573,
+    "id": 1570,
     "slug": "paletero-adidas-control-3-4-verde-2025-11858",
     "name": "Saco Adidas Control 3.4 Verde 2025",
     "brand": "Adidas Padel",
@@ -18782,7 +18659,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1574,
+    "id": 1571,
     "slug": "paletero-adidas-multigame-3-4-arena-2025-11854",
     "name": "Saco Adidas Multigame 3.4 Arena 2025",
     "brand": "Adidas Padel",
@@ -18823,7 +18700,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1575,
+    "id": 1572,
     "slug": "paletero-adidas-protour-3-4-negro-2025-11853",
     "name": "Saco Adidas Protour 3.4 negro 2025",
     "brand": "Adidas Padel",
@@ -18864,7 +18741,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1576,
+    "id": 1573,
     "slug": "paletero-head-base-padel-verde-2025-11850",
     "name": "Saco Head Base Padel verde 2025",
     "brand": "Head Padel",
@@ -18905,7 +18782,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1577,
+    "id": 1574,
     "slug": "paletero-head-base-padel-azul-marino-2025-11849",
     "name": "Saco Head Base Padel azul marino 2025",
     "brand": "Head Padel",
@@ -18946,7 +18823,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1578,
+    "id": 1575,
     "slug": "paletero-head-base-padel-negro-2025-11848",
     "name": "Saco Head Base Padel negro 2025",
     "brand": "Head Padel",
@@ -18987,7 +18864,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1583,
+    "id": 1580,
     "slug": "mochila-head-base-17l-verde-2025-11839",
     "name": "Mochila Head Base 17L verde 2025",
     "brand": "Head Padel",
@@ -19028,7 +18905,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1585,
+    "id": 1582,
     "slug": "mochila-head-base-17l-azul-marino-2025-11837",
     "name": "Mochila Head Base 17L azul marino 2025",
     "brand": "Head Padel",
@@ -19069,7 +18946,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1588,
+    "id": 1585,
     "slug": "mochila-head-base-17l-black-2025-11834",
     "name": "Mochila Head Base 17L black 2025",
     "brand": "Head Padel",
@@ -19110,7 +18987,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1596,
+    "id": 1593,
     "slug": "zapatillas-asics-solution-speed-ff-3-clay-light-ube-indigo-fog-2025-11809",
     "name": "Sapatilhas Asics Solution Speed FF 3 Clay light ube indigo fog 2025",
     "brand": "Asics",
@@ -19151,7 +19028,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1598,
+    "id": 1595,
     "slug": "zapatillas-babolat-movea-2-men-white-cyan-blue-2025-11796",
     "name": "Sapatilhas Babolat Movea 2 Men white cyan blue 2025",
     "brand": "Babolat",
@@ -19192,7 +19069,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1599,
+    "id": 1596,
     "slug": "zapatillas-babolat-jet-premura-2-men-black-tomato-red-2025-11791",
     "name": "Sapatilhas Babolat Jet Premura 2 Men black tomato red 2025",
     "brand": "Babolat",
@@ -19233,7 +19110,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1614,
+    "id": 1611,
     "slug": "siux-diablo-4-go-2025-11732",
     "name": "Siux Diablo 4 Go 2025",
     "brand": "Siux",
@@ -19274,7 +19151,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1615,
+    "id": 1612,
     "slug": "siux-diablo-4-elite-2025-11731",
     "name": "Siux Diablo 4 Elite 2025",
     "brand": "Siux",
@@ -19315,7 +19192,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1616,
+    "id": 1613,
     "slug": "siux-diablo-4-pro-2025-11730",
     "name": "Siux Diablo 4 Pro 2025",
     "brand": "Siux",
@@ -19356,7 +19233,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1626,
+    "id": 1623,
     "slug": "paletero-head-tour-l-green-2025-11662",
     "name": "Saco Head Tour L Green 2025",
     "brand": "Head Padel",
@@ -19397,7 +19274,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1627,
+    "id": 1624,
     "slug": "paletero-head-pro-x-l-duffle-negro-gris-2025-11658",
     "name": "Saco Head Pro X L Duffle Negro Gris 2025",
     "brand": "Head Padel",
@@ -19438,7 +19315,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1629,
+    "id": 1626,
     "slug": "paletero-head-pro-x-l-negro-2025-11656",
     "name": "Saco Head Pro X L negro 2025",
     "brand": "Head Padel",
@@ -19479,7 +19356,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1639,
+    "id": 1636,
     "slug": "zapatillas-asics-gel-dedicate-8-clay-light-blue-coast-2025-11610",
     "name": "Sapatilhas Asics Gel Dedicate 8 Clay light blue coast 2025",
     "brand": "Asics",
@@ -19520,7 +19397,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1640,
+    "id": 1637,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-black-energy-aqua-2025-11607",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel Black energy aqua 2025",
     "brand": "Asics",
@@ -19561,7 +19438,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1641,
+    "id": 1638,
     "slug": "zapatillas-asics-game-ff-padel-grey-blue-energy-aqua-2025-11604",
     "name": "Sapatilhas Asics Game FF Padel grey blue energy aqua 2025",
     "brand": "Asics",
@@ -19602,7 +19479,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1642,
+    "id": 1639,
     "slug": "zapatillas-asics-gel-challenger-14-clay-indigo-fog-white-2025-11590",
     "name": "Sapatilhas Asics Gel Challenger 14 Clay indigo fog white 2025",
     "brand": "Asics",
@@ -19643,7 +19520,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1643,
+    "id": 1640,
     "slug": "head-speed-team-2025-11586",
     "name": "Head Speed Team 2025",
     "brand": "Head Padel",
@@ -19684,7 +19561,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1648,
+    "id": 1645,
     "slug": "adidas-match-black-3-4-2025-11579",
     "name": "Adidas Match Black 3.4 2025",
     "brand": "Adidas Padel",
@@ -19725,7 +19602,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1650,
+    "id": 1647,
     "slug": "adidas-cross-it-3-4-2025-11565",
     "name": "Adidas Cross It 3.4 2025",
     "brand": "Adidas Padel",
@@ -19766,7 +19643,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1652,
+    "id": 1649,
     "slug": "paletero-bullpadel-bpp-25015-tour-azul-marino-2025-11550",
     "name": "Saco Bullpadel BPP-25015 Tour azul marino 2025",
     "brand": "Bullpadel",
@@ -19807,7 +19684,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1653,
+    "id": 1650,
     "slug": "paletero-nox-at10-team-blanco-2025-11533",
     "name": "Saco Nox AT10 Team blanco 2025",
     "brand": "Nox",
@@ -19848,7 +19725,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1656,
+    "id": 1654,
     "slug": "paletero-bullpadel-bpp-25022-xplo-rojo-2025-11523",
     "name": "Saco Bullpadel BPP-25022 XPLO rojo 2025",
     "brand": "Bullpadel",
@@ -19889,7 +19766,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1709,
+    "id": 1707,
     "slug": "mochila-head-pro-x-backpack-gris-negra-2024-11345",
     "name": "Mochila Head Pro X Backpack gris negra 2024",
     "brand": "Head Padel",
@@ -19930,7 +19807,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1730,
+    "id": 1728,
     "slug": "nox-at10-genius-18k-alum-agustin-tapia-2025-11231",
     "name": "Nox AT10 Genius 18K Alum Agustin Tapia 2025",
     "brand": "Nox",
@@ -19971,7 +19848,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1735,
+    "id": 1733,
     "slug": "mochila-bullpadel-bpm25021-pearl-blanco-2024-11186",
     "name": "Mochila Bullpadel BPM25021 Pearl blanco 2024",
     "brand": "Bullpadel",
@@ -20012,7 +19889,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1770,
+    "id": 1768,
     "slug": "head-gravity-team-light-2025-11032",
     "name": "Head Gravity Team Light 2025",
     "brand": "Head Padel",
@@ -20053,7 +19930,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1771,
+    "id": 1769,
     "slug": "head-gravity-team-2025-11031",
     "name": "Head Gravity Team 2025",
     "brand": "Head Padel",
@@ -20094,7 +19971,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1772,
+    "id": 1770,
     "slug": "head-gravity-motion-2025-11030",
     "name": "Head Gravity Motion 2025",
     "brand": "Head Padel",
@@ -20135,7 +20012,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1773,
+    "id": 1771,
     "slug": "head-gravity-pro-2025-11029",
     "name": "Head Gravity Pro 2025",
     "brand": "Head Padel",
@@ -20176,7 +20053,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1776,
+    "id": 1774,
     "slug": "star-vie-brava-pro-15k-2025-11016",
     "name": "Star Vie Brava Pro 15k 2025",
     "brand": "Star Vie",
@@ -20217,7 +20094,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1827,
+    "id": 1825,
     "slug": "mochila-lok-maxx-blanca-2024-10883",
     "name": "Mochila Lok Maxx blanca 2024",
     "brand": "Lok",
@@ -20258,7 +20135,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1828,
+    "id": 1826,
     "slug": "mochila-lok-maxx-negra-2024-10882",
     "name": "Mochila Lok Maxx negra 2024",
     "brand": "Lok",
@@ -20299,7 +20176,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1829,
+    "id": 1827,
     "slug": "mochila-lok-adventure-azul-2024-10880",
     "name": "Mochila Lok Adventure azul 2024",
     "brand": "Lok",
@@ -20340,7 +20217,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1830,
+    "id": 1828,
     "slug": "joma-slam-pro-a1-blanco-oro-2024-10874",
     "name": "Joma Slam Pro A1 blanco oro 2024",
     "brand": "Joma",
@@ -20381,7 +20258,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1831,
+    "id": 1829,
     "slug": "bullpadel-xplo-comfort-2025-10856",
     "name": "Bullpadel XPlo Comfort 2025",
     "brand": "Bullpadel",
@@ -20422,7 +20299,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1835,
+    "id": 1833,
     "slug": "zapatillas-babolat-sensa-women-grey-white-2024-10834",
     "name": "Sapatilhas Babolat Sensa Women grey white 2024",
     "brand": "Babolat",
@@ -20463,7 +20340,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1874,
+    "id": 1872,
     "slug": "wilson-blade-v3-2024-10656",
     "name": "Wilson Blade V3 2024",
     "brand": "Wilson Padel",
@@ -20504,7 +20381,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1878,
+    "id": 1876,
     "slug": "paletero-nox-street-series-gris-rosa-10633",
     "name": "Saco Nox Street Series gris rosa",
     "brand": "Nox",
@@ -20545,7 +20422,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1879,
+    "id": 1877,
     "slug": "paletero-nox-street-series-azul-10632",
     "name": "Saco Nox Street Series azul",
     "brand": "Nox",
@@ -20586,7 +20463,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1880,
+    "id": 1878,
     "slug": "paletero-nox-street-series-negro-gris-10631",
     "name": "Saco Nox Street Series negro gris",
     "brand": "Nox",
@@ -20627,7 +20504,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1882,
+    "id": 1880,
     "slug": "mochila-nox-at10-team-gris-10604",
     "name": "Mochila Nox AT10 Team gris",
     "brand": "Nox",
@@ -20668,7 +20545,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1892,
+    "id": 1890,
     "slug": "paletero-nox-at10-team-gris-naranja-2024-10576",
     "name": "Saco Nox AT10 Team gris naranja 2024",
     "brand": "Nox",
@@ -20709,7 +20586,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1895,
+    "id": 1893,
     "slug": "paletero-nox-at10-team-gris-verde-2024-10569",
     "name": "Saco Nox AT10 Team gris verde 2024",
     "brand": "Nox",
@@ -20750,7 +20627,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1899,
+    "id": 1897,
     "slug": "paletero-nox-ml10-competition-xl-compact-10561",
     "name": "Saco Nox ML10 Competition XL Compact",
     "brand": "Nox",
@@ -20791,7 +20668,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1903,
+    "id": 1901,
     "slug": "paletero-nox-at10-competition-xl-compact-10557",
     "name": "Saco Nox AT10 Competition XL Compact",
     "brand": "Nox",
@@ -20832,7 +20709,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1904,
+    "id": 1902,
     "slug": "paletero-nox-at10-xxl-negro-naranja-10555",
     "name": "Saco Nox AT10 XXL negro naranja",
     "brand": "Nox",
@@ -20873,7 +20750,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1913,
+    "id": 1911,
     "slug": "mochila-nox-luxury-open-series-negra-marron-10539",
     "name": "Mochila Nox Luxury Open Series negra marron",
     "brand": "Nox",
@@ -20914,7 +20791,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1914,
+    "id": 1912,
     "slug": "mochila-nox-luxury-open-series-roja-negra-10538",
     "name": "Mochila Nox Luxury Open Series roja negra",
     "brand": "Nox",
@@ -20955,7 +20832,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1915,
+    "id": 1913,
     "slug": "paletero-nox-luxury-open-series-negro-marron-10534",
     "name": "Saco Nox Luxury Open Series negro marron",
     "brand": "Nox",
@@ -20996,7 +20873,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1916,
+    "id": 1914,
     "slug": "paletero-nox-luxury-open-series-negro-rojo-10533",
     "name": "Saco Nox Luxury Open Series negro rojo",
     "brand": "Nox",
@@ -21037,7 +20914,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1917,
+    "id": 1915,
     "slug": "paletero-nox-luxury-master-series-10532",
     "name": "Saco Nox Luxury Master Series",
     "brand": "Nox",
@@ -21078,7 +20955,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1929,
+    "id": 1927,
     "slug": "zapatillas-mizuno-break-shot-cc-woman-white-mugen-blue-2024-10426",
     "name": "Sapatilhas Mizuno Break Shot CC Woman white mugen blue 2024",
     "brand": "Mizuno",
@@ -21119,7 +20996,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1938,
+    "id": 1936,
     "slug": "zapatillas-adidas-avaflash-clay-grey-four-2024-10364",
     "name": "Sapatilhas Adidas Avaflash Clay grey four 2024",
     "brand": "Adidas Padel",
@@ -21160,7 +21037,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1946,
+    "id": 1944,
     "slug": "zapatillas-adidas-barricade-m-ftwr-white-2024-10254",
     "name": "Sapatilhas Adidas Barricade M ftwr white 2024",
     "brand": "Adidas Padel",
@@ -21201,7 +21078,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1973,
+    "id": 1971,
     "slug": "lok-be-hype-2024-10117",
     "name": "Lok Be Hype 2024",
     "brand": "Lok",
@@ -21242,7 +21119,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1974,
+    "id": 1972,
     "slug": "lok-be-flow-2024-10116",
     "name": "Lok Be Flow 2024",
     "brand": "Lok",
@@ -21283,7 +21160,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1975,
+    "id": 1973,
     "slug": "lok-easy-flow-2024-10115",
     "name": "Lok Easy Flow 2024",
     "brand": "Lok",
@@ -21324,7 +21201,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1976,
+    "id": 1974,
     "slug": "lok-easy-hype-2024-10114",
     "name": "Lok Easy Hype 2024",
     "brand": "Lok",
@@ -21365,7 +21242,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1977,
+    "id": 1975,
     "slug": "lok-carbon-flow-2024-10113",
     "name": "Lok Carbon Flow 2024",
     "brand": "Lok",
@@ -21406,7 +21283,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1978,
+    "id": 1976,
     "slug": "lok-carbon-hype-2024-10112",
     "name": "Lok Carbon Hype 2024",
     "brand": "Lok",
@@ -21447,7 +21324,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1979,
+    "id": 1977,
     "slug": "lok-maxx-flow-2024-10111",
     "name": "Lok Maxx Flow 2024",
     "brand": "Lok",
@@ -21488,7 +21365,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1981,
+    "id": 1979,
     "slug": "puma-nova-padel-elite-power-negro-2024-10100",
     "name": "Puma Nova Padel Elite Power negro 2024",
     "brand": "Puma",
@@ -21529,7 +21406,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1995,
+    "id": 1993,
     "slug": "paletero-head-tour-padel-bag-l-verde-lila-2024-9963",
     "name": "Saco Head Tour Padel Bag L verde lila 2024",
     "brand": "Head Padel",
@@ -21570,7 +21447,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2007,
+    "id": 2005,
     "slug": "zapatillas-joma-smash-2304-blue-black-2024-9906",
     "name": "Sapatilhas Joma Smash 2304 blue black 2024",
     "brand": "Joma",
@@ -21611,7 +21488,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2041,
+    "id": 2039,
     "slug": "mochila-head-pro-backpack-23l-negra-2024-9566",
     "name": "Mochila Head Pro Backpack 23L negra 2024",
     "brand": "Head Padel",
@@ -21652,7 +21529,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2042,
+    "id": 2040,
     "slug": "paletero-head-pro-padel-bag-l-azul-marino-2024-9564",
     "name": "Saco Head Pro Padel Bag L azul marino 2024",
     "brand": "Head Padel",
@@ -21693,7 +21570,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2044,
+    "id": 2042,
     "slug": "zapatillas-head-sprint-team-3-5-clay-dark-grey-banana-2024-9529",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay dark grey banana 2024",
     "brand": "Head Padel",
@@ -21734,7 +21611,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2045,
+    "id": 2043,
     "slug": "zapatillas-head-sprint-team-3-5-clay-blue-berry-white-2024-9528",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay blue berry white 2024",
     "brand": "Head Padel",
@@ -21775,7 +21652,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2046,
+    "id": 2044,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-banana-black-2024-9520",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay banana black 2024",
     "brand": "Head Padel",
@@ -21816,7 +21693,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2047,
+    "id": 2045,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-black-red-2024-9507",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay black red 2024",
     "brand": "Head Padel",
@@ -21857,7 +21734,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2048,
+    "id": 2046,
     "slug": "head-radical-motion-2024-9479",
     "name": "Head Radical Motion 2024",
     "brand": "Head Padel",
@@ -21898,7 +21775,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2049,
+    "id": 2047,
     "slug": "bolsa-gymsack-starvie-negro-9340",
     "name": "Bolsa gymsack Starvie negro",
     "brand": "Star Vie",
@@ -21939,7 +21816,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2052,
+    "id": 2050,
     "slug": "bolsa-gymsack-nox-negra-9319",
     "name": "Bolsa gymsack Nox negra",
     "brand": "Nox",
@@ -21980,7 +21857,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2067,
+    "id": 2065,
     "slug": "paletero-nox-pro-series-negro-2023-9069",
     "name": "Saco Nox Pro Series negro 2023",
     "brand": "Nox",
@@ -22021,7 +21898,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2068,
+    "id": 2066,
     "slug": "head-extreme-elite-2024-9052",
     "name": "Head Extreme Elite 2024",
     "brand": "Head Padel",
@@ -22062,7 +21939,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2069,
+    "id": 2067,
     "slug": "head-extreme-motion-2024-9051",
     "name": "Head Extreme Motion 2024",
     "brand": "Head Padel",
@@ -22103,7 +21980,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2080,
+    "id": 2078,
     "slug": "siux-trilogy-2-attack-8619",
     "name": "Siux Trilogy 2 Attack",
     "brand": "Siux",
@@ -22144,7 +22021,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2098,
+    "id": 2096,
     "slug": "zapatillas-bullpadel-elite-pro-ltd-23v-burdeos-8182",
     "name": "Sapatilhas Bullpadel Elite Pro LTD 23V burdeos",
     "brand": "Bullpadel",
@@ -22185,7 +22062,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2102,
+    "id": 2100,
     "slug": "star-vie-raydium-columns-8052",
     "name": "Star Vie Raydium Columns",
     "brand": "Star Vie",
@@ -22226,7 +22103,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2108,
+    "id": 2106,
     "slug": "head-speed-motion-7819",
     "name": "Head Speed Motion",
     "brand": "Head Padel",
@@ -22267,7 +22144,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2109,
+    "id": 2107,
     "slug": "head-speed-pro-7818",
     "name": "Head Speed Pro",
     "brand": "Head Padel",
@@ -22308,7 +22185,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2110,
+    "id": 2108,
     "slug": "head-speed-pro-x-7817",
     "name": "Head Speed Pro X",
     "brand": "Head Padel",
@@ -22349,7 +22226,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2111,
+    "id": 2109,
     "slug": "bote-presurizador-head-x-4-pump-7814",
     "name": "Bote presurizador Head x 4 Pump",
     "brand": "Head Padel",
@@ -22390,7 +22267,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2112,
+    "id": 2110,
     "slug": "bote-presurizador-head-x-3-pump-7813",
     "name": "Bote presurizador Head x 3 Pump",
     "brand": "Head Padel",
@@ -22431,7 +22308,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2134,
+    "id": 2132,
     "slug": "babolat-dyna-spirit-2023-7502",
     "name": "Babolat Dyna Spirit 2023",
     "brand": "Babolat",
@@ -22472,7 +22349,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2135,
+    "id": 2133,
     "slug": "babolat-stima-energy-2023-7501",
     "name": "Babolat Stima Energy 2023",
     "brand": "Babolat",
@@ -22513,7 +22390,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2136,
+    "id": 2134,
     "slug": "babolat-dyna-energy-2023-7500",
     "name": "Babolat Dyna Energy 2023",
     "brand": "Babolat",

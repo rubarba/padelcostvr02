@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-10T22:34:17.141Z",
-  "productCount": 376,
+  "generatedAt": "2026-05-10T22:48:26.479Z",
+  "productCount": 377,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
     "10": "./produto/raquete-bullpadel-hack-04-hyb-26.html",
@@ -124,6 +124,7 @@ window.PADELCOST_SEO_PAGES = {
     "417": "./produto/saco-de-padel-wilson-bela-super-tour-padel-branco.html",
     "419": "./produto/saco-de-padel-wilson-padel-team-bag-off-white-off-blanco.html",
     "422": "./produto/saco-de-chinelos-de-padel-adidas-bolsa-de-sapatos-2026-vermelho.html",
+    "648": "./produto/overgrip-bullpadel-gb1200-012-branco.html",
     "703": "./produto/raquete-adidas-metalbone-hrd-3-3-ale-galan.html",
     "704": "./produto/raquete-adidas-metalbone-carbon-3-3.html",
     "709": "./produto/adipower-ctrl-mtw-pro-edt-2024-alex-ruiz.html",

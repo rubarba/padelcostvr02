@@ -1,6 +1,6 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-09T23:05:43.809Z",
+  "generatedAt": "2026-05-10T10:05:44.456Z",
   "productCount": 352,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",

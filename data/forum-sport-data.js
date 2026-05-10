@@ -1,5 +1,5 @@
 // PadelCost - Forum Sport ES
-// Gerado em: 2026-05-09T23:05:42.620Z
+// Gerado em: 2026-05-10T10:04:22.325Z
 window.PADELCOST_FORUM_SPORT_PRODUCTS = [
   {
     "id": "forum-sport-dropshot-molecular-sapatilhas-padel-mujer-1116409",
@@ -1959,7 +1959,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Adidas courtjam control clay sapatilhas Padel Mujer",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 52.91,
+    "price": 56.06,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1000956371-00-P-X-20230828160748.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTk2NnxpbWFnZS9qcGVnfGFHUTJMMmhrTVM4eE1UWXdNVGt3TXpjME56RXdNaTl0WldScFlYTmZNVEF3TURrMU5qTTNNVjh3TUY5UVgxZ3RNakF5TXpBNE1qZ3hOakEzTkRndWFuQm58YzVkZjdmNmI5N2E4NjE1NjAxMmRkNWY3ZTNlODlkOWMxMDdkMzVmYjcwMmY1NjFlNDc2MGQxYmI4NWZlYTE4Yg&feedId=58083&k=f91cf0bef746d047a91da3a2c2ea14b65aec7a8b",
@@ -1980,7 +1980,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 52.91,
+        "price": 56.06,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/adidas-zapatillas-padel-mujer-courtjam-control-clay-w-id1546-1000956371-p",
         "deliveryCost": 3.99
@@ -1992,7 +1992,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Adidas courtjam control clay sapatilhas Padel Mujer",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 52.91,
+    "price": 56.06,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1000956371-00-P-X-20230828160748.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTk2NnxpbWFnZS9qcGVnfGFHUTJMMmhrTVM4eE1UWXdNVGt3TXpjME56RXdNaTl0WldScFlYTmZNVEF3TURrMU5qTTNNVjh3TUY5UVgxZ3RNakF5TXpBNE1qZ3hOakEzTkRndWFuQm58YzVkZjdmNmI5N2E4NjE1NjAxMmRkNWY3ZTNlODlkOWMxMDdkMzVmYjcwMmY1NjFlNDc2MGQxYmI4NWZlYTE4Yg&feedId=58083&k=f91cf0bef746d047a91da3a2c2ea14b65aec7a8b",
@@ -2013,7 +2013,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 52.91,
+        "price": 56.06,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/adidas-zapatillas-padel-mujer-courtjam-control-clay-w-id1546-1000956371-p",
         "deliveryCost": 3.99
@@ -2025,7 +2025,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Adidas courtjam control clay sapatilhas Padel Mujer",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 52.91,
+    "price": 56.06,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1000956371-00-P-X-20230828160748.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTk2NnxpbWFnZS9qcGVnfGFHUTJMMmhrTVM4eE1UWXdNVGt3TXpjME56RXdNaTl0WldScFlYTmZNVEF3TURrMU5qTTNNVjh3TUY5UVgxZ3RNakF5TXpBNE1qZ3hOakEzTkRndWFuQm58YzVkZjdmNmI5N2E4NjE1NjAxMmRkNWY3ZTNlODlkOWMxMDdkMzVmYjcwMmY1NjFlNDc2MGQxYmI4NWZlYTE4Yg&feedId=58083&k=f91cf0bef746d047a91da3a2c2ea14b65aec7a8b",
@@ -2046,7 +2046,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 52.91,
+        "price": 56.06,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/adidas-zapatillas-padel-mujer-courtjam-control-clay-w-id1546-1000956371-p",
         "deliveryCost": 3.99
@@ -2523,7 +2523,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Asics game ff padel sapatilhas Padel Mujer",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.99,
+    "price": 75.32,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001021792-00-P-X-20250327224125.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NjkwM3xpbWFnZS9qcGVnfGFHRTNMMmc1WXk4eE1qZ3lPVE16TmpBeE1EYzRNaTl0WldScFlYTmZNVEF3TVRBeU1UYzVNbDh3TUY5UVgxZ3RNakF5TlRBek1qY3lNalF4TWpVdWFuQm58NjkzYjAyYjE2ODVkNGQyMDYyYmVhMjI2MGY3MDUyZWJlNzgyNDc3MzVkMTcwZTkyMzJhYTk2OGNkYmI2NDhiYQ&feedId=58083&k=031c0eb1106bf938259bf48bfad994da17d4a4dd",
@@ -2544,7 +2544,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 80.99,
+        "price": 75.32,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/asics-zapatillas-padel-mujer-game-ff-padel-mabl-1042a286-1001021792-p",
         "deliveryCost": 3.99
@@ -2556,7 +2556,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Asics game ff padel sapatilhas Padel Mujer",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.99,
+    "price": 75.32,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001021792-00-P-X-20250327224125.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NjkwM3xpbWFnZS9qcGVnfGFHRTNMMmc1WXk4eE1qZ3lPVE16TmpBeE1EYzRNaTl0WldScFlYTmZNVEF3TVRBeU1UYzVNbDh3TUY5UVgxZ3RNakF5TlRBek1qY3lNalF4TWpVdWFuQm58NjkzYjAyYjE2ODVkNGQyMDYyYmVhMjI2MGY3MDUyZWJlNzgyNDc3MzVkMTcwZTkyMzJhYTk2OGNkYmI2NDhiYQ&feedId=58083&k=031c0eb1106bf938259bf48bfad994da17d4a4dd",
@@ -2577,7 +2577,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 80.99,
+        "price": 75.32,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/asics-zapatillas-padel-mujer-game-ff-padel-mabl-1042a286-1001021792-p",
         "deliveryCost": 3.99
@@ -6308,7 +6308,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Dunlop megamax green raquete de padel",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 49.99,
+    "price": 44.49,
     "oldPrice": 79.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001085837-00-P-X-20250903124905.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTI5NnxpbWFnZS9qcGVnfGFEVTNMMmhsTXk4eE16RTFPRFUyTVRFMU16QTFOQzl0WldScFlYTmZNVEF3TVRBNE5UZ3pOMTh3TUY5UVgxZ3RNakF5TlRBNU1ETXhNalE1TURVdWFuQm58YjMwMTNhMzRjZTc3Y2UxYTdiNDU4N2VjOWFjMTJhYmRmOGM5ZmNlMmJhYTRmNWFhODYyOWI0NmY1MTlhNDNmYg&feedId=58083&k=3fe584b5dca5fb97f64f17bf1be590abbcc5e5df",
@@ -6330,7 +6330,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 49.99,
+        "price": 44.49,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/dunlop-pala-padel-adulto-megamax-green-10359951-1001085837-p",
         "deliveryCost": 3.99
@@ -6409,7 +6409,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Babolat jet viva sapatilhas Padel Hombre",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 79.19,
+    "price": 72.15,
     "oldPrice": 109.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001088508-00-P-X-20260216164743.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTQyOHxpbWFnZS9qcGVnfGFETmtMMmhpTlM4eE16VTRNalV4T1RZNU56UXpPQzl0WldScFlYTmZNVEF3TVRBNE9EVXdPRjh3TUY5UVgxZ3RNakF5TmpBeU1UWXhOalEzTkRNdWFuQm58YjEzNTMzYzlkZGU4MzhhY2UwNTYyNGExNGUwZGQ1ZWMwMTYxNzU5MTM4MWRmZWFlMDgzMzZkODY3MTY3MGIwZQ&feedId=58083&k=2b3abb52a7d2f30931d5c076912fc93cb66d027c",
@@ -6430,7 +6430,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 79.19,
+        "price": 72.15,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/babolat-zapatillas-padel-hombre-jet-viva-men-azbl-3a0s26a934-1001088508-p",
         "deliveryCost": 3.99
@@ -6981,7 +6981,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Adidas Padel drive raquete de padel",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 70.39,
+    "price": 72.79,
     "oldPrice": 79.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001096676-00-P-X-20260107145415.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NjUwNnxpbWFnZS9qcGVnfGFEaGpMMmd5TlM4eE16UTNOVGt5TnpnMU1UQXpPQzl0WldScFlYTmZNVEF3TVRBNU5qWTNObDh3TUY5UVgxZ3RNakF5TmpBeE1EY3hORFUwTVRVdWFuQm58MGU4MGQ4N2UxZTc5MjRiYzRhZWJiZjAyNjE0YWRhYTA1MWMwZDBiMGEyZTQxYzc4ZDQ1YWIwNDUyNmQ4MjI0Yg&feedId=58083&k=3fb96fad5a0b440b8deec77d2b0a701bfd0fdce5",
@@ -7003,7 +7003,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 70.39,
+        "price": 72.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/adidas-padel-pala-padel-adulto-adidas-drive-black-ar5ca4u22-1001096676-p",
         "deliveryCost": 3.99
@@ -7284,7 +7284,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel discover ctr raquete de padel",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 50.69,
+    "price": 49.39,
     "oldPrice": 89.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001103503-00-P-X-20260211131418.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NDc3NXxpbWFnZS9qcGVnfGFEQmtMMmd6TVM4eE16VTNNREkxTmpFM05URXpOQzl0WldScFlYTmZNVEF3TVRFd016VXdNMTh3TUY5UVgxZ3RNakF5TmpBeU1URXhNekUwTVRndWFuQm58M2MxOTRjNTA3OGVkYTgxZmFmMmUwNDQ0ODUyYTZjYTg3YTdjYTAxOThhNTIwNGJjMTdlZmFkYWE1MWFiMTU1OQ&feedId=58083&k=63697b65a6ef5522bd048f581847432135ed4a68",
@@ -7306,7 +7306,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 50.69,
+        "price": 49.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-pala-padel-adulto-pala-discover-ctr-476579-1001103503-p",
         "deliveryCost": 3.99
@@ -10725,7 +10725,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10746,7 +10746,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10758,7 +10758,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10779,7 +10779,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10791,7 +10791,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10812,7 +10812,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10824,7 +10824,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10845,7 +10845,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10857,7 +10857,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10878,7 +10878,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10890,7 +10890,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10911,7 +10911,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10923,7 +10923,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10944,7 +10944,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10956,7 +10956,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109611-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODE4NXxpbWFnZS9qcGVnfGFHTTRMMmczWkM4eE16VTBORE0xTVRjNU16RTRNaTl0WldScFlYTmZNVEF3TVRFd09UWXhNVjh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58MTUyNWRiMDY3NGEwNGI0YTg4NTUxMzhmNTE4MTExNmI1ZjE1MTg2MGQzMDg1ZWU5ZTBjMmRhN2ZhN2YyMWZlNA&feedId=58083&k=f3f7245fa2ad79fdaf19428e7fb3544379ec9dbb",
@@ -10977,7 +10977,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109611-p",
         "deliveryCost": 3.99
@@ -10989,7 +10989,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11010,7 +11010,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11022,7 +11022,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11043,7 +11043,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11055,7 +11055,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11076,7 +11076,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11088,7 +11088,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11109,7 +11109,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11121,7 +11121,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11142,7 +11142,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11154,7 +11154,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11175,7 +11175,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11187,7 +11187,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11208,7 +11208,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11220,7 +11220,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave exceed court cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 106.59,
+    "price": 103.99,
     "oldPrice": 129.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109612-00-P-X-20260204113427.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODczM3xpbWFnZS9qcGVnfGFESXlMMmd3WlM4eE16VTBORE0xTWprd056STVOQzl0WldScFlYTmZNVEF3TVRFd09UWXhNbDh3TUY5UVgxZ3RNakF5TmpBeU1EUXhNVE0wTWpjdWFuQm58YmNiMWUwMzg3OGMzODk4M2UzN2ZiYWE5YjM5MmYyNTA4MTQ2MWRmYzU5YzVjNzFkNDE0NTg2NTc1YTQ0MjY1YQ&feedId=58083&k=a171f77761d07abae929bd572140fcea75a477a6",
@@ -11241,7 +11241,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 106.59,
+        "price": 103.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-exceed-court-cc-61gc2521-1001109612-p",
         "deliveryCost": 3.99
@@ -11583,7 +11583,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave enforce tour 2 cc sapatilhas Padel Hombre",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 129.59,
+    "price": 143.99,
     "oldPrice": 159.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109620-00-P-X-20260209091632.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzYxOXxpbWFnZS9qcGVnfGFETmhMMmd5WlM4eE16VTJNVGt6TXpFek5Ua3dNaTl0WldScFlYTmZNVEF3TVRFd09UWXlNRjh3TUY5UVgxZ3RNakF5TmpBeU1Ea3dPVEUyTXpJdWFuQm58MzY4ZDllYThiMGM2NjY2MTRhMTA2ZWJiMTc0YjYyMTczYTI5YmVjMmRkODBjMGQ1ODcyMTUxNWU5MjBkMGNlZA&feedId=58083&k=1a7a0192aecb7d0eeb8722bc2de68beec36f2426",
@@ -11604,7 +11604,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 129.59,
+        "price": 143.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-hombre-wave-enforce-tour-2-cc-61gc2603-1001109620-p",
         "deliveryCost": 3.99
@@ -11616,7 +11616,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave enforce tour 2 cc sapatilhas Padel Hombre",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 129.59,
+    "price": 143.99,
     "oldPrice": 159.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109620-00-P-X-20260209091632.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzYxOXxpbWFnZS9qcGVnfGFETmhMMmd5WlM4eE16VTJNVGt6TXpFek5Ua3dNaTl0WldScFlYTmZNVEF3TVRFd09UWXlNRjh3TUY5UVgxZ3RNakF5TmpBeU1Ea3dPVEUyTXpJdWFuQm58MzY4ZDllYThiMGM2NjY2MTRhMTA2ZWJiMTc0YjYyMTczYTI5YmVjMmRkODBjMGQ1ODcyMTUxNWU5MjBkMGNlZA&feedId=58083&k=1a7a0192aecb7d0eeb8722bc2de68beec36f2426",
@@ -11637,7 +11637,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 129.59,
+        "price": 143.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-hombre-wave-enforce-tour-2-cc-61gc2603-1001109620-p",
         "deliveryCost": 3.99
@@ -11649,7 +11649,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Mizuno wave enforce tour 2 cc sapatilhas Padel Mujer",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 129.59,
+    "price": 127.99,
     "oldPrice": 159.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001109621-00-P-X-20260209091632.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODM3NnxpbWFnZS9qcGVnfGFEWXlMMmc1Wmk4eE16VTJNVGt6TkRNNE1UQTROaTl0WldScFlYTmZNVEF3TVRFd09UWXlNVjh3TUY5UVgxZ3RNakF5TmpBeU1Ea3dPVEUyTXpJdWFuQm58ZTc0MzVkZTAzMWQ5NTkwNmE5MWE5ODZmODg3ZDJkMzAyMjg3OWI1NjJiODQ0MWM5MzkwODczMTljNThkMjI2YQ&feedId=58083&k=3061b72a755cedb408780316d3bcf591de57da40",
@@ -11670,7 +11670,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 129.59,
+        "price": 127.99,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/mizuno-zapatillas-padel-mujer-wave-enforce-tour-2-cc-61gc2604-1001109621-p",
         "deliveryCost": 3.99
@@ -12640,7 +12640,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel hack vibram 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 111.59,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118947-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzA5NnxpbWFnZS9qcGVnfGFEQTBMMmczTmk4eE16WTBOalUwTlRFeU5UUXdOaTl0WldScFlYTmZNVEF3TVRFeE9EazBOMTh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NzA4NGNhZDc5M2I2MDZiMGI3ZjIxYTMzYjE4ODI0Y2Y4NDRiZjkyM2ZhYTAzZTc0ODUwY2VhYzA0ZjlmNDhmNw&feedId=58083&k=c527c91d4d0b86ae90b7a6b037816e59510e0dc7",
@@ -12661,7 +12661,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 111.59,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-hack-vibram-26v-493424-1001118947-p",
         "deliveryCost": 3.99
@@ -12673,7 +12673,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel hack vibram 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 111.59,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118947-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzA5NnxpbWFnZS9qcGVnfGFEQTBMMmczTmk4eE16WTBOalUwTlRFeU5UUXdOaTl0WldScFlYTmZNVEF3TVRFeE9EazBOMTh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NzA4NGNhZDc5M2I2MDZiMGI3ZjIxYTMzYjE4ODI0Y2Y4NDRiZjkyM2ZhYTAzZTc0ODUwY2VhYzA0ZjlmNDhmNw&feedId=58083&k=c527c91d4d0b86ae90b7a6b037816e59510e0dc7",
@@ -12694,7 +12694,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 111.59,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-hack-vibram-26v-493424-1001118947-p",
         "deliveryCost": 3.99
@@ -12706,7 +12706,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel hack vibram 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 111.59,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118947-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzA5NnxpbWFnZS9qcGVnfGFEQTBMMmczTmk4eE16WTBOalUwTlRFeU5UUXdOaTl0WldScFlYTmZNVEF3TVRFeE9EazBOMTh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NzA4NGNhZDc5M2I2MDZiMGI3ZjIxYTMzYjE4ODI0Y2Y4NDRiZjkyM2ZhYTAzZTc0ODUwY2VhYzA0ZjlmNDhmNw&feedId=58083&k=c527c91d4d0b86ae90b7a6b037816e59510e0dc7",
@@ -12727,7 +12727,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 111.59,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-hack-vibram-26v-493424-1001118947-p",
         "deliveryCost": 3.99
@@ -12739,7 +12739,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel hack vibram 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 111.59,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118947-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzA5NnxpbWFnZS9qcGVnfGFEQTBMMmczTmk4eE16WTBOalUwTlRFeU5UUXdOaTl0WldScFlYTmZNVEF3TVRFeE9EazBOMTh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NzA4NGNhZDc5M2I2MDZiMGI3ZjIxYTMzYjE4ODI0Y2Y4NDRiZjkyM2ZhYTAzZTc0ODUwY2VhYzA0ZjlmNDhmNw&feedId=58083&k=c527c91d4d0b86ae90b7a6b037816e59510e0dc7",
@@ -12760,7 +12760,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 111.59,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-hack-vibram-26v-493424-1001118947-p",
         "deliveryCost": 3.99
@@ -13343,6 +13343,39 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "description": null,
     "ean": null,
     "productGTIN": "8445402953158",
+    "mpn": "493468",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Homem",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "name": "Forum Sport ES",
+        "price": 113.39,
+        "stock": "Em stock",
+        "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-vertex-vibram-26v-493468-1001118951-p",
+        "deliveryCost": 3.99
+      }
+    ]
+  },
+  {
+    "id": "forum-sport-bullpadel-vertex-vibram-26v-sapatilhas-padel-hombre-5581808",
+    "name": "Bullpadel vertex vibram 26v sapatilhas Padel Hombre",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 113.39,
+    "oldPrice": 179.99,
+    "rating": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118951-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5Nzc1M3xpbWFnZS9qcGVnfGFETmtMMmcwTWk4eE16WTBOalUwT0RRek5EazNOQzl0WldScFlYTmZNVEF3TVRFeE9EazFNVjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MjkyM2Q0MWUzMTA4Njk5Mjg3ODAyYTViNGFkZWJmMGQzZjMyMDU2ZWU1MzU0YTQzNWU4MDI3YzRhMDE0ZGRmMQ&feedId=58083&k=f8f181d707e96964f91c93fd506c98b5a04d993d",
+    "source": "forum-sport-es",
+    "sourceProductId": "5581808",
+    "sourceCategory": "Equipamiento Deportivo",
+    "description": null,
+    "ean": null,
+    "productGTIN": "8445402953172",
     "mpn": "493468",
     "specs": {
       "sola": "Pádel",
@@ -14191,7 +14224,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14212,7 +14245,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14224,7 +14257,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14245,7 +14278,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14257,7 +14290,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14278,7 +14311,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14290,7 +14323,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14311,7 +14344,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14323,7 +14356,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14344,7 +14377,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14356,7 +14389,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14377,7 +14410,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14389,7 +14422,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel elite 26v sapatilhas Padel Mujer",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.79,
+    "price": 92.39,
     "oldPrice": 139.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118956-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTQyNnxpbWFnZS9qcGVnfGFERm1MMmcxTXk4eE16WTBOalUxTVRVNE1EY3dNaTl0WldScFlYTmZNVEF3TVRFeE9EazFObDh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58NDk1YjI0MDEwMzg1MGIyYWQyZDQxOWQ1ZmNjM2ZkNWMxMmMwMjQ2YWFkZmY0Y2NhNWU5YTdjYzg0Zjk4YzIxZQ&feedId=58083&k=c1b93997ed488bace408ebe2469ae88107bd9e7b",
@@ -14410,7 +14443,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 100.79,
+        "price": 92.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-mujer-elite-26v-493724-1001118956-p",
         "deliveryCost": 3.99
@@ -14686,7 +14719,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14707,7 +14740,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14719,7 +14752,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14740,7 +14773,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14752,7 +14785,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14773,7 +14806,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14785,7 +14818,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14806,7 +14839,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14818,7 +14851,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14839,7 +14872,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14851,7 +14884,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14872,7 +14905,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14884,7 +14917,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14905,7 +14938,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14917,7 +14950,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14938,7 +14971,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14950,7 +14983,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -14971,7 +15004,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -14983,7 +15016,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -15004,7 +15037,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -15016,7 +15049,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel premier major 26v sapatilhas Padel Hombre",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 122.39,
+    "price": 127.79,
     "oldPrice": 179.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001118958-00-P-X-20260318093928.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NTY5NHxpbWFnZS9qcGVnfGFETm1MMmczTmk4eE16WTBOalUxTXpJNE5EWXpPQzl0WldScFlYTmZNVEF3TVRFeE9EazFPRjh3TUY5UVgxZ3RNakF5TmpBek1UZ3dPVE01TWpndWFuQm58MTMzOTQ4MjlhYWJhY2M3OGU4Mjg0ZjBhODFjNzAwZjA3OTNhZTc3ZTE5YzU2YmQ1ZWVmM2RkZmQ0MzU0N2E5Yw&feedId=58083&k=aa810e0b6e24cc5adf9612886de576b0cf81c6dd",
@@ -15037,7 +15070,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 122.39,
+        "price": 127.79,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-zapatillas-padel-hombre-premier-major-26v-494114-1001118958-p",
         "deliveryCost": 3.99
@@ -15945,7 +15978,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "name": "Bullpadel neuron 02 raquete de padel",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 230.39,
+    "price": 214.39,
     "oldPrice": 319.99,
     "rating": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001119027-00-P-X-20260318145348.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTkwMnxpbWFnZS9qcGVnfGFEbGhMMmd4TlM4eE16WTBOalUyTURZeU5EWTNNQzl0WldScFlYTmZNVEF3TVRFeE9UQXlOMTh3TUY5UVgxZ3RNakF5TmpBek1UZ3hORFV6TkRndWFuQm58MDM3YzRhNjZiYmJlZmE0NzEyNDcxNTFkMmQ2MDQ4MzIyYzY5NzUyYTI1OWExMzU1YTViOWRiOTNjYjI4MGNjYg&feedId=58083&k=b5886d877b3865d42ac4ae866440f698d1911018",
@@ -15967,7 +16000,7 @@ window.PADELCOST_FORUM_SPORT_PRODUCTS = [
     "stores": [
       {
         "name": "Forum Sport ES",
-        "price": 230.39,
+        "price": 214.39,
         "stock": "Em stock",
         "url": "https://www.forumsport.com/es-es/bullpadel-pala-padel-adulto-neuron-02-de95000000-1001119027-p",
         "deliveryCost": 3.99

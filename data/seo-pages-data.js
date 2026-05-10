@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-10T21:49:19.484Z",
-  "productCount": 361,
+  "generatedAt": "2026-05-10T21:57:15.810Z",
+  "productCount": 363,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
     "10": "./produto/raquete-bullpadel-hack-04-hyb-26.html",
@@ -235,6 +235,8 @@ window.PADELCOST_SEO_PAGES = {
     "4421": "./produto/bolsa-padel-nox-luxury-open-series-preto-vermelho.html",
     "4422": "./produto/bolsa-padel-nox-luxury-open-series-preto-marrom.html",
     "4715": "./produto/bolsa-padel-nox-at10-team-branco.html",
+    "4928": "./produto/mochila-adidas-protour-preto-azul-3-4.html",
+    "4930": "./produto/mochila-adidas-multigame-preto-laranja-3-4.html",
     "5052": "./produto/bolsa-padel-babolat-court-s-preto.html",
     "5128": "./produto/raquete-de-padel-siux-valkiria-go-2025.html",
     "5139": "./produto/raquete-de-padel-wilson-defy-v1-2025.html",

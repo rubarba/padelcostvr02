@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-10T21:57:15.810Z",
-  "productCount": 363,
+  "generatedAt": "2026-05-10T22:10:20.479Z",
+  "productCount": 366,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
     "10": "./produto/raquete-bullpadel-hack-04-hyb-26.html",
@@ -36,6 +36,10 @@ window.PADELCOST_SEO_PAGES = {
     "112": "./produto/raquete-de-padel-wilson-de-blade-ls-v3-padel-verde.html",
     "113": "./produto/raquete-de-padel-wilson-de-blade-v3-padel-verde.html",
     "116": "./produto/raquete-de-padel-adidas-cross-it-ctrl-preto-vermelho-solar.html",
+    "119": "./produto/bolas-de-padel-adidas-balls-speed-rx.html",
+    "123": "./produto/bolas-de-padel-lok-fresh-balls.html",
+    "127": "./produto/bote-de-3-bolas-bullpadel-fip-next.html",
+    "128": "./produto/padel-bolas-bullpadel-premium-pro.html",
     "135": "./produto/sapatilhas-adidas-crazyquick-ls-padel-mulher-rosa.html",
     "146": "./produto/sapatilhas-de-padel-adidas-courtquick-homem-azul.html",
     "147": "./produto/sapatilhas-de-padel-adidas-courtquick-homem-branco.html",
@@ -303,7 +307,7 @@ window.PADELCOST_SEO_PAGES = {
     "7535": "./produto/sapatilhas-adidas-crazyquick-ls-padel-w-lucid-lemon-2025.html",
     "7571": "./produto/wilson-defy-ls-v1-2025.html",
     "7625": "./produto/head-speed-pro.html",
-    "7721": "./produto/babolat-sensa-women-white-fw25-shoes.html",
+    "7678": "./produto/babolat-sensa-women-white-fw25-shoes.html",
     "7745": "./produto/babolat-technical-viper-juan-lebron-3-0-azul-2026.html",
     "7747": "./produto/sapatilhas-babolat-movea-2-men-fiery-red-white-2026.html",
     "7754": "./produto/joma-valkiria-flex-azul-blanco-2026.html",
@@ -359,7 +363,6 @@ window.PADELCOST_SEO_PAGES = {
     "7854": "./produto/head-speed-team-2025.html",
     "7862": "./produto/wilson-blade-v3-2024.html",
     "7877": "./produto/babolat-stima-energy-2023.html",
-    "7878": "./produto/babolat-dyna-energy-2023.html",
     "7959": "./produto/babolat-technical-veron-2-5-2025-racket.html",
     "7960": "./produto/babolat-technical-viper-2-5-2025-racket.html",
     "8040": "./produto/raquete-de-padel-adidas-metalbone-3-4-ale-galan.html",

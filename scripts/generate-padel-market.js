@@ -235,10 +235,12 @@ function isPadelProduct(row) {
     row.product_type,
   ].filter(Boolean).join(' | '));
 
-  if (!includesAny(haystack, INCLUDE_KEYWORDS)) return false;
   if (includesAny(haystack, EXCLUDE_KEYWORDS)) return false;
 
-  return true;
+  if (includesAny(haystack, INCLUDE_KEYWORDS)) return true;
+
+  const category = mapCategory(row);
+  return isCoreCatalogProduct({ category, name: row.product_name || '' });
 }
 
 function mapCategory(row) {
@@ -304,7 +306,9 @@ function mapCategory(row) {
     combined.includes('tenis')
   ) return 'sapatilhas';
 
-  if (combined.includes('bola') || combined.includes('ball')) return 'bolas';
+  if (combined.includes('raquete') || combined.includes('pala') || combined.includes('racket')) return 'raquetes';
+
+  if (/\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(combined)) return 'bolas';
 
   if (
     combined.includes('camiseta') ||
@@ -320,8 +324,6 @@ function mapCategory(row) {
     combined.includes('sweatshirt') ||
     combined.includes('hoodie')
   ) return 'roupa';
-
-  if (combined.includes('raquete') || combined.includes('pala') || combined.includes('racket')) return 'raquetes';
 
   return 'acessorios';
 }

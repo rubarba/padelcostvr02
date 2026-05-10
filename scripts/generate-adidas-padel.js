@@ -214,10 +214,12 @@ function isPadelProduct(row) {
     row.categories,
   ].filter(Boolean).join(' | '));
 
-  if (!includesAny(haystack, INCLUDE_KEYWORDS)) return false;
   if (includesAny(haystack, EXCLUDE_KEYWORDS)) return false;
 
-  return true;
+  if (includesAny(haystack, INCLUDE_KEYWORDS)) return true;
+
+  const category = mapCategory(row);
+  return isCoreCatalogProduct({ category, name: row.name || '' });
 }
 
 function mapCategory(row) {

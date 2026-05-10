@@ -71,6 +71,59 @@ const CATEGORY_MAP = {
 
 // Só incluímos produtos com estas palavras no nome OU tipo
 const PADEL_KEYWORDS = ['padel', 'pádel'];
+const OTHER_SPORT_KEYWORDS = [
+  'pickleball',
+  'ping pong',
+  'pingue pongue',
+  'pingue-pongue',
+  'tenis ',
+  'tênis ',
+  'natacao',
+  'natação',
+  'swim',
+  'trekking',
+  'hiking',
+  'montanha',
+  'futebol',
+  'futsal',
+  'running',
+  'fitness',
+  'basquetebol',
+  'basket',
+  'camping',
+  'acampamento',
+  'beach',
+  'praia',
+];
+const STRONG_PADEL_BRANDS = [
+  'bullpadel',
+  'nox',
+  'siux',
+  'starvie',
+  'star vie',
+  'lok',
+  'vibor',
+  'vibora',
+  'black crown',
+  'royal padel',
+  'drop shot',
+];
+const STRONG_PADEL_PRODUCT_KEYWORDS = [
+  'pala',
+  'palas',
+  'raquete',
+  'raquetes',
+  'paletero',
+  'overgrip',
+  'hesacore',
+  'antivibrador',
+  'protetor',
+  'protector',
+  'bolas de padel',
+  'bola de padel',
+  'saco de raquetes',
+  'bolsa de raquete',
+];
 
 const CATEGORY_KEYWORDS = {
   raquetes: [
@@ -119,7 +172,46 @@ function slugify(str) {
 function isPadelProduct(row) {
   const name  = (row.product_name   || '').toLowerCase();
   const type  = (row.product_type   || '').toLowerCase();
-  return PADEL_KEYWORDS.some(kw => name.includes(kw) || type.includes(kw));
+  if (PADEL_KEYWORDS.some(kw => name.includes(kw) || type.includes(kw))) {
+    return true;
+  }
+
+  const identity = normalizeText([
+    row.product_name,
+    row.brand_name,
+    row.product_type,
+    row.merchant_category,
+    row.category_name,
+    row.merchant_product_category_path,
+  ].filter(Boolean).join(' | '));
+
+  if (includesAnyKeyword(identity, OTHER_SPORT_KEYWORDS)) {
+    return false;
+  }
+
+  if (includesAnyKeyword(identity, STRONG_PADEL_PRODUCT_KEYWORDS)) {
+    return true;
+  }
+
+  return (
+    includesAnyKeyword(identity, STRONG_PADEL_BRANDS) &&
+    includesAnyKeyword(identity, [
+      'mochila',
+      'bolsa',
+      'saco',
+      'paletero',
+      'pala',
+      'raquete',
+      'overgrip',
+      'grip',
+      'protetor',
+      'protector',
+      'antivibrador',
+      'bola',
+      'bolas',
+      'pulseira',
+    ])
+  );
 }
 
 function normalizeText(str) {
@@ -147,6 +239,35 @@ function mapCategory(row) {
   const combined = [productType, merchantCategory, categoryName, name, description]
     .filter(Boolean)
     .join(' | ');
+
+  if (
+    name.includes('overgrip') ||
+    name.includes('grip ') ||
+    name.startsWith('grip ') ||
+    name.includes('hesacore') ||
+    name.includes('protector') ||
+    name.includes('protetor') ||
+    name.includes('antivibr') ||
+    name.includes('contrapeso') ||
+    name.includes('custom weight') ||
+    name.includes('pulseira') ||
+    /\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(name)
+  ) return 'acessorios';
+
+  if (
+    name.includes('paletero') ||
+    name.includes('mochila') ||
+    name.includes('saco de raquetes') ||
+    name.includes('bolsa de raquete')
+  ) return 'sacos';
+
+  if (
+    name.includes('raquete') ||
+    name.includes('raquetes') ||
+    name.includes('pala') ||
+    name.includes('palas') ||
+    name.includes('racket')
+  ) return 'raquetes';
 
   if (
     combined.includes('overgrip') ||

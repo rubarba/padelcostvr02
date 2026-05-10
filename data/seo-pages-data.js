@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-10T10:05:44.456Z",
-  "productCount": 352,
+  "generatedAt": "2026-05-10T21:49:19.484Z",
+  "productCount": 361,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
     "10": "./produto/raquete-bullpadel-hack-04-hyb-26.html",
@@ -18,6 +18,7 @@ window.PADELCOST_SEO_PAGES = {
     "32": "./produto/raquete-de-padel-adidas-metalbone-carbon-ctrl-2026-branco-preto.html",
     "33": "./produto/raquete-de-padel-adidas-metalbone-ctrl-2026-preto-laranja.html",
     "35": "./produto/raquete-de-padel-adidas-metalbone-superlight-preto-vermelho.html",
+    "49": "./produto/raquete-de-padel-head-extreme-pro-2025.html",
     "66": "./produto/raquete-de-padel-head-speed-team-2025.html",
     "67": "./produto/raquete-de-padel-lok-carb-on-flow.html",
     "68": "./produto/raquete-de-padel-lok-carb-on-hype.html",
@@ -33,6 +34,7 @@ window.PADELCOST_SEO_PAGES = {
     "100": "./produto/raquete-de-padel-adidas-da-cross-it-ctrl-3-4-preto-lima.html",
     "109": "./produto/raquete-de-padel-siux-fenix-pro-2026-preta.html",
     "112": "./produto/raquete-de-padel-wilson-de-blade-ls-v3-padel-verde.html",
+    "113": "./produto/raquete-de-padel-wilson-de-blade-v3-padel-verde.html",
     "116": "./produto/raquete-de-padel-adidas-cross-it-ctrl-preto-vermelho-solar.html",
     "135": "./produto/sapatilhas-adidas-crazyquick-ls-padel-mulher-rosa.html",
     "146": "./produto/sapatilhas-de-padel-adidas-courtquick-homem-azul.html",
@@ -50,6 +52,7 @@ window.PADELCOST_SEO_PAGES = {
     "203": "./produto/sapatilhas-de-padel-bullpadel-ionic-25i-azul-escuro-homem.html",
     "218": "./produto/sapatilhas-de-padel-bullpadel-vertex-vibram-w-26v-preto.html",
     "219": "./produto/sapatilhas-de-padel-bullpadel-x-plo-vibram-25i-azul-homem.html",
+    "245": "./produto/sapatilhas-de-padel-joma-open-2503-marino-homem.html",
     "263": "./produto/sapatilhas-de-padel-joma-spin-2501-preto-mulher.html",
     "310": "./produto/sapatilhas-de-tenis-adidas-crazyquick-boost-padel-homem-branco-p.html",
     "311": "./produto/sapatilhas-de-tenis-adidas-crazyquick-ls-padel-homem-nuvem-branco.html",
@@ -77,6 +80,7 @@ window.PADELCOST_SEO_PAGES = {
     "353": "./produto/mochila-adidas-multigame-2026-padel-preta-vermelha.html",
     "355": "./produto/mochila-de-padel-adidas-backpack-protour-blue-2026-azul-bronze.html",
     "356": "./produto/mochila-de-padel-adidas-mochila-multigame-off-white-2026-branco.html",
+    "357": "./produto/mochila-de-padel-adidas-mochila-multigame-tonal-preto-2026-preto.html",
     "358": "./produto/mochila-de-padel-bullpadel-bpm26001-hack-preto.html",
     "359": "./produto/mochila-de-padel-bullpadel-bpm26002-hack-085-cinza-esverdeado.html",
     "360": "./produto/mochila-de-padel-bullpadel-bpm26004-advan-preto-verde.html",
@@ -126,6 +130,7 @@ window.PADELCOST_SEO_PAGES = {
     "734": "./produto/raquete-de-padel-adidas-arrow-hit-carbon-ctrl.html",
     "750": "./produto/raquete-adidas-adipower-multiweight-3-3.html",
     "751": "./produto/raquete-adidas-metalbone-ctrl-3-3.html",
+    "754": "./produto/rx-series-red.html",
     "757": "./produto/saco-para-raquetes-adidas-multigame-areia-3-4.html",
     "760": "./produto/bolsa-adidas-areia-3-4.html",
     "767": "./produto/raquete-adidas-metalbone-carbon-ctrl-3-3.html",
@@ -133,7 +138,6 @@ window.PADELCOST_SEO_PAGES = {
     "771": "./produto/bolsa-de-padel-adidas-weekend-pink-2026.html",
     "774": "./produto/raquete-de-padel-adidas-arrow-hit-hexagon-cup.html",
     "791": "./produto/mochila-greenpadel.html",
-    "810": "./produto/adidas-control-blue-3-4-2025-racket-bag.html",
     "866": "./produto/babolat-rh-padel-juan-lebron-2025-racket-bag.html",
     "877": "./produto/babolat-rh-pro-padel-black-racket-bag.html",
     "897": "./produto/babolat-rh-pro-padel-orange-2026-juan-lebron-racket-bag.html",
@@ -253,6 +257,7 @@ window.PADELCOST_SEO_PAGES = {
     "6335": "./produto/bolsa-padel-head-tour-verde-2026.html",
     "6337": "./produto/bolsa-padel-head-tour-preto-2026.html",
     "6680": "./produto/raquete-de-padel-adidas-metalbone-09-2025.html",
+    "6878": "./produto/sapatilhas-de-padel-adidas-defiant-speed-2-m-cl-branco-amarelo-fluor-2025.html",
     "6951": "./produto/raquete-de-padel-bullpadel-pearl-bea-gonzalez-2026.html",
     "6956": "./produto/mochila-babolat-court-leve-dark-azul.html",
     "6958": "./produto/bolsa-padel-babolat-court-s-dark-azul.html",
@@ -275,6 +280,8 @@ window.PADELCOST_SEO_PAGES = {
     "7421": "./produto/adidas-world-cup-germany-2026.html",
     "7422": "./produto/adidas-world-cup-argentina-2026.html",
     "7423": "./produto/adidas-world-cup-france-2026.html",
+    "7448": "./produto/sapatilhas-adidas-courtjam-control-3-m-clay-white-black-orange-2026.html",
+    "7461": "./produto/sapatilhas-adidas-courtjam-control-3-w-white-beam-orange-2026.html",
     "7466": "./produto/sapatilhas-bullpadel-elite-26v-navy-2026.html",
     "7467": "./produto/sapatilhas-bullpadel-pearl-vibram-26v-sky-blue-2026.html",
     "7473": "./produto/sapatilhas-bullpadel-vertex-vibram-26v-navy-2026.html",
@@ -323,6 +330,7 @@ window.PADELCOST_SEO_PAGES = {
     "7790": "./produto/drop-shot-prime-attack-2026.html",
     "7791": "./produto/drop-shot-axion-attack-2-0-2026.html",
     "7794": "./produto/babolat-viper-soft-juan-lebron-3-0-2026.html",
+    "7795": "./produto/sapatilhas-asics-gel-resolution-x-clay-white-aurora-green-2026.html",
     "7798": "./produto/siux-astra-hybrid-air-2026.html",
     "7801": "./produto/siux-diablo-elite-2026.html",
     "7802": "./produto/siux-valkiria-elite-2026.html",
@@ -354,7 +362,8 @@ window.PADELCOST_SEO_PAGES = {
     "7960": "./produto/babolat-technical-viper-2-5-2025-racket.html",
     "8040": "./produto/raquete-de-padel-adidas-metalbone-3-4-ale-galan.html",
     "8080": "./produto/raquete-de-padel-vibor-a-black-mamba-evo-pro-black-2026.html",
-    "8081": "./produto/raquete-de-padel-vibor-a-3k-black-2026.html"
+    "8081": "./produto/raquete-de-padel-vibor-a-3k-black-2026.html",
+    "8112": "./produto/sapatilhas-de-padel-adidas-game-court-2-mulheres-branco-prata-2025.html"
   }
 };
 window.PADELCOST_SEO_PRODUCT_URLS = window.PADELCOST_SEO_PAGES.productUrls;

@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-10T22:10:20.479Z",
-  "productCount": 366,
+  "generatedAt": "2026-05-10T22:34:17.141Z",
+  "productCount": 376,
   "productUrls": {
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
     "10": "./produto/raquete-bullpadel-hack-04-hyb-26.html",
@@ -368,7 +368,17 @@ window.PADELCOST_SEO_PAGES = {
     "8040": "./produto/raquete-de-padel-adidas-metalbone-3-4-ale-galan.html",
     "8080": "./produto/raquete-de-padel-vibor-a-black-mamba-evo-pro-black-2026.html",
     "8081": "./produto/raquete-de-padel-vibor-a-3k-black-2026.html",
-    "8112": "./produto/sapatilhas-de-padel-adidas-game-court-2-mulheres-branco-prata-2025.html"
+    "8112": "./produto/sapatilhas-de-padel-adidas-game-court-2-mulheres-branco-prata-2025.html",
+    "8601": "./produto/tubo-de-pressurizacao-bullpadel-pascal-box-3b.html",
+    "8615": "./produto/pote-de-bolas-de-padel-bullpadel-next-pro.html",
+    "8620": "./produto/pote-de-bolas-de-padel-babolat-court-padel.html",
+    "8625": "./produto/tubo-de-pressurizacao-bullpadel-pascal-box-4b.html",
+    "8627": "./produto/pote-de-bolas-de-padel-head-padel-pro.html",
+    "8636": "./produto/pote-de-bolas-de-padel-siux-neo.html",
+    "8643": "./produto/pote-de-bolas-de-padel-babolat-ace.html",
+    "8653": "./produto/pote-de-bolas-de-padel-tecnifibre-padel-team.html",
+    "8660": "./produto/pote-de-bolas-de-padel-dunlop-fort-padel.html",
+    "8666": "./produto/pote-de-bolas-de-padel-head-one.html"
   }
 };
 window.PADELCOST_SEO_PRODUCT_URLS = window.PADELCOST_SEO_PAGES.productUrls;

@@ -35,6 +35,14 @@ const CATEGORY_CONFIG = {
     title: 'Sacos de Padel ao Melhor Preço | PadelCost',
     description: 'Compara preços de sacos de padel em lojas parceiras. Encontra paleteros e sacos das principais marcas ao melhor preço disponível.',
     intro: 'Compara sacos de padel e paleteros para transportares raquetes, sapatilhas e equipamento com mais organização.'
+  },
+  acessorios: {
+    slug: 'acessorios-de-padel',
+    label: 'Acessórios de padel',
+    singular: 'acessório de padel',
+    title: 'Acessórios de Padel ao Melhor Preço | PadelCost',
+    description: 'Compara preços de acessórios de padel como bolas, overgrips, protetores e antivibradores em várias lojas parceiras.',
+    intro: 'Compara bolas, overgrips, protetores e pequenos acessórios de padel para encontrares rapidamente a melhor oferta.'
   }
 };
 
@@ -55,7 +63,6 @@ const STATIC_URLS = [
 
 const STORE_LOGOS = {
   'Adidas Padel': '../logos/Logo_Adidas_10.svg',
-  'Amazon ES': '../logos/amazon-logo.png',
   'Atmosfera Sport': '../logos/atmosfera-sport-logo.svg',
   'Forum Sport ES': '../logos/logo-forum-sport-es.webp',
   'Padel Market': '../logos/logo_padelmarket.svg',
@@ -135,7 +142,8 @@ function getCategoryIconHtml(category, pageContext) {
   const files = {
     raquetes: ['WHITE_RAQUETES_TRANSPARENT.png', 'COLOR_RAQUETES.png'],
     sapatilhas: ['WHITE_SAPATILHAS_TRANSPARENT.png', 'COLOR_SAPATILHAS.png'],
-    sacos: ['WHITE_SACOS_TRANSPARENT.png', 'COLOR_SACOS.png']
+    sacos: ['WHITE_SACOS_TRANSPARENT.png', 'COLOR_SACOS.png'],
+    acessorios: ['MONO_BOLAS.png', 'COR_BOLAS.png']
   };
   const pair = files[category];
   if (!pair) return '';
@@ -169,6 +177,92 @@ function escapeHtml(value) {
 
 function escapeAttr(value) {
   return escapeHtml(value).replace(/\n/g, ' ');
+}
+
+function normalizeCatalogText(value) {
+  return stripDiacritics(value)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function getCatalogSearchText(product) {
+  return normalizeCatalogText([
+    product?.name,
+    product?.brand,
+    product?.sourceCategory,
+    product?.description
+  ].filter(Boolean).join(' | '));
+}
+
+function catalogHasWord(text, terms) {
+  return terms.some(term => new RegExp('(^| )' + term + '( |$)').test(text));
+}
+
+function catalogHasPhrase(text, terms) {
+  return terms.some(term => text.includes(term));
+}
+
+const ACCESSORY_WORD_HINTS = [
+  'bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls',
+  'overgrip', 'overgrips', 'grip', 'hesacore',
+  'protetor', 'protector', 'antivibrador', 'antivibradores',
+  'amortecedor', 'amortecedores', 'cordao', 'cordon', 'cordones',
+  'pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta'
+];
+
+const ACCESSORY_PHRASE_HINTS = [
+  'custom weight', 'contrapeso', 'contrapesos', 'peso de padel',
+  'protection tape', 'antishock', 'wrist cord', 'pick up ball',
+  'pickup ball', 'pascal box', 'dry grip', 'crystal grip', 'power grip', 'gel grip'
+];
+
+const ACCESSORY_EXCLUDE_WORDS = [
+  'meia', 'meias', 'sock', 'socks', 'bone', 'gorra', 'viseira', 'visor',
+  'toalha', 'toalla', 'garrafa', 'botella', 'wallet', 'carteira', 'necessaire',
+  'bolsa', 'mochila', 'paletero', 'raquetero', 'sandalia', 'sandal',
+  'sapatilha', 'sapatilhas', 'sapato', 'sapatos', 'zapatilla', 'zapatillas', 'shoe', 'shoes',
+  'camiseta', 'camisa', 'polo', 'short', 'shorts', 'calca', 'calcas', 'pants', 'trousers',
+  'jacket', 'chaqueta', 'hood', 'sweat', 'sudadera', 'moletom', 'vestido', 'saia', 'falda',
+  'legging', 'malla', 'mallas', 'cotovelo', 'cotoveleira', 'joelheira', 'bandana',
+  'pendente', 'joia', 'joya', 'colar', 'raquete', 'raqueta', 'racket', 'pala'
+];
+
+const ACCESSORY_EXCLUDE_PHRASES = [
+  't shirt', 'saco para acessorios', 'pack cross', 'red de mini padel',
+  'carro de bola', 'carrinho', 'bola de praia', 'pingente'
+];
+
+function isCleanAccessoryProduct(product) {
+  if (!product || !['acessorios', 'bolas'].includes(product.category)) return false;
+  const text = getCatalogSearchText(product);
+  if (catalogHasWord(text, ACCESSORY_EXCLUDE_WORDS) || catalogHasPhrase(text, ACCESSORY_EXCLUDE_PHRASES)) return false;
+  return catalogHasWord(text, ACCESSORY_WORD_HINTS) || catalogHasPhrase(text, ACCESSORY_PHRASE_HINTS);
+}
+
+function getAccessoryProductType(product) {
+  const text = getCatalogSearchText(product);
+  if (catalogHasWord(text, ['overgrip', 'overgrips', 'grip', 'hesacore']) || catalogHasPhrase(text, ['dry grip', 'crystal grip', 'power grip', 'gel grip'])) return 'Overgrips';
+  if (catalogHasWord(text, ['protetor', 'protector']) || catalogHasPhrase(text, ['protection tape', 'antishock'])) return 'Protetores';
+  if (catalogHasWord(text, ['antivibrador', 'antivibradores', 'amortecedor', 'amortecedores'])) return 'Antivibradores';
+  if (catalogHasWord(text, ['cordao', 'cordon', 'cordones']) || catalogHasPhrase(text, ['wrist cord'])) return 'Cordões';
+  if (catalogHasPhrase(text, ['custom weight', 'contrapeso', 'contrapesos', 'peso de padel'])) return 'Pesos';
+  if (catalogHasWord(text, ['pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta']) || catalogHasPhrase(text, ['pascal box'])) return 'Bolas e tubos';
+  if (catalogHasWord(text, ['bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls'])) return 'Bolas';
+  return 'Acessórios';
+}
+
+function normalizeProductCategory(product) {
+  if (!product) return product;
+  if (isCleanAccessoryProduct(product)) {
+    return {
+      ...product,
+      category: 'acessorios',
+      specs: { ...(product.specs || {}), tipo: product.specs?.tipo || getAccessoryProductType(product) }
+    };
+  }
+  return product;
 }
 
 function formatPrice(value) {
@@ -265,6 +359,11 @@ function buildProductSummary(product) {
     return `${title} é um saco de padel pensado para transportar raquetes, roupa e acessórios com organização e praticidade.`;
   }
 
+  if (product.category === 'acessorios') {
+    const type = specs.tipo ? String(specs.tipo).toLowerCase() : 'acessório de padel';
+    return `${title} é um ${type} pensado para completar o teu equipamento de padel com mais conforto e praticidade.`;
+  }
+
   return `${title} é um artigo de padel pensado para apoiar o teu jogo com equipamento adequado.`;
 }
 
@@ -300,6 +399,12 @@ function buildFallbackProductDescription(product, lowPrice, storeCount) {
   if (category === 'sacos') {
     const details = [color && `cor ${String(color).toLowerCase()}`, specs.tipo && `tipo ${String(specs.tipo).toLowerCase()}`].filter(Boolean).join(', ');
     return `${title} é um saco de padel${brandText} pensado para transportar o equipamento de forma prática e organizada. ${details ? `Com ${details}, é uma opção útil para levar raquetes, roupa e acessórios para treinos ou jogos.` : 'É uma opção útil para levar raquetes, roupa e acessórios para treinos ou jogos.'}`;
+  }
+
+  if (category === 'acessorios') {
+    const type = specs.tipo ? String(specs.tipo).toLowerCase() : 'acessório de padel';
+    const detail = color ? ` em ${String(color).toLowerCase()}` : '';
+    return `${title} é um ${type}${brandText}${detail} pensado para complementar o equipamento de padel. É uma opção útil para quem procura pequenos detalhes que ajudam no conforto, na manutenção ou na preparação para jogar.`;
   }
 
   return `${title} é um artigo de padel${brandText} pensado para quem procura equipamento fiável e adequado ao seu jogo.`;
@@ -398,6 +503,7 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
         <a class="category-btn ${activeCategory === 'raquetes' ? 'active' : ''}" href="${getHomeCategoryHref('raquetes', pageContext)}"><span class="category-icon">${getCategoryIconHtml('raquetes', pageContext)}</span><span>Raquetes</span></a>
         <a class="category-btn ${activeCategory === 'sapatilhas' ? 'active' : ''}" href="${getHomeCategoryHref('sapatilhas', pageContext)}"><span class="category-icon">${getCategoryIconHtml('sapatilhas', pageContext)}</span><span>Sapatilhas</span></a>
         <a class="category-btn ${activeCategory === 'sacos' ? 'active' : ''}" href="${getHomeCategoryHref('sacos', pageContext)}"><span class="category-icon">${getCategoryIconHtml('sacos', pageContext)}</span><span>Sacos de padel</span></a>
+        <a class="category-btn ${activeCategory === 'acessorios' ? 'active' : ''}" href="${getHomeCategoryHref('acessorios', pageContext)}"><span class="category-icon">${getCategoryIconHtml('acessorios', pageContext)}</span><span>Acessórios</span></a>
       </div>
       <a class="category-help-link" href="${getPageHref('como-funciona.html', pageContext)}"><span>ⓘ</span><span>Como funciona?</span></a>
     </div>
@@ -457,6 +563,8 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .category-icon-img { position:absolute; inset:0; width:100%; height:100%; object-fit:contain; transition:opacity .22s ease, transform .22s ease; }
     .category-icon-white { opacity:.98; filter:none; }
     .category-icon-color { opacity:0; transform:scale(.96); }
+    .category-icon-fa { width:71px; height:71px; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; color:#8fa0b5; background:linear-gradient(180deg,#fff 0%,#eef3f7 100%); font-size:2rem; box-shadow:0 10px 22px rgba(15,28,42,.08); transition:color .22s ease, transform .22s ease, background .22s ease; }
+    .category-btn:hover .category-icon-fa, .category-btn.active .category-icon-fa { color:#0b7ed0; transform:scale(1.03); background:#eef7ff; }
     .category-btn:hover .category-icon, .category-btn.active .category-icon { transform:translateY(-1px); }
     .category-btn:hover .category-icon-white, .category-btn.active .category-icon-white { opacity:0; }
     .category-btn:hover .category-icon-color, .category-btn.active .category-icon-color { opacity:1; transform:scale(1); }
@@ -837,8 +945,10 @@ function writeSeoData(products) {
 function main() {
   const { products } = readProducts();
   const usedSlugs = new Map();
-  const rawCandidates = products
+  const normalizedProducts = products.map(normalizeProductCategory);
+  const rawCandidates = normalizedProducts
     .filter(product => CATEGORY_CONFIG[product.category])
+    .filter(product => product.category !== 'acessorios' || isCleanAccessoryProduct(product))
     .filter(product => Array.isArray(product.stores) && product.stores.length >= 2)
     .filter(product => product.name && product.price && product.image);
 

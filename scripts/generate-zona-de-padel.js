@@ -269,6 +269,83 @@ function extractShoeSpecs(row) {
   return { sola, genero, cor, uso, amortecimento };
 }
 
+function buildPrimaryText(row) {
+  return normalizeText([
+    getField(row, 'Category', 'g:product_type', 'product_type'),
+    getField(row, 'Name', 'title'),
+  ].filter(Boolean).join(' | '));
+}
+
+function isAllowedAccessoryProduct(offer) {
+  const primary = normalizeText([
+    offer.name,
+    offer.sourceCategory,
+  ].filter(Boolean).join(' | '));
+
+  if (
+    primary.includes('calcetin') ||
+    primary.includes('calcetines') ||
+    primary.includes('meia') ||
+    primary.includes('meias') ||
+    primary.includes('sock') ||
+    primary.includes('socks') ||
+    primary.includes('monedero') ||
+    primary.includes('wallet') ||
+    primary.includes('neceser') ||
+    primary.includes('toiletry') ||
+    primary.includes('funda') ||
+    primary.includes('sandalia') ||
+    primary.includes('chinelo') ||
+    primary.includes('slide') ||
+    primary.includes('ropa') ||
+    primary.includes('camiseta') ||
+    primary.includes('camisola') ||
+    primary.includes('t shirt') ||
+    primary.includes('polo') ||
+    primary.includes('saia') ||
+    primary.includes('falda') ||
+    primary.includes('vestido') ||
+    primary.includes('short') ||
+    primary.includes('calcas') ||
+    primary.includes('calcoes') ||
+    primary.includes('pantalon') ||
+    primary.includes('pantalones') ||
+    primary.includes('leggings') ||
+    primary.includes('malla') ||
+    primary.includes('mallas') ||
+    primary.includes('chaleco') ||
+    primary.includes('anorack') ||
+    primary.includes('anorak') ||
+    primary.includes('soft shell') ||
+    primary.includes('softshell') ||
+    primary.includes('sweatshirt') ||
+    primary.includes('hoodie') ||
+    primary.includes('sudadera')
+  ) {
+    return false;
+  }
+
+  return (
+    /\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(primary) ||
+    primary.includes('overgrip') ||
+    primary.includes('overgrips') ||
+    primary.includes('grip ') ||
+    primary.startsWith('grip ') ||
+    primary.includes('hesacore') ||
+    primary.includes('protector') ||
+    primary.includes('protetor') ||
+    primary.includes('antivibr') ||
+    primary.includes('presurizador') ||
+    primary.includes('pressurizador') ||
+    primary.includes('pascal box') ||
+    primary.includes('cajon') ||
+    primary.includes('cajones') ||
+    primary.includes('bote') ||
+    primary.includes('pack 3 botes') ||
+    primary.includes('tubo')
+  );
+}
+
 function mapCategory(row) {
   const nameText = normalizeText(getField(row, 'Name', 'title'));
   const categoryText = normalizeText(getField(row, 'Category', 'g:product_type', 'product_type'));
@@ -277,43 +354,7 @@ function mapCategory(row) {
     getField(row, 'Name', 'title'),
     getField(row, 'Description', 'description'),
   ].filter(Boolean).join(' | '));
-  const primary = `${categoryText} | ${nameText}`;
-
-  if (
-    primary.includes('overgrip') ||
-    primary.includes('overgrips') ||
-    primary.includes('grip ') ||
-    primary.startsWith('grip ') ||
-    primary.includes('hesacore') ||
-    primary.includes('protector') ||
-    primary.includes('protetor') ||
-    primary.includes('protection') ||
-    primary.includes('aderencia') ||
-    primary.includes('adhesive') ||
-    primary.includes('tambor') ||
-    primary.includes('chaveiro') ||
-    primary.includes('porta chaves') ||
-    primary.includes('keyring') ||
-    primary.includes('keychain') ||
-    primary.includes('antivibr') ||
-    primary.includes('meia') ||
-    primary.includes('meias') ||
-    primary.includes('sock') ||
-    primary.includes('sandalia') ||
-    primary.includes('chinelo') ||
-    primary.includes('slide') ||
-    primary.includes('wristband') ||
-    primary.includes('calcetin') ||
-    primary.includes('calcetines') ||
-    primary.includes('monedero') ||
-    primary.includes('neceser') ||
-    primary.includes('wallet') ||
-    primary.includes('toiletry') ||
-    primary.includes('funda') ||
-    primary.includes('pulseira') ||
-    primary.includes('fita') ||
-    primary.includes('tape')
-  ) return 'acessorios';
+  const primary = buildPrimaryText(row);
 
   if (
     primary.includes('badminton') ||
@@ -360,13 +401,7 @@ function mapCategory(row) {
     primary.includes('zapatos')
   ) return 'sapatilhas';
 
-  if (
-    primary.includes('bola') ||
-    primary.includes('bolas') ||
-    primary.includes('pelota') ||
-    primary.includes('pelotas') ||
-    primary.includes('ball')
-  ) return 'bolas';
+  if (/\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(primary)) return 'acessorios';
 
   if (
     primary.includes('paletero') ||
@@ -390,13 +425,29 @@ function mapCategory(row) {
   ) return 'raquetes';
 
   if (
+    primary.includes('overgrip') ||
+    primary.includes('overgrips') ||
+    primary.includes('grip ') ||
+    primary.startsWith('grip ') ||
+    primary.includes('hesacore') ||
+    primary.includes('protector') ||
+    primary.includes('protetor') ||
+    primary.includes('antivibr') ||
+    primary.includes('presurizador') ||
+    primary.includes('pressurizador') ||
+    primary.includes('pascal box') ||
+    primary.includes('bote') ||
+    primary.includes('tubo')
+  ) return 'acessorios';
+
+  if (
     combined.includes('palas de padel') ||
     combined.includes('pala de padel') ||
     combined.includes('raquete') ||
     combined.includes('raquetas')
   ) return 'raquetes';
 
-  return 'acessorios';
+  return null;
 }
 
 function rowToOffer(row, id) {
@@ -459,6 +510,10 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  if (category === 'acessorios') {
+    return isAllowedAccessoryProduct(offer) ? offer : null;
+  }
 
   return isCoreCatalogProduct(offer) ? offer : null;
 }

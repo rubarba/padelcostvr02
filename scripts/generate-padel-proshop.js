@@ -253,9 +253,12 @@ function extractShoeSpecs(row) {
 }
 
 function mapCategory(row) {
-  const combined = normalizeText([
+  const identity = normalizeText([
     getField(row, 'Category', 'g:product_type', 'product_type'),
     getField(row, 'Name', 'title'),
+  ].filter(Boolean).join(' | '));
+  const combined = normalizeText([
+    identity,
     getField(row, 'Description', 'description'),
   ].filter(Boolean).join(' | '));
 
@@ -327,13 +330,7 @@ function mapCategory(row) {
     combined.includes('zapatos')
   ) return 'sapatilhas';
 
-  if (
-    combined.includes('bola') ||
-    combined.includes('bolas') ||
-    combined.includes('pelota') ||
-    combined.includes('pelotas') ||
-    combined.includes('ball')
-  ) return 'bolas';
+  if (/\b(bola|bolas|pelota|pelotas|ball|balls)\b/.test(identity)) return 'acessorios';
 
   if (
     combined.includes('camiseta') ||
@@ -360,6 +357,49 @@ function mapCategory(row) {
   ) return 'raquetes';
 
   return 'acessorios';
+}
+
+function hasAccessoryHint(text) {
+  return (
+    /\b(overgrip|overgrips|grip|punho|punhos|hesacore|protector|protetor|protection|antivibr|amortecedor|amortecedores|cordao|cordon|cordones|contrapeso|contrapesos|bola|bolas|pelota|pelotas|ball|balls|pressurizador|tubo|pote|cubo|cesta|spray|spinmax|totalseco|aderencia|adhesive|fita|tape)\b/.test(text) ||
+    text.includes('custom weight') ||
+    text.includes('peso personalizado') ||
+    text.includes('peso de padel') ||
+    text.includes('dry grip') ||
+    text.includes('crystal grip') ||
+    text.includes('power grip') ||
+    text.includes('gel grip')
+  );
+}
+
+function isAllowedAccessoryProduct(offer) {
+  const text = normalizeText([
+    offer.name,
+    offer.brand,
+    offer.sourceCategory,
+    offer.description,
+  ].filter(Boolean).join(' | '));
+
+  if (!hasAccessoryHint(text)) return false;
+
+  if (
+    /\b(ropa|camiseta|camisola|camisa|polo|short|shorts|calca|calcas|calcoes|pantalon|pantalones|legging|leggings|malla|mallas|vestido|saia|falda|sudadera|moletom|hoodie|jaqueta|jacket|chaqueta|casaco|colete|top|toalha|toalla|garrafa|botella|wallet|carteira|necessaire|neceser|toiletry|bolsa|mochila|paletero|raquetero|sapatilha|sapatilhas|sapato|sapatos|zapatilla|zapatillas|shoe|shoes|sandalia|sandal|chinelo|slide|tornozeleira|joelheira|cotoveleira|cinturao|suporte|raquete|raquetes|raqueta|raquetas|racket|rackets|pala|palas|mcdavid|rehband)\b/.test(text) ||
+    text.includes('meia calca') ||
+    text.includes('largura da fita') ||
+    text.includes('cinta de cotovelo') ||
+    text.includes('fita de joelho') ||
+    text.includes('maquina de lanca bolas') ||
+    text.includes('maquina de lancar bolas') ||
+    text.includes('carro de bola') ||
+    text.includes('pacote de 24 cones') ||
+    text.includes('pendente') ||
+    text.includes('smellwell') ||
+    text.includes('eliminador de odores')
+  ) {
+    return false;
+  }
+
+  return true;
 }
 
 function rowToOffer(row, id) {
@@ -422,6 +462,10 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  if (category === 'acessorios') {
+    return isAllowedAccessoryProduct(offer) ? offer : null;
+  }
 
   return isCoreCatalogProduct(offer) ? offer : null;
 }

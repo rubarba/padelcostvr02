@@ -4410,9 +4410,8 @@
 
 <div id="root"></div>
 
-<script src="./data/products-data.js?v=20260510-forum-price-refresh"></script>
-<script src="./data/seo-pages-data.js?v=20260510-forum-price-refresh"></script>
-<script src="./data/amazon-manual-data.js?v=20260510-forum-price-refresh"></script>
+<script src="./data/products-data.js?v=20260511-ui-rackets-count-fix"></script>
+<script src="./data/seo-pages-data.js?v=20260511-ui-rackets-count-fix"></script>
 <script type="text/babel">
   const { useState, useEffect, useMemo, useRef } = React;
 
@@ -4453,12 +4452,10 @@
   const searchCategories = [{ id: 'all', name: 'Tudo' }, ...categories];
 
   const rawProductsData = [
-    ...(window.PADELCOST_PRODUCTS || []),
-    ...(window.PADELCOST_AMAZON_PRODUCTS || [])
+    ...(window.PADELCOST_PRODUCTS || [])
   ];
   const catalogUpdatedCandidates = [
-    window.PADELCOST_UPDATED_AT,
-    window.PADELCOST_AMAZON_UPDATED_AT
+    window.PADELCOST_UPDATED_AT
   ].filter(Boolean);
   const catalogUpdatedAt = catalogUpdatedCandidates.length > 0
     ? catalogUpdatedCandidates
@@ -4480,7 +4477,6 @@
     'Padel Proshop PT': 3,
     'Forum Sport ES': 4,
     'Zona de Padel': 5,
-    'Amazon ES': 6,
   };
 
   const compareStores = (a, b) => {
@@ -4867,7 +4863,6 @@
     if (effectiveSource === 'padel-market') return 3;
     if (effectiveSource === 'adidas-padel') return 2.4;
     if (effectiveSource === 'padel-proshop') return 2.2;
-    if (effectiveSource === 'amazon-es-manual') return 2.1;
     if (effectiveSource === 'atmosfera-sport') return 1.4;
     return 1;
   };
@@ -5337,7 +5332,9 @@
         .filter(Boolean)
         .join(' | ')
         .toLowerCase();
+      const nameText = String(product?.name || '').toLowerCase();
       const hasAny = (terms) => terms.some(term => text.includes(term));
+      const nameHasAny = (terms) => terms.some(term => nameText.includes(term));
 
       if (category === 'raquetes') {
         if (
@@ -5375,21 +5372,27 @@
             'sack protour',
             'sck protour',
           ]) ||
-          text.includes(' grip ') ||
-          text.startsWith('grip ') ||
-          text.includes('hesacore') ||
-          text.includes('antivibr') ||
-          text.includes('protector') ||
-          text.includes('protetor') ||
-          text.includes('protection') ||
-          text.includes('aderencia') ||
-          text.includes('aderência') ||
-          text.includes('adhesive') ||
-          text.includes('tambor') ||
-          text.includes('chaveiro') ||
-          text.includes('porta chaves') ||
-          text.includes('keyring') ||
-          text.includes('keychain')
+          nameText.includes(' grip ') ||
+          nameText.startsWith('grip ') ||
+          nameHasAny([
+            'hesacore',
+            'antivibr',
+            'protector',
+            'protetor',
+            'protection',
+            'aderencia',
+            'aderência',
+            'adhesive',
+            'tambor',
+            'chaveiro',
+            'porta chaves',
+            'keyring',
+            'keychain',
+            'funda',
+            'racket cover',
+            'cover racket',
+            'cover de raquete'
+          ])
         ) {
           return true;
         }
@@ -5415,12 +5418,12 @@
         }
 
         if (
-          (text.includes('tenis') || text.includes('tennis')) &&
-          !text.includes('padel') &&
-          (text.includes('raqueta') ||
-            text.includes('raquete') ||
-            text.includes('racket') ||
-            text.includes('pala'))
+          (nameText.includes('tenis') || nameText.includes('tennis')) &&
+          !nameText.includes('padel') &&
+          (nameText.includes('raqueta') ||
+            nameText.includes('raquete') ||
+            nameText.includes('racket') ||
+            nameText.includes('pala'))
         ) {
           return true;
         }
@@ -5702,7 +5705,9 @@
         const brandScore = normalizedSearchQuery && product.brand?.toLowerCase() === normalizedSearchQuery
           ? 50
           : 0;
-        const storesScore = Math.min((product?.stores?.length || 0), 4) * 18;
+        const storesCount = product?.stores?.length || 0;
+        const comparisonScore = storesCount > 1 ? 220 + Math.min(storesCount, 6) * 26 : 0;
+        const storesScore = Math.min(storesCount, 4) * 18;
         const specsScore = Math.min(countFilledSpecs(product), 8) * 4.5;
         const imageScore = getImageQualityScore(product) * 7;
         const recentScore = getRecentStrengthScore(product) * 4.2;
@@ -5716,7 +5721,7 @@
           }
         }
 
-        return categoryScore + brandScore + storesScore + specsScore + imageScore + recentScore + priceScore;
+        return comparisonScore + categoryScore + brandScore + storesScore + specsScore + imageScore + recentScore + priceScore;
       };
 
       return arr.sort((a, b) => {
@@ -5841,6 +5846,24 @@
       return getBestStore(stores)?.price ?? getLowestPrice(stores);
     };
 
+    const getStoreButtonName = (storeName) => {
+      const shortNames = {
+        'Padel Proshop PT': 'Padel Proshop',
+        'Zona de Padel': 'Zona de Padel',
+        'Atmosfera Sport': 'Atmosfera',
+        'Forum Sport ES': 'Forum Sport',
+        'Padel Market': 'Padel Market',
+        'Adidas Padel': 'Adidas Padel'
+      };
+      return shortNames[storeName] || storeName || 'Ver oferta';
+    };
+
+    const getProductActionLabel = (product) => {
+      const stores = product?.stores || [];
+      if (stores.length === 1) return getStoreButtonName(stores[0]?.name);
+      return `Ver ${stores.length} lojas`;
+    };
+
     function getOpportunityMeta(product) {
       const validStores = (product?.stores || []).filter((store) => typeof store.price === 'number');
       if (validStores.length < 2) return null;
@@ -5869,7 +5892,7 @@
     }
 
     const getCardBadgeMeta = (product) => {
-      if (product?.badge && product.badge !== 'Amazon') {
+      if (product?.badge) {
         return { label: product.badge, className: '' };
       }
 
@@ -6018,16 +6041,6 @@
           <img
             src="./logos/logo-forum-sport-es.webp"
             alt="Forum Sport ES"
-            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
-          />
-        );
-      }
-
-      if (storeName === 'Amazon ES') {
-        return (
-          <img
-            src="./logos/amazon-logo.png"
-            alt="Amazon ES"
             style={{ width: '100%', height: '100%', objectFit: 'contain' }}
           />
         );
@@ -6334,7 +6347,7 @@
                               <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                               {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                             </button>
-                            <button className="btn-small btn-buy" onClick={() => openModal(product)}>Ver {product.stores.length} lojas</button>
+                            <button className="btn-small btn-buy" onClick={() => openModal(product)}>{getProductActionLabel(product)}</button>
                           </div>
                         </div>
                       </div>
@@ -6746,7 +6759,7 @@
                                 {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                               </button>
                               <button className="btn-small btn-buy" onClick={() => openModal(product)}>
-                                Ver {product.stores.length} lojas
+                                {getProductActionLabel(product)}
                               </button>
                             </div>
                           </div>
@@ -7228,7 +7241,11 @@
                     const opportunity = getOpportunityMeta(selectedProduct);
                     return (
                       <>
-                  <h3 className="comparison-title">Compara preços em {selectedProduct.stores.length} {selectedProduct.stores.length === 1 ? 'loja' : 'lojas'}</h3>
+                  <h3 className="comparison-title">
+                    {selectedProduct.stores.length === 1
+                      ? 'Oferta disponível em 1 loja'
+                      : `Compara preços em ${selectedProduct.stores.length} lojas`}
+                  </h3>
                   {opportunity && (
                     <p className="modal-opportunity-note">
                       <i className="fas fa-bolt" aria-hidden="true"></i>
@@ -7270,7 +7287,9 @@
                         );
                       })}
                   </div>
-                  <p className="modal-store-note">Estamos a adicionar mais lojas para comparação.</p>
+                  {selectedProduct.stores.length === 1 && (
+                    <p className="modal-store-note">Oferta única neste momento. Estamos a adicionar mais lojas para comparação.</p>
+                  )}
                       </>
                     );
                   })()}
@@ -7370,6 +7389,7 @@
                 <div className="footer-col">
                   <h4>Redes</h4>
                   <a href="https://www.instagram.com/padelcost/" title="Instagram" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram" style={{ marginRight: '0.45rem' }}></i>Instagram</a>
+                  <a href="https://www.facebook.com/people/PadelCostpt/61589470289898/?locale=pt_PT" title="Facebook" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f" style={{ marginRight: '0.45rem' }}></i>Facebook</a>
                 </div>
 
               </div>

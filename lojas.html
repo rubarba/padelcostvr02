@@ -607,6 +607,7 @@
             <h4>Redes</h4>
             <div class="footer-social">
               <a href="https://www.instagram.com/" title="Instagram" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.facebook.com/people/PadelCostpt/61589470289898/?locale=pt_PT" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
             </div>
           </div>
         </div>
@@ -627,12 +628,10 @@
     </div>
   </footer>
 
-  <script src="./data/products-data.js?v=20260510-forum-price-refresh"></script>
-  <script src="./data/amazon-manual-data.js?v=20260510-forum-price-refresh"></script>
+  <script src="./data/products-data.js?v=20260511-ui-rackets-count-fix"></script>
   <script>
     const rawProducts = [
-      ...(Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : []),
-      ...(Array.isArray(window.PADELCOST_AMAZON_PRODUCTS) ? window.PADELCOST_AMAZON_PRODUCTS : [])
+      ...(Array.isArray(window.PADELCOST_PRODUCTS) ? window.PADELCOST_PRODUCTS : [])
     ];
     const normalizeText = (value) => (value || '')
       .toLowerCase()
@@ -725,9 +724,6 @@
       },
       'Zona de Padel': {
         url: 'https://www.zonadepadel.es/'
-      },
-      'Amazon ES': {
-        url: 'https://www.amazon.es/'
       }
     };
     const storeMap = new Map();
@@ -788,9 +784,6 @@
       }
       if (storeName === 'Forum Sport ES') {
         return '<img src="./logos/logo-forum-sport-es.webp" alt="Forum Sport ES">';
-      }
-      if (storeName === 'Amazon ES') {
-        return '<img src="./logos/amazon-logo.png" alt="Amazon ES">';
       }
       if (storeName === 'Zona de Padel') {
         return '<img src="./logos/zonadepadel.png" alt="Zona de Padel">';

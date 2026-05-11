@@ -22,12 +22,9 @@ const CONFIG = {
 };
 
 const INCLUDE_KEYWORDS = ['padel', 'pádel'];
-const EXCLUDE_KEYWORDS = ['pickleball', 'beach tennis', 'tenis de praia', 'tênis de praia'];
-const CORE_CATEGORIES = new Set(['raquetes', 'sapatilhas', 'sacos']);
+const EXCLUDE_KEYWORDS = ['pickleball', 'beach tennis', 'tenis de praia', 'tênis de praia', 'badminton', 'fronton', 'frontón', 'squash'];
+const CORE_CATEGORIES = new Set(['raquetes', 'sapatilhas', 'sacos', 'acessorios']);
 const EXCLUDE_PRODUCT_MARKERS = [
-  'overgrip',
-  'overgrips',
-  'grip',
   'calcetin',
   'calcetines',
   'meia',
@@ -37,14 +34,7 @@ const EXCLUDE_PRODUCT_MARKERS = [
   'pelota tenis',
   'pelotas tenis',
   'pelotas squash',
-  'antivibrador',
   'cordaje',
-  'protector',
-  'protetor',
-  'protection',
-  'aderencia',
-  'adhesive',
-  'tambor',
   'chaveiro',
   'porta chaves',
   'keyring',
@@ -56,9 +46,14 @@ const EXCLUDE_PRODUCT_MARKERS = [
   'funda térmica',
   'raqueta tenis',
   'raqueta de tenis',
+  'raqueta squash',
+  'raqueta de squash',
   'tennis racket',
   'racket tennis',
   'racket tenis',
+  'squash racket',
+  'squash rkt',
+  ' sq rkt',
   'fronton',
   'frontón',
   'goma fronton',
@@ -71,6 +66,33 @@ const EXCLUDE_PRODUCT_MARKERS = [
   'muñequera',
   'pulsera',
   'pulsiera',
+];
+const ACCESSORY_PRODUCT_MARKERS = [
+  'bola padel',
+  'bolas padel',
+  'pelota padel',
+  'pelotas padel',
+  'pelota de padel',
+  'pelotas de padel',
+  'overgrip',
+  'overgrips',
+  'grip',
+  'antivibrador',
+  'antivibradores',
+  'protector',
+  'protetor',
+  'protection',
+  'aderencia',
+  'adhesive',
+  'presurizador',
+  'pressurizador',
+  'pascal box',
+  'tambor',
+  'bote',
+  'tubo',
+  'cajon',
+  'cajón',
+  'pack 3 botes',
 ];
 
 function normalizeText(str) {
@@ -269,6 +291,7 @@ function extractShoeSpecs(row) {
 }
 
 function isPadelProduct(row) {
+  const nameText = normalizeText(row.product_name);
   const haystack = normalizeText([
     row.product_name,
     row.description,
@@ -305,8 +328,17 @@ function isPadelProduct(row) {
   const bagSignal =
     (/\braquetero\b/.test(padelType) || /\bpaletero\b/.test(padelType) || /\bpadel bag\b/.test(padelType)) &&
     /\bpadel\b/.test(padelType);
+  const accessorySignal =
+    containsAny(haystack, ACCESSORY_PRODUCT_MARKERS) &&
+    /\bpadel\b/.test(haystack) &&
+    !/\bsquash\b|\bfronton\b|\bbadminton\b/.test(haystack) &&
+    !(
+      (/\btenis\b|\btennis\b/.test(nameText) && !/\bpadel\b/.test(nameText)) ||
+      nameText.includes('pelota tenis') ||
+      nameText.includes('pelotas tenis')
+    );
 
-  return shoeSignal || racketSignal || bagSignal;
+  return shoeSignal || racketSignal || bagSignal || accessorySignal;
 }
 
 function mapCategory(row) {
@@ -320,7 +352,12 @@ function mapCategory(row) {
     row['Fashion:category'],
   ].filter(Boolean).join(' | '));
 
-  if (containsAny(combined, EXCLUDE_PRODUCT_MARKERS) ||
+  if (
+    containsAny(combined, EXCLUDE_PRODUCT_MARKERS) ||
+    combined.includes('squash') ||
+    combined.includes('badminton') ||
+    combined.includes('fronton') ||
+    combined.includes('frontón') ||
     (((combined.includes('tenis') || combined.includes('tennis')) && !combined.includes('padel')) &&
       (combined.includes('raqueta') ||
         combined.includes('raquete') ||
@@ -333,6 +370,16 @@ function mapCategory(row) {
     combined.includes('footgel')
   ) {
     return null;
+  }
+
+  if (
+    containsAny(combined, ACCESSORY_PRODUCT_MARKERS) &&
+    combined.includes('padel') &&
+    !combined.includes('pelota tenis') &&
+    !combined.includes('pelotas tenis') &&
+    !combined.includes('pelotas squash')
+  ) {
+    return 'acessorios';
   }
 
   if (
@@ -369,6 +416,39 @@ function mapCategory(row) {
   return null;
 }
 
+function isAllowedAccessoryProduct(offer) {
+  const text = normalizeText([
+    offer.name,
+    offer.brand,
+    offer.sourceCategory,
+    offer.description,
+  ].filter(Boolean).join(' | '));
+
+  if (
+    containsAny(text, EXCLUDE_PRODUCT_MARKERS) ||
+    text.includes('calcetin') ||
+    text.includes('calcetines') ||
+    text.includes('meia') ||
+    text.includes('meias') ||
+    text.includes('sock') ||
+    text.includes('socks') ||
+    text.includes('neceser') ||
+    text.includes('monedero') ||
+    text.includes('wallet') ||
+    text.includes('funda') ||
+    text.includes('ropa') ||
+    text.includes('camiseta') ||
+    text.includes('pantalon') ||
+    text.includes('pantalones') ||
+    text.includes('falda') ||
+    text.includes('sudadera')
+  ) {
+    return false;
+  }
+
+  return containsAny(text, ACCESSORY_PRODUCT_MARKERS);
+}
+
 function parseAvailability(value) {
   const normalized = normalizeText(value);
   if (!normalized) return 'Disponibilidade por confirmar';
@@ -388,7 +468,10 @@ function toOffer(row) {
   const category = mapCategory(row);
   if (!category || !CORE_CATEGORIES.has(category)) return null;
 
-  const specs = category === 'raquetes' ? extractRacketSpecs(row) : extractShoeSpecs(row);
+  const specs =
+    category === 'raquetes' ? extractRacketSpecs(row) :
+    category === 'sapatilhas' ? extractShoeSpecs(row) :
+    {};
   const price = cleanPrice(firstNonEmpty(row.store_price, row.search_price, row.display_price));
   if (price == null) return null;
 
@@ -426,6 +509,10 @@ function toOffer(row) {
       },
     ],
   };
+
+  if (category === 'acessorios') {
+    return isAllowedAccessoryProduct(offer) ? offer : null;
+  }
 
   return isCoreCatalogProduct(offer) ? offer : null;
 }

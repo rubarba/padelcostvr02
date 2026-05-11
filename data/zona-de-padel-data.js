@@ -1,6 +1,6 @@
 // PadelCost - Zona de Padel normalizado automaticamente
-// Gerado em: 2026-05-09T23:04:37.192Z
-// Produtos: 547
+// Gerado em: 2026-05-10T22:32:34.746Z
+// Produtos: 596
 
 window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   {
@@ -50,7 +50,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Babolat HR Pro Padel Lebrón azul verde 2026",
     "brand": "Babolat",
     "category": "sacos",
-    "price": 135.96,
+    "price": 120.01,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -79,7 +79,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 135.96,
+        "price": 120.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/15229-paletero-babolat-hr-pro-padel-lebron-azul-verde-2026.html"
       }
@@ -127,6 +127,47 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
+    "id": 14,
+    "slug": "bipack-dunlop-pro-padel-15192",
+    "name": "Bipack Dunlop Pro Padel",
+    "brand": "Dunlop Padel",
+    "category": "acessorios",
+    "price": 10.51,
+    "oldPrice": 13,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32006-large_default/bipack-dunlop-pro-padel.jpg",
+    "ean": "045566304711",
+    "productGTIN": "045566304711",
+    "mpn": "15192",
+    "source": "zona-de-padel",
+    "sourceProductId": "15192",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Nuevo formato con el Bipack Dunlop Pro Padel es la elección perfecta para jugadores que buscan pelotas con rendimiento profesional y durabilidad excepcionales. Gracias a su núcleo presurizado de alta calidad, estas pelotas garantizan un rebote constante y una resistencia superior frente al desgaste habitual en el pádel. Ideal para mantener un juego fluido y competitivo en cada partido o entrenamiento. Con un fieltro sintético desarrollado específicamente para pádel, las pelotas Pro Padel de Dunlop ofrecen una trayectoria estable y un control preciso en cada golpe. Este doble set de pelotas es práctico y esencial para quienes exigen calidad y confianza en cada punto, asegurando sesiones largas y efectivas sin perder propiedades. Características y tecnologías del bipack pelotas de Pádel Bipack Dunlop Pro Padel Núcleo presurizado: Mantiene la presión durante más tiempo, ofreciendo un rebote vivo y uniforme desde el primer uso. Fieltro sintético premium: Diseñado para resistir el desgaste provocado por césped artificial con arena, incrementando la durabilidad de cada pelota. Rebote constante: Garantiza una respuesta homogénea en cada golpe para mejor control y precisión dentro de la pista. Formato bipack: Incluye dos botes con tres pelotas cada uno, ideal para jugadores frecuentes, clubes y entrenadores. Año 2026: Fabricadas con tecnología actualizada para asegurar un rendimiento sobresaliente y adaptado a las últimas exigencias del pádel moderno. ¿Para quien es Dunlop Pro Padel Bipack? Este producto está pensado para jugadores que necesitan pelotas resistentes y de alto rendimiento para un uso constante. Es una opción segura para quienes buscan durabilidad, calidad y sensaciones profesionales en cada punto de juego. ¿Por qué te va a gustar Bipack de pelotas para pádel? Su balance entre velocidad y control convierte a estas pelotas en una herramienta versátil, perfecta para imprimir potencia en golpes ofensivos sin sacrificar la precisión en defensa, garantizando sensaciones homogéneas durante todo el partido. Descubre más sobre la marca Dunlop Padel Dunlop es una marca reconocida mundialmente por su innovación y compromiso con la calidad en deportes de raqueta. Con décadas de experiencia, se ha consolidado como referencia en el mercado del pádel gracias a sus productos técnicos y duraderos. En el ámbito del pádel, Dunlop Pro Padel representa la combinación perfecta entre tecnología y rendimiento profesional, ofreciendo pelotas diseñadas para maximizar el juego a todos los niveles y estilos.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 10.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/dunlop-padel/15192-bipack-dunlop-pro-padel.html"
+      }
+    ]
+  },
+  {
     "id": 20,
     "slug": "zapatillas-adidas-courtjam-control-3-w-wonder-quartz-white-2026-15171",
     "name": "Sapatilhas Adidas Courtjam Control 3 W wonder quartz white 2026",
@@ -164,6 +205,47 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
         "price": 80.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15171-zapatillas-adidas-courtjam-control-3-w-wonder-quartz-white-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "bote-presurizador-pascal-box-switch-15152",
+    "name": "Bote Presurizador Pascal Box Switch",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 128.91,
+    "oldPrice": 130,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31895-large_default/bote-presurizador-pascal-box-switch.jpg",
+    "ean": "8414606874729",
+    "productGTIN": "8414606874729",
+    "mpn": "15152",
+    "source": "zona-de-padel",
+    "sourceProductId": "15152",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Presentamos el nuevo Bote Presurizador Pascal Box Switch es la solución definitiva para mantener tus palas de pádel en estado óptimo. Con su innovador presurizador automático y manómetro de alta precisión, asegura que la presión de tus palas sea perfecta, aumentando su durabilidad y rendimiento en cada partido. Este equipo compacto integra batería recargable y cable USB-C para máxima comodidad y autonomía. Diseñado para ofrecer un mantenimiento profesional, seguro y preciso, el Pascal Box SWITCH destaca por su robustez y facilidad de uso. Su vaso de policarbonato y tapa de fibra de vidrio protegen la pala mientras el lubricante especial mantiene el sistema funcionando sin fricciones, haciendo este presurizador un accesorio imprescindible para jugadores exigentes. Características y tecnologías de bote presurizador de pádel Pascal Box Switch Presurizador automático: Ajusta la presión ideal de forma sencilla, garantizando un mantenimiento exacto sin complicaciones. Manómetro calibrado según Federaciones: Permite una medición milimétrica bajo estándares internacionales para maximizar la precisión. Compresor con batería integrada y carga USB-C: Proporciona autonomía total y recargas rápidas dondequiera que estés. Materiales resistentes: Cuerpo de policarbonato y tapa de fibra de vidrio con junta tórica, aseguran durabilidad y protección ante el uso intensivo. Año 2026: Lanzamiento con las últimas innovaciones en presurización para un rendimiento actualizado y fiable cada temporada. ¿Para quien es Pascal Box Switch? Este presurizador está indicado para jugadores que buscan mantener sus palas en las mejores condiciones y con un rendimiento profesional constante. Gracias a su precisión milimétrica y diseño robusto, es ideal para quienes exigen calidad, longevidad y facilidad en el mantenimiento. ¿Por qué te va a gustar el bote presurizador de pádel? El Pascal Box SWITCH destaca por estar fabricado completamente en España, garantizando excelencia y compatibilidad con modelos anteriores. Probado por profesionales reconocidos, ofrece confianza y eficacia para cuidar tus palas como un experto. Descubre más sobre la marca Bullpadel Bullpadel es una marca líder en el mundo del pádel, reconocida por su compromiso con la innovación y calidad en cada producto. Desde sus inicios, ha impulsado la evolución del deporte con equipamiento profesional que cumple con las exigencias más altas. Su experiencia y especialización hacen que productos como el bote presurizador Pascal Box Switch sean desarrollos perfectos que combinan tecnología avanzada y cuidado minucioso para prolongar la vida útil de las palas, mostrando su fuerte vínculo con el rendimiento profesional.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 128.91,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/15152-bote-presurizador-pascal-box-switch.html"
       }
     ]
   },
@@ -624,7 +706,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Joma Valkiria Flex azul blanco 2026",
     "brand": "Joma",
     "category": "raquetes",
-    "price": 79.96,
+    "price": 89.95,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -653,7 +735,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/15095-joma-valkiria-flex-azul-blanco-2026.html"
       }
@@ -829,7 +911,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Courtjam Control 3 W crystal white silver 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 75.01,
+    "price": 78,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -858,7 +940,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 75.01,
+        "price": 78,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15076-zapatillas-adidas-courtjam-control-3-w-crystal-white-silver-2026.html"
       }
@@ -870,7 +952,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Barricade 14 M Clay white ice gold 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 128.01,
+    "price": 144.95,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -899,7 +981,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 128.01,
+        "price": 144.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15075-zapatillas-adidas-barricade-14-m-clay-white-ice-gold-2026.html"
       }
@@ -1116,7 +1198,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Adidas World Cup Germany 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 143.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1145,7 +1227,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 143.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15068-adidas-world-cup-germany-2026.html"
       }
@@ -1485,7 +1567,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Wilson Rush Pro 5 Clay white bay 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 119.96,
+    "price": 121.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1514,7 +1596,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.96,
+        "price": 121.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/15044-zapatillas-wilson-rush-pro-5-clay-white-bay-2026.html"
       }
@@ -1558,6 +1640,88 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
         "price": 112.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/15043-zapatillas-wilson-rush-pro-5-clay-gray-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "bote-pelotas-tecnifibre-x-one-14974",
+    "name": "Bote pelotas Tecnifibre X-One",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 6.51,
+    "oldPrice": 7,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31499-large_default/bote-pelotas-tecnifibre-x-one.jpg",
+    "ean": "3490150230452",
+    "productGTIN": "3490150230452",
+    "mpn": "14974",
+    "source": "zona-de-padel",
+    "sourceProductId": "14974",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Nuevo Bote pelotas Tecnifibre X-One es la elección perfecta para quienes buscan la combinación ideal entre durabilidad y precisión en cada partido. Estas pelotas se adaptan a cualquier superficie, asegurando un rebote estable y control total, gracias a su fieltro de alta calidad que garantiza un rendimiento constante. Ideadas para jugadores que desean un rendimiento profesional, las pelotas de tenis Tecnifibre X-One destacan por su fieltro natural al 72 %, que proporciona una sensación de juego uniforme y una resistencia sobresaliente, convirtiéndolas en una opción ideal tanto para entrenamientos intensos como para competiciones exigentes. Características y tecnologías de bote pelotas Tecnifibre X-One Fieltro natural al 72 %: Material seleccionado para otorgar un tacto premium y un control superior en cada golpe durante el partido o la práctica. Adaptabilidad a superficies: Diseñadas para funcionar perfectamente en todo tipo de pistas, desde arcilla hasta césped, sin perder estabilidad. Pelota de presión para interior: Asegura un rebote constante en ambientes interiores, manteniendo un rendimiento uniforme que mejora el juego y la respuesta. Pelota oficial de torneos ATP: Utilizada en competiciones como Gstaad, Marsella y Rotterdam, lo que respalda su nivel profesional y fiabilidad en cualquier condición. Año 2026: Este modelo último lanzamiento incorpora mejoras en el fieltro para una mayor durabilidad y precisión adaptada a las necesidades actuales del pádel. ¿Para quien es Tecnifibre X-One? Esta pelota de tenis de primera calidad está diseñada para jugadores que valoran la sensacional respuesta al control y el tacto durante el juego. Es ideal para quienes buscan una pelota que mantenga un rebote constante y un desempeño fiable, perfecta para entrenamientos y competición. ¿Por qué te va a gustar bote pelotas de pádel? Con la Tecnifibre X-One disfrutarás de un rendimiento profesional que mejora cada entrenamiento y partido. Su combinación de control y precisión eleva tu nivel de juego manteniendo la diversión en cada punto disputado. Descubre más sobre la marca Tecnifibre Tecnifibre es reconocida mundialmente por su compromiso con la innovación en materiales y tecnología deportiva, especialmente en pelotas y raquetas que ofrecen máximo rendimiento a deportistas de todos los niveles. Con una trayectoria destacada en la fabricación de pelotas profesionales, Tecnifibre ha logrado posicionarse en el mercado como sinónimo de calidad y fiabilidad, apoyando a jugadores en torneos de élite y en el desarrollo del deporte.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 6.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/14974-bote-pelotas-tecnifibre-x-one.html"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "pack-3-botes-pelotas-tecnifibre-x-one-14973",
+    "name": "Pack 3 botes pelotas Tecnifibre X-One",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 18.96,
+    "oldPrice": 21,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31500-large_default/pack-3-botes-pelotas-tecnifibre-x-one.jpg",
+    "ean": "1772023400516",
+    "productGTIN": "1772023400516",
+    "mpn": "14973",
+    "source": "zona-de-padel",
+    "sourceProductId": "14973",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Impulsa tu rendimiento en la pista con el Pack 3 botes pelotas Tecnifibre X-One, diseñado para jugadores que buscan precisión y control absoluto. Cada bote incluye pelotas de alta calidad, ideales para partidos y entrenamientos intensivos, asegurando un rebote consistente y sensación premium en cada golpe. Este tripack de pelotas Tecnifibre X-One es perfecto para quienes exigen lo mejor en su juego. Su composición de fieltro natural ofrece durabilidad y tacto profesional, mientras que su aptitud para interior garantiza una experiencia estable en cualquier tipo de pista y superficie. Características y tecnologías de pelotas de pádel Tecnifibre X-One 72 % fieltro natural: Material de alta calidad que proporciona un rebote óptimo y una gran resistencia, asegurando un tacto suave y consistente en cada golpe. Aptas para todas las superficies: Compatible con pistas de arcilla, hard court y césped, garantizando un comportamiento estable y predecible en todo momento. Pelotas de torneo oficial: Utilizadas en prestigiosos eventos ATP como Gstaad, Marsella y Rotterdam, reflejando su nivel profesional y confiabilidad. Rebote uniforme: La presión optimizada de las pelotas mantiene un rendimiento constante para entrenamientos largos y partidos competitivos sin pérdida de calidad. Año 2026: Modelo más avanzado para la temporada actual que incorpora mejoras en durabilidad y rendimiento, adaptándose a las exigencias del pádel moderno. ¿Para quien es Tecnifibre X-One? Estas pelotas están diseñadas para jugadores exigentes que desean un producto versátil y duradero. Ideales para deportistas que compiten en torneos o practican regularmente en cualquier tipo de pista, buscando siempre precisión y control sin sacrificar la resistencia. ¿Por qué te va a gustar pelotas de pádel? Las Tecnifibre X-One destacan por su composición premium con un 72 % de fieltro natural, que combina suavidad y resistencia. Además, su uso en torneos ATP asegura que disfrutes de una pelota con características profesionales que satisfacen las necesidades de los jugadores más exigentes. Descubre más sobre la marca Tecnifibre Tecnifibre es reconocida mundialmente por su innovación en equipamiento de pádel y tenis, desarrollando productos que fusionan tecnología y calidad para maximizar el rendimiento. Su experiencia se refleja en cada producto desarrollado para deportistas de alto nivel. La trayectoria de Tecnifibre está estrechamente ligada a la excelencia en pelotas de competición, ofreciendo siempre materiales de primera categoría que mejoran el control y la durabilidad. Esto confirma su compromiso constante con jugadores profesionales y aficionados.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 18.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/14973-pack-3-botes-pelotas-tecnifibre-x-one.html"
       }
     ]
   },
@@ -1772,7 +1936,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Saco Head Coello Pro X Duffle negro 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 142.01,
+    "price": 140.96,
     "oldPrice": 159,
     "rating": null,
     "badge": null,
@@ -1801,7 +1965,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 142.01,
+        "price": 140.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14839-paletero-head-coello-pro-x-duffle-negro-2026.html"
       }
@@ -1977,7 +2141,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Wilson Rush Tour 5 white diva blue 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 159.96,
+    "price": 168.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -2006,7 +2170,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.96,
+        "price": 168.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14736-zapatillas-wilson-rush-tour-5-white-diva-blue-2026.html"
       }
@@ -2100,7 +2264,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Head Coello Vibe 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 119.95,
+    "price": 125.91,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -2129,7 +2293,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.95,
+        "price": 125.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14715-head-coello-vibe-2026.html"
       }
@@ -2838,7 +3002,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Indiga 26V lime blue 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 67.5,
+    "price": 51.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -2867,7 +3031,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 67.5,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14581-zapatillas-bullpadel-indiga-26v-lime-blue-2026.html"
       }
@@ -2920,7 +3084,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Hybrid Fly 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 69.95,
+    "price": 72.01,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2949,7 +3113,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.95,
+        "price": 72.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14579-zapatillas-bullpadel-hybrid-fly-26v-white-2026.html"
       }
@@ -2961,7 +3125,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Hybrid Fly 26V grey 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 72.01,
+    "price": 64.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2990,7 +3154,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 72.01,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14578-zapatillas-bullpadel-hybrid-fly-26v-grey-2026.html"
       }
@@ -3494,7 +3658,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Asics Solution Speed FF 4 Clay black aurora green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 110,
+    "price": 119.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3523,7 +3687,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 110,
+        "price": 119.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14493-zapatillas-asics-solution-speed-ff-4-clay-black-aurora-green-2026.html"
       }
@@ -3617,7 +3781,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Adidas Courtjam Control 3 M white lucid orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 63.01,
+    "price": 62.92,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -3646,7 +3810,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.01,
+        "price": 62.92,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14485-zapatillas-adidas-courtjam-control-3-m-white-lucid-orange-2026.html"
       }
@@ -3736,47 +3900,6 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   },
   {
     "id": 441,
-    "slug": "bolsa-adidas-weekend-rosa-negra-2026-14469",
-    "name": "Bolsa Adidas Weekend rosa negra 2026",
-    "brand": "Adidas Padel",
-    "category": "sacos",
-    "price": 47.96,
-    "oldPrice": 65,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30140-large_default/bolsa-adidas-weekend-rosa-negra-2026.jpg",
-    "ean": "8435739406342",
-    "productGTIN": "8435739406342",
-    "mpn": "14469",
-    "source": "zona-de-padel",
-    "sourceProductId": "14469",
-    "sourceCategory": "Paleteros de padel > Paleteros de Padel Adidas",
-    "description": "Nuevo acabado para la Bolsa Adidas Weekend rosa negra 2026 destaca por su diseño moderno y funcionalidad, ideal para quienes buscan comodidad y estilo en cada desplazamiento. Pensada para transportar todo lo necesario en un solo lugar, esta bolsa combina el color rosa con negro para aportar personalidad única a tus entrenamientos y partidos. Este accesorio versátil está diseñado para jugadoras y jugadores de nivel intermedio y avanzado que valoran la organización, durabilidad y practicidad. La bolsa Adidas Weekend Rosa Negro 2026 es perfecta para llevar ropa, calzado y accesorios, manteniendo todo protegido con un acceso rápido y seguro. Características del paletero Adidas Weekend rosa 2026 Un modelo actual y renovado que refleja las últimas tendencias en diseño deportivo. Apertura rolltop con hebilla ajustable y cremallera, para un acceso cómodo y seguro al compartimento principal. Amplio espacio interior ideal para guardar ropa, zapatillas y elementos imprescindibles para el pádel. Dos bolsillos laterales con cremalleras, perfectos para objetos personales y botellas, manteniendo todo organizado. Asas de hombro ergonómicas que facilitan un transporte equilibrado y cómodo durante entrenamientos y viajes. Disponible en la nueva colección de bolsos Adidas 2026. ¿Para quien es Bolsa Adidas Weekend rosa negra 2026? Esta bolsa está concebida para jugadores y jugadoras de pádel con un nivel intermedio y avanzado que necesitan un accesorio resistente y organizado. Su diseño versátil es ideal tanto para entrenamientos diarios como para competiciones o escapadas de fin de semana. Además, quienes buscan combinar practicidad con estilo moderno encontrarán en esta bolsa una excelente opción. El modelo basado en Martita Ortega aporta un extra de personalidad y garantía para quienes siguen el pádel profesional. ¿Por qué te va a gustar este paletero de pádel? Esta bolsa pertenece a la exclusiva colección Weekend e incluye detalles únicos como el Martita's Pouch y signature hangtag, elementos que reflejan la personalidad y estilo de la reconocida jugadora profesional Martita Ortega. Su diseño rosa y negro no solo es atractivo visualmente, sino que aporta frescura y autenticidad a tu equipamiento de pádel. Es perfecta para quienes valoran productos con identidad y alta funcionalidad en cada detalle. Descubre más sobre la marca Adidas Adidas es una marca líder mundial en equipamiento deportivo, reconocida por su innovación y diseño en productos que combinan rendimiento y estilo. Desde sus orígenes, ha acompañado a deportistas en distintas disciplinas con accesorios de alta calidad y durabilidad. En el ámbito del pádel, Adidas ofrece paleteros y accesorios que cumplen con las exigencias de jugadores actuales, brindando comodidad, funcionalidad y un diseño moderno que se adapta a cada necesidad deportiva.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 47.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/adidas-padel/14469-bolsa-adidas-weekend-rosa-negra-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 442,
     "slug": "mochila-adidas-multigame-blanca-naranja-2026-14468",
     "name": "Mochila Adidas Multigame blanca naranja 2026",
     "brand": "Adidas Padel",
@@ -3817,7 +3940,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 443,
+    "id": 442,
     "slug": "mochila-adidas-multigame-roja-negra-2026-14466",
     "name": "Mochila Adidas Multigame roja negra 2026",
     "brand": "Adidas Padel",
@@ -3858,7 +3981,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 444,
+    "id": 443,
     "slug": "mochila-adidas-protour-rosa-negra-2026-14465",
     "name": "Mochila Adidas Protour rosa negra 2026",
     "brand": "Adidas Padel",
@@ -3899,7 +4022,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 445,
+    "id": 444,
     "slug": "mochila-adidas-protour-azul-bronce-2026-14464",
     "name": "Mochila Adidas Protour azul bronce 2026",
     "brand": "Adidas Padel",
@@ -3940,7 +4063,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 446,
+    "id": 445,
     "slug": "paletero-adidas-control-blanco-naranja-2026-14463",
     "name": "Saco Adidas Control blanco naranja 2026",
     "brand": "Adidas Padel",
@@ -3981,7 +4104,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 447,
+    "id": 446,
     "slug": "paletero-adidas-control-azul-rosa-2026-14462",
     "name": "Saco Adidas Control azul rosa 2026",
     "brand": "Adidas Padel",
@@ -4022,7 +4145,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 448,
+    "id": 447,
     "slug": "paletero-adidas-control-negro-azul-2026-14461",
     "name": "Saco Adidas Control negro azul 2026",
     "brand": "Adidas Padel",
@@ -4063,12 +4186,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 449,
+    "id": 448,
     "slug": "paletero-adidas-tour-plata-2026-14460",
     "name": "Saco Adidas Tour plata 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 61.96,
+    "price": 61.95,
     "oldPrice": 85,
     "rating": null,
     "badge": null,
@@ -4097,14 +4220,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.96,
+        "price": 61.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14460-paletero-adidas-tour-plata-2026.html"
       }
     ]
   },
   {
-    "id": 450,
+    "id": 449,
     "slug": "paletero-adidas-tour-bronze-2026-14459",
     "name": "Saco Adidas Tour bronze 2026",
     "brand": "Adidas Padel",
@@ -4145,7 +4268,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 451,
+    "id": 450,
     "slug": "paletero-adidas-multigame-negro-rojo-2026-14456",
     "name": "Saco Adidas Multigame negro rojo 2026",
     "brand": "Adidas Padel",
@@ -4186,7 +4309,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 452,
+    "id": 451,
     "slug": "paletero-adidas-protour-rosa-negro-2026-14455",
     "name": "Saco Adidas Protour rosa negro 2026",
     "brand": "Adidas Padel",
@@ -4227,7 +4350,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 453,
+    "id": 452,
     "slug": "paletero-adidas-protour-azul-bronce-2026-14454",
     "name": "Saco Adidas Protour azul bronce 2026",
     "brand": "Adidas Padel",
@@ -4268,12 +4391,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 454,
+    "id": 453,
     "slug": "zapatillas-bullpadel-wonder-26v-bubblegum-2026-14436",
     "name": "Sapatilhas Bullpadel Wonder 26V bubblegum 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 121.96,
+    "price": 121.95,
     "oldPrice": 135,
     "rating": null,
     "badge": null,
@@ -4302,14 +4425,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 121.96,
+        "price": 121.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14436-zapatillas-bullpadel-wonder-26v-bubblegum-2026.html"
       }
     ]
   },
   {
-    "id": 455,
+    "id": 454,
     "slug": "zapatillas-bullpadel-wonder-26v-white-2026-14435",
     "name": "Sapatilhas Bullpadel Wonder 26V white 2026",
     "brand": "Bullpadel",
@@ -4350,7 +4473,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 456,
+    "id": 455,
     "slug": "zapatillas-bullpadel-elite-26v-navy-2026-14434",
     "name": "Sapatilhas Bullpadel Elite 26V navy 2026",
     "brand": "Bullpadel",
@@ -4391,7 +4514,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 458,
+    "id": 457,
     "slug": "zapatillas-bullpadel-pearl-vibram-26v-lilac-2026-14432",
     "name": "Sapatilhas Bullpadel Pearl Vibram 26V lilac 2026",
     "brand": "Bullpadel",
@@ -4432,7 +4555,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 459,
+    "id": 458,
     "slug": "zapatillas-bullpadel-pearl-vibram-26v-sky-blue-2026-14431",
     "name": "Sapatilhas Bullpadel Pearl Vibram 26V sky blue 2026",
     "brand": "Bullpadel",
@@ -4473,7 +4596,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 461,
+    "id": 460,
     "slug": "drop-shot-explorer-soft-woman-2026-14429",
     "name": "Drop Shot Explorer Soft Woman 2026",
     "brand": "Drop Shot",
@@ -4514,7 +4637,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 463,
+    "id": 462,
     "slug": "drop-shot-canyon-pro-confort-2-0-2026-14427",
     "name": "Drop Shot Canyon Pro Confort 2.0 2026",
     "brand": "Drop Shot",
@@ -4555,7 +4678,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 464,
+    "id": 463,
     "slug": "drop-shot-axion-attack-junior-2026-14426",
     "name": "Drop Shot Axion Attack Junior 2026",
     "brand": "Drop Shot",
@@ -4596,7 +4719,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 465,
+    "id": 464,
     "slug": "drop-shot-axion-comfort-1-0-2026-14425",
     "name": "Drop Shot Axion Comfort 1.0 2026",
     "brand": "Drop Shot",
@@ -4637,12 +4760,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 466,
+    "id": 465,
     "slug": "babolat-counter-vertuo-2-6-2026-14424",
     "name": "Babolat Counter Vertuo 2.6 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 161.91,
+    "price": 135.93,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -4671,14 +4794,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 161.91,
+        "price": 135.93,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14424-babolat-counter-vertuo-26-2026.html"
       }
     ]
   },
   {
-    "id": 467,
+    "id": 466,
     "slug": "babolat-counter-veron-2-6-2026-14423",
     "name": "Babolat Counter Veron 2.6 2026",
     "brand": "Babolat",
@@ -4719,7 +4842,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 469,
+    "id": 468,
     "slug": "babolat-air-vertuo-2-6-2026-14421",
     "name": "Babolat Air Vertuo 2.6 2026",
     "brand": "Babolat",
@@ -4760,7 +4883,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 471,
+    "id": 470,
     "slug": "babolat-air-viper-2-6-2026-14419",
     "name": "Babolat Air Viper 2.6 2026",
     "brand": "Babolat",
@@ -4801,7 +4924,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 472,
+    "id": 471,
     "slug": "babolat-technical-veron-3-0-2026-14417",
     "name": "Babolat Technical Veron 3.0 2026",
     "brand": "Babolat",
@@ -4842,7 +4965,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 473,
+    "id": 472,
     "slug": "babolat-technical-viper-soft-3-0-2026-14416",
     "name": "Babolat Technical Viper Soft 3.0 2026",
     "brand": "Babolat",
@@ -4883,12 +5006,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 475,
+    "id": 474,
     "slug": "zapatillas-bullpadel-hack-vibram-26v-lime-2026-14414",
     "name": "Sapatilhas Bullpadel Hack Vibram 26V lime 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 134.96,
+    "price": 128.07,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -4917,19 +5040,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.96,
+        "price": 128.07,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14414-zapatillas-bullpadel-hack-vibram-26v-lime-2026.html"
       }
     ]
   },
   {
-    "id": 476,
+    "id": 475,
     "slug": "zapatillas-bullpadel-hack-vibram-26v-white-2026-14413",
     "name": "Sapatilhas Bullpadel Hack Vibram 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 124.96,
+    "price": 126,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -4958,14 +5081,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 124.96,
+        "price": 126,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14413-zapatillas-bullpadel-hack-vibram-26v-white-2026.html"
       }
     ]
   },
   {
-    "id": 478,
+    "id": 477,
     "slug": "zapatillas-bullpadel-vertex-vibram-woman-26v-sand-2026-14411",
     "name": "Sapatilhas Bullpadel Vertex Vibram Woman 26V sand 2026",
     "brand": "Bullpadel",
@@ -5006,12 +5129,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 479,
+    "id": 478,
     "slug": "zapatillas-bullpadel-vertex-vibram-woman-26v-black-2026-14410",
     "name": "Sapatilhas Bullpadel Vertex Vibram Woman 26V black 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 114.96,
+    "price": 119.91,
     "oldPrice": 155,
     "rating": null,
     "badge": null,
@@ -5040,14 +5163,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.96,
+        "price": 119.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14410-zapatillas-bullpadel-vertex-vibram-woman-26v-black-2026.html"
       }
     ]
   },
   {
-    "id": 480,
+    "id": 479,
     "slug": "zapatillas-bullpadel-x-plo-vibram-26v-white-2026-14409",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 26V white 2026",
     "brand": "Bullpadel",
@@ -5088,7 +5211,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 482,
+    "id": 481,
     "slug": "zapatillas-bullpadel-x-plo-vibram-26v-dark-grey-2026-14407",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 26V dark grey 2026",
     "brand": "Bullpadel",
@@ -5129,7 +5252,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 483,
+    "id": 482,
     "slug": "zapatillas-bullpadel-ionic-26v-royal-blue-2026-14406",
     "name": "Sapatilhas Bullpadel Ionic 26V royal blue 2026",
     "brand": "Bullpadel",
@@ -5170,12 +5293,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 484,
+    "id": 483,
     "slug": "zapatillas-bullpadel-neuron-26v-navy-2026-14405",
     "name": "Sapatilhas Bullpadel Neuron 26V navy 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 125.95,
+    "price": 104.01,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -5204,14 +5327,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 125.95,
+        "price": 104.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14405-zapatillas-bullpadel-neuron-26v-navy-2026.html"
       }
     ]
   },
   {
-    "id": 486,
+    "id": 485,
     "slug": "zapatillas-bullpadel-vertex-vibram-26v-orange-2026-14402",
     "name": "Sapatilhas Bullpadel Vertex Vibram 26V orange 2026",
     "brand": "Bullpadel",
@@ -5252,7 +5375,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 488,
+    "id": 487,
     "slug": "zapatillas-bullpadel-vertex-vibram-26v-navy-2026-14400",
     "name": "Sapatilhas Bullpadel Vertex Vibram 26V navy 2026",
     "brand": "Bullpadel",
@@ -5293,7 +5416,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 489,
+    "id": 488,
     "slug": "bullpadel-hack-advance-2026-14399",
     "name": "Bullpadel Hack Advance 2026",
     "brand": "Bullpadel",
@@ -5334,7 +5457,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 490,
+    "id": 489,
     "slug": "bullpadel-vertex-advance-2026-14397",
     "name": "Bullpadel Vertex Advance 2026",
     "brand": "Bullpadel",
@@ -5375,7 +5498,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 491,
+    "id": 490,
     "slug": "mochila-head-pro-backpack-18l-azul-marino-2026-14396",
     "name": "Mochila Head Pro Backpack 18L azul marino 2026",
     "brand": "Head Padel",
@@ -5416,7 +5539,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 493,
+    "id": 492,
     "slug": "zapatillas-head-motion-team-1-5-women-padel-white-purple-night-2026-14394",
     "name": "Sapatilhas Head Motion Team 1.5 Women Padel white purple night 2026",
     "brand": "Head Padel",
@@ -5457,7 +5580,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 495,
+    "id": 494,
     "slug": "zapatillas-head-motion-team-1-5-men-padel-blueberry-cantaloupe-green-2026-14392",
     "name": "Sapatilhas Head Motion Team 1.5 Men Padel blueberry cantaloupe green 2026",
     "brand": "Head Padel",
@@ -5498,7 +5621,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 497,
+    "id": 496,
     "slug": "zapatillas-head-motion-pro-1-5-men-padel-dark-blue-cantaloupe-green-2026-14390",
     "name": "Sapatilhas Head Motion Pro 1.5 Men Padel dark blue cantaloupe green 2026",
     "brand": "Head Padel",
@@ -5539,12 +5662,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 498,
+    "id": 497,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-white-pinkesque-2026-14389",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white pinkesque 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 82.51,
+    "price": 79.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5573,14 +5696,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 82.51,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14389-zapatillas-mizuno-wave-enforce-court-cc-white-pinkesque-2026.html"
       }
     ]
   },
   {
-    "id": 500,
+    "id": 499,
     "slug": "zapatillas-mizuno-wave-exceed-tour-7-cc-ice-water-yellow-2026-14387",
     "name": "Sapatilhas Mizuno Wave Exceed Tour 7 CC ice water yellow 2026",
     "brand": "Mizuno",
@@ -5621,7 +5744,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 502,
+    "id": 501,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-fiery-red-white-2026-14385",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC fiery red white 2026",
     "brand": "Mizuno",
@@ -5662,7 +5785,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 503,
+    "id": 502,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-white-dazzling-blue-2026-14384",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white dazzling blue 2026",
     "brand": "Mizuno",
@@ -5703,7 +5826,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 504,
+    "id": 503,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-cc-fiery-red-white-2026-14383",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 CC fiery red white 2026",
     "brand": "Mizuno",
@@ -5744,7 +5867,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 505,
+    "id": 504,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-cc-white-dazzling-blue-2026-14382",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 CC white dazzling blue 2026",
     "brand": "Mizuno",
@@ -5785,12 +5908,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 506,
+    "id": 505,
     "slug": "zapatillas-mizuno-wave-enforce-court-padel-black-foliage-green-2026-14381",
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel black foliage green 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 79.96,
+    "price": 92.91,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5819,19 +5942,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 92.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14381-zapatillas-mizuno-wave-enforce-court-padel-black-foliage-green-2026.html"
       }
     ]
   },
   {
-    "id": 507,
+    "id": 506,
     "slug": "zapatillas-mizuno-wave-exceed-tour-7-padel-black-glowing-apple-2026-14380",
     "name": "Sapatilhas Mizuno Wave Exceed Tour 7 Padel black glowing apple 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 134.96,
+    "price": 109.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -5860,14 +5983,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.96,
+        "price": 109.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14380-zapatillas-mizuno-wave-exceed-tour-7-padel-black-glowing-apple-2026.html"
       }
     ]
   },
   {
-    "id": 508,
+    "id": 507,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-padel-black-foliage-green-2026-14379",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 Padel black foliage green 2026",
     "brand": "Mizuno",
@@ -5908,12 +6031,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 509,
+    "id": 508,
     "slug": "paletero-bullpadel-bpp26015-tour-negro-2026-14376",
     "name": "Saco Bullpadel BPP26015 Tour negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 31.96,
+    "price": 37.95,
     "oldPrice": 42,
     "rating": null,
     "badge": null,
@@ -5942,14 +6065,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 31.96,
+        "price": 37.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14376-paletero-bullpadel-bpp26015-tour-negro-2026.html"
       }
     ]
   },
   {
-    "id": 510,
+    "id": 509,
     "slug": "paletero-bullpadel-bpp26015-tour-blanco-2026-14375",
     "name": "Saco Bullpadel BPP26015 Tour blanco 2026",
     "brand": "Bullpadel",
@@ -5990,7 +6113,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 511,
+    "id": 510,
     "slug": "paletero-bullpadel-bpp26015-tour-azul-marino-2026-14374",
     "name": "Saco Bullpadel BPP26015 Tour azul marino 2026",
     "brand": "Bullpadel",
@@ -6031,7 +6154,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 512,
+    "id": 511,
     "slug": "paletero-bullpadel-bpp26015-tour-amarillo-fluor-2026-14373",
     "name": "Saco Bullpadel BPP26015 Tour amarillo flúor 2026",
     "brand": "Bullpadel",
@@ -6072,12 +6195,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 513,
+    "id": 512,
     "slug": "paletero-bullpadel-bpp26014-advance-negro-lima-2026-14372",
     "name": "Saco Bullpadel BPP26014 Advance negro lima 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 49,
+    "price": 42.94,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -6106,14 +6229,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 49,
+        "price": 42.94,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14372-paletero-bullpadel-bpp26014-advance-negro-lima-2026.html"
       }
     ]
   },
   {
-    "id": 514,
+    "id": 513,
     "slug": "paletero-bullpadel-bpp26014-advance-negro-naranja-2026-14371",
     "name": "Saco Bullpadel BPP26014 Advance negro naranja 2026",
     "brand": "Bullpadel",
@@ -6154,7 +6277,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 515,
+    "id": 514,
     "slug": "paletero-bullpadel-bpp26014-advance-beige-2026-14370",
     "name": "Saco Bullpadel BPP26014 Advance beige 2026",
     "brand": "Bullpadel",
@@ -6195,7 +6318,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 516,
+    "id": 515,
     "slug": "paletero-bullpadel-bpp26014-advance-azul-marino-2026-14369",
     "name": "Saco Bullpadel BPP26014 Advance azul marino 2026",
     "brand": "Bullpadel",
@@ -6236,7 +6359,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 526,
+    "id": 525,
     "slug": "mochila-bullpadel-bpm26003-tech-negra-2026-14359",
     "name": "Mochila Bullpadel BPM26003 Tech negra 2026",
     "brand": "Bullpadel",
@@ -6277,7 +6400,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 527,
+    "id": 526,
     "slug": "mochila-bullpadel-bpm26004-advance-rosa-2026-14358",
     "name": "Mochila Bullpadel BPM26004 Advance rosa 2026",
     "brand": "Bullpadel",
@@ -6318,12 +6441,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 528,
+    "id": 527,
     "slug": "mochila-bullpadel-bpm26004-advance-negra-lima-2026-14356",
     "name": "Mochila Bullpadel BPM26004 Advance negra lima 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 26.96,
+    "price": 27.96,
     "oldPrice": 40,
     "rating": null,
     "badge": null,
@@ -6352,14 +6475,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 26.96,
+        "price": 27.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14356-mochila-bullpadel-bpm26004-advance-negra-lima-2026.html"
       }
     ]
   },
   {
-    "id": 529,
+    "id": 528,
     "slug": "mochila-bullpadel-bpm26004-advance-negra-naranja-2026-14355",
     "name": "Mochila Bullpadel BPM26004 Advance negra naranja 2026",
     "brand": "Bullpadel",
@@ -6400,7 +6523,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 530,
+    "id": 529,
     "slug": "mochila-bullpadel-bpm26008-ionic-negra-2026-14354",
     "name": "Mochila Bullpadel BPM26008 Ionic negra 2026",
     "brand": "Bullpadel",
@@ -6441,7 +6564,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 531,
+    "id": 530,
     "slug": "paletero-bullpadel-bpp26016-casual-negro-2026-14353",
     "name": "Saco Bullpadel BPP26016 Casual negro 2026",
     "brand": "Bullpadel",
@@ -6482,7 +6605,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 534,
+    "id": 533,
     "slug": "bullpadel-vertex-woman-junior-2026-14350",
     "name": "Bullpadel Vertex Woman Junior 2026",
     "brand": "Bullpadel",
@@ -6523,7 +6646,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 535,
+    "id": 534,
     "slug": "bullpadel-vertex-junior-2026-14349",
     "name": "Bullpadel Vertex Junior 2026",
     "brand": "Bullpadel",
@@ -6564,7 +6687,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 536,
+    "id": 535,
     "slug": "bullpadel-hack-junior-2026-14348",
     "name": "Bullpadel Hack Junior 2026",
     "brand": "Bullpadel",
@@ -6605,12 +6728,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 539,
+    "id": 538,
     "slug": "drop-shot-quantum-soft-woman-2026-14342",
     "name": "Drop Shot Quantum Soft Woman 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 215.91,
+    "price": 215.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -6639,19 +6762,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 215.91,
+        "price": 215.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14342-drop-shot-quantum-soft-woman-2026.html"
       }
     ]
   },
   {
-    "id": 540,
+    "id": 539,
     "slug": "drop-shot-canyon-pro-attack-soft-2026-14341",
     "name": "Drop Shot Canyon Pro Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.91,
+    "price": 251.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6680,14 +6803,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.91,
+        "price": 251.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14341-drop-shot-canyon-pro-attack-soft-2026.html"
       }
     ]
   },
   {
-    "id": 541,
+    "id": 540,
     "slug": "drop-shot-explorer-pro-attack-soft-2026-14340",
     "name": "Drop Shot Explorer Pro Attack Soft 2026",
     "brand": "Drop Shot",
@@ -6728,7 +6851,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 542,
+    "id": 541,
     "slug": "drop-shot-axion-attack-soft-2026-14339",
     "name": "Drop Shot Axion Attack Soft 2026",
     "brand": "Drop Shot",
@@ -6769,7 +6892,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 543,
+    "id": 542,
     "slug": "drop-shot-flame-soft-2026-14338",
     "name": "Drop Shot Flame Soft 2026",
     "brand": "Drop Shot",
@@ -6810,7 +6933,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 545,
+    "id": 544,
     "slug": "drop-shot-cyber-attack-2026-14336",
     "name": "Drop Shot Cyber Attack 2026",
     "brand": "Drop Shot",
@@ -6851,7 +6974,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 546,
+    "id": 545,
     "slug": "drop-shot-conqueror-attack-2-0-2026-14335",
     "name": "Drop Shot Conqueror Attack 2.0 2026",
     "brand": "Drop Shot",
@@ -6892,7 +7015,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 547,
+    "id": 546,
     "slug": "drop-shot-canyon-pro-attack-2-0-2026-14334",
     "name": "Drop Shot Canyon Pro Attack 2.0 2026",
     "brand": "Drop Shot",
@@ -6933,7 +7056,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 549,
+    "id": 548,
     "slug": "drop-shot-prime-attack-2026-14332",
     "name": "Drop Shot Prime Attack 2026",
     "brand": "Drop Shot",
@@ -6974,7 +7097,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 550,
+    "id": 549,
     "slug": "drop-shot-axion-attack-2-0-2026-14331",
     "name": "Drop Shot Axion Attack 2.0 2026",
     "brand": "Drop Shot",
@@ -7015,7 +7138,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 553,
+    "id": 552,
     "slug": "zapatillas-adidas-barricade-14-m-clay-white-black-lucid-red-2026-14315",
     "name": "Sapatilhas Adidas Barricade 14 M Clay white black lucid red 2026",
     "brand": "Adidas Padel",
@@ -7056,12 +7179,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 554,
+    "id": 553,
     "slug": "zapatillas-adidas-barricade-14-m-clay-white-2026-14314",
     "name": "Sapatilhas Adidas Barricade 14 M Clay white 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 104.91,
+    "price": 139.01,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -7090,14 +7213,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.91,
+        "price": 139.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14314-zapatillas-adidas-barricade-14-m-clay-white-2026.html"
       }
     ]
   },
   {
-    "id": 595,
+    "id": 594,
     "slug": "head-radical-team-light-2026-14214",
     "name": "Head Radical Team Light 2026",
     "brand": "Head Padel",
@@ -7138,7 +7261,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 596,
+    "id": 595,
     "slug": "head-radical-team-2026-14213",
     "name": "Head Radical Team 2026",
     "brand": "Head Padel",
@@ -7179,7 +7302,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 597,
+    "id": 596,
     "slug": "head-radical-motion-2026-14212",
     "name": "Head Radical Motion 2026",
     "brand": "Head Padel",
@@ -7220,7 +7343,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 598,
+    "id": 597,
     "slug": "head-radical-pro-2026-14211",
     "name": "Head Radical Pro 2026",
     "brand": "Head Padel",
@@ -7261,7 +7384,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 600,
+    "id": 599,
     "slug": "paletero-head-tour-l-azul-electrico-2026-14209",
     "name": "Saco Head Tour L azul eléctrico 2026",
     "brand": "Head Padel",
@@ -7302,7 +7425,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 601,
+    "id": 600,
     "slug": "paletero-head-tour-l-negro-2026-14208",
     "name": "Saco Head Tour L negro 2026",
     "brand": "Head Padel",
@@ -7343,7 +7466,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 602,
+    "id": 601,
     "slug": "paletero-head-tour-l-naranja-2026-14207",
     "name": "Saco Head Tour L naranja 2026",
     "brand": "Head Padel",
@@ -7384,7 +7507,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 603,
+    "id": 602,
     "slug": "zapatillas-joma-set-men-2612-grey-2026-14206",
     "name": "Sapatilhas Joma Set Men 2612 grey 2026",
     "brand": "Joma",
@@ -7425,7 +7548,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 604,
+    "id": 603,
     "slug": "paletero-head-tour-l-verde-naranja-2026-14205",
     "name": "Saco Head Tour L verde naranja 2026",
     "brand": "Head Padel",
@@ -7466,7 +7589,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 605,
+    "id": 604,
     "slug": "paletero-head-tour-l-rosa-2026-14204",
     "name": "Saco Head Tour L rosa 2026",
     "brand": "Head Padel",
@@ -7507,7 +7630,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 628,
+    "id": 627,
     "slug": "zapatillas-adidas-courtquick-padel-w-red-2026-14175",
     "name": "Sapatilhas Adidas Courtquick Padel W red 2026",
     "brand": "Adidas Padel",
@@ -7548,7 +7671,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 629,
+    "id": 628,
     "slug": "zapatillas-adidas-crazyquick-ls-padel-w-white-2026-14174",
     "name": "Sapatilhas Adidas Crazyquick LS Padel W white 2026",
     "brand": "Adidas Padel",
@@ -7589,7 +7712,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 630,
+    "id": 629,
     "slug": "zapatillas-adidas-courtquick-padel-m-blue-2026-14173",
     "name": "Sapatilhas Adidas Courtquick Padel M blue 2026",
     "brand": "Adidas Padel",
@@ -7630,7 +7753,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 631,
+    "id": 630,
     "slug": "zapatillas-nox-nerbo-white-dusk-blue-2026-14161",
     "name": "Sapatilhas Nox Nerbo white dusk blue 2026",
     "brand": "Nox",
@@ -7671,7 +7794,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 632,
+    "id": 631,
     "slug": "zapatillas-nox-nerbo-white-vetiver-2026-14160",
     "name": "Sapatilhas Nox Nerbo white vetiver 2026",
     "brand": "Nox",
@@ -7712,7 +7835,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 633,
+    "id": 632,
     "slug": "zapatillas-nox-nerbo-white-raven-2026-14159",
     "name": "Sapatilhas Nox Nerbo white raven 2026",
     "brand": "Nox",
@@ -7753,7 +7876,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 635,
+    "id": 634,
     "slug": "zapatillas-nox-ml10-hexa-blue-silver-2026-14157",
     "name": "Sapatilhas Nox ML10 Hexa blue silver 2026",
     "brand": "Nox",
@@ -7794,7 +7917,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 636,
+    "id": 635,
     "slug": "zapatillas-nox-ml10-hexa-white-gum-rubber-2026-14155",
     "name": "Sapatilhas Nox ML10 Hexa white gum rubber 2026",
     "brand": "Nox",
@@ -7835,7 +7958,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 637,
+    "id": 636,
     "slug": "zapatillas-nox-ml10-hexa-black-white-2026-14154",
     "name": "Sapatilhas Nox ML10 Hexa black white 2026",
     "brand": "Nox",
@@ -7876,7 +7999,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 638,
+    "id": 637,
     "slug": "zapatillas-nox-at10-pro-summer-sun-black-2026-14152",
     "name": "Sapatilhas Nox AT10 Pro summer sun black 2026",
     "brand": "Nox",
@@ -7917,7 +8040,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 639,
+    "id": 638,
     "slug": "zapatillas-nox-at10-pro-sea-coral-white-2026-14148",
     "name": "Sapatilhas Nox AT10 Pro sea coral white 2026",
     "brand": "Nox",
@@ -7958,7 +8081,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 640,
+    "id": 639,
     "slug": "zapatillas-nox-at10-lux-dark-slate-allure-2026-14144",
     "name": "Sapatilhas Nox AT10 Lux dark slate allure 2026",
     "brand": "Nox",
@@ -7999,7 +8122,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 650,
+    "id": 649,
     "slug": "babolat-viper-soft-juan-lebron-3-0-2026-14125",
     "name": "Babolat Viper Soft Juan Lebron 3.0 2026",
     "brand": "Babolat",
@@ -8040,12 +8163,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 665,
+    "id": 664,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026-14110",
     "name": "Sapatilhas Asics Gel Resolution X Clay white bluebell 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 136.01,
+    "price": 129.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8074,14 +8197,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 136.01,
+        "price": 129.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14110-zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026.html"
       }
     ]
   },
   {
-    "id": 666,
+    "id": 665,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-sienna-2026-14109",
     "name": "Sapatilhas Asics Gel Resolution X Clay black sienna 2026",
     "brand": "Asics",
@@ -8122,7 +8245,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 667,
+    "id": 666,
     "slug": "zapatillas-asics-gel-challenger-15-padel-l-e-safety-yellow-2026-14108",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel L.E. safety yellow 2026",
     "brand": "Asics",
@@ -8163,7 +8286,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 668,
+    "id": 667,
     "slug": "zapatillas-asics-gel-challenger-15-clay-ironclad-grey-blue-2026-14107",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay ironclad grey blue 2026",
     "brand": "Asics",
@@ -8204,7 +8327,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 669,
+    "id": 668,
     "slug": "zapatillas-asics-gel-challenger-15-clay-white-digital-sakura-2026-14106",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay white digital sakura 2026",
     "brand": "Asics",
@@ -8245,7 +8368,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 670,
+    "id": 669,
     "slug": "zapatillas-asics-gel-challenger-15-padel-white-misty-pine-2026-14105",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel white misty pine 2026",
     "brand": "Asics",
@@ -8286,12 +8409,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 671,
+    "id": 670,
     "slug": "zapatillas-asics-gel-challenger-15-padel-guava-amethyst-2026-14104",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel guava amethyst 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 76.42,
+    "price": 76.7,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8320,14 +8443,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 76.42,
+        "price": 76.7,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14104-zapatillas-asics-gel-challenger-15-padel-guava-amethyst-2026.html"
       }
     ]
   },
   {
-    "id": 672,
+    "id": 671,
     "slug": "zapatillas-asics-gel-challenger-15-padel-white-guava-2026-14103",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel white guava 2026",
     "brand": "Asics",
@@ -8368,12 +8491,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 673,
+    "id": 672,
     "slug": "zapatillas-asics-gel-resolution-x-padel-amethyst-illuminate-green-2026-14102",
     "name": "Sapatilhas Asics Gel Resolution X Padel amethyst illuminate green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 127.96,
+    "price": 128.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8402,14 +8525,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 127.96,
+        "price": 128.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14102-zapatillas-asics-gel-resolution-x-padel-amethyst-illuminate-green-2026.html"
       }
     ]
   },
   {
-    "id": 674,
+    "id": 673,
     "slug": "zapatillas-asics-gel-challenger-15-padel-saba-blue-vital-green-2026-14101",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel saba blue vital green 2026",
     "brand": "Asics",
@@ -8450,7 +8573,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 675,
+    "id": 674,
     "slug": "zapatillas-asics-gel-resolution-x-padel-saba-blue-cool-grey-2026-14100",
     "name": "Sapatilhas Asics Gel Resolution X Padel saba blue cool grey 2026",
     "brand": "Asics",
@@ -8491,7 +8614,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 676,
+    "id": 675,
     "slug": "zapatillas-asics-gel-resolution-x-clay-digital-sakura-white-2026-14095",
     "name": "Sapatilhas Asics Gel Resolution X Clay digital sakura white 2026",
     "brand": "Asics",
@@ -8532,7 +8655,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 677,
+    "id": 676,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-aurora-green-2026-14094",
     "name": "Sapatilhas Asics Gel Resolution X Clay black aurora green 2026",
     "brand": "Asics",
@@ -8573,7 +8696,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 679,
+    "id": 678,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-aurora-green-2026-14092",
     "name": "Sapatilhas Asics Gel Resolution X Clay white aurora green 2026",
     "brand": "Asics",
@@ -8614,12 +8737,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 681,
+    "id": 680,
     "slug": "zapatillas-asics-game-ff-padel-white-guava-2026-14087",
     "name": "Sapatilhas Asics Game FF Padel white guava 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 54.01,
+    "price": 63.01,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8648,14 +8771,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.01,
+        "price": 63.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14087-zapatillas-asics-game-ff-padel-white-guava-2026.html"
       }
     ]
   },
   {
-    "id": 682,
+    "id": 681,
     "slug": "zapatillas-asics-game-ff-padel-guava-white-2026-14086",
     "name": "Sapatilhas Asics Game FF Padel guava white 2026",
     "brand": "Asics",
@@ -8696,7 +8819,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 683,
+    "id": 682,
     "slug": "zapatillas-asics-game-ff-padel-saba-blue-cool-grey-2026-14085",
     "name": "Sapatilhas Asics Game FF Padel saba blue cool grey 2026",
     "brand": "Asics",
@@ -8737,7 +8860,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 684,
+    "id": 683,
     "slug": "zapatillas-asics-game-ff-padel-white-misty-pine-2026-14084",
     "name": "Sapatilhas Asics Game FF Padel white misty pine 2026",
     "brand": "Asics",
@@ -8778,7 +8901,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 685,
+    "id": 684,
     "slug": "zapatillas-asics-game-ff-clay-grey-blue-ironclad-2026-14083",
     "name": "Sapatilhas Asics Game FF Clay grey blue ironclad 2026",
     "brand": "Asics",
@@ -8819,12 +8942,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 686,
+    "id": 685,
     "slug": "zapatillas-asics-game-ff-clay-white-dark-neptune-2026-14082",
     "name": "Sapatilhas Asics Game FF Clay white dark neptune 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 65.07,
+    "price": 63.01,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8853,19 +8976,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 65.07,
+        "price": 63.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14082-zapatillas-asics-game-ff-clay-white-dark-neptune-2026.html"
       }
     ]
   },
   {
-    "id": 696,
+    "id": 695,
     "slug": "zapatillas-asics-solution-swift-ff-2-clay-white-digital-sakura-2026-14072",
     "name": "Sapatilhas Asics Solution Swift FF 2 Clay white digital sakura 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 76.42,
+    "price": 84.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8894,14 +9017,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 76.42,
+        "price": 84.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14072-zapatillas-asics-solution-swift-ff-2-clay-white-digital-sakura-2026.html"
       }
     ]
   },
   {
-    "id": 697,
+    "id": 696,
     "slug": "zapatillas-asics-solution-swift-ff-2-padel-saba-blue-vital-green-2026-14071",
     "name": "Sapatilhas Asics Solution Swift FF 2 Padel saba blue vital green 2026",
     "brand": "Asics",
@@ -8942,7 +9065,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 699,
+    "id": 698,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026-14068",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel black vital green 2026",
     "brand": "Asics",
@@ -8983,7 +9106,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 700,
+    "id": 699,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-misty-pine-white-2026-14067",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel misty pine white 2026",
     "brand": "Asics",
@@ -9024,7 +9147,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 701,
+    "id": 700,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-white-guava-2026-14066",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white guava 2026",
     "brand": "Asics",
@@ -9065,7 +9188,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 702,
+    "id": 701,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-amethyst-white-2026-14065",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel amethyst white 2026",
     "brand": "Asics",
@@ -9106,7 +9229,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 704,
+    "id": 703,
     "slug": "adidas-match-light-2026-14063",
     "name": "Adidas Match Light 2026",
     "brand": "Adidas Padel",
@@ -9147,7 +9270,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 705,
+    "id": 704,
     "slug": "adidas-match-black-green-2026-14062",
     "name": "Adidas Match black green 2026",
     "brand": "Adidas Padel",
@@ -9188,7 +9311,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 706,
+    "id": 705,
     "slug": "adidas-match-black-orange-2026-14061",
     "name": "Adidas Match black orange 2026",
     "brand": "Adidas Padel",
@@ -9229,7 +9352,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 707,
+    "id": 706,
     "slug": "adidas-drive-light-2026-14060",
     "name": "Adidas Drive Light 2026",
     "brand": "Adidas Padel",
@@ -9270,7 +9393,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 709,
+    "id": 708,
     "slug": "adidas-drive-blue-2026-14058",
     "name": "Adidas Drive blue 2026",
     "brand": "Adidas Padel",
@@ -9311,7 +9434,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 710,
+    "id": 709,
     "slug": "adidas-rx-series-light-2026-14057",
     "name": "Adidas RX Series Light 2026",
     "brand": "Adidas Padel",
@@ -9352,12 +9475,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 711,
+    "id": 710,
     "slug": "adidas-rx-series-2026-14056",
     "name": "Adidas RX Series 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 107.96,
+    "price": 119.95,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -9386,14 +9509,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 107.96,
+        "price": 119.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14056-adidas-rx-series-2026.html"
       }
     ]
   },
   {
-    "id": 712,
+    "id": 711,
     "slug": "zapatillas-asics-sonicsmash-ff-vital-green-misty-pine-2026-14053",
     "name": "Sapatilhas Asics Sonicsmash FF vital green misty pine 2026",
     "brand": "Asics",
@@ -9434,7 +9557,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 713,
+    "id": 712,
     "slug": "zapatillas-asics-sonicsmash-ff-saba-blue-vital-green-2026-14052",
     "name": "Sapatilhas Asics Sonicsmash FF saba blue vital green 2026",
     "brand": "Asics",
@@ -9475,7 +9598,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 719,
+    "id": 718,
     "slug": "adidas-cross-it-team-light-2026-14040",
     "name": "Adidas Cross It Team Light 2026",
     "brand": "Adidas Padel",
@@ -9516,7 +9639,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 721,
+    "id": 720,
     "slug": "adidas-cross-it-carbon-control-2026-14038",
     "name": "Adidas Cross It Carbon Control 2026",
     "brand": "Adidas Padel",
@@ -9557,7 +9680,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 722,
+    "id": 721,
     "slug": "adidas-cross-it-carbon-2026-14037",
     "name": "Adidas Cross It Carbon 2026",
     "brand": "Adidas Padel",
@@ -9598,7 +9721,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 723,
+    "id": 722,
     "slug": "adidas-cross-it-light-2026-14036",
     "name": "Adidas Cross It Light 2026",
     "brand": "Adidas Padel",
@@ -9639,7 +9762,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 726,
+    "id": 725,
     "slug": "adidas-arrow-hit-junior-pink-2026-14032",
     "name": "Adidas Arrow Hit Junior pink 2026",
     "brand": "Adidas Padel",
@@ -9680,12 +9803,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 727,
+    "id": 726,
     "slug": "adidas-arrow-hit-junior-blue-2026-14031",
     "name": "Adidas Arrow Hit Junior blue 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 66.96,
+    "price": 74.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9714,14 +9837,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 66.96,
+        "price": 74.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14031-adidas-arrow-hit-junior-blue-2026.html"
       }
     ]
   },
   {
-    "id": 728,
+    "id": 727,
     "slug": "adidas-arrow-hit-carbon-control-2026-14030",
     "name": "Adidas Arrow Hit Carbon Control 2026",
     "brand": "Adidas Padel",
@@ -9762,7 +9885,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 729,
+    "id": 728,
     "slug": "adidas-arrow-hit-carbon-attack-2026-14029",
     "name": "Adidas Arrow Hit Carbon Attack 2026",
     "brand": "Adidas Padel",
@@ -9803,7 +9926,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 730,
+    "id": 729,
     "slug": "adidas-arrow-hit-control-2026-14028",
     "name": "Adidas Arrow Hit Control 2026",
     "brand": "Adidas Padel",
@@ -9844,7 +9967,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 731,
+    "id": 730,
     "slug": "adidas-arrow-hit-attack-2026-14027",
     "name": "Adidas Arrow Hit Attack 2026",
     "brand": "Adidas Padel",
@@ -9885,7 +10008,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 732,
+    "id": 731,
     "slug": "adidas-metalbone-superlight-2026-14026",
     "name": "Adidas Metalbone Superlight 2026",
     "brand": "Adidas Padel",
@@ -9926,7 +10049,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 733,
+    "id": 732,
     "slug": "adidas-metalbone-team-light-2026-14025",
     "name": "Adidas Metalbone Team Light 2026",
     "brand": "Adidas Padel",
@@ -9967,7 +10090,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 734,
+    "id": 733,
     "slug": "adidas-metalbone-team-2026-14024",
     "name": "Adidas Metalbone Team 2026",
     "brand": "Adidas Padel",
@@ -10008,7 +10131,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 735,
+    "id": 734,
     "slug": "adidas-metalbone-carbon-control-2026-14023",
     "name": "Adidas Metalbone Carbon Control 2026",
     "brand": "Adidas Padel",
@@ -10049,7 +10172,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 736,
+    "id": 735,
     "slug": "adidas-metalbone-carbon-2026-14021",
     "name": "Adidas Metalbone Carbon 2026",
     "brand": "Adidas Padel",
@@ -10090,7 +10213,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 738,
+    "id": 737,
     "slug": "adidas-metalbone-hrd-2026-14019",
     "name": "Adidas Metalbone HRD+ 2026",
     "brand": "Adidas Padel",
@@ -10131,7 +10254,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 739,
+    "id": 738,
     "slug": "adidas-metalbone-2026-14018",
     "name": "Adidas Metalbone 2026",
     "brand": "Adidas Padel",
@@ -10172,7 +10295,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 760,
+    "id": 759,
     "slug": "siux-beat-junior-2026-13985",
     "name": "Siux Beat Junior 2026",
     "brand": "Siux",
@@ -10213,7 +10336,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 761,
+    "id": 760,
     "slug": "siux-beat-hybrid-air-2026-13982",
     "name": "Siux Beat Hybrid Air 2026",
     "brand": "Siux",
@@ -10254,7 +10377,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 762,
+    "id": 761,
     "slug": "siux-beat-hybrid-2026-13981",
     "name": "Siux Beat Hybrid 2026",
     "brand": "Siux",
@@ -10295,12 +10418,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 763,
+    "id": 762,
     "slug": "siux-beat-control-2026-13980",
     "name": "Siux Beat Control 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 98.96,
+    "price": 89.96,
     "oldPrice": 99,
     "rating": null,
     "badge": null,
@@ -10329,19 +10452,101 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 98.96,
+        "price": 89.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13980-siux-beat-control-2026.html"
       }
     ]
   },
   {
-    "id": 767,
+    "id": 764,
+    "slug": "bipack-head-padel-pro-s-2x3b-see-13977",
+    "name": "Bipack Head Padel Pro S+ 2X3B SEE",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 9.96,
+    "oldPrice": 12,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28638-large_default/bipack-head-padel-pro-s-2x3b-see.jpg",
+    "ean": "072489757812",
+    "productGTIN": "072489757812",
+    "mpn": "13977",
+    "source": "zona-de-padel",
+    "sourceProductId": "13977",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Consigue esta novedad de Head: el Bipack Head Pro S+ 2X3B SEE es la opción perfecta para quienes buscan pelotas de pádel que potencien la velocidad de juego. Con su nuevo núcleo de alta presión, estas pelotas conservan su rendimiento por más tiempo, asegurando intercambios rápidos y fluidos en cada partido. Diseñadas con un fieltro exclusivo, estas pelotas Head ofrecen un control superior y durabilidad mejorada. Además, su tubo sostenible fabricado con material reciclado refuerza el compromiso ecológico sin sacrificar calidad ni prestaciones en la pista. Características y tecnologías del Bipack pelotas de pádel Head Pro S+ 2X3B SEE Las pelotas incorporan las últimas innovaciones para 2025, garantizando un producto actualizado y adaptado a las necesidades actuales del pádel. Núcleo de alta presión: Mantiene la presión interna por más tiempo para una respuesta constante y mayor velocidad durante el juego. Fieltro exclusivo: Optimiza la experiencia en pista, proporcionando un mejor control y un tacto más cómodo en cada golpe. Tubo sostenible: Fabricado con materiales reciclados, es fácil de reciclar, aportando un valor ecológico a tu elección deportiva. Durabilidad mejorada: La construcción y materiales seleccionados permiten que las pelotas resistan el desgaste típico del juego sin perder prestaciones. Pertenece a la colección de pelotas Head Padel 2025. ¿Para quien es Head Pro S+ 2X3B SEE? Este set de pelotas está diseñado para jugadores de pádel que buscan mejorar la rapidez y precisión en sus partidos. Ideal para niveles avanzados que desean intercambios potentes y dinámicos, así como para jugadores intermedios que quieran perfeccionar su rendimiento en la pista. ¿Por qué te va a gustar pelotas de pádel? Te encantará este pack de 2 botes Head Pro S+ con un diseño exclusivo y packaging de edición limitada. Su núcleo de alto rendimiento reduce el peso para facilitar movimientos rápidos, destacando especialmente en condiciones adversas como frío o humedad. Descubre más sobre la marca Head Head es una marca líder en el mundo del pádel, reconocida por desarrollar productos innovadores y de alta calidad que potencia el rendimiento en cada nivel de juego. Su compromiso con la tecnología y el diseño la sitúa entre las favoritas de los profesionales. La experiencia de Head en pelotas de pádel se refleja en cada detalle del Bipack Head Padel Pro S+ 2X3B SEE, logrando un equilibrio perfecto entre velocidad, control y sostenibilidad, ideal para toda una nueva generación de jugadores exigentes.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 9.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/13977-bipack-head-padel-pro-s-2x3b-see.html"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "slug": "cajon-pelotas-head-cs-18-x-4-13976",
+    "name": "Cajon Pelotas Head CS 18 x 4",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 85.96,
+    "oldPrice": 110,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28589-large_default/cajon-pelotas-head-cs-18-x-4.jpg",
+    "ean": "1762268975719",
+    "productGTIN": "1762268975719",
+    "mpn": "13976",
+    "source": "zona-de-padel",
+    "sourceProductId": "13976",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Ya disponible el Cajón Pelotas Head CS 18 x 4, la solución perfecta para quienes buscan volumen y calidad en sus pelotas de pádel. Cada bote contiene pelotas con núcleo presurizado y fieltro de alta calidad que asegura un juego constante y dinámico, ideal para cualquier nivel de jugador. Este pack de 72 bolas Head es ideal tanto para entrenamientos intensos como para partidos recreativos. Confiabilidad y alto rendimiento garantizados, es la compra inteligente para mejorar la experiencia en pista y asegurar la durabilidad en cada partido. Características y tecnologías de cajón de pelotas de pádel Head CS 18 x 4 Pelotas actualizadas con las últimas mejoras en materiales y fabricación para un rendimiento óptimo durante toda la temporada. Núcleo presurizado: Ofrece un rebote uniforme y dinámico, adaptándose a cualquier estilo de juego para mantener la calidad en cada punto. Fieltro de alta calidad: Aumenta la durabilidad de las pelotas y mejora la sensación de juego sobre cualquier superficie de pádel. Formato en cajón de 18 botes: Ideal para quienes necesitan abastecer entrenamientos o competiciones prolongadas con pelotas frescas y listas para jugar. Head es sinónimo de innovación y confianza en el mundo del pádel, respaldando productos con estándares profesionales. Colección de productos Head Padel 2025. ¿Para quién es Head CS 18 x 4? Este set está diseñado para jugadores de pádel que buscan un suministro constante de pelotas de alta calidad, entrenadores que valoran durabilidad y consistencia, así como clubes que requieren productos fiables para uso frecuente y profesional en sus pistas. ¿Por qué te va a gustar el cajón de pelotas de pádel? La principal ventaja de este pack es la combinación de 72 pelotas con una durabilidad sobresaliente, gracias a un fieltro resistente y un núcleo que garantiza un rebote uniforme. Esto te asegura el mejor rendimiento en cualquier tipo de partido o entrenamiento. Descubre más sobre la marca Head Head es una marca líder en el sector del pádel que ha innovado constantemente en la fabricación de equipamiento deportivo, ganando la confianza de jugadores amateur y profesionales por igual. Desde hace años, Head se ha consolidado como referente en pelotas de pádel ofreciendo productos con tecnologías punteras que mejoran la experiencia en la pista, como sucede con el cajón de 72 bolas que garantiza calidad y durabilidad en cada punto.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 85.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/13976-cajon-pelotas-head-cs-18-x-4.html"
+      }
+    ]
+  },
+  {
+    "id": 766,
     "slug": "siux-astra-hybrid-air-2026-13975",
     "name": "Siux Astra Hybrid Air 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 119.91,
+    "price": 119.96,
     "oldPrice": 149,
     "rating": null,
     "badge": null,
@@ -10370,14 +10575,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13975-siux-astra-hybrid-air-2026.html"
       }
     ]
   },
   {
-    "id": 774,
+    "id": 773,
     "slug": "siux-electra-elite-2026-13960",
     "name": "Siux Electra Elite 2026",
     "brand": "Siux",
@@ -10418,12 +10623,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 776,
+    "id": 775,
     "slug": "siux-astra-hybrid-2026-13957",
     "name": "Siux Astra Hybrid 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 119.91,
+    "price": 119.96,
     "oldPrice": 149,
     "rating": null,
     "badge": null,
@@ -10452,14 +10657,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13957-siux-astra-hybrid-2026.html"
       }
     ]
   },
   {
-    "id": 777,
+    "id": 776,
     "slug": "siux-gea-2026-13956",
     "name": "Siux Gea 2026",
     "brand": "Siux",
@@ -10500,7 +10705,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 778,
+    "id": 777,
     "slug": "siux-trilogy-elite-2026-13955",
     "name": "Siux Trilogy Elite 2026",
     "brand": "Siux",
@@ -10541,7 +10746,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 779,
+    "id": 778,
     "slug": "siux-pegasus-elite-2026-13954",
     "name": "Siux Pegasus Elite 2026",
     "brand": "Siux",
@@ -10582,7 +10787,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 780,
+    "id": 779,
     "slug": "siux-diablo-elite-2026-13953",
     "name": "Siux Diablo Elite 2026",
     "brand": "Siux",
@@ -10623,7 +10828,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 781,
+    "id": 780,
     "slug": "siux-valkiria-elite-2026-13952",
     "name": "Siux Valkiria Elite 2026",
     "brand": "Siux",
@@ -10664,7 +10869,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 794,
+    "id": 793,
     "slug": "siux-pegasus-pro-storm-grey-2026-13937",
     "name": "Siux Pegasus Pro Storm Grey 2026",
     "brand": "Siux",
@@ -10705,7 +10910,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 795,
+    "id": 794,
     "slug": "siux-pegasus-pro-lava-orange-2026-13936",
     "name": "Siux Pegasus Pro Lava Orange 2026",
     "brand": "Siux",
@@ -10746,12 +10951,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 797,
+    "id": 796,
     "slug": "siux-fenix-pro-glow-purple-2026-13934",
     "name": "Siux Fenix Pro Glow Purple 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 249.96,
+    "price": 259.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10780,14 +10985,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 249.96,
+        "price": 259.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13934-siux-fenix-pro-glow-purple-2026.html"
       }
     ]
   },
   {
-    "id": 798,
+    "id": 797,
     "slug": "siux-electra-pro-shadow-red-2026-13933",
     "name": "Siux Electra Pro Shadow Red 2026",
     "brand": "Siux",
@@ -10828,12 +11033,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 799,
+    "id": 798,
     "slug": "siux-electra-pro-fire-red-2026-13932",
     "name": "Siux Electra Pro Fire Red 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 224.96,
+    "price": 254.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10862,14 +11067,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 224.96,
+        "price": 254.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13932-siux-electra-pro-fire-red-2026.html"
       }
     ]
   },
   {
-    "id": 800,
+    "id": 799,
     "slug": "siux-diablo-pro-night-blue-2026-13931",
     "name": "Siux Diablo Pro Night Blue 2026",
     "brand": "Siux",
@@ -10910,7 +11115,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 801,
+    "id": 800,
     "slug": "siux-diablo-pro-royal-blue-2026-13930",
     "name": "Siux Diablo Pro Royal Blue 2026",
     "brand": "Siux",
@@ -10951,12 +11156,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 802,
+    "id": 801,
     "slug": "siux-valkiria-pro-2026-13929",
     "name": "Siux Valkiria Pro 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 240.76,
+    "price": 314.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10985,14 +11190,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 240.76,
+        "price": 314.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13929-siux-valkiria-pro-2026.html"
       }
     ]
   },
   {
-    "id": 803,
+    "id": 802,
     "slug": "siux-trilogy-pro-noir-fog-2026-13928",
     "name": "Siux Trilogy Pro Noir Fog 2026",
     "brand": "Siux",
@@ -11033,7 +11238,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 804,
+    "id": 803,
     "slug": "siux-trilogy-pro-ash-green-2026-13927",
     "name": "Siux Trilogy Pro Ash Green 2026",
     "brand": "Siux",
@@ -11074,7 +11279,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 805,
+    "id": 804,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-green-2026-13926",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V green 2026",
     "brand": "Bullpadel",
@@ -11115,7 +11320,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 806,
+    "id": 805,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-bone-2026-13925",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V bone 2026",
     "brand": "Bullpadel",
@@ -11156,7 +11361,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 807,
+    "id": 806,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-anthracite-2026-13924",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11197,7 +11402,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 808,
+    "id": 807,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-green-2026-13923",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V green 2026",
     "brand": "Bullpadel",
@@ -11238,7 +11443,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 809,
+    "id": 808,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-bone-2026-13922",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V bone 2026",
     "brand": "Bullpadel",
@@ -11279,7 +11484,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 810,
+    "id": 809,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-anthracite-2026-13921",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11320,7 +11525,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 811,
+    "id": 810,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-kaki-2026-13920",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V kaki 2026",
     "brand": "Bullpadel",
@@ -11361,7 +11566,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 813,
+    "id": 812,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-anthracite-2026-13918",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11402,7 +11607,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 822,
+    "id": 821,
     "slug": "zapatillas-bullpadel-vertex-woman-pro-line-tour-final-26v-atomic-blue-2026-13879",
     "name": "Sapatilhas Bullpadel Vertex Woman Pro Line Tour Final 26V atomic blue 2026",
     "brand": "Bullpadel",
@@ -11443,7 +11648,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 823,
+    "id": 822,
     "slug": "zapatillas-bullpadel-x-plo-pro-line-tour-final-26v-navy-blue-2026-13878",
     "name": "Sapatilhas Bullpadel X-PLO Pro Line Tour Final 26V navy blue 2026",
     "brand": "Bullpadel",
@@ -11484,12 +11689,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 824,
+    "id": 823,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-kaki-2026-13876",
     "name": "Saco Bullpadel BPP26015 Tour Premier kaki 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 44.95,
+    "price": 34.96,
     "oldPrice": 50,
     "rating": null,
     "badge": null,
@@ -11518,14 +11723,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.95,
+        "price": 34.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13876-paletero-bullpadel-bpp26015-tour-premier-kaki-2026.html"
       }
     ]
   },
   {
-    "id": 825,
+    "id": 824,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-crudo-2026-13875",
     "name": "Saco Bullpadel BPP26015 Tour Premier crudo 2026",
     "brand": "Bullpadel",
@@ -11566,12 +11771,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 826,
+    "id": 825,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-premier-crudo-2026-13874",
     "name": "Saco Bullpadel BPP26003 Vertex Woman Premier crudo 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 85.96,
+    "price": 89.91,
     "oldPrice": 115,
     "rating": null,
     "badge": null,
@@ -11600,19 +11805,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 85.96,
+        "price": 89.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13874-paletero-bullpadel-bpp26003-vertex-woman-premier-crudo-2026.html"
       }
     ]
   },
   {
-    "id": 830,
+    "id": 829,
     "slug": "mochila-bullpadel-bpm26020-neuron-premier-negra-2026-13863",
     "name": "Mochila Bullpadel BPM26020 Neuron Premier negra 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 71.95,
+    "price": 59.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -11641,14 +11846,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 71.95,
+        "price": 59.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13863-mochila-bullpadel-bpm26020-neuron-premier-negra-2026.html"
       }
     ]
   },
   {
-    "id": 831,
+    "id": 830,
     "slug": "paletero-bullpadel-bpp26020-neuron-premier-negro-2026-13862",
     "name": "Saco Bullpadel BPP26020 Neuron Premier negro 2026",
     "brand": "Bullpadel",
@@ -11689,7 +11894,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 832,
+    "id": 831,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-premier-negra-2026-13861",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo Premier negra 2026",
     "brand": "Bullpadel",
@@ -11730,7 +11935,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 834,
+    "id": 833,
     "slug": "mochila-bullpadel-bpm26002-hack-premier-negra-2026-13859",
     "name": "Mochila Bullpadel BPM26002 Hack Premier negra 2026",
     "brand": "Bullpadel",
@@ -11771,7 +11976,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 835,
+    "id": 834,
     "slug": "paletero-bullpadel-bpp26013-hack-premier-kaki-2026-13858",
     "name": "Saco Bullpadel BPP26013 Hack Premier kaki 2026",
     "brand": "Bullpadel",
@@ -11812,7 +12017,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 836,
+    "id": 835,
     "slug": "bullpadel-vertex-05-light-premier-2026-13857",
     "name": "Bullpadel Vertex 05 Light Premier 2026",
     "brand": "Bullpadel",
@@ -11853,7 +12058,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 837,
+    "id": 836,
     "slug": "bullpadel-hack-04-premier-2026-13856",
     "name": "Bullpadel Hack 04 Premier 2026",
     "brand": "Bullpadel",
@@ -11894,7 +12099,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 839,
+    "id": 838,
     "slug": "bullpadel-neuron-02-premier-2026-13854",
     "name": "Bullpadel Neuron 02 Premier 2026",
     "brand": "Bullpadel",
@@ -11935,12 +12140,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 840,
+    "id": 839,
     "slug": "bullpadel-vertex-05-geo-premier-2026-13853",
     "name": "Bullpadel Vertex 05 GEO Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 284.96,
+    "price": 271.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -11969,14 +12174,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 284.96,
+        "price": 271.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13853-bullpadel-vertex-05-geo-premier-2026.html"
       }
     ]
   },
   {
-    "id": 841,
+    "id": 840,
     "slug": "paletero-bullpadel-bpp26006-flow-negro-2026-13850",
     "name": "Saco Bullpadel BPP26006 Flow negro 2026",
     "brand": "Bullpadel",
@@ -12017,7 +12222,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 842,
+    "id": 841,
     "slug": "paletero-bullpadel-bpp26019-elite-blanco-2026-13849",
     "name": "Saco Bullpadel BPP26019 Elite blanco 2026",
     "brand": "Bullpadel",
@@ -12058,7 +12263,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 843,
+    "id": 842,
     "slug": "paletero-bullpadel-bpp26024-wonder-chocolate-2026-13848",
     "name": "Saco Bullpadel BPP26024 Wonder chocolate 2026",
     "brand": "Bullpadel",
@@ -12099,7 +12304,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 845,
+    "id": 844,
     "slug": "paletero-bullpadel-bpp26021-pearl-azul-verdoso-2026-13846",
     "name": "Saco Bullpadel BPP26021 Pearl azul verdoso 2026",
     "brand": "Bullpadel",
@@ -12140,7 +12345,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 847,
+    "id": 846,
     "slug": "paletero-bullpadel-bpp26023-icon-verde-2026-13844",
     "name": "Saco Bullpadel BPP26023 Icon verde 2026",
     "brand": "Bullpadel",
@@ -12181,7 +12386,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 848,
+    "id": 847,
     "slug": "paletero-bullpadel-bpp26022-xplo-gris-medio-2026-13842",
     "name": "Saco Bullpadel BPP26022 XPLO gris medio 2026",
     "brand": "Bullpadel",
@@ -12222,7 +12427,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 849,
+    "id": 848,
     "slug": "paletero-bullpadel-bpp26022-xplo-negro-2026-13841",
     "name": "Saco Bullpadel BPP26022 XPLO negro 2026",
     "brand": "Bullpadel",
@@ -12263,12 +12468,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 851,
+    "id": 850,
     "slug": "paletero-bullpadel-bpp26020-neuron-negro-2026-13839",
     "name": "Saco Bullpadel BPP26020 Neuron negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 77.91,
+    "price": 78.96,
     "oldPrice": 105,
     "rating": null,
     "badge": null,
@@ -12297,14 +12502,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 77.91,
+        "price": 78.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13839-paletero-bullpadel-bpp26020-neuron-negro-2026.html"
       }
     ]
   },
   {
-    "id": 852,
+    "id": 851,
     "slug": "paletero-bullpadel-bpp26017-neuron-gris-oscuro-2026-13838",
     "name": "Saco Bullpadel BPP26017 Neuron gris oscuro 2026",
     "brand": "Bullpadel",
@@ -12345,7 +12550,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 853,
+    "id": 852,
     "slug": "mochila-bullpadel-bpm26002-hack-gris-verdosa-2026-13837",
     "name": "Mochila Bullpadel BPM26002 Hack gris verdosa 2026",
     "brand": "Bullpadel",
@@ -12386,7 +12591,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 854,
+    "id": 853,
     "slug": "mochila-bullpadel-bpm26001-hack-negra-2026-13836",
     "name": "Mochila Bullpadel BPM26001 Hack negra 2026",
     "brand": "Bullpadel",
@@ -12427,7 +12632,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 855,
+    "id": 854,
     "slug": "paletero-bullpadel-bpp26012-hack-gris-2026-13835",
     "name": "Saco Bullpadel BPP26012 Hack gris 2026",
     "brand": "Bullpadel",
@@ -12468,7 +12673,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 856,
+    "id": 855,
     "slug": "paletero-bullpadel-bpp26012-hack-negro-2026-13834",
     "name": "Saco Bullpadel BPP26012 Hack negro 2026",
     "brand": "Bullpadel",
@@ -12509,7 +12714,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 858,
+    "id": 857,
     "slug": "mochila-bullpadel-bpm26009-vertex-woman-blanca-2026-13832",
     "name": "Mochila Bullpadel BPM26009 Vertex Woman blanca 2026",
     "brand": "Bullpadel",
@@ -12550,7 +12755,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 859,
+    "id": 858,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-azul-intenso-2026-13831",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo azul intenso 2026",
     "brand": "Bullpadel",
@@ -12591,7 +12796,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 860,
+    "id": 859,
     "slug": "mochila-bullpadel-bpm26007-vertex-negra-2026-13830",
     "name": "Mochila Bullpadel BPM26007 Vertex negra 2026",
     "brand": "Bullpadel",
@@ -12632,12 +12837,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 861,
+    "id": 860,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-celeste-2026-13829",
     "name": "Saco Bullpadel BPP26003 Vertex Woman celeste 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 82.96,
+    "price": 74.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -12666,14 +12871,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 82.96,
+        "price": 74.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13829-paletero-bullpadel-bpp26003-vertex-woman-celeste-2026.html"
       }
     ]
   },
   {
-    "id": 862,
+    "id": 861,
     "slug": "paletero-bullpadel-bpp26002-vertex-geo-azul-2026-13828",
     "name": "Saco Bullpadel BPP26002 Vertex Geo azul 2026",
     "brand": "Bullpadel",
@@ -12714,7 +12919,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 863,
+    "id": 862,
     "slug": "paletero-bullpadel-bpp26001-vertex-negro-2026-13827",
     "name": "Saco Bullpadel BPP26001 Vertex negro 2026",
     "brand": "Bullpadel",
@@ -12755,7 +12960,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 864,
+    "id": 863,
     "slug": "bullpadel-indiga-woman-2026-13794",
     "name": "Bullpadel Indiga Woman 2026",
     "brand": "Bullpadel",
@@ -12796,7 +13001,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 865,
+    "id": 864,
     "slug": "bullpadel-indiga-control-2026-13793",
     "name": "Bullpadel Indiga Control 2026",
     "brand": "Bullpadel",
@@ -12837,7 +13042,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 867,
+    "id": 866,
     "slug": "nox-x-zero-red-2026-13791",
     "name": "Nox X-Zero Red 2026",
     "brand": "Nox",
@@ -12878,7 +13083,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 868,
+    "id": 867,
     "slug": "nox-x-hero-blue-2026-13790",
     "name": "Nox X-Hero Blue 2026",
     "brand": "Nox",
@@ -12919,7 +13124,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 869,
+    "id": 868,
     "slug": "nox-x-hero-red-2026-13789",
     "name": "Nox X-Hero Red 2026",
     "brand": "Nox",
@@ -12960,7 +13165,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 870,
+    "id": 869,
     "slug": "nox-x-hero-white-2026-13788",
     "name": "Nox X-Hero White 2026",
     "brand": "Nox",
@@ -13001,7 +13206,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 871,
+    "id": 870,
     "slug": "nox-x-zero-blue-2026-13787",
     "name": "Nox X-Zero Blue 2026",
     "brand": "Nox",
@@ -13042,7 +13247,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 875,
+    "id": 874,
     "slug": "nox-at10-pro-cup-soft-by-agustin-tapia-2026-13782",
     "name": "Nox AT10 Pro Cup Soft by Agustín Tapia 2026",
     "brand": "Nox",
@@ -13083,7 +13288,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 879,
+    "id": 878,
     "slug": "nox-ea10-ventus-attack-12k-xtrem-2026-13778",
     "name": "Nox EA10 Ventus Attack 12K XTREM 2026",
     "brand": "Nox",
@@ -13124,12 +13329,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 880,
+    "id": 879,
     "slug": "nox-ml10-ventus-control-3k-miguel-lamperti-2026-13777",
     "name": "Nox ML10 Ventus Control 3K Miguel Lamperti 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 235.96,
+    "price": 234.96,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -13158,14 +13363,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 235.96,
+        "price": 234.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13777-nox-ml10-ventus-control-3k-miguel-lamperti-2026.html"
       }
     ]
   },
   {
-    "id": 881,
+    "id": 880,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-lite-2026-13774",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM Lite 2026",
     "brand": "Nox",
@@ -13206,7 +13411,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 882,
+    "id": 881,
     "slug": "nox-at10-luxury-genius-attack-18k-alum-2026-13773",
     "name": "Nox AT10 Luxury Genius Attack 18K Alum 2026",
     "brand": "Nox",
@@ -13247,7 +13452,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 883,
+    "id": 882,
     "slug": "nox-at10-luxury-genius-attack-12k-alum-xtrem-2026-13772",
     "name": "Nox AT10 Luxury Genius Attack 12K Alum XTREM 2026",
     "brand": "Nox",
@@ -13288,7 +13493,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 885,
+    "id": 884,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-2026-13770",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM 2026",
     "brand": "Nox",
@@ -13329,7 +13534,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 907,
+    "id": 906,
     "slug": "paletero-lok-one-negro-verde-2026-13703",
     "name": "Saco Lok One negro verde 2026",
     "brand": "Lok",
@@ -13370,7 +13575,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 908,
+    "id": 907,
     "slug": "paletero-lok-one-negro-naranja-2026-13702",
     "name": "Saco Lok One negro naranja 2026",
     "brand": "Lok",
@@ -13411,7 +13616,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 909,
+    "id": 908,
     "slug": "mochila-lok-adventure-gen-2-negra-verde-2026-13701",
     "name": "Mochila Lok Adventure Gen 2 negra verde 2026",
     "brand": "Lok",
@@ -13452,12 +13657,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 910,
+    "id": 909,
     "slug": "mochila-lok-maxx-gen-2-negra-verde-2026-13700",
     "name": "Mochila Lok Maxx Gen 2 negra verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 63.91,
+    "price": 54.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -13486,19 +13691,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.91,
+        "price": 54.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13700-mochila-lok-maxx-gen-2-negra-verde-2026.html"
       }
     ]
   },
   {
-    "id": 911,
+    "id": 910,
     "slug": "mochila-lok-maxx-gen-2-negra-naranja-2026-13699",
     "name": "Mochila Lok Maxx Gen 2 negra naranja 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 54.96,
+    "price": 63.91,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -13527,19 +13732,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.96,
+        "price": 63.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13699-mochila-lok-maxx-gen-2-negra-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 912,
+    "id": 911,
     "slug": "paletero-lok-maxx-gen-2-negro-verde-2026-13698",
     "name": "Saco Lok Maxx Gen 2 negro verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 69.96,
+    "price": 89.95,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -13568,14 +13773,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13698-paletero-lok-maxx-gen-2-negro-verde-2026.html"
       }
     ]
   },
   {
-    "id": 913,
+    "id": 912,
     "slug": "paletero-lok-maxx-gen-2-negro-naranja-2026-13697",
     "name": "Saco Lok Maxx Gen 2 negro naranja 2026",
     "brand": "Lok",
@@ -13616,7 +13821,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 914,
+    "id": 913,
     "slug": "lok-jungle-lite-2026-13696",
     "name": "Lok Jungle Lite 2026",
     "brand": "Lok",
@@ -13657,7 +13862,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 915,
+    "id": 914,
     "slug": "lok-jungle-2026-13695",
     "name": "Lok Jungle 2026",
     "brand": "Lok",
@@ -13698,7 +13903,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 916,
+    "id": 915,
     "slug": "lok-be-flow-pink-gen-2-2026-13694",
     "name": "Lok Be Flow Pink Gen 2 2026",
     "brand": "Lok",
@@ -13739,7 +13944,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 917,
+    "id": 916,
     "slug": "lok-be-flow-yellow-gen-2-2026-13693",
     "name": "Lok Be Flow Yellow Gen 2 2026",
     "brand": "Lok",
@@ -13780,7 +13985,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 918,
+    "id": 917,
     "slug": "lok-be-hype-gen-2-2026-13692",
     "name": "Lok Be Hype Gen 2 2026",
     "brand": "Lok",
@@ -13821,7 +14026,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 919,
+    "id": 918,
     "slug": "lok-easy-flow-gen-2-2026-13691",
     "name": "Lok Easy Flow Gen 2 2026",
     "brand": "Lok",
@@ -13862,7 +14067,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 920,
+    "id": 919,
     "slug": "lok-easy-hype-gen-2-2026-13690",
     "name": "Lok Easy Hype Gen 2 2026",
     "brand": "Lok",
@@ -13903,7 +14108,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 922,
+    "id": 921,
     "slug": "lok-carbon-fdb-gen-2-2026-13688",
     "name": "Lok Carbon FDB Gen 2 2026",
     "brand": "Lok",
@@ -13944,7 +14149,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 923,
+    "id": 922,
     "slug": "lok-carbon-hype-gen-2-2026-13687",
     "name": "Lok Carbon Hype Gen 2 2026",
     "brand": "Lok",
@@ -13985,7 +14190,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 924,
+    "id": 923,
     "slug": "lok-maxx-flow-gen-2-2026-13686",
     "name": "Lok Maxx Flow Gen 2 2026",
     "brand": "Lok",
@@ -14026,7 +14231,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 926,
+    "id": 925,
     "slug": "star-vie-nyra-2026-13683",
     "name": "Star Vie Nyra 2026",
     "brand": "Star Vie",
@@ -14067,12 +14272,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 927,
+    "id": 926,
     "slug": "star-vie-arkos-2026-13682",
     "name": "Star Vie Arkos 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 109.96,
+    "price": 96.92,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -14101,14 +14306,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 96.92,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13682-star-vie-arkos-2026.html"
       }
     ]
   },
   {
-    "id": 928,
+    "id": 927,
     "slug": "star-vie-polaris-2026-13681",
     "name": "Star Vie Polaris 2026",
     "brand": "Star Vie",
@@ -14149,7 +14354,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 930,
+    "id": 929,
     "slug": "star-vie-drax-2026-13666",
     "name": "Star Vie Drax + 2026",
     "brand": "Star Vie",
@@ -14190,7 +14395,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 934,
+    "id": 933,
     "slug": "star-vie-raptor-2026-13662",
     "name": "Star Vie Raptor + 2026",
     "brand": "Star Vie",
@@ -14231,7 +14436,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 935,
+    "id": 934,
     "slug": "star-vie-black-titan-2026-13660",
     "name": "Star Vie Black Titan 2026",
     "brand": "Star Vie",
@@ -14272,7 +14477,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 936,
+    "id": 935,
     "slug": "babolat-alioth-mini-junior-2025-13659",
     "name": "Babolat Alioth Mini Junior 2025",
     "brand": "Babolat",
@@ -14313,7 +14518,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 937,
+    "id": 936,
     "slug": "babolat-alioth-junior-2025-13658",
     "name": "Babolat Alioth Junior 2025",
     "brand": "Babolat",
@@ -14354,7 +14559,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 938,
+    "id": 937,
     "slug": "head-evo-extreme-2026-13657",
     "name": "Head Evo Extreme 2026",
     "brand": "Head Padel",
@@ -14395,7 +14600,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 939,
+    "id": 938,
     "slug": "head-extreme-team-2026-13656",
     "name": "Head Extreme Team 2026",
     "brand": "Head Padel",
@@ -14436,7 +14641,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 940,
+    "id": 939,
     "slug": "head-extreme-motion-2026-13655",
     "name": "Head Extreme Motion 2026",
     "brand": "Head Padel",
@@ -14477,7 +14682,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 941,
+    "id": 940,
     "slug": "head-extreme-pro-2026-13654",
     "name": "Head Extreme Pro 2026",
     "brand": "Head Padel",
@@ -14518,7 +14723,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 943,
+    "id": 942,
     "slug": "head-extreme-one-x-2026-13652",
     "name": "Head Extreme One X 2026",
     "brand": "Head Padel",
@@ -14559,7 +14764,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 944,
+    "id": 943,
     "slug": "zapatillas-adidas-defiant-speed-2-m-black-silver-pink-2025-13627",
     "name": "Sapatilhas Adidas Defiant Speed 2 M black silver pink 2025",
     "brand": "Adidas Padel",
@@ -14600,7 +14805,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 973,
+    "id": 972,
     "slug": "bullpadel-discover-power-2025-13581",
     "name": "Bullpadel Discover Power 2025",
     "brand": "Bullpadel",
@@ -14641,7 +14846,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 974,
+    "id": 973,
     "slug": "bullpadel-discover-control-2025-13580",
     "name": "Bullpadel Discover Control 2025",
     "brand": "Bullpadel",
@@ -14682,12 +14887,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 978,
+    "id": 977,
     "slug": "bullpadel-ionic-light-2026-13575",
     "name": "Bullpadel Ionic Light 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 127.96,
+    "price": 161.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -14716,14 +14921,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 127.96,
+        "price": 161.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13575-bullpadel-ionic-light-2026.html"
       }
     ]
   },
   {
-    "id": 980,
+    "id": 979,
     "slug": "bullpadel-ionic-power-2026-13573",
     "name": "Bullpadel Ionic Power 2026",
     "brand": "Bullpadel",
@@ -14764,7 +14969,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 981,
+    "id": 980,
     "slug": "bullpadel-vertex-05-woman-cloud-2026-13572",
     "name": "Bullpadel Vertex 05 Woman Cloud 2026",
     "brand": "Bullpadel",
@@ -14805,7 +15010,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 982,
+    "id": 981,
     "slug": "bullpadel-neuron-02-cloud-2026-13571",
     "name": "Bullpadel Neuron 02 Cloud 2026",
     "brand": "Bullpadel",
@@ -14846,7 +15051,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 985,
+    "id": 984,
     "slug": "bullpadel-flow-legend-2026-13567",
     "name": "Bullpadel Flow Legend 2026",
     "brand": "Bullpadel",
@@ -14887,7 +15092,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 986,
+    "id": 985,
     "slug": "bullpadel-elite-woman-2026-13566",
     "name": "Bullpadel Elite Woman 2026",
     "brand": "Bullpadel",
@@ -14928,7 +15133,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 987,
+    "id": 986,
     "slug": "bullpadel-wonder-2026-13565",
     "name": "Bullpadel Wonder 2026",
     "brand": "Bullpadel",
@@ -14969,7 +15174,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 988,
+    "id": 987,
     "slug": "bullpadel-pearl-2026-13562",
     "name": "Bullpadel Pearl 2026",
     "brand": "Bullpadel",
@@ -15010,7 +15215,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 989,
+    "id": 988,
     "slug": "bullpadel-icon-2026-13561",
     "name": "Bullpadel Icon 2026",
     "brand": "Bullpadel",
@@ -15051,7 +15256,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 990,
+    "id": 989,
     "slug": "bullpadel-xplo-comfort-2026-13560",
     "name": "Bullpadel XPLO Comfort 2026",
     "brand": "Bullpadel",
@@ -15092,7 +15297,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 991,
+    "id": 990,
     "slug": "bullpadel-xplo-2026-13559",
     "name": "Bullpadel XPLO 2026",
     "brand": "Bullpadel",
@@ -15133,7 +15338,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 992,
+    "id": 991,
     "slug": "bullpadel-neuron-02-edge-2026-13558",
     "name": "Bullpadel Neuron 02 Edge 2026",
     "brand": "Bullpadel",
@@ -15174,12 +15379,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 993,
+    "id": 992,
     "slug": "bullpadel-neuron-02-2026-13556",
     "name": "Bullpadel Neuron 02 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 249.91,
+    "price": 224.92,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15208,14 +15413,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 249.91,
+        "price": 224.92,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13556-bullpadel-neuron-02-2026.html"
       }
     ]
   },
   {
-    "id": 994,
+    "id": 993,
     "slug": "bullpadel-hack-04-comfort-2026-13555",
     "name": "Bullpadel Hack 04 Comfort 2026",
     "brand": "Bullpadel",
@@ -15256,7 +15461,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 995,
+    "id": 994,
     "slug": "bullpadel-hack-04-hybrid-2026-13554",
     "name": "Bullpadel Hack 04 Hybrid 2026",
     "brand": "Bullpadel",
@@ -15297,7 +15502,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 996,
+    "id": 995,
     "slug": "bullpadel-hack-04-2026-13553",
     "name": "Bullpadel Hack 04 2026",
     "brand": "Bullpadel",
@@ -15338,7 +15543,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 997,
+    "id": 996,
     "slug": "bullpadel-vertex-05-woman-2026-13552",
     "name": "Bullpadel Vertex 05 Woman 2026",
     "brand": "Bullpadel",
@@ -15379,7 +15584,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 998,
+    "id": 997,
     "slug": "bullpadel-vertex-05-hybrid-2026-13550",
     "name": "Bullpadel Vertex 05 Hybrid 2026",
     "brand": "Bullpadel",
@@ -15420,7 +15625,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 999,
+    "id": 998,
     "slug": "bullpadel-vertex-05-geo-2026-13549",
     "name": "Bullpadel Vertex 05 GEO 2026",
     "brand": "Bullpadel",
@@ -15461,7 +15666,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1000,
+    "id": 999,
     "slug": "bullpadel-vertex-05-2026-13548",
     "name": "Bullpadel Vertex 05 2026",
     "brand": "Bullpadel",
@@ -15502,7 +15707,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1004,
+    "id": 1003,
     "slug": "zapatillas-adidas-crazyquick-ls-padel-w-lucid-lemon-2025-13536",
     "name": "Sapatilhas Adidas Crazyquick LS Padel W lucid lemon 2025",
     "brand": "Adidas Padel",
@@ -15543,7 +15748,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1010,
+    "id": 1009,
     "slug": "zapatillas-mizuno-wave-enforce-court-padel-vibrant-yellow-2025-13514",
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel vibrant yellow 2025",
     "brand": "Mizuno",
@@ -15584,7 +15789,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1012,
+    "id": 1011,
     "slug": "zapatillas-mizuno-wave-exceed-court-cc-white-calypso-coral-2025-13505",
     "name": "Sapatilhas Mizuno Wave Exceed Court CC white calypso coral 2025",
     "brand": "Mizuno",
@@ -15625,7 +15830,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1013,
+    "id": 1012,
     "slug": "zapatillas-mizuno-wave-exceed-court-cc-odyssey-gray-white-2025-13504",
     "name": "Sapatilhas Mizuno Wave Exceed Court CC odyssey gray white 2025",
     "brand": "Mizuno",
@@ -15666,7 +15871,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1017,
+    "id": 1016,
     "slug": "wilson-bela-pro-v3-2025-13466",
     "name": "Wilson Bela Pro V3 2025",
     "brand": "Wilson Padel",
@@ -15707,7 +15912,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1023,
+    "id": 1022,
     "slug": "paletero-babolat-hr-pro-padel-lebron-naranja-2026-13455",
     "name": "Saco Babolat HR Pro Padel Lebrón naranja 2026",
     "brand": "Babolat",
@@ -15748,7 +15953,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1024,
+    "id": 1023,
     "slug": "babolat-technical-veron-juan-lebron-3-0-2026-13447",
     "name": "Babolat Technical Veron Juan Lebron 3.0 2026",
     "brand": "Babolat",
@@ -15789,7 +15994,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1074,
+    "id": 1073,
     "slug": "babolat-alioth-pro-junior-2025-13310",
     "name": "Babolat Alioth Pro Junior 2025",
     "brand": "Babolat",
@@ -15830,7 +16035,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1091,
+    "id": 1090,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-white-orange-glow-2025-13265",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white orange glow 2025",
     "brand": "Asics",
@@ -15871,7 +16076,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1093,
+    "id": 1092,
     "slug": "zapatillas-asics-gel-challenger-15-padel-stone-wash-orange-glow-2025-13260",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025",
     "brand": "Asics",
@@ -15912,7 +16117,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1094,
+    "id": 1093,
     "slug": "zapatillas-asics-solution-swift-ff2-padel-orange-glow-cream-2025-13258",
     "name": "Sapatilhas Asics Solution Swift FF2 Padel orange glow cream 2025",
     "brand": "Asics",
@@ -15953,7 +16158,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1095,
+    "id": 1094,
     "slug": "zapatillas-asics-game-ff-clay-cream-bright-rose-2025-13253",
     "name": "Sapatilhas Asics Game FF Clay cream bright rose 2025",
     "brand": "Asics",
@@ -15994,7 +16199,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1096,
+    "id": 1095,
     "slug": "zapatillas-asics-gel-challenger-15-clay-cream-bright-rose-2025-13251",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay cream bright rose 2025",
     "brand": "Siux",
@@ -16035,7 +16240,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1097,
+    "id": 1096,
     "slug": "zapatillas-asics-solution-swift-ff2-clay-bright-rose-dark-cobalt-2025-13250",
     "name": "Sapatilhas Asics Solution Swift FF2 Clay bright rose dark cobalt 2025",
     "brand": "Asics",
@@ -16076,7 +16281,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1098,
+    "id": 1097,
     "slug": "zapatillas-asics-solution-speed-ff3-clay-white-bright-rose-2025-13249",
     "name": "Sapatilhas Asics Solution Speed FF3 Clay white bright rose 2025",
     "brand": "Asics",
@@ -16117,7 +16322,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1100,
+    "id": 1099,
     "slug": "nox-ml10-pro-cup-2025-13240",
     "name": "Nox ML10 Pro Cup 2025",
     "brand": "Nox",
@@ -16158,7 +16363,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1102,
+    "id": 1101,
     "slug": "zapatillas-asics-game-ff-padel-black-vivid-coral-2025-13234",
     "name": "Sapatilhas Asics Game FF Padel black vivid coral 2025",
     "brand": "Asics",
@@ -16199,7 +16404,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1103,
+    "id": 1102,
     "slug": "zapatillas-asics-solution-swift-ff2-padel-dark-cobalt-menthol-2025-13230",
     "name": "Sapatilhas Asics Solution Swift FF2 Padel dark cobalt menthol 2025",
     "brand": "Asics",
@@ -16240,7 +16445,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1106,
+    "id": 1105,
     "slug": "mochila-babolat-lite-azul-2026-13220",
     "name": "Mochila Babolat Lite azul 2026",
     "brand": "Babolat",
@@ -16281,7 +16486,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1107,
+    "id": 1106,
     "slug": "zapatillas-asics-game-ff-clay-white-black-2025-13217",
     "name": "Sapatilhas Asics Game FF Clay white black 2025",
     "brand": "Asics",
@@ -16322,7 +16527,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1108,
+    "id": 1107,
     "slug": "paletero-babolat-court-s-azul-2026-13216",
     "name": "Saco Babolat Court S azul 2026",
     "brand": "Babolat",
@@ -16363,7 +16568,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1109,
+    "id": 1108,
     "slug": "paletero-babolat-court-s-negro-2026-13215",
     "name": "Saco Babolat Court S negro 2026",
     "brand": "Babolat",
@@ -16404,7 +16609,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1110,
+    "id": 1109,
     "slug": "zapatillas-asics-game-ff-clay-black-white-2025-13214",
     "name": "Sapatilhas Asics Game FF Clay black white 2025",
     "brand": "Asics",
@@ -16445,7 +16650,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1111,
+    "id": 1110,
     "slug": "zapatillas-asics-solution-swift-ff2-clay-white-dark-cobalt-2025-13209",
     "name": "Sapatilhas Asics Solution Swift FF2 Clay white dark cobalt 2025",
     "brand": "Asics",
@@ -16486,7 +16691,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1166,
+    "id": 1165,
     "slug": "zapatillas-asics-gel-resolution-x-clay-night-energy-2025-13100",
     "name": "Sapatilhas Asics Gel Resolution X Clay night energy 2025",
     "brand": "Asics",
@@ -16527,7 +16732,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1220,
+    "id": 1219,
     "slug": "zapatillas-bullpadel-flow-25i-dark-blue-2025-13007",
     "name": "Sapatilhas Bullpadel Flow 25I dark blue 2025",
     "brand": "Bullpadel",
@@ -16568,7 +16773,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1221,
+    "id": 1220,
     "slug": "zapatillas-bullpadel-hybrid-fly-25i-steel-blue-2025-12999",
     "name": "Sapatilhas Bullpadel Hybrid Fly 25I steel blue 2025",
     "brand": "Bullpadel",
@@ -16609,7 +16814,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1222,
+    "id": 1221,
     "slug": "zapatillas-bullpadel-hybrid-fly-25i-white-orange-2025-12998",
     "name": "Sapatilhas Bullpadel Hybrid Fly 25I white orange 2025",
     "brand": "Bullpadel",
@@ -16650,7 +16855,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1223,
+    "id": 1222,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-maroon-white-2025-12997",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I maroon white 2025",
     "brand": "Bullpadel",
@@ -16691,7 +16896,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1224,
+    "id": 1223,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-steel-blue-2025-12996",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I steel blue 2025",
     "brand": "Bullpadel",
@@ -16732,7 +16937,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1225,
+    "id": 1224,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25i-dark-grey-2025-12995",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I dark grey 2025",
     "brand": "Bullpadel",
@@ -16773,7 +16978,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1226,
+    "id": 1225,
     "slug": "zapatillas-bullpadel-ionic-25i-royal-white-2025-12992",
     "name": "Sapatilhas Bullpadel Ionic 25I royal white 2025",
     "brand": "Bullpadel",
@@ -16814,7 +17019,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1227,
+    "id": 1226,
     "slug": "zapatillas-bullpadel-ionic-25i-dark-blue-2025-12991",
     "name": "Sapatilhas Bullpadel Ionic 25I dark blue 2025",
     "brand": "Bullpadel",
@@ -16855,7 +17060,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1228,
+    "id": 1227,
     "slug": "zapatillas-bullpadel-neuron-vibram-25i-navy-blue-2025-12989",
     "name": "Sapatilhas Bullpadel Neuron Vibram 25I navy blue 2025",
     "brand": "Bullpadel",
@@ -16896,48 +17101,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1230,
-    "slug": "zapatillas-adidas-courtquick-padel-w-ftwr-white-2025-12982",
-    "name": "Sapatilhas Adidas Courtquick Padel W ftwr white 2025",
-    "brand": "Adidas Padel",
-    "category": "sapatilhas",
-    "price": 54.91,
-    "oldPrice": 80,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/27042-large_default/zapatillas-adidas-courtquick-padel-w-ftwr-white-2025.jpg",
-    "ean": "4067907896750",
-    "productGTIN": "4067907896750",
-    "mpn": "12982",
-    "source": "zona-de-padel",
-    "sourceProductId": "12982",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
-    "description": "Las zapatillas Adidas Courtquick Padel W blancas 2025 están diseñadas para mujeres que buscan velocidad, ligereza y estabilidad sobre la pista de pádel. Su empeine textil y estructura Slingframe ofrecen sujeción sin añadir peso, permitiéndote moverte con libertad total. Además, la mediasuela Cloudfoam Plus mejora el confort con cada paso, amortiguando los impactos más exigentes del juego. Con un diseño estilizado y dinámico, las Adidas Courtquick Padel W blancas logo verde se adaptan perfectamente a los movimientos rápidos y laterales. Están confeccionadas con materiales reciclados, incorporando al menos un 20% de contenido sostenible. Su suela específica para pádel con tecnología Adiwear asegura tracción y durabilidad en cualquier tipo de superficie. Características y tecnologías de zapatillas Adidas Courtquick Padel Woman blancas y verdes Empeine textil y sintético: ligero y transpirable, ideal para mantener la agilidad en cada desplazamiento. Estructura Slingframe: aporta estabilidad y control en los giros y movimientos intensos. Mediasuela Cloudfoam Plus: proporciona amortiguación superior y una sensación de confort prolongado. Puntera Adituff: refuerza la zona delantera para mayor resistencia al desgaste en zonas de alta fricción. Suela Adiwear específica para pádel: garantiza excelente agarre y capacidad de deslizamiento sobre cualquier tipo de pista. Pertenece a la colección de zapatillas para mujer Adidas Pádel 2025. ¿Para quién es la Adidas Courtquick Padel Woman 2025? La Adidas Courtquick Padel W 2025 está pensada para jugadoras que buscan rapidez, agilidad y comodidad en cada partido. Perfecta para quienes priorizan un ajuste ligero con soporte firme en los cambios de ritmo. Recomendada para deportistas que entrenan o compiten con regularidad en pistas de pádel de todo tipo. Su diseño técnico la convierte en una aliada fiable para movimientos rápidos, giros precisos y desplazamientos laterales constantes. ¿Por qué te va a gustar zapatillas para mujer Courtquick Padel W JP7229? Estas zapatillas te encantarán por su equilibrio entre agilidad, estabilidad y confort. Incorporan tecnología Cloudfoam Plus, que mejora la experiencia de juego con una pisada más suave y receptiva. Además, su estructura ligera y materiales reciclados hacen de este modelo una opción ecológica sin sacrificar rendimiento. El diseño específico para pádel garantiza seguridad y libertad de movimiento en cada punto. Adidas, fundada en 1949, es líder mundial en innovación deportiva. Reconocida por su compromiso con el rendimiento y la sostenibilidad, desarrolla calzado técnico pensado para mejorar tu juego en cada detalle. Elegir Adidas es apostar por experiencia, calidad y futuro.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": "Branco",
-      "uso": "Intenso",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 54.91,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/adidas-padel/12982-zapatillas-adidas-courtquick-padel-w-ftwr-white-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1231,
+    "id": 1229,
     "slug": "zapatillas-bullpadel-vertex-vibram-25i-maroon-2025-12981",
     "name": "Sapatilhas Bullpadel Vertex Vibram 25I maroon 2025",
     "brand": "Bullpadel",
@@ -16978,7 +17142,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1239,
+    "id": 1237,
     "slug": "zapatillas-joma-spin-men-2602-white-2026-12923",
     "name": "Sapatilhas Joma Spin Men 2602 white 2026",
     "brand": "Joma",
@@ -17019,7 +17183,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1240,
+    "id": 1238,
     "slug": "zapatillas-joma-spin-men-2632-white-blue-2026-12919",
     "name": "Sapatilhas Joma Spin Men 2632 white blue 2026",
     "brand": "Joma",
@@ -17060,7 +17224,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1241,
+    "id": 1239,
     "slug": "zapatillas-joma-open-men-2609-yellow-2026-12912",
     "name": "Sapatilhas Joma Open Men 2609 yellow 2026",
     "brand": "Joma",
@@ -17101,7 +17265,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1242,
+    "id": 1240,
     "slug": "zapatillas-joma-slam-classic-2609-yellow-2026-12910",
     "name": "Sapatilhas Joma Slam Classic 2609 yellow 2026",
     "brand": "Joma",
@@ -17142,7 +17306,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1243,
+    "id": 1241,
     "slug": "zapatillas-joma-slam-classic-2602-white-2026-12908",
     "name": "Sapatilhas Joma Slam Classic 2602 white 2026",
     "brand": "Joma",
@@ -17183,7 +17347,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1244,
+    "id": 1242,
     "slug": "zapatillas-joma-slam-men-2632-white-2026-12906",
     "name": "Sapatilhas Joma Slam Men 2632 white 2026",
     "brand": "Joma",
@@ -17224,7 +17388,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1245,
+    "id": 1243,
     "slug": "zapatillas-joma-slam-men-2601-black-2026-12905",
     "name": "Sapatilhas Joma Slam Men 2601 black 2026",
     "brand": "Joma",
@@ -17265,7 +17429,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1248,
+    "id": 1246,
     "slug": "zapatillas-joma-spin-lady-2612-light-grey-2026-12862",
     "name": "Sapatilhas Joma Spin Lady 2612 light grey 2026",
     "brand": "Joma",
@@ -17306,7 +17470,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1249,
+    "id": 1247,
     "slug": "zapatillas-joma-slam-men-2615-green-2026-12860",
     "name": "Sapatilhas Joma Slam Men 2615 green 2026",
     "brand": "Joma",
@@ -17347,7 +17511,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1250,
+    "id": 1248,
     "slug": "paletero-lok-granite-a1padel-rojo-2025-12855",
     "name": "Saco Lok Granite A1Padel rojo 2025",
     "brand": "Lok",
@@ -17388,7 +17552,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1263,
+    "id": 1261,
     "slug": "siux-trilogy-go-5-2025-12784",
     "name": "Siux Trilogy Go 5 2025",
     "brand": "Siux",
@@ -17429,7 +17593,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1291,
+    "id": 1264,
+    "slug": "bote-pelotas-tecnifibre-padel-tour-12757",
+    "name": "Bote pelotas Tecnifibre Padel Tour",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 5.96,
+    "oldPrice": 7,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25196-large_default/bote-pelotas-tecnifibre-padel-tour.jpg",
+    "ean": "3490150149457",
+    "productGTIN": "3490150149457",
+    "mpn": "12757",
+    "source": "zona-de-padel",
+    "sourceProductId": "12757",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Disfruta del juego con el bote de pelotas Tecnifibre Padel Tour amarillas es la elección profesional para quienes exigen consistencia, durabilidad y confort en cada partido. Estas pelotas presurizadas han sido aprobadas por la Federación Española de Pádel y son utilizadas en competiciones oficiales, lo que las convierte en una referencia dentro del circuito profesional. Fabricadas con fieltro de lana de alta calidad, las Tecnifibre Padel Tour aseguran un excelente rendimiento en la pista, adaptándose tanto a jugadores exigentes como a clubes que necesitan pelotas fiables y resistentes. Su durabilidad y presión constante permiten intercambios fluidos, dinámicos y de alta intensidad sin perder la calidad del rebote. Características del bote pelotas Tecnifibre Padel Tour amarillas Pelota presurizada: ofrece un rebote constante y gran rendimiento incluso en partidos prolongados, ideal para competición. Fieltro de lana premium: aporta mayor comodidad al tacto y mejora la durabilidad de la pelota durante el uso intensivo. Aprobación oficial: homologadas por la Federación Española de Pádel, garantizando calidad profesional en cada partido. Formato práctico: disponible en tubo con 3 pelotas, perfecto para entrenamientos o torneos. Consistencia en cada golpe: fabricadas para mantener su presión y comportamiento desde el primer al último punto. Pertenece a la colección de accesorios Tecnifibre 2025. ¿A quién va dirigido? El bote de pelotas Tecnifibre Padel Tour está diseñado para jugadores exigentes, entrenadores y clubes que buscan una pelota profesional de alto rendimiento. Ideal para competiciones oficiales o partidos de entrenamiento con nivel técnico avanzado. ¿Por qué te va a gustar? Estas pelotas destacan por su gran durabilidad, tacto cómodo y comportamiento constante. Ofrecen una experiencia de juego fluida, permitiendo al jugador centrarse completamente en su estrategia sin preocuparse por la calidad del rebote. Gracias a su fieltro premium y presión estable, las Tecnifibre Padel Tour son perfectas para jugadores que valoran la precisión y estabilidad en cada punto, incluso en los intercambios más exigentes. Descubre más sobre la marca Tecnifibre Fundada en Francia en 1979, Tecnifibre nació como una marca especializada en cordajes y pronto se convirtió en un referente en deportes de raqueta por su enfoque técnico y de alto rendimiento. Sus productos han sido diseñados para satisfacer las necesidades más específicas de jugadores profesionales y amateurs avanzados. Hoy en día, Tecnifibre ofrece una gama completa de palas, pelotas y accesorios para pádel. Con un firme compromiso con la innovación y la calidad, la marca continúa evolucionando con tecnologías exclusivas como X-Speed y Reactiv Foam, posicionándose entre las mejores opciones del mercado actual.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/12757-bote-pelotas-tecnifibre-padel-tour.html"
+      }
+    ]
+  },
+  {
+    "id": 1289,
     "slug": "bolsa-joma-open-azul-lima-2025-12651",
     "name": "Bolsa Joma Open azul lima 2025",
     "brand": "Joma",
@@ -17470,7 +17675,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1354,
+    "id": 1352,
     "slug": "zapatillas-asics-game-ff-clay-indigo-fog-white-2025-12532",
     "name": "Sapatilhas Asics Game FF Clay indigo fog white 2025",
     "brand": "Asics",
@@ -17511,7 +17716,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1388,
+    "id": 1386,
     "slug": "zapatillas-wilson-intrigue-lite-navy-blaze-2025-12466",
     "name": "Sapatilhas Wilson Intrigue Lite navy blaze 2025",
     "brand": "Wilson Padel",
@@ -17552,7 +17757,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1401,
+    "id": 1399,
     "slug": "mochila-nox-pro-series-blanca-2025-12443",
     "name": "Mochila Nox Pro Series blanca 2025",
     "brand": "Nox",
@@ -17593,7 +17798,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1402,
+    "id": 1400,
     "slug": "paletero-nox-pro-series-blanco-2025-12442",
     "name": "Saco Nox Pro Series blanco 2025",
     "brand": "Nox",
@@ -17634,7 +17839,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1414,
+    "id": 1412,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25v-navy-2025-12371",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25V navy 2025",
     "brand": "Bullpadel",
@@ -17675,7 +17880,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1424,
+    "id": 1422,
     "slug": "wilson-defy-ls-v1-2025-12346",
     "name": "Wilson Defy LS V1 2025",
     "brand": "Wilson Padel",
@@ -17716,7 +17921,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1433,
+    "id": 1431,
     "slug": "zapatillas-puma-nova-court-red-dark-crimson-2025-12320",
     "name": "Sapatilhas Puma Nova Court red dark crimson 2025",
     "brand": "Puma",
@@ -17757,7 +17962,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1436,
+    "id": 1434,
     "slug": "paletero-head-coello-pro-x-duffle-bag-2025-12313",
     "name": "Saco Head Coello Pro X Duffle Bag 2025",
     "brand": "Head Padel",
@@ -17798,7 +18003,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1510,
+    "id": 1508,
     "slug": "wilson-defy-v1-2025-12117",
     "name": "Wilson Defy V1 2025",
     "brand": "Wilson Padel",
@@ -17839,7 +18044,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1513,
+    "id": 1511,
     "slug": "wilson-defy-pro-v1-2025-12111",
     "name": "Wilson Defy Pro V1 2025",
     "brand": "Wilson Padel",
@@ -17880,7 +18085,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1523,
+    "id": 1521,
     "slug": "zapatillas-bullpadel-premier-major-black-2025-12093",
     "name": "Sapatilhas Bullpadel Premier Major black 2025",
     "brand": "Bullpadel",
@@ -17921,7 +18126,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1543,
+    "id": 1541,
     "slug": "head-coello-team-2025-11997",
     "name": "Head Coello Team 2025",
     "brand": "Head Padel",
@@ -17962,7 +18167,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1544,
+    "id": 1542,
     "slug": "head-coello-motion-2025-11996",
     "name": "Head Coello Motion 2025",
     "brand": "Head Padel",
@@ -18003,7 +18208,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1545,
+    "id": 1543,
     "slug": "head-coello-pro-2025-11995",
     "name": "Head Coello Pro 2025",
     "brand": "Head Padel",
@@ -18044,7 +18249,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1546,
+    "id": 1544,
     "slug": "zapatillas-joma-slam-lady-2501-black-2025-11994",
     "name": "Sapatilhas Joma Slam Lady 2501 black 2025",
     "brand": "Joma",
@@ -18085,7 +18290,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1547,
+    "id": 1545,
     "slug": "head-speed-pro-x-2025-11985",
     "name": "Head Speed Pro X 2025",
     "brand": "Head Padel",
@@ -18126,7 +18331,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1548,
+    "id": 1546,
     "slug": "siux-valkiria-go-2025-11983",
     "name": "Siux Valkiria Go 2025",
     "brand": "Siux",
@@ -18167,7 +18372,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1549,
+    "id": 1547,
     "slug": "siux-electra-pro-st4-2025-11977",
     "name": "Siux Electra Pro ST4 2025",
     "brand": "Siux",
@@ -18208,7 +18413,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1551,
+    "id": 1549,
     "slug": "paletero-nox-ml10-team-blanco-gris-2025-11963",
     "name": "Saco Nox ML10 Team blanco gris 2025",
     "brand": "Nox",
@@ -18249,7 +18454,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1552,
+    "id": 1550,
     "slug": "paletero-nox-ml10-team-negro-azul-2025-11962",
     "name": "Saco Nox ML10 Team negro azul 2025",
     "brand": "Nox",
@@ -18290,7 +18495,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1553,
+    "id": 1551,
     "slug": "paletero-nox-ml10-team-negro-arcilla-2025-11961",
     "name": "Saco Nox ML10 Team negro arcilla 2025",
     "brand": "Nox",
@@ -18331,7 +18536,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1554,
+    "id": 1552,
     "slug": "mochila-head-pro-x-backpack-25l-negra-2025-11957",
     "name": "Mochila Head Pro X Backpack 25L negra 2025",
     "brand": "Head Padel",
@@ -18372,7 +18577,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1555,
+    "id": 1553,
     "slug": "zapatillas-wilson-rush-pro-4-5-clay-white-bosphorus-2025-11946",
     "name": "Sapatilhas Wilson Rush Pro 4.5 Clay white bosphorus 2025",
     "brand": "Wilson Padel",
@@ -18413,7 +18618,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1556,
+    "id": 1554,
     "slug": "zapatillas-joma-set-2543-turquoise-navy-2025-11944",
     "name": "Sapatilhas Joma Set 2543 turquoise navy 2025",
     "brand": "Joma",
@@ -18454,7 +18659,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1557,
+    "id": 1555,
     "slug": "paletero-babolat-rh-pro-padel-negro-2025-11930",
     "name": "Saco Babolat RH Pro Padel negro 2025",
     "brand": "Babolat",
@@ -18495,7 +18700,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1566,
+    "id": 1564,
     "slug": "mochila-head-pro-x-backpack-negra-gris-2025-11874",
     "name": "Mochila Head Pro X Backpack negra gris 2025",
     "brand": "Head Padel",
@@ -18536,7 +18741,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1567,
+    "id": 1565,
     "slug": "mochila-head-tour-backpack-25l-verde-2025-11873",
     "name": "Mochila Head Tour Backpack 25L verde 2025",
     "brand": "Head Padel",
@@ -18577,7 +18782,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1569,
+    "id": 1567,
     "slug": "paletero-adidas-control-3-4-naranja-2025-11860",
     "name": "Saco Adidas Control 3.4 naranja 2025",
     "brand": "Adidas Padel",
@@ -18618,7 +18823,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1570,
+    "id": 1568,
     "slug": "paletero-adidas-control-3-4-verde-2025-11858",
     "name": "Saco Adidas Control 3.4 Verde 2025",
     "brand": "Adidas Padel",
@@ -18659,7 +18864,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1571,
+    "id": 1569,
     "slug": "paletero-adidas-multigame-3-4-arena-2025-11854",
     "name": "Saco Adidas Multigame 3.4 Arena 2025",
     "brand": "Adidas Padel",
@@ -18700,7 +18905,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1572,
+    "id": 1570,
     "slug": "paletero-adidas-protour-3-4-negro-2025-11853",
     "name": "Saco Adidas Protour 3.4 negro 2025",
     "brand": "Adidas Padel",
@@ -18741,7 +18946,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1573,
+    "id": 1571,
     "slug": "paletero-head-base-padel-verde-2025-11850",
     "name": "Saco Head Base Padel verde 2025",
     "brand": "Head Padel",
@@ -18782,7 +18987,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1574,
+    "id": 1572,
     "slug": "paletero-head-base-padel-azul-marino-2025-11849",
     "name": "Saco Head Base Padel azul marino 2025",
     "brand": "Head Padel",
@@ -18823,7 +19028,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1575,
+    "id": 1573,
     "slug": "paletero-head-base-padel-negro-2025-11848",
     "name": "Saco Head Base Padel negro 2025",
     "brand": "Head Padel",
@@ -18864,7 +19069,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1580,
+    "id": 1578,
     "slug": "mochila-head-base-17l-verde-2025-11839",
     "name": "Mochila Head Base 17L verde 2025",
     "brand": "Head Padel",
@@ -18905,7 +19110,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1582,
+    "id": 1580,
     "slug": "mochila-head-base-17l-azul-marino-2025-11837",
     "name": "Mochila Head Base 17L azul marino 2025",
     "brand": "Head Padel",
@@ -18946,7 +19151,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1585,
+    "id": 1583,
     "slug": "mochila-head-base-17l-black-2025-11834",
     "name": "Mochila Head Base 17L black 2025",
     "brand": "Head Padel",
@@ -18987,7 +19192,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1593,
+    "id": 1591,
     "slug": "zapatillas-asics-solution-speed-ff-3-clay-light-ube-indigo-fog-2025-11809",
     "name": "Sapatilhas Asics Solution Speed FF 3 Clay light ube indigo fog 2025",
     "brand": "Asics",
@@ -19028,7 +19233,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1595,
+    "id": 1593,
     "slug": "zapatillas-babolat-movea-2-men-white-cyan-blue-2025-11796",
     "name": "Sapatilhas Babolat Movea 2 Men white cyan blue 2025",
     "brand": "Babolat",
@@ -19069,7 +19274,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1596,
+    "id": 1594,
     "slug": "zapatillas-babolat-jet-premura-2-men-black-tomato-red-2025-11791",
     "name": "Sapatilhas Babolat Jet Premura 2 Men black tomato red 2025",
     "brand": "Babolat",
@@ -19110,7 +19315,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1611,
+    "id": 1609,
     "slug": "siux-diablo-4-go-2025-11732",
     "name": "Siux Diablo 4 Go 2025",
     "brand": "Siux",
@@ -19151,7 +19356,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1612,
+    "id": 1610,
     "slug": "siux-diablo-4-elite-2025-11731",
     "name": "Siux Diablo 4 Elite 2025",
     "brand": "Siux",
@@ -19192,7 +19397,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1613,
+    "id": 1611,
     "slug": "siux-diablo-4-pro-2025-11730",
     "name": "Siux Diablo 4 Pro 2025",
     "brand": "Siux",
@@ -19233,7 +19438,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1623,
+    "id": 1621,
     "slug": "paletero-head-tour-l-green-2025-11662",
     "name": "Saco Head Tour L Green 2025",
     "brand": "Head Padel",
@@ -19274,7 +19479,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1624,
+    "id": 1622,
     "slug": "paletero-head-pro-x-l-duffle-negro-gris-2025-11658",
     "name": "Saco Head Pro X L Duffle Negro Gris 2025",
     "brand": "Head Padel",
@@ -19315,7 +19520,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1626,
+    "id": 1624,
     "slug": "paletero-head-pro-x-l-negro-2025-11656",
     "name": "Saco Head Pro X L negro 2025",
     "brand": "Head Padel",
@@ -19356,7 +19561,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1636,
+    "id": 1634,
     "slug": "zapatillas-asics-gel-dedicate-8-clay-light-blue-coast-2025-11610",
     "name": "Sapatilhas Asics Gel Dedicate 8 Clay light blue coast 2025",
     "brand": "Asics",
@@ -19397,7 +19602,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1637,
+    "id": 1635,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-black-energy-aqua-2025-11607",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel Black energy aqua 2025",
     "brand": "Asics",
@@ -19438,7 +19643,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1638,
+    "id": 1636,
     "slug": "zapatillas-asics-game-ff-padel-grey-blue-energy-aqua-2025-11604",
     "name": "Sapatilhas Asics Game FF Padel grey blue energy aqua 2025",
     "brand": "Asics",
@@ -19479,7 +19684,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1639,
+    "id": 1637,
     "slug": "zapatillas-asics-gel-challenger-14-clay-indigo-fog-white-2025-11590",
     "name": "Sapatilhas Asics Gel Challenger 14 Clay indigo fog white 2025",
     "brand": "Asics",
@@ -19520,7 +19725,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1640,
+    "id": 1638,
     "slug": "head-speed-team-2025-11586",
     "name": "Head Speed Team 2025",
     "brand": "Head Padel",
@@ -19561,7 +19766,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1645,
+    "id": 1643,
     "slug": "adidas-match-black-3-4-2025-11579",
     "name": "Adidas Match Black 3.4 2025",
     "brand": "Adidas Padel",
@@ -19602,7 +19807,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1647,
+    "id": 1645,
     "slug": "adidas-cross-it-3-4-2025-11565",
     "name": "Adidas Cross It 3.4 2025",
     "brand": "Adidas Padel",
@@ -19643,7 +19848,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1649,
+    "id": 1647,
     "slug": "paletero-bullpadel-bpp-25015-tour-azul-marino-2025-11550",
     "name": "Saco Bullpadel BPP-25015 Tour azul marino 2025",
     "brand": "Bullpadel",
@@ -19684,7 +19889,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1650,
+    "id": 1648,
     "slug": "paletero-nox-at10-team-blanco-2025-11533",
     "name": "Saco Nox AT10 Team blanco 2025",
     "brand": "Nox",
@@ -19725,7 +19930,130 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1654,
+    "id": 1649,
+    "slug": "cajon-pelotas-tecnifibre-padel-team-24x3-11529",
+    "name": "Cajón pelotas Tecnifibre Padel Team 24x3",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 94.91,
+    "oldPrice": 120,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21638-large_default/cajon-pelotas-tecnifibre-padel-team-24x3.jpg",
+    "ean": "3490150149464",
+    "productGTIN": "3490150149464",
+    "mpn": "11529",
+    "source": "zona-de-padel",
+    "sourceProductId": "11529",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "El Cajón de pelotas Tecnifibre Padel Team 24x3 es la elección ideal para quienes buscan calidad y cantidad en un mismo producto. Diseñado pensando en jugadores de pádel exigentes, este pack incluye 24 botes, cada uno con 3 pelotas, garantizando un suministro continuo para entrenamientos y partidos. Estas pelotas destacan por su excelente rebote, durabilidad superior y resistencia, lo que las convierte en una inversión ideal para clubes, escuelas de pádel o jugadores frecuentes. Además, el diseño presurizado asegura que las pelotas mantengan su rendimiento óptimo durante mucho tiempo. Con un color amarillo vibrante, ofrecen una visibilidad excepcional en cualquier tipo de pista, mejorando la experiencia de juego. La caja de gran capacidad es perfecta para quienes buscan eficiencia y comodidad al transportar y almacenar pelotas. El Cajón de pelotas Tecnifibre Padel Team 24x3 combina practicidad y rendimiento en un solo producto. Características Cajón pelotas Tecnifibre Padel Team amarillo Rebote constante y uniforme, ideal para mejorar la precisión en cada golpe. 24 botes con 3 pelotas cada uno, garantizando un suministro continuo para uso intensivo. Diseño presurizado que maximiza la vida útil y el rendimiento de las pelotas. Resistencia a impactos y humedad, perfecto para cualquier condición de juego. Pelotas en color amarillo brillante para una visibilidad excepcional en pista. Pertenece a la colección de accesorios Tecnifibre Pádel 2024. ¿A quién va dirigido? El Cajón de pelotas Tecnifibre Padel Team 24x3 está dirigido a clubes, escuelas de pádel y jugadores frecuentes que requieren pelotas de alta calidad y en grandes cantidades. Su resistencia y rendimiento las hacen perfectas para entrenamientos diarios o competiciones regulares. ¿Por qué te va a gustar? Te encantará la durabilidad y el rendimiento del Cajón de pelotas Tecnifibre Padel Team 24x3. Su diseño presurizado garantiza una experiencia de juego constante y de alta calidad, mientras que su presentación en caja es práctica para transportar y almacenar. Descubre más sobre la marca Tecnifibre Tecnifibre es una marca líder en deportes de raqueta, reconocida por su compromiso con la calidad e innovación. Desde su fundación, ha destacado por ofrecer productos diseñados para satisfacer las necesidades de jugadores profesionales y amateurs, con un enfoque en rendimiento y durabilidad. Con años de experiencia en el mercado, Tecnifibre ha consolidado su reputación como una marca de confianza. Su gama de accesorios, como las pelotas de pádel, está diseñada para maximizar el disfrute y el rendimiento en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 94.91,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/11529-cajon-pelotas-tecnifibre-padel-team-24x3.html"
+      }
+    ]
+  },
+  {
+    "id": 1650,
+    "slug": "pack-3-botes-pelotas-tecnifibre-padel-team-11528",
+    "name": "Pack 3 botes pelotas Tecnifibre Padel Team",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 12.96,
+    "oldPrice": 20,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21637-large_default/pack-3-botes-pelotas-tecnifibre-padel-team.jpg",
+    "ean": "1731496498208",
+    "productGTIN": "1731496498208",
+    "mpn": "11528",
+    "source": "zona-de-padel",
+    "sourceProductId": "11528",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Si buscas una solución práctica y de alto rendimiento para tus sesiones de pádel, el Pack de 3 botes de pelotas Tecnifibre Padel Team es la elección ideal. Cada bote contiene tres pelotas diseñadas para proporcionar un rebote uniforme y consistente, adaptándose a jugadores que exigen lo mejor en cada golpe. Estas pelotas presurizadas destacan por su gran durabilidad y resistencia, perfectas para largas sesiones de entrenamiento o intensos partidos competitivos. Gracias a su avanzada construcción, estas pelotas mantienen sus prestaciones incluso en condiciones adversas. El envase tubular con tapa de rosca asegura un almacenamiento seguro, protegiendo las pelotas de la humedad y prolongando su vida útil. Con un diseño en color amarillo brillante, garantizan una excelente visibilidad en cualquier tipo de pista. Este pack es una opción versátil y económica para garantizar que siempre estés listo para darlo todo en la pista de pádel. Características Pack 3 botes pelotas Tecnifibre Padel Team amarillo Rebote uniforme y consistente, ideal para mejorar la precisión y calidad de tu juego. Pelotas presurizadas de gran durabilidad, perfectas para entrenamientos y partidos intensos. Envase tubular con tapa de rosca para un almacenamiento seguro y cómodo. Alta resistencia a impactos y humedad, garantizando un rendimiento prolongado. Incluye tres botes con un total de nueve pelotas, ideales para uso continuo y prolongado. Pertenece a la colección de accesorios Tecnifibre Pádel 2024. ¿A quién va dirigido? El Pack de 3 botes de pelotas Tecnifibre Padel Team está pensado para jugadores de todos los niveles que buscan un producto fiable, económico y de alto rendimiento. Ideal para entrenamientos regulares y competiciones, ofreciendo un equilibrio perfecto entre calidad y funcionalidad. ¿Por qué te va a gustar? Te encantará la practicidad y durabilidad del Pack de 3 botes de pelotas Tecnifibre Padel Team. Con un diseño resistente y un rebote constante, estas pelotas garantizan una experiencia de juego de alta calidad y se convierten en un aliado indispensable para mejorar tu rendimiento. Descubre más sobre la marca Tecnifibre Tecnifibre es una marca líder en el mundo de los deportes de raqueta, reconocida por su enfoque en la innovación y la excelencia. Desde su creación, ha desarrollado productos de alta calidad que responden a las necesidades de jugadores profesionales y aficionados. Su compromiso con la durabilidad y el rendimiento ha consolidado a Tecnifibre como una referencia en el mercado internacional. La marca se dedica a ofrecer soluciones prácticas y eficientes que potencien la experiencia deportiva de sus usuarios.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 12.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/11528-pack-3-botes-pelotas-tecnifibre-padel-team.html"
+      }
+    ]
+  },
+  {
+    "id": 1651,
+    "slug": "bote-pelotas-tecnifibre-padel-team-11527",
+    "name": "Bote pelotas Tecnifibre Padel Team",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 7,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21636-large_default/bote-pelotas-tecnifibre-padel-team.jpg",
+    "ean": "3490150149471",
+    "productGTIN": "3490150149471",
+    "mpn": "11527",
+    "source": "zona-de-padel",
+    "sourceProductId": "11527",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Descubre las pelotas de pádel Tecnifibre Padel Team, diseñadas para ofrecer el mejor rendimiento en cada golpe. Estas pelotas están fabricadas con materiales de alta calidad, lo que garantiza una gran durabilidad incluso en condiciones intensas de juego. Gracias a su construcción presurizada, proporcionan un rebote uniforme y consistente, ideal para mejorar tu desempeño en la pista. El práctico diseño del envase tubular con tapa de rosca asegura un almacenamiento eficiente y seguro, manteniendo las pelotas en perfecto estado. Perfectas para jugadores exigentes, estas pelotas destacan por su resistencia al impacto y a la humedad, convirtiéndolas en una opción ideal tanto para sesiones de entrenamiento como para partidos competitivos. Además, el bote incluye tres pelotas de color amarillo brillante que aseguran una excelente visibilidad en cualquier pista de pádel. La combinación de rendimiento y durabilidad hace que estas pelotas sean una elección imprescindible para los amantes del pádel. Características Bote pelotas Tecnifibre Padel Team amarillo Envase tubular con base estable y tapa de rosca para un acceso cómodo y un almacenamiento seguro. Pelotas de alta durabilidad diseñadas para mantener un rendimiento excepcional durante más tiempo. Resistencia al impacto y a la humedad, ideales para diferentes condiciones de juego. Rebote uniforme gracias a su construcción presurizada, optimizando la precisión en los golpes. Incluye tres pelotas de color amarillo para una visibilidad óptima en cualquier pista. Pertenece a la colección de accesorios Tecnifibre Pádel 2024. ¿A quién va dirigido? Las pelotas Tecnifibre Padel Team están dirigidas a jugadores de pádel de todos los niveles que buscan un producto fiable, duradero y de alto rendimiento. Ideales tanto para principiantes como para profesionales que desean un juego fluido y consistente. ¿Por qué te va a gustar? Te encantará el equilibrio entre calidad y funcionalidad de las pelotas Tecnifibre Padel Team. Su resistencia y durabilidad garantizan largas sesiones de juego sin pérdida de prestaciones, mientras que su rebote uniforme mejora tu experiencia en la pista. Descubre más sobre la marca Tecnifibre Tecnifibre es una marca reconocida mundialmente por su innovación y compromiso con la calidad en productos deportivos. Desde su fundación, ha trabajado para ofrecer soluciones que optimicen el rendimiento de los atletas, combinando tecnología avanzada con diseños funcionales. Con una sólida presencia en deportes de raqueta, Tecnifibre destaca por su enfoque en la durabilidad y el rendimiento. Sus productos son utilizados por profesionales y aficionados en todo el mundo, reafirmando su posición como líder en la industria deportiva.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/tecnifibre/11527-bote-pelotas-tecnifibre-padel-team.html"
+      }
+    ]
+  },
+  {
+    "id": 1652,
     "slug": "paletero-bullpadel-bpp-25022-xplo-rojo-2025-11523",
     "name": "Saco Bullpadel BPP-25022 XPLO rojo 2025",
     "brand": "Bullpadel",
@@ -19766,7 +20094,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1707,
+    "id": 1695,
+    "slug": "pack-3-botes-pelotas-dunlop-fort-padel-11378",
+    "name": "Pack 3 botes pelotas Dunlop Fort Padel",
+    "brand": "Dunlop Padel",
+    "category": "acessorios",
+    "price": 17.96,
+    "oldPrice": 21,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21163-large_default/pack-3-botes-pelotas-dunlop-fort-padel.jpg",
+    "ean": "1729756807693",
+    "productGTIN": "1729756807693",
+    "mpn": "11378",
+    "source": "zona-de-padel",
+    "sourceProductId": "11378",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "El Pack 3 botes pelotas Dunlop Fort Padel es la opción ideal para jugadores que buscan rendimiento superior y durabilidad prolongada en cada partido. Desarrolladas con materiales de primera calidad, estas pelotas ofrecen un rebote excepcional y un control superior, permitiendo que tu juego sea más rápido y preciso. Este pack incluye tres botes de pelotas, asegurando que siempre tendrás pelotas frescas y listas para la acción en cada partido o entrenamiento. Gracias a su núcleo exclusivo y a su tejido sintético de alta calidad, estas pelotas Dunlop ofrecen una excelente resistencia al desgaste, lo que las convierte en la elección perfecta tanto para competiciones oficiales como para entrenamientos intensivos. Ya sea que estés en la pista de pádel para entrenar o participar en torneos, este pack de pelotas garantiza un juego rápido y espectacular en cada set. Características Pack 3 botes pelotas Dunlop Fort Padel amarillo Durabilidad superior: Fabricadas con materiales de alta resistencia, estas pelotas soportan el desgaste prolongado. Rebote optimizado: El rebote extra proporciona un juego rápido y dinámico, ideal para jugadores que buscan intensificar su ritmo en la pista. Núcleo de alta calidad: Ofrece estabilidad en los golpes, permitiendo un control y precisión excepcionales. Perfecto para entrenamientos y competiciones: Su rendimiento constante las convierte en una opción destacada tanto para torneos como para prácticas. Pertenece a la colección de accesorios Dunlop 2025. ¿A quién va dirigido? El Pack 3 botes pelotas Dunlop Fort Padel está dirigido a jugadores de pádel de todos los niveles que buscan un producto confiable para sus partidos y entrenamientos. Su durabilidad y excelente rendimiento las hacen ideales tanto para jugadores recreativos como para profesionales que necesitan pelotas de alto rendimiento. ¿Por qué te va a gustar? Te encantará el Pack 3 botes pelotas Dunlop Fort Padel porque combina durabilidad y rendimiento excepcionales, asegurando que puedas disfrutar de un juego rápido y controlado en todo momento. Su rebote extra y materiales de alta calidad garantizan una experiencia única en la pista, tanto en partidos como en entrenamientos. Descubre más sobre la marca Dunlop Dunlop ha sido durante años una de las marcas más reconocidas en el mundo del deporte, especialmente en tenis y pádel. Con una larga trayectoria, la marca sigue siendo pionera en la innovación y la calidad de sus productos. Cada pelota Dunlop está diseñada para ofrecer durabilidad y un rendimiento superior, siendo la elección de muchos jugadores profesionales y aficionados. La dedicación de la marca a la excelencia y la innovación tecnológica asegura que cada producto supere las expectativas tanto en entrenamientos como en competiciones oficiales.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 17.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/dunlop-padel/11378-pack-3-botes-pelotas-dunlop-fort-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 1696,
+    "slug": "bote-pelotas-dunlop-fort-padel-11377",
+    "name": "Bote pelotas Dunlop Fort Padel",
+    "brand": "Dunlop Padel",
+    "category": "acessorios",
+    "price": 6.96,
+    "oldPrice": 9,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21162-large_default/bote-pelotas-dunlop-fort-padel.jpg",
+    "ean": "045566304407",
+    "productGTIN": "045566304407",
+    "mpn": "11377",
+    "source": "zona-de-padel",
+    "sourceProductId": "11377",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "El Bote pelotas Dunlop Fort Padel es reconocido como una de las mejores opciones en el mercado del pádel gracias a su excelente durabilidad y materiales de primera calidad. Este bote de pelotas ha sido desarrollado para garantizar un rendimiento óptimo en la pista, ofreciendo una experiencia de juego rápida y espectacular. Con un rebote extra en comparación con otras pelotas de pádel, permite un ritmo más dinámico durante los partidos. Diseñadas con un núcleo exclusivo y tejido sintético de alta calidad, las pelotas Dunlop Fort Padel proporcionan una durabilidad excepcional, siendo ideales tanto para entrenamientos intensivos como para torneos de alto nivel. Disponible en un tubo de 3 pelotas, este producto se adapta perfectamente a jugadores que buscan una pelota resistente y de alto rendimiento en la pista. Características Bote pelotas Dunlop Fort Padel amarillo Materiales de primera calidad: Con un tejido sintético resistente que garantiza una mayor durabilidad. Rebote extra: Ofrecen un juego más rápido y dinámico que otras pelotas de pádel convencionales. Núcleo exclusivo: Diseñado para proporcionar una estabilidad y control excepcionales durante los partidos. Perfectas para torneos y entrenamientos: Su durabilidad y rendimiento las hacen ideales tanto para competiciones como para sesiones de formación en academias. Pertenece a la colección de accesorios Dunlop 2025. ¿A quién va dirigido? El Bote pelotas Dunlop Fort Padel está dirigido a jugadores de pádel de todos los niveles, desde principiantes hasta profesionales, que buscan rendimiento y durabilidad en cada partido. Estas pelotas son ideales para quienes desean mantener un ritmo de juego rápido y consistente en cada set. ¿Por qué te va a gustar? Te encantará el Bote pelotas Dunlop Fort Padel por su excelente durabilidad y rendimiento inigualable en la pista. Su rebote extra proporciona una ventaja significativa para un juego más dinámico y veloz, permitiéndote sobresalir en cada partido. Además, su núcleo exclusivo asegura una sensación de control total durante los golpes, lo que la convierte en una pelota de referencia en el mundo del pádel. Descubre más sobre la marca Dunlop Dunlop es una marca líder en el mundo del deporte, conocida por la calidad y durabilidad de sus productos tanto en tenis como en pádel. Con años de experiencia en el desarrollo de pelotas y accesorios de alta gama, Dunlop se ha ganado la confianza de jugadores de todos los niveles. Su compromiso con la innovación y el rendimiento hace que cada producto de la marca esté diseñado para ofrecer lo mejor en la pista. Disfruta del mejor rendimiento en pista con la nueva colección de productos para jugar a pádel Dunlop ¡no te decepcionará!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 6.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/dunlop-padel/11377-bote-pelotas-dunlop-fort-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 1705,
     "slug": "mochila-head-pro-x-backpack-gris-negra-2024-11345",
     "name": "Mochila Head Pro X Backpack gris negra 2024",
     "brand": "Head Padel",
@@ -19807,7 +20217,130 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1728,
+    "id": 1707,
+    "slug": "cajon-pelotas-head-padel-pro-24x3-11335",
+    "name": "Cajon pelotas Head Padel Pro+ 24X3",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 109.95,
+    "oldPrice": 171,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21143-large_default/cajon-pelotas-head-padel-pro.jpg",
+    "ean": "1729241061241",
+    "productGTIN": "1729241061241",
+    "mpn": "11335",
+    "source": "zona-de-padel",
+    "sourceProductId": "11335",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "El Cajón de pelotas HEAD Padel Pro+ 24x3 es la solución definitiva para los jugadores y entrenadores que buscan abastecerse de pelotas premium para entrenamientos intensivos y competiciones de alto nivel. Este cajón incluye 24 botes con 3 pelotas cada uno, asegurando una provisión continua de pelotas de la más alta calidad, diseñadas específicamente para ofrecer un control excelente y durabilidad prolongada en cualquier tipo de pista. La HEAD Padel Pro+ es reconocida por su rendimiento superior y estabilidad en cada golpe, proporcionando a los jugadores la confianza que necesitan para jugar a su mejor nivel. Con un diseño en color amarillo brillante, estas pelotas ofrecen una visibilidad óptima en la pista, lo que permite una mejor concentración durante el juego. El Cajón HEAD Padel Pro+ 24x3 no solo garantiza una cantidad generosa de pelotas de alta gama, sino que también proporciona un ahorro significativo a largo plazo, ideal para clubes de pádel, entrenadores o jugadores avanzados que requieren un suministro constante de pelotas profesionales. Características del Cajón pelotas Head Padel Pro+ 24X3 en amarillo Cajón con 24 botes, cada uno con 3 pelotas, diseñado para un abastecimiento continuo. Pelotas de alto rendimiento que ofrecen un control superior y durabilidad excepcional en todo tipo de superficies. Color amarillo vibrante que mejora la visibilidad en la pista, ideal para entrenamientos y competiciones. Durabilidad optimizada para mantener un rendimiento consistente durante más tiempo, sin comprometer la calidad del juego. Perfecto para clubes, entrenadores o jugadores que necesitan un suministro constante de pelotas de alta calidad. Pertenece a la colección de accesorios HEAD 2024. ¿A quién va dirigido? El Cajón de pelotas HEAD Padel Pro+ 24x3 está dirigido a clubes de pádel, entrenadores y jugadores que buscan una solución a largo plazo para sus necesidades de pelotas premium. Ya sea para sesiones de entrenamiento exigentes o para competiciones profesionales, este cajón es ideal para quienes valoran la consistencia, el control y la durabilidad de sus pelotas. ¿Por qué te va a gustar? Te encantará el Cajón de pelotas HEAD Padel Pro+ 24x3 porque te ofrece un suministro constante de pelotas de la más alta calidad a un precio accesible. Con 24 botes, tendrás suficiente para cubrir un gran número de partidos o entrenamientos sin preocuparte por quedarte sin pelotas. Además, la calidad excepcional de estas pelotas garantiza que cada bote sea consistente, manteniendo el nivel de rendimiento que necesitas en la pista. Descubre más sobre la marca HEAD HEAD es una marca que se ha consolidado como líder en el mundo del pádel gracias a su innovación constante y su compromiso con la calidad. Desde sus inicios, ha trabajado en la creación de productos diseñados para mejorar el rendimiento de los jugadores, y su gama de pelotas no es la excepción. Disfruta de un rendimiento superior en pista con los productos de Head para pádel. A lo largo de los años, HEAD ha sido sinónimo de excelencia y rendimiento en la pista. Los jugadores que eligen productos HEAD saben que están confiando en una marca que entiende sus necesidades y que ofrece soluciones de calidad diseñadas para sacar lo mejor de su juego.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 109.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11335-cajon-pelotas-head-padel-pro.html"
+      }
+    ]
+  },
+  {
+    "id": 1708,
+    "slug": "pack-3-botes-pelotas-head-padel-pro-11334",
+    "name": "Pack 3 botes pelotas Head Padel Pro+",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 12.96,
+    "oldPrice": 20,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21142-large_default/pack-3-botes-pelotas-head-padel-pro.jpg",
+    "ean": "1729240720576",
+    "productGTIN": "1729240720576",
+    "mpn": "11334",
+    "source": "zona-de-padel",
+    "sourceProductId": "11334",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "El Pack de 3 botes de pelotas HEAD Padel Pro+ es la opción perfecta para aquellos jugadores de pádel que buscan un rendimiento superior y una durabilidad inigualable en cada partida. Este pack incluye tres botes de pelotas de la más alta calidad, ideales tanto para entrenamientos intensivos como para competiciones de alto nivel. Diseñadas para ofrecer un control excelente y una gran precisión en cada golpe, estas pelotas han sido fabricadas con los mejores materiales, lo que garantiza una experiencia de juego óptima en todo momento. Con su característico color amarillo vibrante, las pelotas HEAD Padel Pro+ proporcionan una visibilidad excelente, permitiéndote mantener un seguimiento perfecto del juego en todo momento. Gracias a su durabilidad, podrás disfrutar de estas pelotas durante mucho más tiempo sin comprometer su rendimiento. Además, su diseño ha sido perfeccionado para que cada bote sea consistente y te permita ejecutar tus mejores golpes con total confianza. Características del Pack 3 botes pelotas Head Padel Pro+ amarillas Pack de 3 botes, ideal para tener un suministro duradero de pelotas premium. Ofrecen un control preciso y una alta durabilidad en cada golpe. Visibilidad excepcional gracias a su color amarillo vibrante. Fabricadas con materiales de alta calidad para un rendimiento consistente y duradero. Adecuadas tanto para entrenamientos intensivos como para competiciones profesionales. Pertenece a la colección de accesorios HEAD 2024. ¿A quién va dirigido? Este Pack de 3 botes de pelotas HEAD Padel Pro+ está dirigido a jugadores de todos los niveles que deseen contar con pelotas de máxima calidad durante sus sesiones de entrenamiento o partidos. Desde aficionados que buscan mejorar su juego hasta profesionales que necesitan consistencia y control, este pack es la elección perfecta para cualquiera que se tome en serio el pádel. ¿Por qué te va a gustar? Te encantará el Pack de 3 botes de pelotas HEAD Padel Pro+ porque garantiza que siempre tendrás pelotas de alta calidad listas para el juego. Su larga duración, sumada al control excepcional que ofrecen, hará que cada golpe sea más preciso y consistente. Además, su color amarillo te proporciona una visibilidad perfecta, lo que te permitirá concentrarte completamente en tu rendimiento. Descubre más sobre la marca HEAD HEAD es una marca líder en el mundo del pádel, conocida por su constante innovación y su compromiso con la calidad. Desde hace años, la marca ha destacado en la creación de equipamiento deportivo de alto rendimiento, diseñado para satisfacer las necesidades de los jugadores más exigentes. Con la nueva colección de productos para pádel Head, la marca reafirma su compromiso con la excelencia, proporcionando productos que aseguran un juego de calidad tanto en entrenamientos como en torneos. A lo largo de su trayectoria, HEAD ha sido reconocida por ofrecer productos que maximizan el rendimiento en pista, ayudando a los jugadores a desarrollar su mejor nivel de juego en cada encuentro.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 12.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11334-pack-3-botes-pelotas-head-padel-pro.html"
+      }
+    ]
+  },
+  {
+    "id": 1709,
+    "slug": "bote-pelotas-head-padel-pro-11333",
+    "name": "Bote pelotas Head Padel Pro+",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 5.51,
+    "oldPrice": 6.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21141-large_default/bote-pelotas-head-padel-pro.jpg",
+    "ean": "072489402033",
+    "productGTIN": "072489402033",
+    "mpn": "11333",
+    "source": "zona-de-padel",
+    "sourceProductId": "11333",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Las pelotas HEAD Padel Pro+ son el complemento ideal para cualquier jugador que busque rendimiento y durabilidad en cada golpe. Fabricadas con los mejores materiales, estas pelotas ofrecen un control excepcional en la pista, permitiéndote ejecutar tus mejores golpes con precisión. Su construcción premium garantiza una larga duración, lo que las convierte en una excelente elección tanto para entrenamientos como para competiciones. Su color amarillo vibrante asegura una visibilidad óptima en todo momento. Estas pelotas están diseñadas para satisfacer las necesidades de los jugadores más exigentes, brindando un rendimiento constante y una experiencia de juego de alta calidad. La combinación de control, durabilidad y visibilidad hace que las pelotas HEAD Padel Pro+ se destaquen en la pista, asegurando que siempre estés listo para dar lo mejor de ti. ¡No lo dudes más y eleva tu juego con este producto de alta gama! Características del bote de pelotas Head Padel Pro+ amarillas Pelotas premium diseñadas para ofrecer un control excepcional y durabilidad. Visibilidad mejorada gracias a su vibrante color amarillo. Materiales de alta calidad que garantizan un rendimiento constante en la pista. Ideales para jugadores exigentes que buscan la máxima precisión en sus golpes. Durabilidad prolongada para su uso en entrenamientos y competiciones. Pertenece a la colección de accesorios HEAD 2024. ¿A quién va dirigido? Las pelotas HEAD Padel Pro+ están dirigidas a jugadores de pádel que buscan un producto de alto rendimiento que combine control, durabilidad y una excelente visibilidad. Ideales tanto para profesionales como para aficionados que desean mejorar su juego con pelotas de calidad superior. ¿Por qué te va a gustar? Te van a encantar las pelotas HEAD Padel Pro+ porque ofrecen el equilibrio perfecto entre control y durabilidad, permitiendo que tus golpes sean precisos en cada partido. Además, su color amarillo te asegura una visibilidad óptima en todo momento, lo que te permitirá enfocarte completamente en tu rendimiento. Descubre más sobre la marca HEAD HEAD es una marca reconocida mundialmente por su innovación en la fabricación de equipamiento deportivo. Desde sus inicios, ha destacado por ofrecer productos de alta calidad que ayudan a los jugadores a maximizar su rendimiento en la pista. Las pelotas HEAD Padel Pro+ son un reflejo del compromiso de la marca con la excelencia y la durabilidad, asegurando que tanto aficionados como profesionales disfruten de la mejor experiencia de juego. Con una larga trayectoria en el mundo del deporte, HEAD continúa siendo un referente en el sector, proporcionando equipamiento que cumple con las más altas expectativas de calidad y rendimiento.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11333-bote-pelotas-head-padel-pro.html"
+      }
+    ]
+  },
+  {
+    "id": 1726,
     "slug": "nox-at10-genius-18k-alum-agustin-tapia-2025-11231",
     "name": "Nox AT10 Genius 18K Alum Agustin Tapia 2025",
     "brand": "Nox",
@@ -19848,7 +20381,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1733,
+    "id": 1727,
+    "slug": "pack-3-botes-pelotas-head-padel-pro-s-11219",
+    "name": "Pack 3 botes pelotas Head Padel Pro S+",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 14.96,
+    "oldPrice": 21,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/20767-large_default/pack-3-botes-pelotas-head-padel-pro-s.jpg",
+    "ean": "1726651580386",
+    "productGTIN": "1726651580386",
+    "mpn": "11219",
+    "source": "zona-de-padel",
+    "sourceProductId": "11219",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "El Pack 3 botes pelotas Head Padel Pro S+ amarillo es la opción perfecta para los jugadores que buscan velocidad, potencia y durabilidad en la pista de pádel. Este pack incluye tres botes de pelotas de alta calidad, cada uno con pelotas diseñadas para ofrecer un juego rápido gracias a su núcleo mejorado y mayor rebote. Con este pack conseguirás un rendimiento superior, ya que estas pelotas están fabricadas para mantener su presión durante más tiempo, permitiendo intercambios más dinámicos y eficientes. El fieltro exclusivo de estas pelotas, desarrollado especialmente para pádel, no solo mejora la resistencia y la durabilidad del producto, sino que también proporciona una experiencia de juego suave y precisa. Gracias al nuevo diseño sostenible del bote, que incluye un 35 % de PET reciclado, este pack no solo mejora tu rendimiento en la pista, sino que también contribuye al cuidado del medio ambiente, haciendo de este un producto que combina rendimiento y responsabilidad ecológica. Características pack 3 botes pelotas Head Padel Pro S+ amarillo Están diseñadas para ofrecer un juego más rápido y dinámico, ideal para jugadores que buscan intercambios potentes. Núcleo mejorado: El núcleo mantiene la presión durante más tiempo, asegurando que las pelotas mantengan un rendimiento constante en cada partido. A la venta en pack de 3 unidades, cada bota con 3 pelotas. Fieltro especializado para pádel mejora la durabilidad, permitiendo más horas de juego con pelotas que mantienen su calidad. Diseño sostenible: El bote contiene un 35 % de PET reciclado, reduciendo el impacto medioambiental. Pertenece a la colección de accesorios Head Padel 2024. ¿A quién va dirigido? El pack de Head Padel Pro S+ está dirigido a jugadores de nivel intermedio y avanzado que buscan mejorar su rendimiento en la pista. Ideal para quienes necesitan pelotas de alta durabilidad y que ofrezcan una mayor velocidad y potencia en cada golpe. ¿Por qué te va a gustar? Te encantará porque ofrece la combinación perfecta entre rendimiento y sostenibilidad. Disfrutarás de pelotas duraderas que mantienen su presión y rebote por más tiempo, mientras contribuyes al cuidado del medio ambiente gracias a su diseño ecológico y reciclable. Un pack pensado para los jugadores que exigen lo mejor en la pista. Descubre más sobre la marca Head Head es un referente en el mundo del deporte, conocido por su innovación y calidad en productos de alto rendimiento. Desde su fundación, ha estado a la vanguardia del desarrollo tecnológico, proporcionando a los deportistas los mejores productos para mejorar su juego. Especialmente en el ámbito del pádel, la marca ha diseñado soluciones innovadoras como las pelotas Head Padel Pro S+, que combinan velocidad, durabilidad y sostenibilidad, ofreciendo una experiencia de juego única. Con décadas de experiencia y un enfoque en la excelencia, Head continúa liderando el mercado con productos que no solo mejoran el rendimiento de los jugadores, sino que también son responsables con el medio ambiente. Su compromiso con la innovación se refleja en cada uno de sus productos, diseñados para satisfacer las demandas de los jugadores más exigentes.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 14.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11219-pack-3-botes-pelotas-head-padel-pro-s.html"
+      }
+    ]
+  },
+  {
+    "id": 1728,
+    "slug": "bote-pelotas-head-padel-pro-s-11218",
+    "name": "Bote pelotas Head Padel Pro S+",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 5.51,
+    "oldPrice": 6.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/20766-large_default/bote-pelotas-head-padel-pro-s.jpg",
+    "ean": "072489403030",
+    "productGTIN": "072489403030",
+    "mpn": "11218",
+    "source": "zona-de-padel",
+    "sourceProductId": "11218",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "El bote de pelotas Head Padel Pro S+ amarillo es la opción ideal para jugadores que buscan llevar su juego al siguiente nivel. Estas pelotas están diseñadas con un núcleo de goma de nueva fórmula que mantiene su presión durante más tiempo, lo que se traduce en un juego más rápido y dinámico. Con un mayor rebote y dureza, el modelo Pro S+ facilita realizar golpes potentes, como el x3 y x4, permitiendo a los jugadores lograr más velocidad en la pista. Además, su fieltro exclusivo, desarrollado específicamente para pádel, mejora la durabilidad de la pelota, garantizando un rendimiento óptimo durante más tiempo. Para los jugadores más exigentes, estas pelotas ofrecen no solo rendimiento, sino también un enfoque más sostenible. El nuevo diseño del bote es más fácil de reciclar, con un 35 % de PET reciclado, lo que contribuye a reducir el impacto medioambiental. La innovación de Head en este producto no solo se limita a mejorar el juego, sino también a ofrecer una opción ecológica y duradera para quienes disfrutan del pádel a nivel competitivo. Características bote pelotas Head Padel Pro S+ amarillo Juego más rápido: Gracias a su mayor dureza y rebote, estas pelotas permiten intercambios más rápidos y potentes en la pista de pádel. El núcleo ha sido diseñado para mantener la presión durante más tiempo, lo que aumenta la durabilidad de la pelota. Fieltro exclusivo para pádel: El fieltro ha sido desarrollado exclusivamente para pádel, mejorando la resistencia y el rendimiento durante los partidos. A la venta en botes de 3 unidades. Diseño sostenible: El bote está fabricado con un 35 % de PET reciclado y un nuevo diseño que facilita el reciclaje. Pertenece a la colección de accesorios Head Padel 2024. ¿A quién va dirigido? Están dirigidas a jugadores de pádel de nivel intermedio y avanzado que buscan un rendimiento superior en la pista. Son perfectas para quienes desean maximizar la velocidad y potencia en cada golpe, y para aquellos que valoran la durabilidad de una pelota de competición de alta calidad. ¿Por qué te va a gustar? Te encantarán porque ofrecen una combinación de velocidad, potencia y durabilidad inigualables. Las Head Padel Pro S+ no solo mejoran tu rendimiento en la pista, sino que también cuentan con un diseño sostenible que las convierte en una opción respetuosa con el medio ambiente. Ideal para jugadores que buscan llevar su juego al máximo nivel sin comprometer la calidad ni la responsabilidad ambiental. Descubre más sobre la marca Head Head es una marca líder en el mundo del deporte, reconocida por su innovación y calidad en productos deportivos de alto rendimiento. Desde su fundación en 1950, ha sido pionera en el desarrollo de tecnologías avanzadas para mejorar la experiencia deportiva, tanto en tenis como en pádel. La marca ha crecido hasta convertirse en un referente mundial gracias a su compromiso con la excelencia y su capacidad para adaptarse a las demandas de los deportistas más exigentes. En el ámbito del pádel, Head ha destacado por ofrecer productos que mejoran la técnica y el rendimiento de los jugadores. Con una atención meticulosa a los detalles, la marca continúa innovando con productos combinan lo mejor en tecnología y sostenibilidad para brindar una experiencia única en la pista de pádel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11218-bote-pelotas-head-padel-pro-s.html"
+      }
+    ]
+  },
+  {
+    "id": 1731,
     "slug": "mochila-bullpadel-bpm25021-pearl-blanco-2024-11186",
     "name": "Mochila Bullpadel BPM25021 Pearl blanco 2024",
     "brand": "Bullpadel",
@@ -19889,7 +20504,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1768,
+    "id": 1746,
+    "slug": "bote-pelotas-siux-neo-x-3-11087",
+    "name": "Bote pelotas Siux Neo x 3",
+    "brand": "Siux",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 6,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32012-large_default/bote-pelotas-siux-neo-x-3.jpg",
+    "ean": "8436625200822",
+    "productGTIN": "8436625200822",
+    "mpn": "11087",
+    "source": "zona-de-padel",
+    "sourceProductId": "11087",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Explora la excelencia en el juego con el bote de pelotas Siux Neo x 3, diseñado para enfrentar los desafíos de las altas temperaturas en la pista. Perfecto para partidos intensos, este conjunto de pelotas garantiza un rendimiento constante y una durabilidad excepcional, lo que te permite concentrarte en cada golpe sin distracciones por desgaste. Con una formulación específica que optimiza el rebote y la velocidad, las pelotas Siux Neo son la elección ideal para jugadores que buscan mantener la intensidad en juegos prolongados bajo el sol. Su composición avanzada resiste la pérdida de presión y asegura una jugabilidad superior en condiciones extremas. Características Bote pelotas Siux Neo x 3 amarillo Diseñadas para adaptarse a las condiciones de alta temperatura, manteniendo un rendimiento óptimo. Fabricadas con un núcleo que proporciona gran rebote y resistencia a la compresión. Superficie de gran dureza para un juego más rápido y ágil. Resistentes a la pérdida de presión, ideales para uso continuado. Bote de 3 unidades. Pertenece a la colección de accesorios Siux 2024, ofreciendo lo último en tecnología para el pádel. ¿A quién va dirigido? Este bote de pelotas Siux está dirigido a jugadores de pádel de todos los niveles que enfrentan condiciones de juego calurosas y desean mantener un alto nivel de juego con pelotas diseñadas para el máximo rendimiento. ¿Por qué te va a gustar? Te encantarán estas pelotas porque están diseñadas para ofrecerte durabilidad y consistencia en el juego, permitiéndote disfrutar de partidos largos y exigentes sin preocuparte por el desgaste de las pelotas. De esta forma, no tendrás que cambiar de pelotas tan a menudo. Descubre más sobre la marca Siux Siux se ha establecido como un líder en el mercado de pádel, ofreciendo productos que integran innovaciones técnicas para mejorar la experiencia del jugador. Desde su fundación, Siux ha priorizado la calidad y el rendimiento, colaborando estrechamente con profesionales del deporte para desarrollar equipos que satisfacen las demandas de jugadores en todos los niveles de habilidad. Comprometidos con la innovación y la calidad, Siux continúa expandiendo su gama de productos, asegurando que cada artículo cumpla con los más altos estándares de excelencia y satisfaga las necesidades específicas de los jugadores de pádel modernos.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/11087-bote-pelotas-siux-neo-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1766,
     "slug": "head-gravity-team-light-2025-11032",
     "name": "Head Gravity Team Light 2025",
     "brand": "Head Padel",
@@ -19930,7 +20586,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1769,
+    "id": 1767,
     "slug": "head-gravity-team-2025-11031",
     "name": "Head Gravity Team 2025",
     "brand": "Head Padel",
@@ -19971,7 +20627,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1770,
+    "id": 1768,
     "slug": "head-gravity-motion-2025-11030",
     "name": "Head Gravity Motion 2025",
     "brand": "Head Padel",
@@ -20012,7 +20668,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1771,
+    "id": 1769,
     "slug": "head-gravity-pro-2025-11029",
     "name": "Head Gravity Pro 2025",
     "brand": "Head Padel",
@@ -20053,7 +20709,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1774,
+    "id": 1772,
     "slug": "star-vie-brava-pro-15k-2025-11016",
     "name": "Star Vie Brava Pro 15k 2025",
     "brand": "Star Vie",
@@ -20094,7 +20750,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1825,
+    "id": 1823,
     "slug": "mochila-lok-maxx-blanca-2024-10883",
     "name": "Mochila Lok Maxx blanca 2024",
     "brand": "Lok",
@@ -20135,7 +20791,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1826,
+    "id": 1824,
     "slug": "mochila-lok-maxx-negra-2024-10882",
     "name": "Mochila Lok Maxx negra 2024",
     "brand": "Lok",
@@ -20176,7 +20832,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1827,
+    "id": 1825,
     "slug": "mochila-lok-adventure-azul-2024-10880",
     "name": "Mochila Lok Adventure azul 2024",
     "brand": "Lok",
@@ -20217,7 +20873,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1828,
+    "id": 1826,
     "slug": "joma-slam-pro-a1-blanco-oro-2024-10874",
     "name": "Joma Slam Pro A1 blanco oro 2024",
     "brand": "Joma",
@@ -20258,7 +20914,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1829,
+    "id": 1827,
     "slug": "bullpadel-xplo-comfort-2025-10856",
     "name": "Bullpadel XPlo Comfort 2025",
     "brand": "Bullpadel",
@@ -20299,7 +20955,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1833,
+    "id": 1831,
     "slug": "zapatillas-babolat-sensa-women-grey-white-2024-10834",
     "name": "Sapatilhas Babolat Sensa Women grey white 2024",
     "brand": "Babolat",
@@ -20340,7 +20996,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1872,
+    "id": 1870,
     "slug": "wilson-blade-v3-2024-10656",
     "name": "Wilson Blade V3 2024",
     "brand": "Wilson Padel",
@@ -20381,7 +21037,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1876,
+    "id": 1874,
     "slug": "paletero-nox-street-series-gris-rosa-10633",
     "name": "Saco Nox Street Series gris rosa",
     "brand": "Nox",
@@ -20422,7 +21078,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1877,
+    "id": 1875,
     "slug": "paletero-nox-street-series-azul-10632",
     "name": "Saco Nox Street Series azul",
     "brand": "Nox",
@@ -20463,7 +21119,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1878,
+    "id": 1876,
     "slug": "paletero-nox-street-series-negro-gris-10631",
     "name": "Saco Nox Street Series negro gris",
     "brand": "Nox",
@@ -20504,7 +21160,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1880,
+    "id": 1878,
     "slug": "mochila-nox-at10-team-gris-10604",
     "name": "Mochila Nox AT10 Team gris",
     "brand": "Nox",
@@ -20545,7 +21201,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1890,
+    "id": 1888,
     "slug": "paletero-nox-at10-team-gris-naranja-2024-10576",
     "name": "Saco Nox AT10 Team gris naranja 2024",
     "brand": "Nox",
@@ -20586,7 +21242,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1893,
+    "id": 1891,
     "slug": "paletero-nox-at10-team-gris-verde-2024-10569",
     "name": "Saco Nox AT10 Team gris verde 2024",
     "brand": "Nox",
@@ -20627,7 +21283,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1897,
+    "id": 1895,
     "slug": "paletero-nox-ml10-competition-xl-compact-10561",
     "name": "Saco Nox ML10 Competition XL Compact",
     "brand": "Nox",
@@ -20668,7 +21324,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1901,
+    "id": 1899,
     "slug": "paletero-nox-at10-competition-xl-compact-10557",
     "name": "Saco Nox AT10 Competition XL Compact",
     "brand": "Nox",
@@ -20709,7 +21365,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1902,
+    "id": 1900,
     "slug": "paletero-nox-at10-xxl-negro-naranja-10555",
     "name": "Saco Nox AT10 XXL negro naranja",
     "brand": "Nox",
@@ -20750,7 +21406,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1911,
+    "id": 1909,
     "slug": "mochila-nox-luxury-open-series-negra-marron-10539",
     "name": "Mochila Nox Luxury Open Series negra marron",
     "brand": "Nox",
@@ -20791,7 +21447,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1912,
+    "id": 1910,
     "slug": "mochila-nox-luxury-open-series-roja-negra-10538",
     "name": "Mochila Nox Luxury Open Series roja negra",
     "brand": "Nox",
@@ -20832,7 +21488,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1913,
+    "id": 1911,
     "slug": "paletero-nox-luxury-open-series-negro-marron-10534",
     "name": "Saco Nox Luxury Open Series negro marron",
     "brand": "Nox",
@@ -20873,7 +21529,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1914,
+    "id": 1912,
     "slug": "paletero-nox-luxury-open-series-negro-rojo-10533",
     "name": "Saco Nox Luxury Open Series negro rojo",
     "brand": "Nox",
@@ -20914,7 +21570,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1915,
+    "id": 1913,
     "slug": "paletero-nox-luxury-master-series-10532",
     "name": "Saco Nox Luxury Master Series",
     "brand": "Nox",
@@ -20955,7 +21611,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1927,
+    "id": 1925,
     "slug": "zapatillas-mizuno-break-shot-cc-woman-white-mugen-blue-2024-10426",
     "name": "Sapatilhas Mizuno Break Shot CC Woman white mugen blue 2024",
     "brand": "Mizuno",
@@ -20996,7 +21652,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1936,
+    "id": 1934,
     "slug": "zapatillas-adidas-avaflash-clay-grey-four-2024-10364",
     "name": "Sapatilhas Adidas Avaflash Clay grey four 2024",
     "brand": "Adidas Padel",
@@ -21037,7 +21693,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1944,
+    "id": 1937,
+    "slug": "cajon-pelotas-wilson-premier-padel-speed-24-x-3-10308",
+    "name": "Cajon pelotas Wilson Premier Padel Speed 24 x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 108.96,
+    "oldPrice": 180,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18525-large_default/cajon-pelotas-wilson-premier-padel-speed-24-x-3.jpg",
+    "ean": "1726736622307",
+    "productGTIN": "1726736622307",
+    "mpn": "10308",
+    "source": "zona-de-padel",
+    "sourceProductId": "10308",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "Presentamos el cajón de pelotas Wilson Premier Padel Speed 24 x 3 en color amarillo, diseñado para transformar el juego de los apasionados del pádel. Siendo la pelota oficial de Premier Padel y respaldada por profesionales, este cajón promete elevar la dinámica de juego con una velocidad y respuesta sin precedentes, gracias a su núcleo rediseñado y el innovador fieltro Dura-Weave HiVis. Estas pelotas están específicamente diseñadas para acelerar el juego en superficies lentas y en condiciones frías, no solo ofreciendo una jugabilidad y consistencia óptimas, sino también demostrando un compromiso con el medio ambiente a través de un embalaje sustentable. Con 24 botes y tres pelotas por bote, estarás completamente preparado para enfrentarte a los retos de cualquier partido intenso. Características del cajón de pelotas Wilson Premier Padel Speed 24 x 3 amarillo Núcleo rediseñado para una experiencia de juego más rápida y con alta capacidad de respuesta. Fieltro Dura-Weave HiVis de nueva generación que mejora la velocidad de las pelotas, facilitando su seguimiento en juego lento. Compromiso con la jugabilidad y consistencia en cada pelota. Embalaje eco-consciente que refleja la dedicación de Wilson a la sostenibilidad, reduciendo a la mitad el plástico utilizado. Ideal para fomentar un ritmo de juego acelerado en todo tipo de superficies de pádel. Parte de la línea de accesorios Wilson 2024, marcando la pauta en innovación y calidad. ¿A quién va dirigido? El cajón de pelotas Wilson Premier Padel Speed 24 x 3 se dirige a jugadores avanzados y profesionales en busca de una pelota que cumpla con los estándares del circuito profesional más exigente, perfecto para quienes aspiran a potenciar la velocidad y respuesta de su juego bajo cualquier condición climática y en cualquier tipo de pista. ¿Por qué te va a gustar? Estas pelotas son tu aliado ideal para un juego acelerado, combinando una innovación destacada y un enfoque eco-responsable en su embalaje, lo que las convierte en la selección inteligente para el jugador de pádel moderno. Descubre más sobre la marca Wilson Wilson se destaca por su legado de innovación y excelencia en el deporte, liderando en el desarrollo de productos que exceden las expectativas de atletas globalmente. Con un enfoque en la calidad, la innovación y el respeto por el medio ambiente, Wilson continúa siendo el estándar de oro en el mundo del pádel. Al elegir Wilson, te decantas por una marca comprometida no solo con satisfacer las necesidades de los jugadores de pádel, sino también con avanzar en el deporte a través de la innovación sostenible.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 108.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10308-cajon-pelotas-wilson-premier-padel-speed-24-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1938,
+    "slug": "cajon-pelotas-wilson-premier-padel-24-x-3-10306",
+    "name": "Cajon pelotas Wilson Premier Padel 24 x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 108.96,
+    "oldPrice": 180,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18549-large_default/cajon-pelotas-wilson-premier-padel-24-x-3.jpg",
+    "ean": "1726736666585",
+    "productGTIN": "1726736666585",
+    "mpn": "10306",
+    "source": "zona-de-padel",
+    "sourceProductId": "10306",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "Explora el cajón de pelotas Wilson Premier Padel 24 x 3 en color amarillo, destacando en el mundo del pádel, aprobado y utilizado por profesionales. Adaptadas a las condiciones más exigentes, estas pelotas aseguran un rendimiento superior en diversos ambientes, gracias a su núcleo optimizado y el fieltro New Dura-Weave, brindando control y visibilidad mejorada. Con un embalaje ecológico que minimiza los residuos plásticos y promueve la durabilidad, este cajón se presenta como la elección sostenible ideal para jugadores conscientes del medio ambiente, asegurando la mejor jugabilidad en competiciones intensas y siendo aptas para todo tipo de jugadores. Características del cajón de pelotas Wilson Premier Padel 24 x 3 amarillo Optimizadas para un juego rápido, ofrecen sensación y control excepcionales. Fieltro New Dura-Weave HiVis para seguimiento óptimo de la pelota. Perfectas para condiciones de clima cálido, alta humedad o altitudes superiores a 600m. Empaque ecológico, reflejando el compromiso de Wilson con la sostenibilidad. Diseñadas para proporcionar consistencia y durabilidad en partidos extensos. Parte de la innovadora colección de accesorios Wilson para 2024. ¿A quién va dirigido? Dirigido a jugadores de todos los niveles que buscan equipamiento de calidad profesional, estas pelotas son ideales tanto para entrenamientos rigurosos como para competiciones, satisfaciendo las necesidades de jugadores avanzados y profesionales. ¿Por qué te va a gustar? Por su durabilidad, excelente jugabilidad y adaptabilidad a diversas condiciones, estas pelotas son la elección oficial para el Premier, marcando un estándar alto en rendimiento y sostenibilidad en el juego. Descubre más sobre Wilson Wilson, con más de un siglo de liderazgo en innovación y calidad, es una marca de confianza para atletas de élite y aficionados. Comprometida con la superación de expectativas, Wilson es sinónimo de mejora continua en el deporte, ofreciendo productos que elevan la experiencia de juego en padel. Al elegir Wilson, optas por una marca que combina calidad, tradición e innovación, entendiendo y satisfaciendo las demandas de los jugadores de padel con soluciones que definen el futuro del deporte.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 108.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10306-cajon-pelotas-wilson-premier-padel-24-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1942,
     "slug": "zapatillas-adidas-barricade-m-ftwr-white-2024-10254",
     "name": "Sapatilhas Adidas Barricade M ftwr white 2024",
     "brand": "Adidas Padel",
@@ -21078,7 +21816,171 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1971,
+    "id": 1946,
+    "slug": "pack-3-botes-pelotas-wilson-premier-padel-speed-x-3-10225",
+    "name": "Pack 3 botes pelotas Wilson Premier Padel Speed x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 14.96,
+    "oldPrice": 24,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18108-large_default/pack-3-botes-pelotas-wilson-premier-padel-speed-x-3.jpg",
+    "ean": "1715185584472",
+    "productGTIN": "1715185584472",
+    "mpn": "10225",
+    "source": "zona-de-padel",
+    "sourceProductId": "10225",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Lanzamiento del pack 3 botes pelotas Wilson Premier Padel Speed x 3 en amarillo, diseñado específicamente para aquellos jugadores de pádel que desean elevar la intensidad de su juego. Como pelota oficial de Premier Padel, este producto ha pasado por rigurosas pruebas con los más destacados profesionales del circuito, asegurando un juego dinámico y una reacción instantánea gracias a su núcleo avanzado y al revolucionario fieltro Dura-Weave HiVis. Desarrolladas para favorecer una aceleración del juego en superficies más lentas y bajo temperaturas frías, estas pelotas no solo prometen una excelente jugabilidad y constancia, sino que también destacan por su compromiso con el medio ambiente mediante un empaque que reduce los desechos plásticos a la mitad. Con tres bolas en cada bote, este pack Wilson garantiza estar completamente preparado para enfrentamientos prolongados y desafiantes. Características del pack 3 botes pelotas Wilson Premier Padel Speed x 3 amarillo Adaptación para un juego acelerado, ofreciendo una respuesta rápida y mejorada. El innovador fieltro Dura-Weave HiVis asegura una destacada visibilidad y mayor velocidad de la pelota, incluso en juego lento. Equilibrado para brindar la combinación ideal entre rendimiento y uniformidad en el juego. Empaque eco-consciente reflejando la dedicación de Wilson hacia prácticas sostenibles. Perfectas para incrementar la velocidad del juego, aptas para todas las condiciones y tipos de superficie de pádel. Integra la nueva colección de accesorios Wilson 2024. ¿A quién va dirigido? El pack 3 botes pelotas Wilson Premier Padel Speed x 3 se dirige a jugadores de nivel avanzado y profesional que buscan una calidad superior, avalada por el circuito de padel de primer nivel. Ideal para quienes desean potenciar su velocidad y reacción en cualquier condición meteorológica y en cada tipo de cancha. ¿Por qué te va a gustar? Estas pelotas serán tu elección predilecta por su habilidad para intensificar el ritmo de juego manteniendo una excelente jugabilidad y fiabilidad. La vanguardia en su diseño y su contribución a la sostenibilidad convierten a este pack en una selección prudente para el padelista contemporáneo. Descubre más sobre la marca Wilson Wilson se distingue en el mundo deportivo por su rica historia de innovación y excelencia. Pionera en la creación de equipamiento que supera las expectativas de atletas globalmente, su enfoque en calidad e innovación ha cimentado un estándar de referencia en el padel y más allá. Optar por Wilson es elegir una marca que no solo comprende profundamente las necesidades de los jugadores de padel, sino que también promueve el avance del deporte a través de la innovación y el cuidado del medio ambiente.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 14.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10225-pack-3-botes-pelotas-wilson-premier-padel-speed-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1947,
+    "slug": "pack-3-botes-pelotas-wilson-premier-padel-x-3-10224",
+    "name": "Pack 3 botes pelotas Wilson Premier Padel x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 14.96,
+    "oldPrice": 24,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18107-large_default/pack-3-botes-pelotas-wilson-premier-padel-x-3.jpg",
+    "ean": "1710413931134",
+    "productGTIN": "1710413931134",
+    "mpn": "10224",
+    "source": "zona-de-padel",
+    "sourceProductId": "10224",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Explora el pack 3 botes pelotas Wilson Premier Padel x 3 en tono amarillo, una revolución para los entusiastas y expertos del pádel. Endosado por el circuito Premier Padel y probado en batalla por los jugadores más destacados, este conjunto de pelotas está diseñado para sobresalir bajo las condiciones más rigurosas, proporcionando una actuación de élite en climas extremos, humedad elevada y a grandes altitudes. Su núcleo perfeccionado junto al fieltro New Dura-Weave garantiza un juego de calidad superior, con control excepcional y una visibilidad ampliada. Con un enfoque en la sostenibilidad, el pack 3 botes pelotas Wilson Premier Padel x 3 minimiza el impacto ambiental al reducir significativamente el plástico utilizado en su empaque, al tiempo que promete durabilidad extendida. Diseñado para maximizar la jugabilidad durante encuentros extenuantes, este conjunto se establece como la elección ideal para jugadores de todas las capacidades. Características del pack 3 botes pelotas Wilson Premier Padel x 3 amarillo Ajustadas a entornos de juego acelerados, proporcionando sensación y control inmejorables. El fieltro New Dura-Weave HiVis mejora tanto la velocidad de la pelota como su seguimiento, incluso en condiciones difíciles. Optimizadas para el rendimiento en climas cálidos, humedad alta, juego pausado o altitudes elevadas. El empaque eco-amigable subraya la dedicación de Wilson hacia prácticas sostenibles. Preparadas para entregar consistencia y una experiencia de juego superior en duelos prolongados. Integra la última colección de accesorios Wilson para 2024. ¿A quién va dirigido? Se dirige a jugadores de padel de cualquier nivel en busca de equipamiento de calidad profesional. Ideal para sesiones de entrenamiento exigentes y competiciones oficiales, se adapta perfectamente a las necesidades de los padelistas más experimentados y profesionales. ¿Por qué te va a gustar? Estas pelotas te conquistarán por su resistencia, capacidad de juego y adaptabilidad a diversas condiciones de juego. El compromiso de Wilson con la sostenibilidad y la visibilidad mejorada convierten a este tri pack en la selección oficial de Premier Padel, elevando tu rendimiento en la pista. Descubre más sobre la marca Wilson Wilson, sinónimo de innovación y calidad en el deporte por más de un siglo, ha liderado el camino en el desarrollo de productos que exceden las expectativas de atletas globalmente. Su compromiso con la excelencia ha hecho de Wilson una marca de confianza tanto para atletas profesionales como aficionados, fortaleciendo su presencia en el mundo del pádel con productos vanguardistas. Escoger Wilson significa optar por una marca que no solo comprende las necesidades de los jugadores de padel sino que también se esfuerza por avanzar en el deporte a través de la innovación y el respeto por el medio ambiente.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 14.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10224-pack-3-botes-pelotas-wilson-premier-padel-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1948,
+    "slug": "bote-pelotas-wilson-premier-padel-speed-x-3-10222",
+    "name": "Bote pelotas Wilson Premier Padel Speed x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 6.51,
+    "oldPrice": 7.9,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18105-large_default/bote-pelotas-wilson-premier-padel-speed-x-3.jpg",
+    "ean": "097512831055",
+    "productGTIN": "097512831055",
+    "mpn": "10222",
+    "source": "zona-de-padel",
+    "sourceProductId": "10222",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Introduciendo el bote de pelotas Wilson Premier Padel Speed x 3 en color amarillo, la elección predilecta para los jugadores de pádel que buscan dinamizar su juego. Como la pelota oficial de Premier Padel, este producto ha sido minuciosamente testado por los profesionales más destacados del circuito, garantizando una experiencia de juego acelerada y de alta respuesta gracias a su núcleo rediseñado y el nuevo fieltro Dura-Weave HiVis. Concebidas para impulsar un juego más rápido en superficies lentas y condiciones frías, estas pelotas prometen no solo una jugabilidad y consistencia ideales, sino también un respeto por el medio ambiente con un embalaje que reduce a la mitad los residuos plásticos de su tapa. La inclusión de tres bolas por bote asegura que estés completamente equipado para tus partidos más intensos y largos. Características bote de pelotas Wilson Premier Padel Speed x 3 amarillo Núcleo optimizado para un juego más rápido y con mayor capacidad de respuesta. Nuevo fieltro Dura-Weave HiVis que mejora su velocidad, facilitando el seguimiento en condiciones de juego lentas. Diseñado para ofrecer una combinación perfecta de jugabilidad y consistencia. Embalaje que demuestra el compromiso de Wilson con la sostenibilidad al reducir los residuos plásticos. Ideal para generar un juego más rápido y aptas para ser utilizadas en cualquier tipo de pista de pádel. Pertenece a la colección de accesorios Wilson 2024. ¿A quién va dirigido? El bote de pelotas Wilson Premier Padel Speed x 3 está dirigido a jugadores avanzados y profesionales que deseen un producto de alta calidad, aprobado en el mejor circuito de pádel profesional. Es perfecto para aquellos que buscan mejorar la velocidad y la respuesta de su juego en todas las condiciones climáticas y tipos de pista. ¿Por qué te va a gustar? Adorarás estas pelotas por su capacidad para acelerar el juego sin sacrificar jugabilidad o consistencia. La innovación en su diseño y la responsabilidad ambiental de su embalaje hacen que sea una elección inteligente para el jugador moderno de pádel. Descubre más sobre la marca Wilson Wilson, una marca con un legado enriquecido en la innovación y la excelencia deportiva, ha sido pionera en el desarrollo de productos que satisfacen y superan las expectativas de atletas de todo el mundo. Conocida por su compromiso con la calidad y la innovación, Wilson ha establecido un estándar dorado en el mundo del pádel. Elegir Wilson significa optar por una marca que no solo entiende las necesidades de los jugadores de pádel sino que también se esfuerza por impulsar el deporte hacia nuevos horizontes a través de la innovación y el respeto por el medio ambiente.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 6.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10222-bote-pelotas-wilson-premier-padel-speed-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1949,
+    "slug": "bote-pelotas-wilson-premier-padel-x-3-10221",
+    "name": "Bote pelotas Wilson Premier Padel x 3",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 6.51,
+    "oldPrice": 7.9,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18104-large_default/bote-pelotas-wilson-premier-padel-x-3.jpg",
+    "ean": "097512831048",
+    "productGTIN": "097512831048",
+    "mpn": "10221",
+    "source": "zona-de-padel",
+    "sourceProductId": "10221",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Descubre el bote de pelotas Wilson Premier Padel x 3 en color amarillo, una innovación destacada en el mundo del pádel, aprobado y utilizado por los profesionales del deporte. Estas pelotas, diseñadas para adaptarse a las condiciones de juego más exigentes, ofrecen un rendimiento superior, ya sea en climas cálidos, alta humedad, o en altitudes mayores a 600m. La combinación de su núcleo optimizado y el fieltro New Dura-Weave proporciona una experiencia de juego excepcional, garantizando control y una visibilidad mejorada. Gracias a su embalaje ecológico, que reduce a la mitad los residuos plásticos de la tapa, y a su durabilidad prolongada, el bote de pelotas Wilson Premier Padel x 3 se posiciona como una opción respetuosa con el medio ambiente y perfecta para jugadores comprometidos con la sostenibilidad. Su diseño está pensado para ofrecer la mejor jugabilidad en partidos intensos, convirtiéndolas en las pelotas ideales para todo tipo de jugadores. Características bote de pelotas Wilson Premier Padel x 3 amarillo Optimizadas para condiciones de juego rápidas, ofreciendo una excelente sensación y control. Fieltro New Dura-Weave con coloración HiVis para una mayor visibilidad y seguimiento de la pelota. Ideales para climas cálidos, alta humedad, juego más lento, o altitudes superiores a 600m. Embalaje con reducción de residuos plásticos a la mitad, demostrando compromiso con el medio ambiente. Diseñadas para proporcionar una consistencia y jugabilidad excepcionales en partidos largos e intensos. Pertenece a la colección de accesorios Wilson 2024. ¿A quién va dirigido? Está dirigido a jugadores de todos los niveles que buscan calidad profesional en su equipamiento. Son perfectas tanto para entrenamientos intensivos como para partidos oficiales, adaptándose a las exigencias de jugadores avanzados y profesionales del pádel. ¿Por qué te va a gustar? Te encantarán estas pelotas por su durabilidad, jugabilidad y por cómo responden en condiciones diversas de juego. La visibilidad mejorada y el compromiso con la sostenibilidad hacen que se convierta en producto oficial para el Premier, siendo un modelo de alto rendimiento para tu juego. Descubre más sobre la marca Wilson Wilson, líder en el mundo del deporte, destaca por su innovación y calidad desde hace más de un siglo. Con un fuerte compromiso en el desarrollo de productos que superan las expectativas, Wilson se ha convertido en una marca de confianza entre los atletas de élite y aficionados. Su presencia en el padel se fortalece con productos innovadores, diseñados para ofrecer la mejor experiencia en la pista. Al elegir Wilson, eliges no solo calidad y tradición, sino también innovación constante que busca mejorar cada aspecto de tu juego. Wilson entiende las necesidades de los jugadores de padel y responde con productos que elevan el estándar de juego y sostenibilidad en el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 6.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/10221-bote-pelotas-wilson-premier-padel-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 1969,
     "slug": "lok-be-hype-2024-10117",
     "name": "Lok Be Hype 2024",
     "brand": "Lok",
@@ -21119,7 +22021,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1972,
+    "id": 1970,
     "slug": "lok-be-flow-2024-10116",
     "name": "Lok Be Flow 2024",
     "brand": "Lok",
@@ -21160,7 +22062,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1973,
+    "id": 1971,
     "slug": "lok-easy-flow-2024-10115",
     "name": "Lok Easy Flow 2024",
     "brand": "Lok",
@@ -21201,7 +22103,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1974,
+    "id": 1972,
     "slug": "lok-easy-hype-2024-10114",
     "name": "Lok Easy Hype 2024",
     "brand": "Lok",
@@ -21242,7 +22144,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1975,
+    "id": 1973,
     "slug": "lok-carbon-flow-2024-10113",
     "name": "Lok Carbon Flow 2024",
     "brand": "Lok",
@@ -21283,7 +22185,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1976,
+    "id": 1974,
     "slug": "lok-carbon-hype-2024-10112",
     "name": "Lok Carbon Hype 2024",
     "brand": "Lok",
@@ -21324,7 +22226,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1977,
+    "id": 1975,
     "slug": "lok-maxx-flow-2024-10111",
     "name": "Lok Maxx Flow 2024",
     "brand": "Lok",
@@ -21365,7 +22267,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1979,
+    "id": 1977,
     "slug": "puma-nova-padel-elite-power-negro-2024-10100",
     "name": "Puma Nova Padel Elite Power negro 2024",
     "brand": "Puma",
@@ -21406,7 +22308,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1993,
+    "id": 1991,
     "slug": "paletero-head-tour-padel-bag-l-verde-lila-2024-9963",
     "name": "Saco Head Tour Padel Bag L verde lila 2024",
     "brand": "Head Padel",
@@ -21447,7 +22349,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2005,
+    "id": 2003,
     "slug": "zapatillas-joma-smash-2304-blue-black-2024-9906",
     "name": "Sapatilhas Joma Smash 2304 blue black 2024",
     "brand": "Joma",
@@ -21488,7 +22390,212 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2039,
+    "id": 2007,
+    "slug": "cajon-pelotas-babolat-ace-padel-x3-24-x-3-9877",
+    "name": "Cajon pelotas Babolat ACE Padel X3 24 x 3",
+    "brand": "Babolat",
+    "category": "acessorios",
+    "price": 119.96,
+    "oldPrice": 169.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17476-large_default/cajon-pelotas-babolat-ace-padel-x3-24-x-3.jpg",
+    "ean": "1707154835432",
+    "productGTIN": "1707154835432",
+    "mpn": "9877",
+    "source": "zona-de-padel",
+    "sourceProductId": "9877",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "Presentamos el cajón de pelotas Babolat ACE Padel X3 24 botes x 3 unidades en color amarillo, el aliado perfecto para los jugadores de pádel exigentes que buscan no solo rendimiento sino también durabilidad en sus partidos. Este cajón de pelotas está especialmente diseñado para enfrentar la intensidad de la competición, ofreciendo la máxima calidad en todo momento. Gracias a su composición avanzada de fieltro y caucho, notarás una experiencia de juego superior, estando el producto homologado por la Federación Internacional de Pádel. Su diseño favorece una durabilidad excepcional y una presión óptima, lo que te permite disfrutar de una mayor rapidez en el juego y asegura que cada golpe cuente. Características cajón de pelotas Babolat ACE Padel X3 24 x 3 amarillo Composición de fieltro y caucho avanzada para lograr prestaciones superiores en la pista. Homologación por la Federación Internacional de Pádel, asegurando la máxima calidad y estándares de juego. Diseño optimizado para la competición y el juego rápido, permitiendo una mayor rapidez y precisión en los golpes. Durabilidad excepcional y presión óptima para una experiencia de juego consistente y prolongada. Respuesta rápida en la pista para mejorar la agilidad y eficacia del jugador. Pertenece a la colección de accesorios Babolat 2024. ¿A quién va dirigido? Este cajón de pelotas Babolat ACE Padel X3 está dirigido a jugadores competitivos y profesionales que buscan la excelencia en cada partido. Es ideal para aquellos que valoran la calidad, la durabilidad y la precisión en sus pelotas de pádel, ofreciendo un rendimiento superior para enfrentar desafíos intensos en la pista. ¿Por qué te va a gustar? Te va a encantar el cajón de pelotas Babolat ACE Padel X3 por su capacidad para elevar tu juego a nuevos niveles. Su calidad y rendimiento te permitirán enfocarte en tu técnica y estrategia, sabiendo que cuentas con un producto que cumple y supera las expectativas más altas de los jugadores más exigentes. Descubre más sobre la marca Babolat Babolat, reconocida por su innovación y calidad en el mundo del pádel, continúa siendo líder en la provisión de equipamiento deportivo de alto rendimiento. Con una historia rica en avances tecnológicos, Babolat se compromete a ofrecer a los jugadores herramientas que potencien su juego para que puedas progresar sin esfuerzo. Esta temporada, la marca combina tecnología de punta con diseños que marcan tendencia. Al elegir productos para jugad a pádel Babolat, te unes a una comunidad de jugadores apasionados y comprometidos con el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 119.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/9877-cajon-pelotas-babolat-ace-padel-x3-24-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 2008,
+    "slug": "pack-3-botes-pelotas-babolat-ace-padel-x3-9875",
+    "name": "Pack 3 botes pelotas Babolat ACE Padel X3",
+    "brand": "Babolat",
+    "category": "acessorios",
+    "price": 14.95,
+    "oldPrice": 22.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17475-large_default/pack-3-botes-pelotas-babolat-ace-padel-x3.jpg",
+    "ean": "1707154484005",
+    "productGTIN": "1707154484005",
+    "mpn": "9875",
+    "source": "zona-de-padel",
+    "sourceProductId": "9875",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Explora el pack 3 botes pelotas Babolat ACE Padel X3 en color amarillo, una solución perfecta para los entusiastas del pádel que demandan tanto calidad como rendimiento en sus juegos. Este conjunto de pelotas ha sido meticulosamente creado para cumplir con las exigencias de la competencia, ofreciendo una mezcla óptima de durabilidad y velocidad gracias a su avanzada composición de fieltro y caucho. Con la homologación de la Federación Internacional de Pádel, el pack 3 botes pelotas Babolat ACE Padel X3 amarillo se destaca por su excepcional durabilidad y capacidad para mantener una presión óptima. Diseñadas para el juego rápido, estas pelotas aseguran que cada golpe cuente, elevando tu experiencia de juego a nuevos niveles de intensidad y precisión. Características pack 3 botes pelotas Babolat ACE Padel X3 amarillo Avanzada composición de fieltro y caucho, garantizando una durabilidad superior y un rendimiento excepcional en la pista. Homologadas por la Federación Internacional de Pádel, cumpliendo con los más altos estándares de calidad y juego. Optimizadas para la velocidad, permitiendo un juego rápido y dinámico. Ligereza y respuesta rápida en cada golpe, mejorando la agilidad y eficacia en el juego. Presión óptima mantenida para una durabilidad extendida y una experiencia de juego consistente. Pertenece a la colección de accesorios Babolat 2024. ¿A quién va dirigido? El pack 3 botes pelotas Babolat ACE Padel X3 amarillo es ideal para jugadores competitivos y serios, que valoran la precisión y la velocidad en su juego. Es perfecto para aquellos que buscan mejorar su rendimiento en la pista y desean pelotas que puedan soportar las exigencias de partidos intensos. ¿Por qué te va a gustar? Te enamorarás del pack 3 botes pelotas Babolat ACE Padel X3 amarillo por su capacidad de llevar tu juego al siguiente nivel. Su calidad profesional y durabilidad te permitirán concentrarte en tu técnica y estrategia, sabiendo que cuentas con un producto que cumple con las expectativas más altas. Descubre más sobre la marca Babolat Babolat, con una historia rica en innovación y excelencia, ha sido un pilar en el mundo del pádel, proporcionando a los jugadores equipamiento de vanguardia. Desde su fundación, Babolat se ha enfocado en la mejora continua de sus productos, asegurando que cada jugador, desde el aficionado hasta el profesional, tenga acceso a lo mejor en tecnología y diseño. Disfruta del mejor rendimiento en pista con los productos de Babolat, te aseguramos que son de máxima calidad y están pensados para todo tipo de jugadores. Al elegir Babolat, te unes a una comunidad de jugadores apasionados por el pádel, dispuestos a llevar su juego a la máxima expresión.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 14.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/9875-pack-3-botes-pelotas-babolat-ace-padel-x3.html"
+      }
+    ]
+  },
+  {
+    "id": 2009,
+    "slug": "bote-pelotas-babolat-ace-padel-x3-9874",
+    "name": "Bote pelotas Babolat ACE Padel X3",
+    "brand": "Babolat",
+    "category": "acessorios",
+    "price": 5.96,
+    "oldPrice": 7.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17474-large_default/bote-pelotas-babolat-ace-padel-x3.jpg",
+    "ean": "3324922003237",
+    "productGTIN": "3324922003237",
+    "mpn": "9874",
+    "source": "zona-de-padel",
+    "sourceProductId": "9874",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Descubre el bote pelotas Babolat ACE Padel X3 en color amarillo, diseñado específicamente para jugadores que buscan rendimiento y durabilidad en la pista. Este bote de pelotas es ideal para la competición y el juego rápido, gracias a su composición avanzada de fieltro y caucho que garantiza una experiencia de juego superior. Está homologada por la Federación Internacional de Pádel, la pelota Ace de Babolat te ofrece una durabilidad excepcional y una presión óptima para una mayor durabilidad en cada partido. Su ligereza y rápida respuesta en la pista te permiten alcanzar una mayor rapidez en el juego, haciendo que cada golpe cuente. Experimenta la diferencia con estas pelotas rápidas y duraderas, aprobadas por los profesionales. Características bote pelotas Babolat ACE Padel X3 amarillo Composición avanzada de fieltro y caucho, diseñada para ofrecer durabilidad y rendimiento óptimo. Homologada por la Federación Internacional de Pádel, asegurando la calidad y el cumplimiento de los estándares de competición. Pelotas de gran presión para una mayor durabilidad y un juego rápido en la pista. Ideal para jugadores que buscan mejorar su práctica de pádel con pelotas de alta calidad. Ligereza excepcional para facilitar movimientos rápidos y precisos durante el juego. Pertenece a la colección de accesorios Babolat 2024. ¿A quién va dirigido? El bote pelotas Babolat ACE Padel X3 amarillo está dirigido a jugadores de pádel competitivos y serios, que demandan la mejor calidad en sus equipamientos. Perfecto para quienes desean llevar su juego a un nivel superior, estas pelotas ofrecen la combinación perfecta de velocidad y control para enfrentar cualquier desafío en la pista. ¿Por qué te va a gustar? Te encantará el bote pelotas Babolat ACE Padel X3 amarillo por su capacidad para transformar tu juego, proporcionando pelotas rápidas y duraderas que mantienen su presión y calidad partido tras partido. Es el aliado perfecto para jugadores que no se conforman con menos y buscan siempre el mejor rendimiento en la pista. Descubre más sobre la marca Babolat Babolat es una marca líder en el mundo del pádel, reconocida por su innovación y compromiso con la calidad. Desde su fundación, Babolat ha sido pionera en el desarrollo de productos que satisfacen las necesidades de los jugadores en todos los niveles, desde aficionados hasta profesionales. Toda la colección de productos Babolat es un reflejo del compromiso de la marca con la innovación y el diseño. Al elegir productos Babolat, te unes a una comunidad de jugadores que valoran la calidad y el rendimiento sobre todo. Experimenta la diferencia que solo Babolat puede ofrecer y lleva tu juego de pádel al siguiente nivel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/9874-bote-pelotas-babolat-ace-padel-x3.html"
+      }
+    ]
+  },
+  {
+    "id": 2010,
+    "slug": "pack-3-botes-pelotas-babolat-court-x3-9857",
+    "name": "Pack 3 botes pelotas Babolat Court X3",
+    "brand": "Babolat",
+    "category": "acessorios",
+    "price": 13.51,
+    "oldPrice": 18,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18253-large_default/pack-3-botes-pelotas-babolat-court-x3.jpg",
+    "ean": "1706704294682",
+    "productGTIN": "1706704294682",
+    "mpn": "9857",
+    "source": "zona-de-padel",
+    "sourceProductId": "9857",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Explora el pack 3 botes pelotas Babolat Court X3 amarillo, una solución premium para jugadores de pádel exigentes. Este conjunto, aprobado por la Federación Internacional de Pádel y seleccionado como la pelota oficial del circuito APT, ofrece una experiencia superior en juego gracias a su extraordinaria combinación de confort y durabilidad. Fabricadas con una mezcla óptima de fieltro y caucho, estas pelotas aseguran un rendimiento excepcional en todo tipo de superficies. Destacándose por su prolongada retención de características de juego, el pack de pelotas Babolat Court es perfecto tanto para sesiones de entrenamiento rigurosas como para competiciones, permitiéndote elevar tu juego a niveles sin precedentes. Características pack 3 botes pelotas Babolat Court X3 amarillo Compuesto por fieltro y caucho para garantizar durabilidad y confort excepcionales. La pelota oficial del circuito APT, reconocida por la Federación Internacional de Pádel. Optimizadas para jugadores de nivel avanzado en busca de la mejor calidad de juego. Adecuadas para cualquier tipo de pista, demostrando versatilidad y resistencia. Parte de la colección de accesorios Babolat 2023. ¿A quién va dirigido? Este pack está ideado para los apasionados del pádel de nivel avanzado que priorizan la calidad y desean maximizar su rendimiento en la pista. Ideal para aquellos que valoran la innovación y la excelencia en cada componente de su equipo deportivo. ¿Por qué te va a gustar? La elección predilecta de los profesionales en el circuito APT, estas pelotas combinan durabilidad con un nivel de juego mejorado, asegurando que cada golpe sea tan preciso como potente. Disfruta de la ventaja que solo Babolat puede proporcionar con este pack de 3. Descubre más sobre la marca Babolat Desde su fundación en 1875, Babolat se ha consolidado como un símbolo de innovación y calidad en el mundo del tenis y pádel. Ofreciendo una amplia gama de productos que satisfacen las demandas de jugadores de todos los niveles, Babolat es sinónimo de avance y excelencia deportiva. Con el pack 3 botes pelotas Babolat Court X3, te unes a una tradición de campeones, disfrutando de productos diseñados para llevar tu juego al siguiente nivel. Vive la experiencia Babolat y transforma tu manera de jugar.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 13.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/9857-pack-3-botes-pelotas-babolat-court-x3.html"
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "slug": "bote-pelotas-babolat-court-x3-9856",
+    "name": "Bote pelotas Babolat Court X3",
+    "brand": "Babolat",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 6.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17426-large_default/bote-pelotas-babolat-court-x3.jpg",
+    "ean": "3324921909813",
+    "productGTIN": "3324921909813",
+    "mpn": "9856",
+    "source": "zona-de-padel",
+    "sourceProductId": "9856",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Descubre el bote de pelotas Babolat Court X3 amarillo, diseñado específicamente para satisfacer las necesidades de los jugadores avanzados de pádel. Aprobado por la Federación Internacional de Pádel y elegido como la pelota oficial del circuito APT, este bote promete no solo una comodidad excepcional sino también una durabilidad inigualable. Su composición de fieltro y caucho garantiza un rendimiento óptimo en cualquier tipo de pista. Las pelotas Babolat Court se distinguen por su capacidad para mantener sus características de juego durante más tiempo, lo que las hace ideales tanto para entrenamientos intensos como para competiciones. Su calidad y resistencia te permitirán disfrutar al máximo cada punto, juego y set, llevando tu experiencia de juego a un nuevo nivel. Características bote pelotas Babolat Court X3 amarillo Composición de fieltro y caucho para una mayor durabilidad y comodidad. Pelota oficial del circuito APT, aprobada por la Federación Internacional de Pádel. Diseñadas para jugadores avanzados que buscan rendimiento y durabilidad. Ideales para todo tipo de pistas gracias a su adaptabilidad y resistencia. Pertenece a la colección de accesorios Babolat 2024. ¿A quién va dirigido? Este bote de pelotas está dirigido a jugadores avanzados de pádel que exigen lo mejor en cada partido. Perfectas para quienes buscan una pelota de alta calidad que ofrezca comodidad sin sacrificar el rendimiento en la pista. ¿Por qué te va a gustar? Te encantarán estas pelotas por su combinación única de comodidad y durabilidad. La elección de los profesionales en el circuito APT, estas pelotas te permitirán jugar con la confianza de que estás utilizando un producto de la más alta calidad. Descubre más sobre la marca Babolat Babolat, fundada en 1875, se ha establecido como una marca líder en el mundo del tenis y pádel, reconocida por su innovación y calidad. Desde raquetas hasta accesorios, Babolat ofrece productos que mejoran el rendimiento de los jugadores en todo el mundo. El bote de pelotas Babolat Court X3 es un ejemplo perfecto de su compromiso con la excelencia, diseñado para ofrecer a los jugadores avanzados las mejores herramientas para su juego. Únete a la élite del pádel con Babolat.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/9856-bote-pelotas-babolat-court-x3.html"
+      }
+    ]
+  },
+  {
+    "id": 2037,
     "slug": "mochila-head-pro-backpack-23l-negra-2024-9566",
     "name": "Mochila Head Pro Backpack 23L negra 2024",
     "brand": "Head Padel",
@@ -21529,7 +22636,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2040,
+    "id": 2038,
     "slug": "paletero-head-pro-padel-bag-l-azul-marino-2024-9564",
     "name": "Saco Head Pro Padel Bag L azul marino 2024",
     "brand": "Head Padel",
@@ -21570,7 +22677,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2042,
+    "id": 2040,
     "slug": "zapatillas-head-sprint-team-3-5-clay-dark-grey-banana-2024-9529",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay dark grey banana 2024",
     "brand": "Head Padel",
@@ -21611,7 +22718,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2043,
+    "id": 2041,
     "slug": "zapatillas-head-sprint-team-3-5-clay-blue-berry-white-2024-9528",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay blue berry white 2024",
     "brand": "Head Padel",
@@ -21652,7 +22759,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2044,
+    "id": 2042,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-banana-black-2024-9520",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay banana black 2024",
     "brand": "Head Padel",
@@ -21693,7 +22800,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2045,
+    "id": 2043,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-black-red-2024-9507",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay black red 2024",
     "brand": "Head Padel",
@@ -21734,7 +22841,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2046,
+    "id": 2044,
     "slug": "head-radical-motion-2024-9479",
     "name": "Head Radical Motion 2024",
     "brand": "Head Padel",
@@ -21775,7 +22882,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2047,
+    "id": 2045,
     "slug": "bolsa-gymsack-starvie-negro-9340",
     "name": "Bolsa gymsack Starvie negro",
     "brand": "Star Vie",
@@ -21816,7 +22923,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2050,
+    "id": 2048,
     "slug": "bolsa-gymsack-nox-negra-9319",
     "name": "Bolsa gymsack Nox negra",
     "brand": "Nox",
@@ -21857,7 +22964,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2065,
+    "id": 2063,
     "slug": "paletero-nox-pro-series-negro-2023-9069",
     "name": "Saco Nox Pro Series negro 2023",
     "brand": "Nox",
@@ -21898,7 +23005,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2066,
+    "id": 2064,
     "slug": "head-extreme-elite-2024-9052",
     "name": "Head Extreme Elite 2024",
     "brand": "Head Padel",
@@ -21939,7 +23046,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2067,
+    "id": 2065,
     "slug": "head-extreme-motion-2024-9051",
     "name": "Head Extreme Motion 2024",
     "brand": "Head Padel",
@@ -21980,7 +23087,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2078,
+    "id": 2076,
     "slug": "siux-trilogy-2-attack-8619",
     "name": "Siux Trilogy 2 Attack",
     "brand": "Siux",
@@ -22021,7 +23128,171 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2096,
+    "id": 2077,
+    "slug": "bote-presurizador-pascal-box-4b-8491",
+    "name": "Bote Presurizador Pascal Box 4B",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 62.95,
+    "oldPrice": 69.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/14770-large_default/bote-presurizador-pascal-box-4b.jpg",
+    "ean": "8414606874712",
+    "productGTIN": "8414606874712",
+    "mpn": "8491",
+    "source": "zona-de-padel",
+    "sourceProductId": "8491",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Alarga la vida útil de las pelotas de pádel o tenis con el nuevo bote presurizador Pascal Box 4B. Es el presurizador más vendido del mercado y ahora regresa con capacidad para hasta 4 pelotas. Así pues después de jugar varios partidos solo tendrás que cargar las bolas en el bote y recuperar su presión original para no tener que descartarlas. Es muy fácil de utilizar, tan solo tienes que colocar las bolas en el Pascal Box y cerrar bien la tapa. Después solo tendrás que utilizar la bomba para introducir el aire hasta el nivel que desees y esperar a que las bolas recuperen su presión. Para acabar se ha fabricado con materiales de calidad para asegurar un fantástico rendimiento en cada uso. Bote Pascal Box 4 pelotas recuperador de presión, características Capacidad para hasta 4 pelotas dentro del bote presurizador Pascal Box 4B. Recipiente de alta resistencia, manómetro de precisión, válvula de inflado universal y válvula de seguridad. Incluye bomba hinchadora. Diseño compacto y sólido para una buena resistencia. Por experiencia, las pelotas duran hasta cinco veces más de lo habitual. Cargador de presión válido para pelotas de pádel, tenis o frontenis. ¿A quién va dirigido? Apto para jugadores, clubs de pádel o monitores que quieran mantener en buen estado las pelotas de pádel, alargando así su rendimiento con el paso de los partidos ya que el Pascal Box recupera la presión inicial para disfrutar de un juego perfecto. ¿Por qué te va a gustar? Porque se trata de una inversión a corto plazo ya que con el paso de las semanas te ahorrarás dinero a la hora de comprar pelotas para jugar a pádel. Además incluye ya todos los accesorios que necesitas para el inflado además de manómetro para ver la presión óptima. Descubre más sobre el PASCAL BOX Si eres un profesional del pádel, es decir, como club o monitor, sabrás lo importante que es jugar siempre con las pelotas en perfecto estado y con la presión óptima. El carro para profesionales ha sido desarrollado para cargar la presión y tener siempre un bote perfecto. Descubre lo que puede hacer por ti este presurizador y entrena siempre al mejor nivel. Vale tanto para pelotas de tenis o padel y según la temperatura ambiente o la superficie en la que juegues podrás decidir que presión quieres.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 62.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/8491-bote-presurizador-pascal-box-4b.html"
+      }
+    ]
+  },
+  {
+    "id": 2083,
+    "slug": "pack-3-botes-pelotas-head-padel-one-8348",
+    "name": "Pack 3 botes pelotas Head Padel One",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 12.96,
+    "oldPrice": 17.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/16638-large_default/pack-3-botes-pelotas-head-padel-one.jpg",
+    "ean": "1675850099789",
+    "productGTIN": "1675850099789",
+    "mpn": "8348",
+    "source": "zona-de-padel",
+    "sourceProductId": "8348",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Dale un bote más vivo a tus partidos comprando el pack de 3 botes de pelotas Head Padel One, una de las novedades que trae la marca para esta temporada. Se trata de una nueva pelota de pádel que ofrece las prestaciones de la alta competición a precio imbatible, así que salen muy económicas. Se caracterizan también por su gran resistencia al desgaste, ya que la marca ha utilizado materiales de calidad y mejorado sus procesos para alargar su vida útil. Además su bote hermético mantiene la presión con el tiempo y se han diseñado en color amarillo para poder verlas con facilidad en pista. Pack de 3 botes de bolas Head Padel One, características Con el pack de pelotas Head Padel One tendrás 3 botes con 3 unidades cada uno. Nuevos materiales para el núcleo que la hacen más resistente. Se ha mejorado el proceso de fabricación para que no pierda propiedades. Estética en color amarillo y con el logo de la marca Proporcionan velocidad al juego y un bote vivo. Nuevo modelo de pelotas de pádel Head 2023. ¿A quién va dirigido? Pensadas para cualquier jugador o jugadora que quiera conseguir bolas de pádel a buen precio ya que las nuevas Head Padel One se han fabricado con materiales de calidad y además su precio es muy atractivo, más baratas que otros modelos. ¿Por qué te va a gustar? Porque es una pelota que podrás utilizar tanto en competiciones como en partidos de aficionados, ya que su rendimiento es excelente y el precio imbatible. Además mantiene sus prestaciones intactas después del primer partido. Descubre más sobre la marca HEAD PADEL Encuentra todo lo que necesitas en el nuevo catálogo de Head Padel para esta temporada. La marca austríaca ha apostado por nuevos materiales y sistemas tecnológicos para conseguir un resultado perfecto sobre la pista. Actualmente, tiene una gran presencia en el World Padel Tour de la mano de jugadores top como Arturo Coelho, Ari Sánchez o Paula Josemaria. Sin duda, la mejor garantía que la firma puede ofrecer.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 12.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/8348-pack-3-botes-pelotas-head-padel-one.html"
+      }
+    ]
+  },
+  {
+    "id": 2084,
+    "slug": "bote-pelotas-head-padel-one-8346",
+    "name": "Bote pelotas Head Padel One",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 6.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/16614-large_default/bote-pelotas-head-padel-one.jpg",
+    "ean": "072489753838",
+    "productGTIN": "072489753838",
+    "mpn": "8346",
+    "source": "zona-de-padel",
+    "sourceProductId": "8346",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "No te conformes con cualquier pelota de pádel para disputar tus competiciones o entrenamientos, su elección puede determinar nuestro rendimiento en pista. Consigue el nuevo bote de pelotas para pádel Head Padel One, una de las novedades que lanza la marca para ofrece una mejor relación calidad - precio. Así pues se han fabricado con materiales de máxima calidad, además de un bote debidamente cerrado para mantener su presión siempre intacta. Su diseño es de color amarillo, con lo que ofrecen buena visibilidad en el juego. Para acabar son de lo más resistentes y no resultan tan caras como otros modelos. Bote pelotas Head Padel One, características Materiales de excelente durabilidad aplicados en el nuevo bote pelotas Head Padel One. Cierre hermético para mantener la presión intacta. De color amarillo con logo de la marca. Aptas para competiciones exigentes y también partidos amateurs. Ofrecen un vuelo uniforme, sin vibraciones. Las pelotas Head con mejor relación calidad - precio. Colección de bolas para pádel Head 2023. ¿A quién va dirigido? Para todos los deportistas que juegan de manera habitual al padel y buscan pelotas de larga duración para no tener que cambiarlas tan a menudo y que además sean baratas, ya que se trata de una pelota Head de fantástica relación calidad - precio. ¿Por qué te va a gustar? Porque no tendrás que gastarte mucho dinero para conseguir pelotas de calidad, así que salen bastante económicas. Además presentan un diseño en color amarillo con lo que ofrecen una buena visibilidad tanto en interior como exterior. Descubre más sobre la marca HEAD PADEL Encuentra todo lo que necesitas en el nuevo catálogo de Head Padel para esta temporada. La marca austríaca ha apostado por nuevos materiales y sistemas tecnológicos para conseguir un resultado perfecto sobre la pista. Actualmente, tiene una gran presencia en el World Padel Tour de la mano de jugadores top como Arturo Coelho, Ari Sánchez o Paula Josemaria. Sin duda, la mejor garantía que la firma puede ofrecer.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/8346-bote-pelotas-head-padel-one.html"
+      }
+    ]
+  },
+  {
+    "id": 2089,
+    "slug": "bote-pelotas-wilson-performance-padel-8241",
+    "name": "Bote Pelotas Wilson Performance Padel",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 4.95,
+    "oldPrice": 6,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/14331-large_default/bote-pelotas-wilson-performance-padel.jpg",
+    "ean": "097512510264",
+    "productGTIN": "097512510264",
+    "mpn": "8241",
+    "source": "zona-de-padel",
+    "sourceProductId": "8241",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Compra solo pelotas de calidad con la nueva colección de la marca Wilson donde puedes encontrar la nueva Performance Padel que se ha diseñado para ofrecer mucha rapidez en la pista. Este modelo es perfecto para superficies de pista más rápidas gracias a que se ha empleado el fieltro Dura-weave. Para su diseño se ha pensando en el medio ambiente ya que se fabricado con una tapa ecológica que ayuda a reducir el exceso de plásticos. Por otro lado presentan una gran durabilidad para que puedas reutilizarla y que aguanten mucho más tiempo sin perder la presión. Bolas Wilson Performance Padel, características Las nuevas Wilson Perfomance Padel es un modelo fabricado con materiales resistentes. En su diseño se ha empleado el fieltro Dura-weave que le da una mayor velocidad. La tapa es ecológica para ayudar a reducir los plásticos. Resisten el desgaste gracias a su gran calidad. Se han diseñado en color amarillo y se venden tres unidades. Catálogo de accesorios para pádel Wilson 2023. ¿A quién va dirigido? A todas aquellas personas que buscan bolas de calidad que duren varios partidos y que no pierdan su resistencia para evitar tener que cambiarlas continuamente. Además gracias a su tapa ecológica estarás ayudando a reducir el exceso de plásticos. ¿Por qué te va a gustar? Porque es un modelo de gran calidad que se ha diseñado para darte la máxima resistencia a la pista. Además gracias a los materiales que se han empleado ofrece una gran velocidad en la pista para que nada te impida ganar tus partidos. Descubre más sobre la marca WILSON Todos sabemos que Wilson Sport cuenta con muchos años de experiencia en el mundo del deporte. Desde el 1914 que prepara a los mejores atletas del mundo y en el pádel también ha hecho su aportación. Descubre el variado surtido de palas de pádel, zapatillas, paleteros y otros accesorios con los que tendrás el mejor rendimiento y un acabado impecable. No lo dudes más y equípate con las novedades de esta temporada ¡te conquistarán!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/8241-bote-pelotas-wilson-performance-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 2094,
     "slug": "zapatillas-bullpadel-elite-pro-ltd-23v-burdeos-8182",
     "name": "Sapatilhas Bullpadel Elite Pro LTD 23V burdeos",
     "brand": "Bullpadel",
@@ -22062,7 +23333,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2100,
+    "id": 2098,
     "slug": "star-vie-raydium-columns-8052",
     "name": "Star Vie Raydium Columns",
     "brand": "Star Vie",
@@ -22103,7 +23374,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2106,
+    "id": 2104,
     "slug": "head-speed-motion-7819",
     "name": "Head Speed Motion",
     "brand": "Head Padel",
@@ -22144,7 +23415,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2107,
+    "id": 2105,
     "slug": "head-speed-pro-7818",
     "name": "Head Speed Pro",
     "brand": "Head Padel",
@@ -22185,7 +23456,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2108,
+    "id": 2106,
     "slug": "head-speed-pro-x-7817",
     "name": "Head Speed Pro X",
     "brand": "Head Padel",
@@ -22226,11 +23497,11 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2109,
+    "id": 2107,
     "slug": "bote-presurizador-head-x-4-pump-7814",
     "name": "Bote presurizador Head x 4 Pump",
     "brand": "Head Padel",
-    "category": "raquetes",
+    "category": "acessorios",
     "price": 44.96,
     "oldPrice": 60,
     "rating": null,
@@ -22267,11 +23538,11 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2110,
+    "id": 2108,
     "slug": "bote-presurizador-head-x-3-pump-7813",
     "name": "Bote presurizador Head x 3 Pump",
     "brand": "Head Padel",
-    "category": "raquetes",
+    "category": "acessorios",
     "price": 38.96,
     "oldPrice": 52,
     "rating": null,
@@ -22285,7 +23556,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "sourceCategory": "Inicio > Complementos padel",
     "description": "Disfruta de un bote rápido y vivo en cada una de tus competiciones con el bote presurizador Head x 3 Pump en color transparente. Se trata de un cargador de presión que incorpora bomba de aire. Introduce 3 pelotas de tenis o padel en el interior y cierra b¡en, después coloca la junta tórica para aislar el aire en su interior. Una vez lo tenemos, queda insertar la boquilla de la bomba de aire en la válvula y presiona el manómetro con la pestaña levantada hasta alcanzar una presión entre 22 y 34 PSI. Para acabar cierra la pestaña de la bomba y extrae la boquilla para tener completamente recuperadas las pelotas ¡a jugar! Bote Head para la presión transpararente, características Fácil de usar gracias a la bomba de aire del bote presurizador Head x 3 Pump. Diseño transparente para poder comprobar el estado de las bolas. Incluye junta tórica y tapón para proteger la válvula. Alcanza una presión entre 22 y 34 PSI. Muy ligero, con un peso aproximado de 361 gramos. Cargador de presión válido para pelotas de pádel como de tenis. ¿A quién va dirigido? Apto tanto para jugadores como jugadoras que quieran disputar siempre sus partidos o entrenamientos con pelotas nuevas, ya que el presurizador recupera rápidamente la presión original, alargando así su vida útil. ¿Por qué te va a gustar? Porque es un producto de lo más completo y avanzado del mercado. Además resulta muy fácil de usar y gracias a su construcción compacta es de lo más resistente, permitiéndote ver las pelotas en todo momento por su diseño transparente. Descubre más sobre el HEAD Equípate con productos de máxima calidad gracias a Head Padel, una de las marcas preferidas por la mayoría de jugadores. De hecho cuenta con mucha representación en el World Padel Tour de la mano de jugadores como Arturo Coelho o Ari Sánchez en el cuadro femenino. Esta temporada la marca austriaca apuesta por nuevos materiales, tecnologías y coloridos diseños. Descubre en nuestra tienda online su nueva colección de palas de pádel, zapatillas para hombre, textil de mujer y más complementos para jugar a pádel ¡no te decepcionarán!",
     "specs": {
-      "peso": "361g",
+      "peso": null,
       "forma": null,
       "equilibrio": null,
       "nivel": null,
@@ -22308,7 +23579,130 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2132,
+    "id": 2126,
+    "slug": "cajon-pelotas-bullpadel-fip-next-pro-24-x-3-7521",
+    "name": "Cajon pelotas Bullpadel FIP Next Pro 24 x 3",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 104.96,
+    "oldPrice": 140,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32037-large_default/cajon-pelotas-bullpadel-fip-next-pro-24-x-3.jpg",
+    "ean": "8445402550265",
+    "productGTIN": "8445402550265",
+    "mpn": "7521",
+    "source": "zona-de-padel",
+    "sourceProductId": "7521",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Si eres de los que juegas varias veces a la semana a pádel y necesitas una gran cantidad de pelotas con las que jugar durante el año, traemos el nuevo cajón de pelotas Bullpadel FIP Next Pro. En total vienen 24 botes cada uno de ellos con 3 unidades para que jugar como todo un profesional. Este año se convierten en las pelotas oficiales de la Federación Internacional del Padel ya que ofrecen una gran velocidad en la pista por lo que hacen que el juego sea más dinámico. Además ofrecen una gran durabilidad gracias a su núcleo fabricado con caucho de alta densidad que evita que pierdan presión. Cajón pelotas Bullpadel FIP Next Pro, características El cajón de pelotas Bullpadel FIP Next Pro incluye 24 botes con 3 unidades cada uno. Se convierten en las pelotas oficial del FIP. Gran sensación al golpear gracias a la utilización de fieltro natural. Núcleo de caucho de alta densidad para evitar que pierdan la presión. Podrás jugar con ellas durante mucho tiempo gracias a los materiales de calidad empleados. Disponibles en la colección de bolas Bullpadel 2022. ¿A quién va dirigido? Las recomendamos para competiciones y torneos ya que son unas bolas que ofrecen un juego mucho más dinámico gracias a que ofrecen mucha más velocidad que cualquier otro modelo. ¿Por qué te va a gustar? No solo te gustarán por su gran calidad si no también por su duración ya que se han empleado tejidos y materiales técnicos para que puedas jugar con ellas durante mucho tiempo evitando tener que gastarte dinero continuamente. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 104.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/7521-cajon-pelotas-bullpadel-fip-next-pro-24-x-3.html"
+      }
+    ]
+  },
+  {
+    "id": 2127,
+    "slug": "pack-3-botes-pelotas-bullpadel-fip-next-pro-7520",
+    "name": "Pack 3 botes pelotas Bullpadel FIP Next Pro",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 16.95,
+    "oldPrice": 20.85,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32036-large_default/pack-3-botes-pelotas-bullpadel-fip-next-pro.jpg",
+    "ean": "1658750905695",
+    "productGTIN": "1658750905695",
+    "mpn": "7520",
+    "source": "zona-de-padel",
+    "sourceProductId": "7520",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Para todos aquellos que jueguen varias veces a la semana a pádel y quieran dejar de gastarse dinero continuamente en pelotas de pádel traemos el nuevo pack de 3 botes de pelotas Bullpadel FIP Next Pro, un modelo de la firma que ha sido fabricado con la máxima calidad para darlo todo en la pista. En la pista ofrece una gran velocidad así como una duración lo que te permitirá jugar con ellas durante mucho tiempo evitando que se desgasten rápidamente. Entre sus materiales encontramos fieltro natural lo que ayuda a mejorar la sensación en cada golpe que se da. Pack de 3 botes Bullpadel FIP Next Pro, características El pack de 3 botes Bullpadel FIP Next Pro contiene 9 bolas de gran calidad. Ofrece una gran velocidad así como una gran salida de bola. Su fabricación se ha realizado con fieltro natural que ayudan a mejorar las sensaciones al golpear la bola. Núcleo de goma de alta densidad que ayuda a evitar la perdida de presión. Se convierte en la pelota oficial para la Federación Internacional de Padel Nuevo modelo de pelotas de pádel Bullpadel 2022. ¿A quién va dirigido? Es perfecta para todo aquel que quiera unas pelotas con las que pueda jugar durante un tiempo sin que pierdan su calidad enseguida, ya que se han diseñado con materiales técnicos que aumentan la durabilidad de la misma. ¿Por qué te va a gustar? Porque podrás dejar de comprar botes pelotas continuamente evitando así tener que gastarte dinero continuamente ya que podrás jugar con ellas durante mucho tiempo. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 16.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/7520-pack-3-botes-pelotas-bullpadel-fip-next-pro.html"
+      }
+    ]
+  },
+  {
+    "id": 2128,
+    "slug": "bote-pelotas-bullpadel-fip-next-pro-7519",
+    "name": "Bote Pelotas Bullpadel FIP Next Pro",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 5.51,
+    "oldPrice": 6.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18249-large_default/bote-pelotas-bullpadel-fip-next-pro.jpg",
+    "ean": "8445402025978",
+    "productGTIN": "8445402025978",
+    "mpn": "7519",
+    "source": "zona-de-padel",
+    "sourceProductId": "7519",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Disfruta de un bote rápido y una larga durabilidad con el bote de pelotas Bullpadel FIP Next Pro de 3 unidadesm, unas pelotas de alta competición que ha diseñado Bullpadel 2022 para los jugadores exigentes. Es la bola utilizada por la FIP (Federación Internacional de Padel) así que reúne materiales de calidad y resistente para proporcionar el mejor rendimiento en pista. Está disponible en botes de 3 unidades pero también la podrás conseguir en packs para ahorrar dinero. La podrás utilizar en competiciones y torneos de nivel avanzado ya que mantiene su presión durante más tiempo. Para ello cuenta con un núcleo de caucho de alta densidad que evita la pérdida de la presión, con lo que no tendrás que cambiarla tan a menudo. Bolas Bullpadel FIP Next Pro amarilla, características El bote de pelotas Bullpadel FIP Next Pro es la bola oficial de la Federación Internacional de Padel. A la venta en botes de 3 unidades cerrados herméticamente. Bote rápido y sin alteraciones. Materiales de calidad para asegurar un óptimo rendimiento. De color amarillo con logotipo a contraste. Catálogo de accesorios para pádel Bullpadel 2022. ¿A quién va dirigido? Enfocada más para la competición intensiva ya que debido a sus prestaciones ofrecen un vuelo uniforme, una presión constante además de una larga durabilidad para no tener que reemplazarlas a mitad de partido. ¿Por qué te va a gustar? Porque resulta muy resistente y en pista ofrece una excelente salida de bola además de control. Esta temporada se convierte en producto oficial del International Padel Federation, así que disfrutarás de las mejores sensaciones en pista. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.51,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/7519-bote-pelotas-bullpadel-fip-next-pro.html"
+      }
+    ]
+  },
+  {
+    "id": 2130,
     "slug": "babolat-dyna-spirit-2023-7502",
     "name": "Babolat Dyna Spirit 2023",
     "brand": "Babolat",
@@ -22349,7 +23743,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2133,
+    "id": 2131,
     "slug": "babolat-stima-energy-2023-7501",
     "name": "Babolat Stima Energy 2023",
     "brand": "Babolat",
@@ -22390,7 +23784,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2134,
+    "id": 2132,
     "slug": "babolat-dyna-energy-2023-7500",
     "name": "Babolat Dyna Energy 2023",
     "brand": "Babolat",
@@ -22427,6 +23821,621 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
         "price": 159.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/7500-babolat-dyna-energy-2023.html"
+      }
+    ]
+  },
+  {
+    "id": 2137,
+    "slug": "cajon-pelotas-bullpadel-fip-next-7313",
+    "name": "Cajon Pelotas Bullpadel FIP Next",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 100.96,
+    "oldPrice": 110,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31904-large_default/cajon-pelotas-bullpadel-fip-next.jpg",
+    "ean": "8445402550258",
+    "productGTIN": "8445402550258",
+    "mpn": "7313",
+    "source": "zona-de-padel",
+    "sourceProductId": "7313",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Evita tener que cambiar la bola a mitad de partido con el cajón de pelotas FIP Next 24 botes x 3 unidades unidades de Bullpadel, uno de lo modelos preferidos por su excelente rendimiento y precio, ya que ofrecen un juego bastante rápido y dinámico sin ser demasiado caras. Además sirven tanto para entrenar como para competir. El cajón Next contiene un total de 72 bolas, todas ellas debidamente almacenadas dentro de 24 botes cerrados herméticamente para mantener una presión adecuada. Para su fabricación se ha empleado fieltro natural de alta calidad y caucho de lo más resistente, asegurando un gran rendimiento y durabilidad. Cajón Bullpadel FIP Next, características Con el cajón de Bullpadel FIP Next 24 x 3 unidades tendrás un total de 72 unidades. Pelota oficial de la Federación de Padel Internacional. Son de color amarillo y llevan el logotipo de la firma. Vuelo casi perfecto, sin apenas vibraciones. Mantiene la presión y sus cualidades durante más tiempo. Catálogo de pelotas para pádel Bullpadel 2022. ¿A quién va dirigido? Lo recomendamos a los jugadores que quieran conseguir unas pelotas de padel resistentes a todo tipo de clima y además a buen precio, ya que las nuevas FIP Next garantizan un vuelo y rebote perfectos. ¿Por qué te va a gustar? Porque gracias a su nuevo fieltro proporciona una mejor respuesta al golpear o impactar en la pista. Además su diseño en color amarillo garantiza una buen visibilidad en cualquier pista exterior o interior. Descubre más sobre la marca BULLPADEL Equípate con los mejores productos para jugar a pádel gracias a BullPadel Sport, una de las marcas preferidas por los jugadores. En el WPT cuenta con la representación de jugadores como: Paquito Navarro, Juan Tello, Alejandra Salazar o Delfi Brea. Esta temporada presenta una completa colección de palas de pádel, zapatillas, ropa y paleteros para todos los gustos y bolsillos. No esperes más y encuentra lo que buscas en su nueva colección, te aseguramos que disfrutarás de las mejores sensaciones en pista.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 100.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/7313-cajon-pelotas-bullpadel-fip-next.html"
+      }
+    ]
+  },
+  {
+    "id": 2138,
+    "slug": "pack-3-botes-pelotas-bullpadel-fip-next-7309",
+    "name": "Pack 3 Botes Pelotas Bullpadel FIP Next",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 14.96,
+    "oldPrice": 18,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31903-large_default/pack-3-botes-pelotas-bullpadel-fip-next.jpg",
+    "ean": "1652118888071",
+    "productGTIN": "1652118888071",
+    "mpn": "7309",
+    "source": "zona-de-padel",
+    "sourceProductId": "7309",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Si quieres ahorrarte dinero, hemos preparado el nuevo pack de 3 botes de pelotas Bullpadel FIP Next. Se trata de la pelota oficial de la Federación de Padel Internacional, así que está fabricada con materiales de calidad para conseguir el mejor rendimiento además de una excelente durabilidad para no tener que cambiarlas tan a menudo. La nueva pelota de Bullpadel se ha diseñado en color amarillo con el logotipo a contraste, así que ofrece una buen visibilidad tanto en el exterior como en el interior. Además ofrece una rápida recuperación, así que ofrece un mayor rebote y, por tanto un juego más dinámico. Pack de 3 botes Bullpadel FIP Next, características Con el pack Bullpadel FIP Next conseguirás pelotas más baratas. Tendrás mayor rebote y velocidad en tu juego. Materiales de calidad que garantizan una óptima durabilidad. Bola oficial de la Federación de Padel Internacional. En color amarillo y bote debidamente presurizado. Nuevo modelo de pelotas de pádel Bullpadel. ¿A quién va dirigido? Para la alta competición y también para entrenar ya que ofrecen el mejor rendimiento en cualquier situación, manteniendo sus propiedades durante más tiempo para no tener que cambiarlas a mitad de partido. ¿Por qué te va a gustar? Porque se ha renovado por completo, consiguiendo un resultado final espectacular. Además comprando este pack de pelotas para pádel te ahorrarás dinero, ya que salen más baratas que si las compras de manera individual. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 14.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/7309-pack-3-botes-pelotas-bullpadel-fip-next.html"
+      }
+    ]
+  },
+  {
+    "id": 2139,
+    "slug": "pack-3-botes-head-cs-4-unidades-7258",
+    "name": "Pack 3 Botes Head CS 4 unidades",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 11.95,
+    "oldPrice": 15,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18242-large_default/pack-3-botes-head-cs-4-unidades.jpg",
+    "ean": "1650556784948",
+    "productGTIN": "1650556784948",
+    "mpn": "7258",
+    "source": "zona-de-padel",
+    "sourceProductId": "7258",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Consigue las mejores pelotas para entrenar con nuestro pack de 3 Botes Head CS de 4 unidades cada uno, las preferidas por la mayoría de jugadores por su excelente relación calidad - precio. Con ellas podrás disfrutar de una gran durabilidad además de un bote vivo para desarrollar un juego dinámico. En pista ofrecen una buen visión ya que son de color amarillo y presentan el logotipo de la marca. También van debidamente precintadas dentro de un envase transparente y son aptas tanto para pádel como para tenis. Para acabar son las más utilizadas en escuelas o clubs de pádel por su fantástico precio. Pack con 3 botes de 4 unidades Head CS, características El Pack 3 Botes Head CS con 4 unidades se presenta en un envase transparente. Modelo de entrenamiento apto para padel o tenis. Comprando el tripack te salen las pelotas más baratas. Materiales de calidad para tener asegurado un óptimo rendimiento. Ideal para monitores, escuelas o clubs de pádel. Pertenece al catálogo de pelotas Head 2022. ¿A quién va dirigido? Dirigida a deportistas que entrenan de manera habitual y quieren hacerlo con pelotas de de larga duración, que no pierdan propiedades con el tiempo y que además sean baratas ya que el modelo Head CS presenta un precio imbatible. ¿Por qué te va a gustar? Gracias al nuevo pack de 3 botes podrás ahorrar dinero, ya que te salen más baratas que si las compras de manera individual. Además mantienen su presión durante más tiempo, así que su rendimiento no decepciona. Descubre más sobre la marca HEAD PADEL Encuentra todo lo que necesitas en el nuevo catálogo de Head Padel para esta temporada. La marca austríaca ha apostado por nuevos materiales y sistemas tecnológicos para conseguir un resultado perfecto sobre la pista. Actualmente, tiene una gran presencia en el World Padel Tour de la mano de jugadores top como Sanyo Gutierrez o Ari Sánchez. Sin duda, la mejor garantía que la firma puede ofrecer ya que sus productos son utilizados por profesionales.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 11.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/7258-pack-3-botes-head-cs-4-unidades.html"
+      }
+    ]
+  },
+  {
+    "id": 2140,
+    "slug": "bote-pelotas-head-cs-4-unidades-7255",
+    "name": "Bote Pelotas Head CS 4 unidades",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 4.95,
+    "oldPrice": 5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18243-large_default/bote-pelotas-head-cs-4-unidades.jpg",
+    "ean": "072489775540",
+    "productGTIN": "072489775540",
+    "mpn": "7255",
+    "source": "zona-de-padel",
+    "sourceProductId": "7255",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Consigue la nueva edición de todo un clásico: el nuevo bote de pelotas Head CS con 4 unidades. Se trata de una de las pelotas más utilizadas entre los jugadores, clubs y monitores ya que presenta una excelente relación calidad - precio. Ahora regresan con un bote de 4 unidades, en color amarillo y con el logotipo Head. Se han fabricado con materiales de alta calidad, así que tenemos asegurada una gran durabilidad ya que mantiene sus prestaciones y ofrecen un bote muy vivo durante más tiempo. Para acabar es un tipo de pelota que podrás utilizar tanto para jugar a pádel como para tenis y presenta un envase transparente. Bote pelotas Head CS de 4 unidades, características La Head CS 4 unidades es la clásica pelota de entrenamiento. Sirve tanto para jugar a padel como para tenis. Formato más económico con bote de 4 unidades y bote transparente. Fieltro mejorado que garantiza una larga duración. Ideal para monitores, escuelas de padel o clubs. Pertenece al catálogo de Head Padel. ¿A quién va dirigido? Para los jugadores que buscan unas pelotas de padel baratas, ya que las CS son las que presentan mejor relación calidad - precio. También son perfectas para tiendas especializadas, escuelas de pádel o monitores. ¿Por qué te va a gustar? Porque disfrutarás de las mejores sensaciones en pista, ya que ofrecen un bote muy vivo además de una larga duración. Ahora las podrás conseguir en un nuevo formato de 4 unidades para ahorrar dinero. Además ofrecen buena visibilidad con su diseño de color amarillo con logotipo. Descubre más sobre la marca HEAD PADEL Encuentra todo lo que necesitas en el nuevo catálogo de Head Padel para esta temporada. La marca austríaca ha apostado por nuevos materiales y sistemas tecnológicos para conseguir un resultado perfecto sobre la pista. Actualmente, tiene una gran presencia en el World Padel Tour de la mano de jugadores top como Sanyo Gutierrez o Ari Sánchez. Sin duda, la mejor garantía que la firma puede ofrecer ya que sus productos son utilizados por profesionales.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/7255-bote-pelotas-head-cs-4-unidades.html"
+      }
+    ]
+  },
+  {
+    "id": 2155,
+    "slug": "bote-pelotas-bullpadel-fip-next-6789",
+    "name": "Bote Pelotas Bullpadel FIP Next",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 5.5,
+    "oldPrice": 6,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31902-large_default/bote-pelotas-bullpadel-fip-next.jpg",
+    "ean": "8445402025961",
+    "productGTIN": "8445402025961",
+    "mpn": "6789",
+    "source": "zona-de-padel",
+    "sourceProductId": "6789",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Disfruta de un juego impecable con el bote de pelotas Bullpadel FIP Next de 3 unidadesm, unas pelotas diseñadas con toda la calidad de la marca. Para su fabricación se han utilizado materiales de calidad y de lo más resistentes, así que ofrecen el mejor rendimiento en pista. Y es que su fieltro natural de alta calidad ofrece una gran sensación de golpeo y un vuelo casi perfecto, eliminando las vibraciones. Además, se ha utilizado caucho de alta densidad en el núcleo para evitar la pérdida de la presión y disfrutar de un bote mucho más dinámico. Bolas Bullpadel FIP Next amarilla, características El bote de pelotas Bullpadel FIP Next de 3 unidades mantiene su presión durante más tiempo. Vuelo más uniforme y sin alteraciones. Materiales de calidad que garantizan un óptimo rendimiento. De color amarillo con logotipo a contraste. Bola oficial de la Federación de Padel Internacional. Catálogo de accesorios para pádel Bullpadel 2022. ¿A quién va dirigido? Para cualquier jugador que quiera tener una pelota de padel de larga duración a buen pecio, ya que las nuevas pelotas Next ofrecen un excelente rendimiento sobre cualquier tipo de pista sin pasarse de precio. ¿Por qué te va a gustar? Porque se trata de una pelota de alta competición, la bola oficial del International Padel Federation. Además se venden en botes de 3 unidades y debidamente cerrado para no perder su presión. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.5,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/6789-bote-pelotas-bullpadel-fip-next.html"
+      }
+    ]
+  },
+  {
+    "id": 2168,
+    "slug": "bote-pelotas-adidas-speed-rx-6197",
+    "name": "Bote Pelotas Adidas Speed RX",
+    "brand": "Adidas Padel",
+    "category": "acessorios",
+    "price": 5.96,
+    "oldPrice": 7,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18252-large_default/bote-pelotas-adidas-speed-rx.jpg",
+    "ean": "8436548248284",
+    "productGTIN": "8436548248284",
+    "mpn": "6197",
+    "source": "zona-de-padel",
+    "sourceProductId": "6197",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Dale más velocidad a tu juego con la nueva pelota Speed RX, un modelo diseñado por Adidas 2021. Está compuesta por una goma de alta calidad y destaca por su rápida recuperación, así que ofrece un mayor rebote y, por tanto, más velocidad en el juego. Por otro lado se ha fabricado con materiales resistentes, garantizando una larga durabilidad. En el exterior, la pelota está compuesta de un nuevo fieltro ligero y altamente flexible con un 50% de contenido en lana que proporciona un confort superior y mejor respuesta al golpear. Bote pelotas Adidas Speed RX, características La Adidas Speed RX son pelotas de alto rendimiento. Pelotas de padel con mayor rebote. Minimiza vibraciones y consigue un vuelo uniforme. Fieltro elaborado al 50% con lana. Bote de 3 unidades, color amarillo y logo de la marca. Pertenece al catálogo de Adidas Padel. ¿A quién va dirigido? Para los jugadores exigentes que tiene un nivel avanzado de pádel, ya que es una pelota con más velocidad y rebote. Sin embargo también pueden ser utilizadas para el pádel amateur. ¿Por qué te va a gustar? Porque disfrutarás de las mejores sensaciones, ya que es una pelota para padel de alto rendimiento y son utilizadas por algunos jugadores profesionales. Además ofrecen buena visibilidad con su diseño de color amarillo con logotipo. Descubre más sobre la marca ADIDAS Son muchos los deportistas que confían en Adidas Sport. Des del 2016 que empieza a fabricar productos para pádel que han conquistado a todo el público. Y es que tienen una completa colección de palas de pádel, zapatillas, paleteros y ropa para todos los gustos. Actualmente cuentan con representación en el WPT de la mano de jugadores como Ale Galán, Seba Nerone, Marta Ortega o Alex Ruiz. Es un claro ejemplo de la calidad de todos sus productos, así que no esperes más y disfruta del mejor rendimiento y diseño con Adidas Padel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/6197-bote-pelotas-adidas-speed-rx.html"
+      }
+    ]
+  },
+  {
+    "id": 2170,
+    "slug": "pack-3-botes-pelotas-bullpadel-premium-6073",
+    "name": "Pack 3 Botes Pelotas Bullpadel Premium",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 12.96,
+    "oldPrice": 18,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18352-large_default/pack-3-botes-pelotas-bullpadel-premium.jpg",
+    "ean": "1725894529367",
+    "productGTIN": "1725894529367",
+    "mpn": "6073",
+    "source": "zona-de-padel",
+    "sourceProductId": "6073",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Ahorra dinero comprando paquetes de de pelotas para jugar a padel. Descubre el pack de 3 botes de pelotas Bullpadel Premium, una bola de larga duración, hecha con materiales de calidad para conseguir el mejor rendimiento tanto en entrenamientos como en partidos. Para ello se ha reforzado el núcleo con caucho de alta densidad y mantienen su presión a durante más tiempo para generar un bote vivo. Además los botes están herméticamente cerrados, con lo que siempre estarán en buenas condiciones para usar. Pack de 3 botes Bullpadel Premium, características Con el pack de pelotas Bullpadel Premium te ahorrarás dinero. Consigue 3 botes con 3 unidades cada uno. Nueva construcción del del núcleo para conseguir mayor durabilidad. Diseño en color amarillo y con el logo de la marca. Equilibrio perfecto entre precisión y control. Nuevo modelo de pelotas de pádel Bullpadel 2021. ¿A quién va dirigido? Pensadas para la alta competición, sobre todo a los jugadores que juegan de manera intensiva pero también las recomendamos a los deportistas que compiten de manera ocasional y que buscan una pelota de pádel de calidad. ¿Por qué te va a gustar? Porque es una pelota barata para jugar a padel que te permitirá disfrutar del mejor rendimiento tanto en partidos como entrenamientos. Además con la esta oferta de pelotas te ahorrarás dinero, ya que el bote te sale más económico. Descubre más sobre la marca BULLPADEL Equípate con los mejores productos para jugar a pádel gracias a BullPadel Sport, una de las marcas preferidas por los jugadores. Esta temporada presenta una completa colección de palas de pádel, zapatillas, ropa y paleteros para todos los gustos y bolsillos. La firma cuenta con el apoyo de jugadores top ten del World Padel Tour como Paquito Navarro, Maxi Sánchez, Alejandra Salazar o Cata Tenorio, un claro ejemplo de calidad de la marca. No esperes más y pásate a Bullpadel ¡no te defraudará!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 12.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/6073-pack-3-botes-pelotas-bullpadel-premium.html"
+      }
+    ]
+  },
+  {
+    "id": 2183,
+    "slug": "pelotas-bullpadel-premium-5660",
+    "name": "Pelotas Bullpadel Premium",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 5.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18353-large_default/pelotas-bullpadel-premium.jpg",
+    "ean": "8432959724973",
+    "productGTIN": "8432959724973",
+    "mpn": "5660",
+    "source": "zona-de-padel",
+    "sourceProductId": "5660",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Disfruta de una bola de gran resistencia, durabilidad y al mejor precio comprando el cajón de pelotas Bullpadel Premium Pro de 24 x 3 unidades. Por su calidad se ha convertido en el modelo oficial de la federación madrileña de padel y también extremeña. Y es que su fieltro sintético de alta calidad ofrece una gran sensación de golpeo y un vuelo casi perfecto. Además, se ha utilizado caucho de alta densidad en el núcleo para evitar la pérdida de la presión y, por consiguiente, aumentar su durabilidad. Bolas Bullpadel Premium, características El bote de pelotas Bullpadel Premium Pro de 3 unidades es ideal para tus competiciones y entrenamientos. Reduce vibraciones para un vuelo más uniforme. Materiales anti abrasión para mantener su buen estado más tiempo. Buena visibilidad gracias a su color amarillo. Bola oficial F.M.P. y F.E.P. ¿A quién va dirigido? Para los jugadores que buscan una pelota de padel de larga duración y calidad a buen precio, ya que las premium pro reúnen los mejores materiales del mercado para satisfacer las exigencias del público. ¿Por qué te va a gustar? Porque tendrás en tu poder uno de los mejores modelos del mercado. Además, comprando el cajón te saldrán las pelotas de padel más baratas que si las adquieres de manera individual. Descubre más sobre la marca BULLPADEL Equípate con BullPadel Sport, todo un referente dentro del mercado del pádel que ha llegado a convertirse en una de las marcas favoritas entre el público. Su buen trabajo la han llevado a equipar a jugadores de la talla de Paquito Navarro, Maxi Sánchez o Victoria Iglesias. Sin lugar a dudas, esa es la mejor garantía de calidad. No esperes más y disfruta de su amplio abanico de palas de padel, zapatillas, equipaciones, bolsas y complementos de gran calidad y adaptados a las necesidades de cada tipo de jugador.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/5660-pelotas-bullpadel-premium.html"
+      }
+    ]
+  },
+  {
+    "id": 2184,
+    "slug": "pelotas-dunlop-pro-padel-5571",
+    "name": "Pelotas Dunlop Pro Padel",
+    "brand": "Dunlop Padel",
+    "category": "acessorios",
+    "price": 5.99,
+    "oldPrice": 7.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/9074-large_default/pelotas-dunlop-pro-padel.jpg",
+    "ean": "045566304384",
+    "productGTIN": "045566304384",
+    "mpn": "5571",
+    "source": "zona-de-padel",
+    "sourceProductId": "5571",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Disfruta de las mejores sensaciones al golpear con las pelotas Pro Padel del catálogo Dunlop. La marca ha diseñado una pelota para jugar a pádel al máximo nivel, fabricada con materiales de calidad para proporcionar una mejor durabilidad. Así pues incorpora un nuevo fieltro más resistente que la dota de mator durabilidad. Los botes están sellados para mantener la presión perfecta y ofrecen buena visibilidad tanto en pistas exteriores como interiores ya que son de color amarillo y llevan el logode la marca. Bote pelotas Pro Padel, características Bote de 3 unidades de pelotas Dunlop Pro Padel. Diseño en amarillo para una mejor visión en pista. Pelotas de alta competición que mantienen sus propiedades durante más tiempo. Pelota homologada por la Federación Internacional de Pádel (FIP). Más viva y más rápida que la pelota Dunlop Padel. Pertenece al catálogo de pelotas para pádel Dunlop. ¿A quién va dirigido? En nuestra opinión, las podrás utilizar para disputar tus competiciones más intensas ya que las dunlop pro team es una pelota de alto rendimiento así que mantiene tus propiedades durante más tiempo. ¿Por qué te va a gustar? Porque podrás disputar tus partidos con una pelota de alta competición y fantástica durabilidad ¡se acabó cambiarla a mitad de partido! Además disfrutarás de un vuelo uniforme, bote más rápido y juego dinámico. Descubre más sobre la marca DUNLOP Todos sabemos que Dunlop Sport, es una de las marcas favoritas de los deportistas. Encontramos sus productos en multitud de deportes y no podía faltar su aportación en el sector del padel con variedad de palas, ropa, bolsas y accesorios de gran calidad. Todos sus productos de pádel están adaptados a todo tipo de jugadores y con una relación calidad - precio excepcional. Prueba de ello es que Juani Mieres, Patty Llaguno o Willy Lahoz son algunos de los jugadores profesionales que representan la marca.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 5.99,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/dunlop-padel/5571-pelotas-dunlop-pro-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 2187,
+    "slug": "bote-presurizador-pascal-box-5235",
+    "name": "Bote Presurizador Pascal Box",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 53.68,
+    "oldPrice": 60,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31896-large_default/bote-presurizador-pascal-box.jpg",
+    "ean": "8414606874705",
+    "productGTIN": "8414606874705",
+    "mpn": "5235",
+    "source": "zona-de-padel",
+    "sourceProductId": "5235",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Recupera las bolas que has descartado con el bote presurizador Pascal Box. Se trata de un cargador de presión que permite recuperar el estado óptimo de las pelotas después de sacarlas de su envase. Así pues disfrutarás de un bote perfecto en cada partido! Su funcionamiento es sencillo: introduce las bolas en el bote presurizador, cierra la tapa e introduce aire con la bomba hasta el nivel que desees. Además sirve tanto para pelotas de pádel como de tenis y es el único que te garantiza una presión de hasta 48 PSI. Bote Pascal Box para la presión, características Disfruta de un bote perfecto con el bote presurizador pascal box. Puede mantener indefinidamente hasta 48 PSI de presión. Las pelotas recuperarán el bote que tenían el primer día que las estrenaste. Diseño sólido y compacto con cierre hermético. Incluye manómetro de precisión y válvula de seguridad. Cargador de presión válido para pelotas de pádel como de tenis. ¿A quién va dirigido? Dirigido a cualquier jugador que quiera disfrutar de un rendimiento óptimo de las pelotas durante más tiempo, ya que con el bote pascal box podrás recuperar la presión adecuada y tenerlas siempre en perfecto estado para jugar. ¿Por qué te va a gustar? Porque te ahorrarás dinero. Gracias a este sistema presurizador las pelotas se mantiene en buen estado partido tras partido, así que no tendrás que comprar botes o cajones tan a menudo. Descubre más sobre el PASCAL BOX Si eres un profesional del pádel, es decir, como club o monitor, sabrás lo importante que es jugar siempre con las pelotas en perfecto estado y con la presión óptima. El carro para profesionales ha sido desarrollado para cargar la presión y tener siempre un bote perfecto. Descubre lo que puede hacer por ti este presurizador y entrena siempre al mejor nivel. Vale tanto para pelotas de tenis o padel y según la temperatura ambiente o la superficie en la que juegues podrás decidir que presión quieres.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 53.68,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/5235-bote-presurizador-pascal-box.html"
+      }
+    ]
+  },
+  {
+    "id": 2196,
+    "slug": "cajon-pelotas-bullpadel-premium-24-x-3-unidades-2177",
+    "name": "Cajón Pelotas Bullpadel Premium 24 X 3 unidades",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 99.96,
+    "oldPrice": 139.95,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18354-large_default/cajon-pelotas-bullpadel-premium-24-x-3-unidades.jpg",
+    "ean": "8445402550234",
+    "productGTIN": "8445402550234",
+    "mpn": "2177",
+    "source": "zona-de-padel",
+    "sourceProductId": "2177",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "Cajón Pelotas de padel Bullpadel, 24botes con 3 unidades de pelotas de una de las pelotas con mejor relación calidad precio del mercado, la pelota oficial del campeonato del mundo . ¿A quién va dirigido? Para cualquier tipo de jugador o superficie que busca una pelota de calidad a un precio muy económico, precio especial para club. ¿Por qué te va a gustar? Por el tipo de bote que tiene y sobre todo por la duración, las bolas Bullpadel tienen una relación calidad precio incomparables. Es bueno que sepas que... La pelotas Bullpadel Premium son de color amarillo. Pelotas de padel de larga duración. Bote muy vivo y agradable. Fieltro sintético de alta calidad. Pelota oficial de la Federación Madrileña de Pádel. Contiene 24 botes con tres pelotas. BullPadel fue una de las primeras marcas de pádel en España, la calidad de sus palas de pádel y productos viene avalada por grandes jugadores y una experiencia de más de 15 años en el mundo del pádel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 99.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/2177-cajon-pelotas-bullpadel-premium-24-x-3-unidades.html"
+      }
+    ]
+  },
+  {
+    "id": 2197,
+    "slug": "cajon-pelotas-head-padel-24-x-3-unidades-846",
+    "name": "Cajón Pelotas Head Padel 24 X 3 unidades",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 85.01,
+    "oldPrice": 124.9,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/16624-large_default/cajon-pelotas-head-padel-24-x-3-unidades.jpg",
+    "ean": "1728901289957",
+    "productGTIN": "1728901289957",
+    "mpn": "846",
+    "source": "zona-de-padel",
+    "sourceProductId": "846",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Cajón Pelotas de padel Head, 24 botes con 3 unidades de pelotas de uno de los modelos más vendidos para jugar a pádel. ¿A quién va dirigido? Para cualquier tipo de jugador o superficie que busca una pelota de calidad a un precio muy económico. ¿Por qué te va a gustar? Por el tipo de bote que tiene y sobre todo por la duración, las bolas Head tienen una relación calidad precio incomparables. Es bueno que sepas que... El cajon de 24 botes de pelotas Head Padel tienen un color amarillo. Pelotas de padel de larga duración. Bote muy vivo y agradable. Larga duración. Con un cartel de lujo HEAD puede presumir de tener entre sus filas a los principales jugadores del circuito como son Fernando Belasteguin, Sanyo Gutierrez, Eli Amatriain, Alejandra Salazar o Andoni Bardasco, comprar una pala Head es sinónimo de calidad.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 85.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/846-cajon-pelotas-head-padel-24-x-3-unidades.html"
+      }
+    ]
+  },
+  {
+    "id": 2198,
+    "slug": "pack-3-botes-pelotas-head-padel-845",
+    "name": "Pack 3 Botes pelotas Head Padel",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 12.96,
+    "oldPrice": 18,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/4941-large_default/pack-3-botes-pelotas-head-padel.jpg",
+    "ean": "1545131199579",
+    "productGTIN": "1545131199579",
+    "mpn": "845",
+    "source": "zona-de-padel",
+    "sourceProductId": "845",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Pack de Pelotas de padel Head, 3 botes con 3 unidades de pelotas de uno de los modelos más vendidos para jugar a pádel. ¿A quién va dirigido? Para cualquier tipo de jugador o superficie que busca una pelota de calidad a un precio muy económico. ¿Por qué te va a gustar? Por el tipo de bote que tiene y sobre todo por la duración, las bolas Head tienen una relación calidad precio incomparables. Es bueno que sepas que... El pack pelotas Head Padel Tour tienen un color amarillo. Pelotas de padel de larga duración. Bote muy vivo y agradable. Larga duración. Con un cartel de lujo HEAD puede presumir de tener entre sus filas a los principales jugadores del circuito como son Fernando Belasteguin, Sanyo Gutierrez, Eli Amatriain, Alejandra Salazar o Andoni Bardasco, comprar una pala Head es sinónimo de calidad.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 12.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/845-pack-3-botes-pelotas-head-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 2199,
+    "slug": "pelotas-head-padel-844",
+    "name": "Pelotas Head Padel",
+    "brand": "Head Padel",
+    "category": "acessorios",
+    "price": 4.96,
+    "oldPrice": 7,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/16661-large_default/pelotas-head-padel.jpg",
+    "ean": "072489756037",
+    "productGTIN": "072489756037",
+    "mpn": "844",
+    "source": "zona-de-padel",
+    "sourceProductId": "844",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Pelotas de padel Head, botes con 3 unidades de pelotas de uno de los modelos más vendidos para jugar a pádel. ¿A quién va dirigido? Para cualquier tipo de jugador o superficie que busca una pelota de calidad a un precio muy económico. ¿Por qué te va a gustar? Por el tipo de bote que tiene y sobre todo por la duración, las bolas Head tienen una relación calidad precio incomparables. Es bueno que sepas que... La pelotas Head Padel Tour tienen un color amarillo. Pelotas de padel de larga duración. Bote muy vivo y agradable. Larga duración. Con un cartel de lujo HEAD puede presumir de tener entre sus filas a los principales jugadores del circuito como son Fernando Belasteguin, Sanyo Gutierrez, Eli Amatriain, Alejandra Salazar o Andoni Bardasco, comprar una pala Head es sinónimo de calidad.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/844-pelotas-head-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 2200,
+    "slug": "pelotas-dunlop-team-padel-3-unidades-57",
+    "name": "Pelotas Dunlop Team Padel 3 Unidades",
+    "brand": "Dunlop Padel",
+    "category": "acessorios",
+    "price": 4.99,
+    "oldPrice": 6.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/9071-large_default/pelotas-team-padel-3-unidades.jpg",
+    "ean": "045566301086",
+    "productGTIN": "045566301086",
+    "mpn": "57",
+    "source": "zona-de-padel",
+    "sourceProductId": "57",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Consigue les mejore pelotas para jugar a pádel en nuestra tienda online ¡tenemos de todas las marcas! Compra el bote de pelotas Team Padel 3 unidades del catálogo de accesorios Dunlop, una pelota destinada a monitores, escuelas y entrenamientos. Y es que destaca por su fantástica durabilidad y también por su económico precio. Así pues las podrñas utilizar durante más partidos ya que se han empleado materiales de calidad en su fabricación. Bote pelotas Dunlop Team, características Las Dunlop Team Padel se venden en paquete de 3 unidades. Pelotas de máxima calidad para cubrir las necesidades de cualquier jugador. Bote vivo y vuelo sin vibraciones. Aptas para la competición oficial, entrenamientos o escuelas de pádel. Materiales de calidad que resisten el desgaste. Disponibles en la colección de pelotas Dunlop Padel. ¿A quién va dirigido? En nuestra opinión es ideal para utilizar durante tus entrenamientos ya que ofrece un gran rendimiento y durabilidad además de su precio más económico. También la recomendamos para los monitores o clubs de pádel. ¿Por qué te va a gustar? Porque Dunlop fue la primera marca en desarrollar pelotas específicas para jugar a pádel, así que disfrutarás del mejor rendimiento en tus partidos. Además ofrecen buena visibilidad tanto en interior como exterior por su diseño en amarillo. Descubre más sobre la marca DUNLOP Todos sabemos que Dunlop Sport, es una de las marcas favoritas de los deportistas. Encontramos sus productos en multitud de deportes y no podía faltar su aportación en el sector del padel con variedad de palas, ropa, bolsas y accesorios de gran calidad. Todos sus productos de pádel están adaptados a todo tipo de jugadores y con una relación calidad - precio excepcional. Prueba de ello es que Juani Mieres, Patty Llaguno o Willy Lahoz son algunos de los jugadores profesionales que representan la marca.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 4.99,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/dunlop-padel/57-pelotas-team-padel-3-unidades.html"
       }
     ]
   }

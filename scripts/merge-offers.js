@@ -405,6 +405,43 @@ function normalizeCatalogCategory(item) {
   }
 }
 
+function isTrustedPadelMarketRacket(offer) {
+  if (offer?.source !== 'padel-market' || offer?.category !== 'raquetes') return false;
+  const text = normalizeText([
+    offer.name,
+    offer.brand,
+    offer.sourceCategory,
+    offer.description,
+  ].filter(Boolean).join(' | '));
+
+  if (
+    text.includes('pickleball') ||
+    text.includes('badminton') ||
+    text.includes('fronton') ||
+    text.includes('beach tennis') ||
+    text.includes('frescobol')
+  ) {
+    return false;
+  }
+
+  return (
+    (
+      text.includes('padel racket') ||
+      text.includes('padel raquete') ||
+      text.includes('raquete de padel') ||
+      text.includes('pala de padel') ||
+      text.includes('pala padel') ||
+      text.includes(' padel ')
+    ) &&
+    (
+      text.includes('racket') ||
+      text.includes('raquete') ||
+      text.includes('raqueta') ||
+      text.includes('pala')
+    )
+  );
+}
+
 function buildIndex(products) {
   const byEan = new Map();
   const byGtin = new Map();
@@ -450,7 +487,7 @@ function processOffers({
   for (const offer of offers) {
     offer.brand = normalizeBrand(offer.brand);
     normalizeCatalogCategory(offer);
-    if (isCategoryIntruder(offer, offer.category)) {
+    if (isCategoryIntruder(offer, offer.category) && !isTrustedPadelMarketRacket(offer)) {
       counters.skipped += 1;
       continue;
     }

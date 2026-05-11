@@ -263,6 +263,9 @@ function mapCategory(row) {
     combined.includes('chinelo') ||
     combined.includes('slide') ||
     combined.includes('footgel') ||
+    combined.includes('racket cover') ||
+    combined.includes('cover racket') ||
+    combined.includes('funda') ||
     combined.includes('overgrip') ||
     combined.includes('grip ') ||
     combined.startsWith('grip ') ||
@@ -328,6 +331,44 @@ function mapCategory(row) {
   return 'acessorios';
 }
 
+function isLegitPadelMarketRacket(offer) {
+  const text = normalizeText([
+    offer.name,
+    offer.brand,
+    offer.sourceCategory,
+    offer.description,
+  ].filter(Boolean).join(' | '));
+
+  if (
+    text.includes('pickleball') ||
+    text.includes('badminton') ||
+    text.includes('fronton') ||
+    text.includes('beach tennis') ||
+    text.includes('frescobol')
+  ) {
+    return false;
+  }
+
+  return (
+    offer.category === 'raquetes' &&
+    (
+      text.includes('padel racket') ||
+      text.includes('padel raquete') ||
+      text.includes('raquete de padel') ||
+      text.includes('pala de padel') ||
+      text.includes('pala padel') ||
+      text.includes('padel 2') ||
+      text.includes(' padel ')
+    ) &&
+    (
+      text.includes('racket') ||
+      text.includes('raquete') ||
+      text.includes('raqueta') ||
+      text.includes('pala')
+    )
+  );
+}
+
 function rowToOffer(row, id) {
   const price = cleanPrice(row.search_price || row.store_price || row.display_price || row.base_price);
   const oldPrice = cleanPrice(row.rrp_price || row.base_price || row.display_price);
@@ -377,6 +418,8 @@ function rowToOffer(row, id) {
       },
     ],
   };
+
+  if (isLegitPadelMarketRacket(offer)) return offer;
 
   return isCoreCatalogProduct(offer) ? offer : null;
 }

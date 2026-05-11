@@ -23,8 +23,13 @@ function hasAny(text, terms) {
   return terms.some(term => text.includes(term));
 }
 
+function hasWord(text, word) {
+  return text.split(' ').includes(word);
+}
+
 function isCategoryIntruder(product, category = product?.category) {
   const text = buildProductText(product);
+  const nameText = normalizeRuleText(product?.name);
 
   if (category === 'raquetes') {
     if (
@@ -39,6 +44,7 @@ function isCategoryIntruder(product, category = product?.category) {
         'overgrips',
         'punho',
         'punhos',
+        'cordao',
         'balanceador',
         'peso personalizado',
         'optiweight',
@@ -49,11 +55,6 @@ function isCategoryIntruder(product, category = product?.category) {
         'colar',
         'joia',
         'jewelry',
-        'bola',
-        'bolas',
-        'pote de bolas',
-        'tubo de bola',
-        'tubo selecionador',
         'manga ',
         'mangas ',
         'cotoveleira',
@@ -69,14 +70,12 @@ function isCategoryIntruder(product, category = product?.category) {
         'leggings',
         'soft shell',
         'softshell',
-        'funda',
         'polo',
         'camiseta',
         'camisa',
         't shirt',
         'vestido',
         'saia',
-        'falda',
         'sudadera',
         'calcetin',
         'calcetines',
@@ -85,20 +84,26 @@ function isCategoryIntruder(product, category = product?.category) {
         'sack protour',
         'sck protour',
       ]) ||
-      text.includes(' grip ') ||
-      text.startsWith('grip ') ||
-      text.includes('hesacore') ||
-      text.includes('antivibr') ||
-      text.includes('protector') ||
-      text.includes('protetor') ||
-      text.includes('protection') ||
-      text.includes('aderencia') ||
-      text.includes('adhesive') ||
-      text.includes('tambor') ||
-      text.includes('chaveiro') ||
-      text.includes('porta chaves') ||
-      text.includes('keyring') ||
-      text.includes('keychain')
+      nameText.includes(' grip ') ||
+      nameText.startsWith('grip ') ||
+      nameText.includes('hesacore') ||
+      nameText.includes('antivibr') ||
+      nameText.includes('protector') ||
+      nameText.includes('protetor') ||
+      nameText.includes('protection') ||
+      nameText.includes('aderencia') ||
+      nameText.includes('adhesive') ||
+      nameText.includes('tambor') ||
+      nameText.includes('chaveiro') ||
+      nameText.includes('porta chaves') ||
+      nameText.includes('keyring') ||
+      nameText.includes('keychain') ||
+      nameText.includes('funda') ||
+      nameText.includes('racket cover') ||
+      nameText.includes('cover racket') ||
+      nameText.includes('cover de raquete') ||
+      nameText.includes('lanyard') ||
+      hasWord(text, 'falda')
     ) {
       return true;
     }
@@ -107,9 +112,9 @@ function isCategoryIntruder(product, category = product?.category) {
     if (text.includes('badminton') || text.includes('praia') || text.includes('beach') || text.includes('frescobol')) return true;
     if (text.includes('cuero') && !text.includes('padel')) return true;
     if (
-      (text.includes('tenis') || text.includes('tennis')) &&
-      !text.includes('padel') &&
-      (text.includes('raqueta') || text.includes('raquete') || text.includes('racket') || text.includes('pala'))
+      (nameText.includes('tenis') || nameText.includes('tennis')) &&
+      !nameText.includes('padel') &&
+      (nameText.includes('raqueta') || nameText.includes('raquete') || nameText.includes('racket') || nameText.includes('pala'))
     ) {
       return true;
     }
@@ -134,7 +139,6 @@ function isCategoryIntruder(product, category = product?.category) {
         'tee ',
         'vestido',
         'saia',
-        'falda',
         'sudadera',
         'calcetin',
         'calcetines',
@@ -152,8 +156,6 @@ function isCategoryIntruder(product, category = product?.category) {
         'cheiro',
         'spray',
         'footgel',
-        'bola',
-        'bolas',
         'pote de bolas',
         'tubo de bola',
         'tubo selecionador',
@@ -167,7 +169,8 @@ function isCategoryIntruder(product, category = product?.category) {
         'mochila',
         'paletero',
         'raquetero',
-      ])
+      ]) ||
+      hasWord(text, 'falda')
     ) {
       return true;
     }
@@ -185,7 +188,6 @@ function isCategoryIntruder(product, category = product?.category) {
         'toiletry',
         'calcetin',
         'calcetines',
-        'falda',
         'sudadera',
         'pantalon',
         'pantalones',
@@ -220,7 +222,8 @@ function isCategoryIntruder(product, category = product?.category) {
         'cotoveleira',
         'joelheira',
         'overgrip',
-      ])
+      ]) ||
+      hasWord(text, 'falda')
     ) {
       return true;
     }

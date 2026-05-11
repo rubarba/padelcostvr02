@@ -4410,8 +4410,8 @@
 
 <div id="root"></div>
 
-<script src="./data/products-data.js?v=20260511-padelmarket-rackets-fix"></script>
-<script src="./data/seo-pages-data.js?v=20260511-padelmarket-rackets-fix"></script>
+<script src="./data/products-data.js?v=20260511-ui-rackets-count-fix"></script>
+<script src="./data/seo-pages-data.js?v=20260511-ui-rackets-count-fix"></script>
 <script src="./data/amazon-manual-data.js?v=20260510-forum-price-refresh"></script>
 <script type="text/babel">
   const { useState, useEffect, useMemo, useRef } = React;
@@ -5337,7 +5337,9 @@
         .filter(Boolean)
         .join(' | ')
         .toLowerCase();
+      const nameText = String(product?.name || '').toLowerCase();
       const hasAny = (terms) => terms.some(term => text.includes(term));
+      const nameHasAny = (terms) => terms.some(term => nameText.includes(term));
 
       if (category === 'raquetes') {
         if (
@@ -5375,21 +5377,27 @@
             'sack protour',
             'sck protour',
           ]) ||
-          text.includes(' grip ') ||
-          text.startsWith('grip ') ||
-          text.includes('hesacore') ||
-          text.includes('antivibr') ||
-          text.includes('protector') ||
-          text.includes('protetor') ||
-          text.includes('protection') ||
-          text.includes('aderencia') ||
-          text.includes('aderência') ||
-          text.includes('adhesive') ||
-          text.includes('tambor') ||
-          text.includes('chaveiro') ||
-          text.includes('porta chaves') ||
-          text.includes('keyring') ||
-          text.includes('keychain')
+          nameText.includes(' grip ') ||
+          nameText.startsWith('grip ') ||
+          nameHasAny([
+            'hesacore',
+            'antivibr',
+            'protector',
+            'protetor',
+            'protection',
+            'aderencia',
+            'aderência',
+            'adhesive',
+            'tambor',
+            'chaveiro',
+            'porta chaves',
+            'keyring',
+            'keychain',
+            'funda',
+            'racket cover',
+            'cover racket',
+            'cover de raquete'
+          ])
         ) {
           return true;
         }
@@ -5415,12 +5423,12 @@
         }
 
         if (
-          (text.includes('tenis') || text.includes('tennis')) &&
-          !text.includes('padel') &&
-          (text.includes('raqueta') ||
-            text.includes('raquete') ||
-            text.includes('racket') ||
-            text.includes('pala'))
+          (nameText.includes('tenis') || nameText.includes('tennis')) &&
+          !nameText.includes('padel') &&
+          (nameText.includes('raqueta') ||
+            nameText.includes('raquete') ||
+            nameText.includes('racket') ||
+            nameText.includes('pala'))
         ) {
           return true;
         }

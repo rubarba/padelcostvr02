@@ -1512,9 +1512,19 @@
       border-color: var(--accent);
     }
 
+    .btn-buy.single-store {
+      background: #0f4f80;
+      border-color: #0f4f80;
+    }
+
     .btn-buy:hover {
       background: #0066bb;
       border-color: #1270b8;
+    }
+
+    .btn-buy.single-store:hover {
+      background: #0b3f66;
+      border-color: #0b3f66;
     }
 
     .btn-compare {
@@ -5864,6 +5874,11 @@
       return `Ver ${stores.length} lojas`;
     };
 
+    const getProductActionClassName = (product) => {
+      const stores = product?.stores || [];
+      return `btn-small btn-buy${stores.length === 1 ? ' single-store' : ''}`;
+    };
+
     function getOpportunityMeta(product) {
       const validStores = (product?.stores || []).filter((store) => typeof store.price === 'number');
       if (validStores.length < 2) return null;
@@ -6347,7 +6362,7 @@
                               <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                               {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                             </button>
-                            <button className="btn-small btn-buy" onClick={() => openModal(product)}>{getProductActionLabel(product)}</button>
+                            <button className={getProductActionClassName(product)} onClick={() => openModal(product)}>{getProductActionLabel(product)}</button>
                           </div>
                         </div>
                       </div>
@@ -6758,7 +6773,7 @@
                                 <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                                 {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                               </button>
-                              <button className="btn-small btn-buy" onClick={() => openModal(product)}>
+                              <button className={getProductActionClassName(product)} onClick={() => openModal(product)}>
                                 {getProductActionLabel(product)}
                               </button>
                             </div>

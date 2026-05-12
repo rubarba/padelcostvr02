@@ -76,19 +76,85 @@
     .category-btn:hover .category-icon-white, .category-btn.active .category-icon-white { opacity:0; }
     .category-btn:hover .category-icon-color, .category-btn.active .category-icon-color { opacity:1; transform:scale(1); }
     .category-help-link { display:inline-flex; align-items:center; gap:.5rem; color:#51627a; font-size:.95rem; font-weight:700; text-decoration:none; white-space:nowrap; flex-shrink:0; }
-    .hero { padding: 2rem 0 1.3rem; background: white; border-bottom:1px solid var(--line); }
+    .hero { padding: 1.55rem 0 1.05rem; background: white; border-bottom:1px solid var(--line); }
     .breadcrumb { display:flex; flex-wrap:wrap; gap:.4rem; color:var(--muted); font-size:.9rem; margin-bottom:.8rem; }
     .breadcrumb a { color:var(--blue); text-decoration:none; font-weight:800; }
     h1 { margin:.2rem 0 .8rem; font-size:1.28rem; font-weight:700; line-height:1.2; letter-spacing:0; }
     .lead { color:var(--muted); max-width:760px; font-size:1.08rem; margin:0; }
-    .section { padding: 2rem 0; }
-    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; }
-    .card { background:white; border:1px solid var(--line); border-radius:8px; padding:1rem; box-shadow:0 8px 24px rgba(15,31,53,.06); text-decoration:none; display:flex; flex-direction:column; min-height:100%; }
-    .card img { width:100%; aspect-ratio:1/1; object-fit:contain; background:white; border:1px solid var(--line); border-radius:8px; margin-bottom:.8rem; }
+    .section { padding: 1.45rem 0 2rem; }
+    .category-seo-summary { display:grid; grid-template-columns:minmax(0, 1fr) 420px; gap:1.4rem; align-items:start; margin-bottom:1.25rem; }
+    .category-seo-summary h2 { margin:.05rem 0 .55rem; font-size:1.22rem; line-height:1.25; }
+    .category-seo-summary p { margin:.45rem 0 0; }
+    .category-seo-summary .meta { font-size:.86rem; }
+    .catalog-layout { display:grid; grid-template-columns:260px minmax(0, 1fr); gap:1.2rem; align-items:start; }
+    .filters-panel { position:sticky; top:140px; background:#fff; border-radius:16px; padding:1.2rem; box-shadow:0 10px 30px rgba(15,31,53,.08); max-height:calc(100vh - 160px); overflow-y:auto; margin-top:.95rem; }
+    .filters-panel::-webkit-scrollbar { width:5px; }
+    .filters-panel::-webkit-scrollbar-thumb { background:var(--line); border-radius:10px; }
+    .filters-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1.2rem; padding-bottom:1rem; border-bottom:2px solid var(--line); }
+    .filters-title { display:inline-flex; align-items:center; gap:.45rem; font-size:.95rem; font-weight:800; color:var(--text); text-transform:uppercase; letter-spacing:.05em; }
+    .filters-title i { font-size:.82rem; color:var(--muted); }
+    .filters-clear { padding:.32rem .6rem; background:var(--soft); color:#51627a; border:0; border-radius:6px; font-size:.7rem; font-weight:800; cursor:pointer; font-family:inherit; }
+    .filters-clear:hover { background:#fee2e2; color:#b91c1c; }
+    .filter-section { margin-bottom:1.2rem; padding-bottom:1.2rem; border-bottom:1px solid var(--line); }
+    .filter-section:last-child { border-bottom:0; margin-bottom:0; padding-bottom:0; }
+    .filter-header { display:flex; justify-content:space-between; align-items:center; cursor:pointer; margin-bottom:.8rem; }
+    .filter-label { font-size:.8rem; font-weight:800; color:var(--text); text-transform:uppercase; letter-spacing:.03em; }
+    .filter-toggle { color:#8aa0bb; font-size:.8rem; transition:transform .2s; }
+    .filter-section.collapsed .filter-toggle { transform:rotate(-90deg); }
+    .filter-options { display:flex; flex-direction:column; gap:.4rem; }
+    .filter-section.collapsed .filter-options { display:none !important; }
+    .filter-option { display:flex; align-items:center; gap:.5rem; padding:.4rem .6rem; border-radius:6px; cursor:pointer; transition:background .2s, color .2s; font-size:.8rem; color:#51627a; }
+    .filter-option:hover { background:var(--soft); }
+    .filter-option input { position:absolute; opacity:0; pointer-events:none; }
+    .filter-checkbox { width:14px; height:14px; border:2px solid var(--line); border-radius:3px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .filter-checkbox i { display:none; font-size:.58rem; color:#fff; }
+    .filter-option:has(input:checked) { background:#eef7ff; color:var(--blue); font-weight:800; }
+    .filter-option:has(input:checked) .filter-checkbox { background:var(--blue); border-color:var(--blue); }
+    .filter-option:has(input:checked) .filter-checkbox i { display:block; }
+    .filter-count { margin-left:auto; color:#8aa0bb; font-size:.74rem; font-weight:800; }
+    .price-value { display:inline-block; padding:.3rem .6rem; background:#eef7ff; color:var(--blue); border-radius:6px; font-weight:800; font-size:.75rem; margin-bottom:.3rem; }
+    .price-slider { width:100%; height:5px; border-radius:3px; background:var(--soft); outline:none; -webkit-appearance:none; margin:.55rem 0 .2rem; }
+    .price-slider::-webkit-slider-thumb { -webkit-appearance:none; width:16px; height:16px; border-radius:50%; background:var(--blue); cursor:pointer; }
+    .price-slider::-moz-range-thumb { width:16px; height:16px; border-radius:50%; background:var(--blue); cursor:pointer; border:0; }
+    .products-area { min-width:0; }
+    .products-toolbar { display:flex; align-items:center; justify-content:space-between; gap:.9rem; flex-wrap:wrap; margin-bottom:1rem; }
+    .results-count { color:#8aa0bb; font-size:.86rem; font-weight:800; }
+    .sort-select { padding:.5rem 1rem; border:1px solid var(--line); border-radius:30px; font-family:Manrope, Arial, sans-serif; font-size:.85rem; font-weight:700; color:var(--text); background:white; cursor:pointer; outline:0; min-width:210px; }
+    .sort-select:hover { border-color:var(--blue); }
+    .mobile-filters-btn { display:none; align-items:center; justify-content:center; gap:.5rem; min-height:42px; padding:.7rem 1rem; border:0; border-radius:999px; background:var(--blue); color:white; font-family:inherit; font-weight:900; cursor:pointer; box-shadow:0 8px 24px rgba(0,119,204,.28); }
+    .filters-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:180; }
+    .filters-empty { display:none; padding:1.4rem; border:1px dashed var(--line); border-radius:14px; background:rgba(255,255,255,.72); color:#51627a; font-weight:700; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; align-items:stretch; }
+    .card { background:white; border:0; border-radius:16px; padding:1rem; box-shadow:0 10px 30px rgba(15,31,53,.08); display:flex; flex-direction:column; min-height:100%; position:relative; overflow:hidden; transition:transform .25s ease, box-shadow .25s ease; }
+    .card:hover { transform:translateY(-3px); box-shadow:0 16px 40px rgba(15,31,53,.14); }
+    .card-main-link { color:inherit; text-decoration:none; display:flex; flex-direction:column; flex:1; min-width:0; }
+    .favorite-static { position:absolute; top:1.12rem; left:1.12rem; z-index:2; width:32px; height:32px; border:0; background:transparent; color:#7d8896; display:inline-flex; align-items:center; justify-content:center; font-size:1.18rem; pointer-events:none; }
+    .card-image { width:100%; height:208px; background:white; border:1px solid var(--line); border-radius:10px; padding:.5rem; display:flex; align-items:center; justify-content:center; margin-bottom:.9rem; overflow:hidden; }
+    .card-image img { width:100%; height:100%; object-fit:contain; transform:scale(1.08); transition:transform .25s ease; }
+    .card:hover .card-image img { transform:scale(1.13); }
+    .card-info { display:flex; flex-direction:column; flex:1; min-width:0; }
     .eyebrow { text-transform:uppercase; letter-spacing:.05em; font-weight:900; font-size:.75rem; color:#8aa0bb; }
-    .card h2, .card h3 { font-size:1.02rem; line-height:1.25; margin:.25rem 0 .75rem; }
+    .card h2, .card h3 { font-size:1.02rem; line-height:1.25; margin:.25rem 0 .85rem; min-height:3.9em; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .price { font-size:1.4rem; font-weight:900; margin-top:auto; }
+    .card-price { display:flex; align-items:baseline; gap:.55rem; margin-top:auto; padding-top:.25rem; }
+    .current-price { font-size:1.35rem; font-weight:900; color:var(--text); line-height:1; white-space:nowrap; }
     .meta { color:var(--muted); font-size:.92rem; }
+    .card-actions { display:flex; flex-direction:column-reverse; gap:.55rem; margin-top:.9rem; }
+    .btn-small { display:inline-flex; align-items:center; justify-content:center; gap:.45rem; min-height:42px; padding:.62rem .85rem; border-radius:999px; font-size:.86rem; font-weight:900; text-decoration:none; border:0; transition:transform .2s ease, background .2s ease, color .2s ease; }
+    .btn-small:hover { transform:translateY(-1px); }
+    .btn-buy { width:100%; background:#087ed0; color:white; }
+    .btn-buy:hover { background:#006fbd; }
+    .btn-compare { min-height:34px; border-radius:0; border-top:1px solid var(--line); color:#66758a; background:transparent; padding:.58rem 0 0; }
+    .btn-compare:hover { color:var(--blue); transform:none; }
+    .category-stats { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:.65rem; }
+    .category-stat { background:rgba(255,255,255,.72); border:1px solid rgba(223,231,241,.95); border-radius:10px; padding:.85rem 1rem; box-shadow:0 8px 24px rgba(15,31,53,.05); }
+    .category-stat span { display:block; color:#8aa0bb; font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; font-weight:900; line-height:1.15; margin-bottom:.18rem; }
+    .category-stat strong { display:block; color:var(--text); font-size:1.1rem; font-weight:900; line-height:1.1; }
+    .related-section { margin-top:1.4rem; }
+    .related-head { display:flex; align-items:end; justify-content:space-between; gap:1rem; margin-bottom:.75rem; }
+    .related-head h2 { margin:0; font-size:1.08rem; }
+    .related-head a { color:var(--blue); font-weight:900; text-decoration:none; font-size:.9rem; white-space:nowrap; }
+    .related-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; }
     .button { display:inline-flex; justify-content:center; align-items:center; min-height:46px; padding:.75rem 1.15rem; border-radius:999px; background:var(--blue); color:white; text-decoration:none; font-weight:900; border:0; white-space:nowrap; }
     .stores { display:grid; gap:.78rem; margin-top:1.2rem; }
     .store { display:grid; grid-template-columns:160px 1fr auto auto; align-items:center; gap:1rem; background:#f8fafc; border:1px solid transparent; border-radius:12px; padding:.9rem 1rem; }
@@ -135,8 +201,90 @@
     .price-heading { margin:1.2rem 0 .4rem; font-size:1.1rem; }
     .footer { background:#0f1f35; color:rgba(255,255,255,.78); padding:2rem 0; margin-top:2rem; font-size:.92rem; }
     .footer a { color:white; font-weight:800; text-decoration:none; }
-    @media (min-width: 761px) and (max-width: 1040px) { .header { padding:.82rem 0; } .header-top { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:.85rem 1rem; } .brand svg { height:46px; } .header-tagline { padding-left:1rem; margin-left:0; } .header-tagline p { font-size:.72rem; line-height:1.35; } .header-tagline p:last-child { display:none; } .search-wrapper { grid-column:1 / -1; width:100%; max-width:none; } .category-btn { padding:.78rem 1rem; font-size:.88rem; } }
-    @media (max-width: 760px) { .container { width:min(100% - 24px, 1120px); } .header { padding:.72rem 0 .62rem; } .header-top { flex-direction:column; align-items:stretch; gap:.68rem; padding:0; } .brand { align-self:center; } .brand svg { height:32px; } .header-tagline { border-left:0; padding-left:0; margin-left:0; text-align:center; } .header-tagline p { font-size:.66rem; line-height:1.25; } .header-tagline p:last-child { display:none; } .search-wrapper { width:70%; max-width:70%; margin:0 auto; } .header-actions { position:absolute; top:.8rem; right:12px; } .favorites-trigger span:first-of-type { display:none; } .categories-inner { align-items:stretch; } .category-help-link { display:none; } .category-btn { padding:.55rem .9rem; font-size:.88rem; } .category-icon { width:53px; height:53px; } .category-icon-stack { width:53px; height:53px; } .product-overview { grid-template-columns:1fr; padding:1rem; } .product-info-head { display:block; } .brand-logo { min-height:76px; justify-content:flex-start; } .brand-logo img { max-width:170px; max-height:76px; } .facts { grid-template-columns:1fr; } .top-offer { grid-template-columns:1fr; } .top-offer .store-logo { width:160px; max-width:100%; } .top-offer .button { width:100%; } .product-image { min-height:280px; } .store { grid-template-columns:1fr; } .store-logo { width:160px; max-width:100%; } .store-price-wrap { justify-content:flex-start; flex-wrap:wrap; } }
+    @media (min-width: 761px) and (max-width: 1040px) { .header { padding:.82rem 0; } .header-top { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:.85rem 1rem; } .brand svg { height:46px !important; } .header-tagline { padding-left:1rem; margin-left:0; } .header-tagline p { font-size:.72rem; line-height:1.35; } .header-tagline p:last-child { display:none; } .search-wrapper { grid-column:1 / -1; width:100%; max-width:none; } .category-btn { padding:.78rem 1rem; font-size:.88rem; } }
+    @media (max-width: 760px) {
+      .container { width:min(100% - 24px, 1120px); }
+      .header { padding:.54rem 0 .58rem; }
+      .header-top { flex-direction:column; align-items:stretch; gap:.5rem; padding:0; position:relative; }
+      .brand { align-self:center; max-width:210px; }
+      .brand svg { height:42px !important; max-width:210px; }
+      .header-tagline { border-left:0; padding-left:0; margin-left:0; text-align:center; }
+      .header-tagline p { font-size:.64rem; line-height:1.22; }
+      .header-tagline p:last-child { display:none; }
+      .search-wrapper { width:100%; max-width:100%; margin:0 auto; }
+      .search-input { padding:.78rem 1rem .78rem 2.35rem; font-size:.88rem; }
+      .search-icon { left:.95rem; }
+      .header-actions { position:absolute; top:.16rem; right:0; }
+      .favorites-trigger { gap:.35rem; }
+      .favorites-trigger span:not(.favorites-trigger-count) { display:none; }
+      .favorites-trigger-count { min-width:21px; height:21px; font-size:.72rem; }
+      .categories-inner { align-items:stretch; }
+      .category-help-link { display:none; }
+      .category-btn { padding:.5rem .85rem; font-size:.86rem; }
+      .category-icon { width:48px; height:48px; }
+      .category-icon-stack { width:48px; height:48px; }
+      .hero { padding:1.05rem 0 .82rem; }
+      .breadcrumb { font-size:.82rem; line-height:1.35; margin-bottom:.55rem; }
+      h1 { font-size:1.08rem; line-height:1.28; margin:.15rem 0 0; }
+      .section { padding:1rem 0 1.25rem; }
+      .category-seo-summary { grid-template-columns:1fr; gap:.75rem; margin-bottom:1rem; }
+      .category-seo-summary h2 { font-size:1.05rem; margin:0 0 .4rem; }
+      .category-seo-summary p { font-size:.88rem; line-height:1.5; }
+      .catalog-layout { display:block; }
+      .mobile-filters-btn { display:inline-flex; }
+      .filters-overlay.active { display:block; }
+      .filters-panel { position:fixed; top:0; left:0; bottom:0; width:min(84vw, 320px); z-index:190; border-radius:0 16px 16px 0; margin:0; max-height:none; transform:translateX(-105%); transition:transform .25s ease; }
+      .filters-panel.open { transform:translateX(0); }
+      .products-toolbar { margin-bottom:.8rem; }
+      .sort-select { min-width:0; flex:1; }
+      .category-stats { grid-template-columns:repeat(3, minmax(0, 1fr)); gap:.45rem; }
+      .category-stat { padding:.72rem .85rem; }
+      .category-stat span { font-size:.56rem; }
+      .category-stat strong { font-size:.82rem; }
+      .grid { grid-template-columns:1fr; gap:.8rem; }
+      .card { border-radius:14px; padding:.82rem; }
+      .card-image { height:190px; margin-bottom:.75rem; }
+      .card h2, .card h3 { font-size:.95rem; min-height:auto; margin:.2rem 0 .75rem; }
+      .current-price { font-size:1.2rem; }
+      .btn-small { min-height:38px; font-size:.82rem; }
+      .product-overview { grid-template-columns:1fr; padding:.82rem; gap:1rem; border-radius:12px; }
+      .product-info-head { display:block; }
+      .product-image { min-height:0; aspect-ratio:1/1; padding:.65rem; }
+      .product-image img { max-height:300px; }
+      .brand-logo { min-height:58px; justify-content:flex-start; padding:.35rem .15rem; }
+      .brand-logo img { max-width:132px; max-height:58px; }
+      .product-brand { font-size:.76rem; }
+      .product-summary { font-size:.9rem; line-height:1.5; }
+      .facts { grid-template-columns:repeat(2, minmax(0, 1fr)); gap:.42rem .55rem; margin:.65rem 0 .8rem; }
+      .fact { grid-template-columns:26px 1fr; gap:.38rem; min-width:0; }
+      .spec-icon { width:26px; height:26px; border-radius:8px; font-size:.72rem; }
+      .fact span:not(.spec-icon) { font-size:.58rem; line-height:1.05; }
+      .fact strong { font-size:.72rem; line-height:1.15; overflow-wrap:anywhere; }
+      .top-offer { grid-template-columns:76px 1fr auto; gap:.58rem; padding:.65rem; margin-top:.85rem; align-items:center; }
+      .top-offer .store-logo { width:76px; max-width:100%; height:42px; border-radius:7px; }
+      .top-offer-price { gap:.18rem; }
+      .top-offer-price strong { font-size:1.18rem; }
+      .top-offer .best-badge { font-size:.58rem; min-height:20px; padding:.18rem .42rem; border-radius:6px; }
+      .top-offer .button { width:auto; min-height:38px; min-width:92px; padding:.55rem .75rem; font-size:.82rem; }
+      .product-description { margin-top:1rem; }
+      .product-actions { gap:.65rem; margin-top:.85rem; }
+      .price-heading { margin:1rem 0 .35rem; font-size:1.02rem; }
+      .related-section { margin-top:1.15rem; }
+      .related-head { align-items:flex-start; margin-bottom:.65rem; }
+      .related-head h2 { font-size:1rem; }
+      .related-head a { font-size:.8rem; }
+      .related-grid { grid-template-columns:1fr; gap:.55rem; }
+      .stores { gap:.55rem; margin-top:.8rem; }
+      .store { grid-template-columns:72px 1fr; gap:.55rem .65rem; padding:.62rem; border-radius:10px; align-items:center; }
+      .store-logo { width:72px; max-width:100%; height:42px; border-radius:7px; padding:.25rem; grid-row:1 / span 2; }
+      .store strong { font-size:.86rem; line-height:1.15; }
+      .store-stock { font-size:.74rem; line-height:1.15; }
+      .store-stock::before { width:12px; height:12px; font-size:.52rem; }
+      .store-price-wrap { justify-content:flex-start; flex-wrap:wrap; gap:.4rem; }
+      .store-price { font-size:1.05rem; }
+      .store .best-badge { font-size:.56rem; min-height:20px; padding:.17rem .4rem; border-radius:6px; }
+      .store .button { grid-column:2; width:100%; min-height:36px; padding:.5rem .8rem; font-size:.82rem; }
+    }
   </style>
 </head>
 <body>
@@ -204,122 +352,378 @@
     </section>
     <section class="section">
       <div class="container">
-        <div class="facts">
-          <div class="fact"><span>Produtos comparaveis</span><strong>15</strong></div>
-          <div class="fact"><span>Marcas</span><strong>8+</strong></div>
-          <div class="fact"><span>Atualizacao</span><strong>2026-05-11</strong></div>
+        <div class="category-seo-summary">
+          <div class="text-block">
+            <h2>Comparar acessórios de padel</h2>
+            <p>O PadelCost junta preços de lojas parceiras para ajudar a perceber onde cada artigo está mais barato. Usa esta página como ponto de partida e confirma sempre preço, stock e portes na loja antes de comprar.</p>
+            <p class="meta">Marcas nesta categoria: Bullpadel, LOK, Tecnifibre, Head, Adidas, Babolat, Siux, Dunlop.</p>
+          </div>
+          <div class="category-stats">
+            <div class="category-stat"><span>Produtos comparáveis</span><strong>15</strong></div>
+            <div class="category-stat"><span>Marcas</span><strong>8+</strong></div>
+            <div class="category-stat"><span>Atualização</span><strong>2026-05-12</strong></div>
+          </div>
         </div>
-        <div class="text-block">
-          <h2>Comparar acessórios de padel</h2>
-          <p>O PadelCost junta preços de lojas parceiras para ajudar a perceber onde cada artigo está mais barato. Usa esta página como ponto de partida e confirma sempre preço, stock e portes na loja antes de comprar.</p>
-          <p class="meta">Marcas nesta categoria: Bullpadel, LOK, Tecnifibre, Head, Adidas, Babolat, Siux, Dunlop.</p>
-        </div>
-        <div class="grid" style="margin-top:1.2rem">
-          <a class="card" href="../produto/padel-bolas-bullpadel-premium-pro.html">
-    <img src="https://www.zonadepadel.es/18353-large_default/pelotas-bullpadel-premium.jpg" alt="Padel bolas bullpadel premium pro" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Padel bolas bullpadel premium pro</h2>
-    <p class="meta">3 lojas encontradas</p>
-    <div class="price">4,20 €</div>
-  </a>
-<a class="card" href="../produto/bolas-de-padel-lok-fresh-balls.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/lok2.webp?v=1760974762" alt="Bolas de padel lok fresh balls" loading="lazy">
-    <span class="eyebrow">LOK</span>
-    <h2>Bolas de padel lok fresh balls</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,38 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-tecnifibre-padel-team.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/tecnifibre2.webp?v=1760966988" alt="Pote de Bolas de padel Tecnifibre Padel Team" loading="lazy">
-    <span class="eyebrow">Tecnifibre</span>
-    <h2>Pote de Bolas de padel Tecnifibre Padel Team</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,60 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-head-padel-pro.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/3-ball-head-padel-pro-single-can.webp?v=1760973180" alt="Pote de Bolas de padel HEAD Padel Pro+" loading="lazy">
-    <span class="eyebrow">Head</span>
-    <h2>Pote de Bolas de padel HEAD Padel Pro+</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,80 €</div>
-  </a>
-<a class="card" href="../produto/bolas-de-padel-adidas-balls-speed-rx.html">
-    <img src="https://www.zonadepadel.es/18252-large_default/bote-pelotas-adidas-speed-rx.jpg" alt="Bolas de padel adidas balls speed rx" loading="lazy">
-    <span class="eyebrow">Adidas</span>
-    <h2>Bolas de padel adidas balls speed rx</h2>
-    <p class="meta">3 lojas encontradas</p>
-    <div class="price">4,87 €</div>
-  </a>
-<a class="card" href="../produto/overgrip-bullpadel-gb1200-012-branco.html">
-    <img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1000386562-00-P-X-20210512140229.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzY1MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoa1lTOW9NREF2TVRBeE16WXlNalF3TXpnNU5ESXVhbkJufDI1NmUxNzJkZjJiZmI0OTA4N2E1ZWQxMGNhMTkwYzA0MGM0YmZiYzJkY2NiODljNzU1MzgwMWM0Mzc4YWE3ZWY&amp;feedId=58083&amp;k=3a88773f54ce32014f34ebd79fed67d25592e734" alt="Overgrip bullpadel gb1200-012 branco" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Overgrip bullpadel gb1200-012 branco</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,90 €</div>
-  </a>
-<a class="card" href="../produto/bote-de-3-bolas-bullpadel-fip-next.html">
-    <img src="https://www.zonadepadel.es/31902-large_default/bote-pelotas-bullpadel-fip-next.jpg" alt="Bote de 3 bolas bullpadel fip next" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Bote de 3 bolas bullpadel fip next</h2>
-    <p class="meta">3 lojas encontradas</p>
-    <div class="price">4,95 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-babolat-court-padel.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/34153-tm_large_default.webp?v=1760950002" alt="Pote de Bolas de padel Babolat Court Padel" loading="lazy">
-    <span class="eyebrow">Babolat</span>
-    <h2>Pote de Bolas de padel Babolat Court Padel</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,96 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-siux-neo.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/NEO.1-600x600.webp?v=1760962823" alt="Pote de Bolas de padel Siux Neo" loading="lazy">
-    <span class="eyebrow">Siux</span>
-    <h2>Pote de Bolas de padel Siux Neo</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,96 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-head-one.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/headone.webp?v=1760960061" alt="Pote de Bolas de padel HEAD One" loading="lazy">
-    <span class="eyebrow">Head</span>
-    <h2>Pote de Bolas de padel HEAD One</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">4,96 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-bullpadel-next-pro.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/BotedePelotasBullpadelNextPro_1.webp?v=1770623397" alt="Pote de Bolas de padel Bullpadel Next Pro" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Pote de Bolas de padel Bullpadel Next Pro</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">5,51 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-babolat-ace.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/501104-Babolat_Ace-113-1-Face.webp?v=1760964910" alt="Pote de Bolas de padel Babolat Ace" loading="lazy">
-    <span class="eyebrow">Babolat</span>
-    <h2>Pote de Bolas de padel Babolat Ace</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">5,96 €</div>
-  </a>
-<a class="card" href="../produto/pote-de-bolas-de-padel-dunlop-fort-padel.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/29494-tm_large_default.webp?v=1760952974" alt="Pote de Bolas de padel Dunlop Fort Padel" loading="lazy">
-    <span class="eyebrow">Dunlop</span>
-    <h2>Pote de Bolas de padel Dunlop Fort Padel</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">6,96 €</div>
-  </a>
-<a class="card" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-3b.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/31475-tm_large_default.webp?v=1760947966" alt="Tubo de pressurização Bullpadel Pascal Box 3B" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Tubo de pressurização Bullpadel Pascal Box 3B</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">53,68 €</div>
-  </a>
-<a class="card" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-4b.html">
-    <img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/cargador-de-presion-pascal-box-4-pelotas-800x800.webp?v=1760971997" alt="Tubo de pressurização Bullpadel Pascal Box 4B" loading="lazy">
-    <span class="eyebrow">Bullpadel</span>
-    <h2>Tubo de pressurização Bullpadel Pascal Box 4B</h2>
-    <p class="meta">2 lojas encontradas</p>
-    <div class="price">62,95 €</div>
-  </a>
+        <div class="catalog-layout" data-seo-category-page>
+          <div class="filters-overlay" data-filters-overlay></div>
+  <aside class="filters-panel" data-filters-panel>
+    <div class="filters-header">
+      <div class="filters-title"><i class="fas fa-sliders-h"></i> Filtros</div>
+      <button class="filters-clear" type="button" data-clear-filters>Limpar</button>
+    </div>
+    <div class="filter-section ">
+    <div class="filter-header" data-filter-toggle>
+      <div class="filter-label">Marca</div>
+      <i class="fas fa-chevron-down filter-toggle"></i>
+    </div>
+    <div class="filter-options">
+      <label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Bullpadel">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Bullpadel</span>
+        <span class="filter-count">6</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Babolat">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Babolat</span>
+        <span class="filter-count">2</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Head">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Head</span>
+        <span class="filter-count">2</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Adidas">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Adidas</span>
+        <span class="filter-count">1</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Dunlop">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Dunlop</span>
+        <span class="filter-count">1</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="LOK">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>LOK</span>
+        <span class="filter-count">1</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Siux">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Siux</span>
+        <span class="filter-count">1</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="brand" value="Tecnifibre">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Tecnifibre</span>
+        <span class="filter-count">1</span>
+      </label>
+    </div>
+  </div>
+<div class="filter-section ">
+    <div class="filter-header" data-filter-toggle>
+      <div class="filter-label">Tipo</div>
+      <i class="fas fa-chevron-down filter-toggle"></i>
+    </div>
+    <div class="filter-options">
+      <label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="tipo" value="Bolas e tubos">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Bolas e tubos</span>
+        <span class="filter-count">11</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="tipo" value="Bolas">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Bolas</span>
+        <span class="filter-count">3</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="tipo" value="Overgrips">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Overgrips</span>
+        <span class="filter-count">1</span>
+      </label>
+    </div>
+  </div>
+<div class="filter-section">
+    <div class="filter-header" data-filter-toggle>
+      <div class="filter-label">Preço máx.</div>
+      <i class="fas fa-chevron-down filter-toggle"></i>
+    </div>
+    <div class="filter-options" style="display:block">
+      <span class="price-value" data-price-value>€65</span>
+      <input class="price-slider" data-price-filter type="range" min="0" max="65" step="5" value="65">
+    </div>
+  </div>
+<div class="filter-section ">
+    <div class="filter-header" data-filter-toggle>
+      <div class="filter-label">Lojas</div>
+      <i class="fas fa-chevron-down filter-toggle"></i>
+    </div>
+    <div class="filter-options">
+      <label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="store" value="Padel Proshop PT">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Padel Proshop PT</span>
+        <span class="filter-count">14</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="store" value="Zona de Padel">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Zona de Padel</span>
+        <span class="filter-count">13</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="store" value="Atmosfera Sport">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Atmosfera Sport</span>
+        <span class="filter-count">5</span>
+      </label><label class="filter-option">
+        <input class="seo-filter" type="checkbox" data-filter="store" value="Forum Sport ES">
+        <span class="filter-checkbox"><i class="fas fa-check"></i></span>
+        <span>Forum Sport ES</span>
+        <span class="filter-count">1</span>
+      </label>
+    </div>
+  </div>
+  </aside>
+          <div class="products-area">
+            <div class="products-toolbar">
+              <button class="mobile-filters-btn" type="button" data-open-filters><i class="fas fa-sliders-h"></i> Filtros</button>
+              <span class="results-count" data-results-count>15 produtos</span>
+              <select class="sort-select" data-sort-select aria-label="Ordenar produtos">
+                <option value="relevancia">Relevância</option>
+                <option value="preco-asc">Preço: menor primeiro</option>
+                <option value="preco-desc">Preço: maior primeiro</option>
+                <option value="lojas-desc">Mais lojas primeiro</option>
+              </select>
+            </div>
+            <div class="filters-empty" data-empty-state>Não encontrei produtos com esses filtros. Experimenta limpar um filtro ou aumentar o preço máximo.</div>
+            <div class="grid" data-products-grid>
+              <article class="card" data-index="0" data-price="4.2" data-store-count="3" data-brand="Bullpadel" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="../produto/padel-bolas-bullpadel-premium-pro.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/18353-large_default/pelotas-bullpadel-premium.jpg" alt="Padel bolas bullpadel premium pro" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Padel bolas bullpadel premium pro</h2>
+        <div class="card-price"><span class="current-price">4,20 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Padel%20bolas%20bullpadel%20premium%20pro"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/padel-bolas-bullpadel-premium-pro.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="1" data-price="4.38" data-store-count="2" data-brand="LOK" data-stores="Atmosfera Sport||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="../produto/bolas-de-padel-lok-fresh-balls.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/lok2.webp?v=1760974762" alt="Bolas de padel lok fresh balls" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">LOK</span>
+        <h2>Bolas de padel lok fresh balls</h2>
+        <div class="card-price"><span class="current-price">4,38 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20padel%20lok%20fresh%20balls"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/bolas-de-padel-lok-fresh-balls.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="2" data-price="4.6" data-store-count="2" data-brand="Tecnifibre" data-stores="Padel Proshop PT||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-tecnifibre-padel-team.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/tecnifibre2.webp?v=1760966988" alt="Pote de Bolas de padel Tecnifibre Padel Team" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Tecnifibre</span>
+        <h2>Pote de Bolas de padel Tecnifibre Padel Team</h2>
+        <div class="card-price"><span class="current-price">4,60 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Tecnifibre%20Padel%20Team"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-tecnifibre-padel-team.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="3" data-price="4.8" data-store-count="2" data-brand="Head" data-stores="Padel Proshop PT||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-head-padel-pro.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/3-ball-head-padel-pro-single-can.webp?v=1760973180" alt="Pote de Bolas de padel HEAD Padel Pro+" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Head</span>
+        <h2>Pote de Bolas de padel HEAD Padel Pro+</h2>
+        <div class="card-price"><span class="current-price">4,80 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20HEAD%20Padel%20Pro%2B"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-head-padel-pro.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="4" data-price="4.87" data-store-count="3" data-brand="Adidas" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/bolas-de-padel-adidas-balls-speed-rx.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/18252-large_default/bote-pelotas-adidas-speed-rx.jpg" alt="Bolas de padel adidas balls speed rx" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Adidas</span>
+        <h2>Bolas de padel adidas balls speed rx</h2>
+        <div class="card-price"><span class="current-price">4,87 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20padel%20adidas%20balls%20speed%20rx"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/bolas-de-padel-adidas-balls-speed-rx.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="5" data-price="4.9" data-store-count="2" data-brand="Bullpadel" data-stores="Atmosfera Sport||Forum Sport ES" data-forma="" data-nivel="" data-genero="" data-tipo="Overgrips">
+    <a class="card-main-link" href="../produto/overgrip-bullpadel-gb1200-012-branco.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1000386562-00-P-X-20210512140229.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzY1MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoa1lTOW9NREF2TVRBeE16WXlNalF3TXpnNU5ESXVhbkJufDI1NmUxNzJkZjJiZmI0OTA4N2E1ZWQxMGNhMTkwYzA0MGM0YmZiYzJkY2NiODljNzU1MzgwMWM0Mzc4YWE3ZWY&amp;feedId=58083&amp;k=3a88773f54ce32014f34ebd79fed67d25592e734" alt="Overgrip bullpadel gb1200-012 branco" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Overgrip bullpadel gb1200-012 branco</h2>
+        <div class="card-price"><span class="current-price">4,90 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Overgrip%20bullpadel%20gb1200-012%20branco"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/overgrip-bullpadel-gb1200-012-branco.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="6" data-price="4.95" data-store-count="3" data-brand="Bullpadel" data-stores="Atmosfera Sport||Padel Proshop PT||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="../produto/bote-de-3-bolas-bullpadel-fip-next.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/31902-large_default/bote-pelotas-bullpadel-fip-next.jpg" alt="Bote de 3 bolas bullpadel fip next" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Bote de 3 bolas bullpadel fip next</h2>
+        <div class="card-price"><span class="current-price">4,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Bote%20de%203%20bolas%20bullpadel%20fip%20next"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/bote-de-3-bolas-bullpadel-fip-next.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="7" data-price="4.96" data-store-count="2" data-brand="Babolat" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-babolat-court-padel.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/34153-tm_large_default.webp?v=1760950002" alt="Pote de Bolas de padel Babolat Court Padel" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Babolat</span>
+        <h2>Pote de Bolas de padel Babolat Court Padel</h2>
+        <div class="card-price"><span class="current-price">4,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Babolat%20Court%20Padel"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-babolat-court-padel.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="8" data-price="4.96" data-store-count="2" data-brand="Siux" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-siux-neo.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/NEO.1-600x600.webp?v=1760962823" alt="Pote de Bolas de padel Siux Neo" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Siux</span>
+        <h2>Pote de Bolas de padel Siux Neo</h2>
+        <div class="card-price"><span class="current-price">4,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Siux%20Neo"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-siux-neo.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="9" data-price="4.96" data-store-count="2" data-brand="Head" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-head-one.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/headone.webp?v=1760960061" alt="Pote de Bolas de padel HEAD One" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Head</span>
+        <h2>Pote de Bolas de padel HEAD One</h2>
+        <div class="card-price"><span class="current-price">4,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20HEAD%20One"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-head-one.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="10" data-price="5.51" data-store-count="2" data-brand="Bullpadel" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-bullpadel-next-pro.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/BotedePelotasBullpadelNextPro_1.webp?v=1770623397" alt="Pote de Bolas de padel Bullpadel Next Pro" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Pote de Bolas de padel Bullpadel Next Pro</h2>
+        <div class="card-price"><span class="current-price">5,51 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Bullpadel%20Next%20Pro"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-bullpadel-next-pro.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="11" data-price="5.96" data-store-count="2" data-brand="Babolat" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-babolat-ace.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/501104-Babolat_Ace-113-1-Face.webp?v=1760964910" alt="Pote de Bolas de padel Babolat Ace" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Babolat</span>
+        <h2>Pote de Bolas de padel Babolat Ace</h2>
+        <div class="card-price"><span class="current-price">5,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Babolat%20Ace"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-babolat-ace.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="12" data-price="6.96" data-store-count="2" data-brand="Dunlop" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/pote-de-bolas-de-padel-dunlop-fort-padel.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/29494-tm_large_default.webp?v=1760952974" alt="Pote de Bolas de padel Dunlop Fort Padel" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Dunlop</span>
+        <h2>Pote de Bolas de padel Dunlop Fort Padel</h2>
+        <div class="card-price"><span class="current-price">6,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Dunlop%20Fort%20Padel"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/pote-de-bolas-de-padel-dunlop-fort-padel.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="13" data-price="53.68" data-store-count="2" data-brand="Bullpadel" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-3b.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/31475-tm_large_default.webp?v=1760947966" alt="Tubo de pressurização Bullpadel Pascal Box 3B" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Tubo de pressurização Bullpadel Pascal Box 3B</h2>
+        <div class="card-price"><span class="current-price">53,68 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Tubo%20de%20pressuriza%C3%A7%C3%A3o%20Bullpadel%20Pascal%20Box%203B"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-3b.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="14" data-price="62.95" data-store-count="2" data-brand="Bullpadel" data-stores="Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-4b.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/cargador-de-presion-pascal-box-4-pelotas-800x800.webp?v=1760971997" alt="Tubo de pressurização Bullpadel Pascal Box 4B" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Tubo de pressurização Bullpadel Pascal Box 4B</h2>
+        <div class="card-price"><span class="current-price">62,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Tubo%20de%20pressuriza%C3%A7%C3%A3o%20Bullpadel%20Pascal%20Box%204B"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="../produto/tubo-de-pressurizacao-bullpadel-pascal-box-4b.html">Ver 2 lojas</a>
+    </div>
+  </article>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -330,5 +734,89 @@
       <p><a href="../dados.html">Dados e transparência</a> · <a href="../privacidade.html">Privacidade</a> · <a href="../contacto.html">Contacto</a></p>
     </div>
   </footer>
+  <script>
+    (() => {
+      const page = document.querySelector('[data-seo-category-page]');
+      if (!page) return;
+
+      const grid = page.querySelector('[data-products-grid]');
+      const cards = Array.from(page.querySelectorAll('.card'));
+      const filters = Array.from(page.querySelectorAll('.seo-filter'));
+      const priceFilter = page.querySelector('[data-price-filter]');
+      const priceValue = page.querySelector('[data-price-value]');
+      const sortSelect = page.querySelector('[data-sort-select]');
+      const countEl = page.querySelector('[data-results-count]');
+      const emptyEl = page.querySelector('[data-empty-state]');
+      const filtersPanel = page.querySelector('[data-filters-panel]');
+      const overlay = page.querySelector('[data-filters-overlay]');
+
+      const selectedValues = (type) => filters
+        .filter(input => input.dataset.filter === type && input.checked)
+        .map(input => input.value);
+
+      const hasAny = (haystack, selected) => selected.length === 0 || selected.some(value => haystack.includes(value));
+
+      function cardMatches(card) {
+        const price = Number(card.dataset.price || 0);
+        if (priceFilter && price > Number(priceFilter.value || 0)) return false;
+
+        const brands = selectedValues('brand');
+        if (brands.length && !brands.includes(card.dataset.brand || '')) return false;
+
+        const stores = selectedValues('store');
+        if (!hasAny((card.dataset.stores || '').split('||').filter(Boolean), stores)) return false;
+
+        for (const type of ['forma', 'nivel', 'genero', 'tipo']) {
+          const selected = selectedValues(type);
+          if (selected.length && !selected.includes(card.dataset[type] || '')) return false;
+        }
+
+        return true;
+      }
+
+      function sortCards(visibleCards) {
+        const sorted = visibleCards.slice();
+        const mode = sortSelect?.value || 'relevancia';
+        if (mode === 'preco-asc') sorted.sort((a, b) => Number(a.dataset.price) - Number(b.dataset.price));
+        if (mode === 'preco-desc') sorted.sort((a, b) => Number(b.dataset.price) - Number(a.dataset.price));
+        if (mode === 'lojas-desc') sorted.sort((a, b) => Number(b.dataset.storeCount) - Number(a.dataset.storeCount));
+        if (mode === 'relevancia') sorted.sort((a, b) => Number(a.dataset.index) - Number(b.dataset.index));
+        sorted.forEach(card => grid.appendChild(card));
+      }
+
+      function applyFilters() {
+        if (priceFilter && priceValue) priceValue.textContent = '€' + priceFilter.value;
+        const visibleCards = cards.filter(card => {
+          const visible = cardMatches(card);
+          card.style.display = visible ? '' : 'none';
+          return visible;
+        });
+        sortCards(visibleCards);
+        if (countEl) countEl.textContent = visibleCards.length + (visibleCards.length === 1 ? ' produto' : ' produtos');
+        if (emptyEl) emptyEl.style.display = visibleCards.length ? 'none' : 'block';
+      }
+
+      filters.forEach(input => input.addEventListener('change', applyFilters));
+      priceFilter?.addEventListener('input', applyFilters);
+      sortSelect?.addEventListener('change', applyFilters);
+      page.querySelector('[data-clear-filters]')?.addEventListener('click', () => {
+        filters.forEach(input => { input.checked = false; });
+        if (priceFilter) priceFilter.value = priceFilter.max;
+        applyFilters();
+      });
+      page.querySelectorAll('[data-filter-toggle]').forEach(header => {
+        header.addEventListener('click', () => header.closest('.filter-section')?.classList.toggle('collapsed'));
+      });
+      page.querySelector('[data-open-filters]')?.addEventListener('click', () => {
+        filtersPanel?.classList.add('open');
+        overlay?.classList.add('active');
+      });
+      overlay?.addEventListener('click', () => {
+        filtersPanel?.classList.remove('open');
+        overlay.classList.remove('active');
+      });
+      applyFilters();
+    })();
+  </script>
 </body>
 </html>

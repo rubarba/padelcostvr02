@@ -139,19 +139,85 @@
     .category-btn:hover .category-icon-white, .category-btn.active .category-icon-white { opacity:0; }
     .category-btn:hover .category-icon-color, .category-btn.active .category-icon-color { opacity:1; transform:scale(1); }
     .category-help-link { display:inline-flex; align-items:center; gap:.5rem; color:#51627a; font-size:.95rem; font-weight:700; text-decoration:none; white-space:nowrap; flex-shrink:0; }
-    .hero { padding: 2rem 0 1.3rem; background: white; border-bottom:1px solid var(--line); }
+    .hero { padding: 1.55rem 0 1.05rem; background: white; border-bottom:1px solid var(--line); }
     .breadcrumb { display:flex; flex-wrap:wrap; gap:.4rem; color:var(--muted); font-size:.9rem; margin-bottom:.8rem; }
     .breadcrumb a { color:var(--blue); text-decoration:none; font-weight:800; }
     h1 { margin:.2rem 0 .8rem; font-size:1.28rem; font-weight:700; line-height:1.2; letter-spacing:0; }
     .lead { color:var(--muted); max-width:760px; font-size:1.08rem; margin:0; }
-    .section { padding: 2rem 0; }
-    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; }
-    .card { background:white; border:1px solid var(--line); border-radius:8px; padding:1rem; box-shadow:0 8px 24px rgba(15,31,53,.06); text-decoration:none; display:flex; flex-direction:column; min-height:100%; }
-    .card img { width:100%; aspect-ratio:1/1; object-fit:contain; background:white; border:1px solid var(--line); border-radius:8px; margin-bottom:.8rem; }
+    .section { padding: 1.45rem 0 2rem; }
+    .category-seo-summary { display:grid; grid-template-columns:minmax(0, 1fr) 420px; gap:1.4rem; align-items:start; margin-bottom:1.25rem; }
+    .category-seo-summary h2 { margin:.05rem 0 .55rem; font-size:1.22rem; line-height:1.25; }
+    .category-seo-summary p { margin:.45rem 0 0; }
+    .category-seo-summary .meta { font-size:.86rem; }
+    .catalog-layout { display:grid; grid-template-columns:260px minmax(0, 1fr); gap:1.2rem; align-items:start; }
+    .filters-panel { position:sticky; top:140px; background:#fff; border-radius:16px; padding:1.2rem; box-shadow:0 10px 30px rgba(15,31,53,.08); max-height:calc(100vh - 160px); overflow-y:auto; margin-top:.95rem; }
+    .filters-panel::-webkit-scrollbar { width:5px; }
+    .filters-panel::-webkit-scrollbar-thumb { background:var(--line); border-radius:10px; }
+    .filters-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1.2rem; padding-bottom:1rem; border-bottom:2px solid var(--line); }
+    .filters-title { display:inline-flex; align-items:center; gap:.45rem; font-size:.95rem; font-weight:800; color:var(--text); text-transform:uppercase; letter-spacing:.05em; }
+    .filters-title i { font-size:.82rem; color:var(--muted); }
+    .filters-clear { padding:.32rem .6rem; background:var(--soft); color:#51627a; border:0; border-radius:6px; font-size:.7rem; font-weight:800; cursor:pointer; font-family:inherit; }
+    .filters-clear:hover { background:#fee2e2; color:#b91c1c; }
+    .filter-section { margin-bottom:1.2rem; padding-bottom:1.2rem; border-bottom:1px solid var(--line); }
+    .filter-section:last-child { border-bottom:0; margin-bottom:0; padding-bottom:0; }
+    .filter-header { display:flex; justify-content:space-between; align-items:center; cursor:pointer; margin-bottom:.8rem; }
+    .filter-label { font-size:.8rem; font-weight:800; color:var(--text); text-transform:uppercase; letter-spacing:.03em; }
+    .filter-toggle { color:#8aa0bb; font-size:.8rem; transition:transform .2s; }
+    .filter-section.collapsed .filter-toggle { transform:rotate(-90deg); }
+    .filter-options { display:flex; flex-direction:column; gap:.4rem; }
+    .filter-section.collapsed .filter-options { display:none !important; }
+    .filter-option { display:flex; align-items:center; gap:.5rem; padding:.4rem .6rem; border-radius:6px; cursor:pointer; transition:background .2s, color .2s; font-size:.8rem; color:#51627a; }
+    .filter-option:hover { background:var(--soft); }
+    .filter-option input { position:absolute; opacity:0; pointer-events:none; }
+    .filter-checkbox { width:14px; height:14px; border:2px solid var(--line); border-radius:3px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .filter-checkbox i { display:none; font-size:.58rem; color:#fff; }
+    .filter-option:has(input:checked) { background:#eef7ff; color:var(--blue); font-weight:800; }
+    .filter-option:has(input:checked) .filter-checkbox { background:var(--blue); border-color:var(--blue); }
+    .filter-option:has(input:checked) .filter-checkbox i { display:block; }
+    .filter-count { margin-left:auto; color:#8aa0bb; font-size:.74rem; font-weight:800; }
+    .price-value { display:inline-block; padding:.3rem .6rem; background:#eef7ff; color:var(--blue); border-radius:6px; font-weight:800; font-size:.75rem; margin-bottom:.3rem; }
+    .price-slider { width:100%; height:5px; border-radius:3px; background:var(--soft); outline:none; -webkit-appearance:none; margin:.55rem 0 .2rem; }
+    .price-slider::-webkit-slider-thumb { -webkit-appearance:none; width:16px; height:16px; border-radius:50%; background:var(--blue); cursor:pointer; }
+    .price-slider::-moz-range-thumb { width:16px; height:16px; border-radius:50%; background:var(--blue); cursor:pointer; border:0; }
+    .products-area { min-width:0; }
+    .products-toolbar { display:flex; align-items:center; justify-content:space-between; gap:.9rem; flex-wrap:wrap; margin-bottom:1rem; }
+    .results-count { color:#8aa0bb; font-size:.86rem; font-weight:800; }
+    .sort-select { padding:.5rem 1rem; border:1px solid var(--line); border-radius:30px; font-family:Manrope, Arial, sans-serif; font-size:.85rem; font-weight:700; color:var(--text); background:white; cursor:pointer; outline:0; min-width:210px; }
+    .sort-select:hover { border-color:var(--blue); }
+    .mobile-filters-btn { display:none; align-items:center; justify-content:center; gap:.5rem; min-height:42px; padding:.7rem 1rem; border:0; border-radius:999px; background:var(--blue); color:white; font-family:inherit; font-weight:900; cursor:pointer; box-shadow:0 8px 24px rgba(0,119,204,.28); }
+    .filters-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:180; }
+    .filters-empty { display:none; padding:1.4rem; border:1px dashed var(--line); border-radius:14px; background:rgba(255,255,255,.72); color:#51627a; font-weight:700; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; align-items:stretch; }
+    .card { background:white; border:0; border-radius:16px; padding:1rem; box-shadow:0 10px 30px rgba(15,31,53,.08); display:flex; flex-direction:column; min-height:100%; position:relative; overflow:hidden; transition:transform .25s ease, box-shadow .25s ease; }
+    .card:hover { transform:translateY(-3px); box-shadow:0 16px 40px rgba(15,31,53,.14); }
+    .card-main-link { color:inherit; text-decoration:none; display:flex; flex-direction:column; flex:1; min-width:0; }
+    .favorite-static { position:absolute; top:1.12rem; left:1.12rem; z-index:2; width:32px; height:32px; border:0; background:transparent; color:#7d8896; display:inline-flex; align-items:center; justify-content:center; font-size:1.18rem; pointer-events:none; }
+    .card-image { width:100%; height:208px; background:white; border:1px solid var(--line); border-radius:10px; padding:.5rem; display:flex; align-items:center; justify-content:center; margin-bottom:.9rem; overflow:hidden; }
+    .card-image img { width:100%; height:100%; object-fit:contain; transform:scale(1.08); transition:transform .25s ease; }
+    .card:hover .card-image img { transform:scale(1.13); }
+    .card-info { display:flex; flex-direction:column; flex:1; min-width:0; }
     .eyebrow { text-transform:uppercase; letter-spacing:.05em; font-weight:900; font-size:.75rem; color:#8aa0bb; }
-    .card h2, .card h3 { font-size:1.02rem; line-height:1.25; margin:.25rem 0 .75rem; }
+    .card h2, .card h3 { font-size:1.02rem; line-height:1.25; margin:.25rem 0 .85rem; min-height:3.9em; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .price { font-size:1.4rem; font-weight:900; margin-top:auto; }
+    .card-price { display:flex; align-items:baseline; gap:.55rem; margin-top:auto; padding-top:.25rem; }
+    .current-price { font-size:1.35rem; font-weight:900; color:var(--text); line-height:1; white-space:nowrap; }
     .meta { color:var(--muted); font-size:.92rem; }
+    .card-actions { display:flex; flex-direction:column-reverse; gap:.55rem; margin-top:.9rem; }
+    .btn-small { display:inline-flex; align-items:center; justify-content:center; gap:.45rem; min-height:42px; padding:.62rem .85rem; border-radius:999px; font-size:.86rem; font-weight:900; text-decoration:none; border:0; transition:transform .2s ease, background .2s ease, color .2s ease; }
+    .btn-small:hover { transform:translateY(-1px); }
+    .btn-buy { width:100%; background:#087ed0; color:white; }
+    .btn-buy:hover { background:#006fbd; }
+    .btn-compare { min-height:34px; border-radius:0; border-top:1px solid var(--line); color:#66758a; background:transparent; padding:.58rem 0 0; }
+    .btn-compare:hover { color:var(--blue); transform:none; }
+    .category-stats { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:.65rem; }
+    .category-stat { background:rgba(255,255,255,.72); border:1px solid rgba(223,231,241,.95); border-radius:10px; padding:.85rem 1rem; box-shadow:0 8px 24px rgba(15,31,53,.05); }
+    .category-stat span { display:block; color:#8aa0bb; font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; font-weight:900; line-height:1.15; margin-bottom:.18rem; }
+    .category-stat strong { display:block; color:var(--text); font-size:1.1rem; font-weight:900; line-height:1.1; }
+    .related-section { margin-top:1.4rem; }
+    .related-head { display:flex; align-items:end; justify-content:space-between; gap:1rem; margin-bottom:.75rem; }
+    .related-head h2 { margin:0; font-size:1.08rem; }
+    .related-head a { color:var(--blue); font-weight:900; text-decoration:none; font-size:.9rem; white-space:nowrap; }
+    .related-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); gap:1rem; }
     .button { display:inline-flex; justify-content:center; align-items:center; min-height:46px; padding:.75rem 1.15rem; border-radius:999px; background:var(--blue); color:white; text-decoration:none; font-weight:900; border:0; white-space:nowrap; }
     .stores { display:grid; gap:.78rem; margin-top:1.2rem; }
     .store { display:grid; grid-template-columns:160px 1fr auto auto; align-items:center; gap:1rem; background:#f8fafc; border:1px solid transparent; border-radius:12px; padding:.9rem 1rem; }
@@ -220,10 +286,30 @@
       .category-btn { padding:.5rem .85rem; font-size:.86rem; }
       .category-icon { width:48px; height:48px; }
       .category-icon-stack { width:48px; height:48px; }
-      .hero { padding:1.25rem 0 .95rem; }
+      .hero { padding:1.05rem 0 .82rem; }
       .breadcrumb { font-size:.82rem; line-height:1.35; margin-bottom:.55rem; }
       h1 { font-size:1.08rem; line-height:1.28; margin:.15rem 0 0; }
-      .section { padding:1.25rem 0; }
+      .section { padding:1rem 0 1.25rem; }
+      .category-seo-summary { grid-template-columns:1fr; gap:.75rem; margin-bottom:1rem; }
+      .category-seo-summary h2 { font-size:1.05rem; margin:0 0 .4rem; }
+      .category-seo-summary p { font-size:.88rem; line-height:1.5; }
+      .catalog-layout { display:block; }
+      .mobile-filters-btn { display:inline-flex; }
+      .filters-overlay.active { display:block; }
+      .filters-panel { position:fixed; top:0; left:0; bottom:0; width:min(84vw, 320px); z-index:190; border-radius:0 16px 16px 0; margin:0; max-height:none; transform:translateX(-105%); transition:transform .25s ease; }
+      .filters-panel.open { transform:translateX(0); }
+      .products-toolbar { margin-bottom:.8rem; }
+      .sort-select { min-width:0; flex:1; }
+      .category-stats { grid-template-columns:repeat(3, minmax(0, 1fr)); gap:.45rem; }
+      .category-stat { padding:.72rem .85rem; }
+      .category-stat span { font-size:.56rem; }
+      .category-stat strong { font-size:.82rem; }
+      .grid { grid-template-columns:1fr; gap:.8rem; }
+      .card { border-radius:14px; padding:.82rem; }
+      .card-image { height:190px; margin-bottom:.75rem; }
+      .card h2, .card h3 { font-size:.95rem; min-height:auto; margin:.2rem 0 .75rem; }
+      .current-price { font-size:1.2rem; }
+      .btn-small { min-height:38px; font-size:.82rem; }
       .product-overview { grid-template-columns:1fr; padding:.82rem; gap:1rem; border-radius:12px; }
       .product-info-head { display:block; }
       .product-image { min-height:0; aspect-ratio:1/1; padding:.65rem; }
@@ -246,6 +332,11 @@
       .product-description { margin-top:1rem; }
       .product-actions { gap:.65rem; margin-top:.85rem; }
       .price-heading { margin:1rem 0 .35rem; font-size:1.02rem; }
+      .related-section { margin-top:1.15rem; }
+      .related-head { align-items:flex-start; margin-bottom:.65rem; }
+      .related-head h2 { font-size:1rem; }
+      .related-head a { font-size:.8rem; }
+      .related-grid { grid-template-columns:1fr; gap:.55rem; }
       .stores { gap:.55rem; margin-top:.8rem; }
       .store { grid-template-columns:72px 1fr; gap:.55rem .65rem; padding:.62rem; border-radius:10px; align-items:center; }
       .store-logo { width:72px; max-width:100%; height:42px; border-radius:7px; padding:.25rem; grid-row:1 / span 2; }
@@ -361,6 +452,74 @@
             </div>
           </div>
         </div>
+        <div class="related-section">
+          <div class="related-head">
+            <h2>Alternativas semelhantes</h2>
+            <a href="../index.html?categoria=sacos">Ver sacos de padel</a>
+          </div>
+          <div class="related-grid">
+            <article class="card" data-index="0" data-price="29.95" data-store-count="4" data-brand="Bullpadel" data-stores="Atmosfera Sport||Forum Sport ES||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./bolsa-de-padel-bullpadel-bpp26015-tour-preto.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/29847-large_default/paletero-bullpadel-bpp26015-tour-negro-2026.jpg" alt="Bolsa de padel bullpadel bpp26015 tour preto" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Bolsa de padel bullpadel bpp26015 tour preto</h2>
+        <div class="card-price"><span class="current-price">29,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Bolsa%20de%20padel%20bullpadel%20bpp26015%20tour%20preto"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./bolsa-de-padel-bullpadel-bpp26015-tour-preto.html">Ver 4 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="57.39" data-store-count="3" data-brand="Bullpadel" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./bolsa-de-padel-bullpadel-bpp26006-flow-preto.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/28716-large_default/paletero-bullpadel-bpp26006-flow-negro-2026.jpg" alt="Bolsa de padel bullpadel bpp26006 flow preto" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Bolsa de padel bullpadel bpp26006 flow preto</h2>
+        <div class="card-price"><span class="current-price">57,39 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Bolsa%20de%20padel%20bullpadel%20bpp26006%20flow%20preto"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./bolsa-de-padel-bullpadel-bpp26006-flow-preto.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="39.19" data-store-count="3" data-brand="Bullpadel" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./mochila-de-padel-bullpadel-bpm26007-vertex-preto.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/28870-large_default/mochila-bullpadel-bpm26007-vertex-negra-2026.jpg" alt="Mochila de padel bullpadel bpm26007 vertex preto" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Mochila de padel bullpadel bpm26007 vertex preto</h2>
+        <div class="card-price"><span class="current-price">39,19 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Mochila%20de%20padel%20bullpadel%20bpm26007%20vertex%20preto"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./mochila-de-padel-bullpadel-bpm26007-vertex-preto.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="39.19" data-store-count="3" data-brand="Bullpadel" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./mochila-de-padel-bullpadel-bpm26009-vertex-w-branco.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/28883-large_default/mochila-bullpadel-bpm26009-vertex-woman-blanca-2026.jpg" alt="Mochila de padel bullpadel bpm26009 vertex w branco" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Mochila de padel bullpadel bpm26009 vertex w branco</h2>
+        <div class="card-price"><span class="current-price">39,19 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Mochila%20de%20padel%20bullpadel%20bpm26009%20vertex%20w%20branco"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./mochila-de-padel-bullpadel-bpm26009-vertex-w-branco.html">Ver 3 lojas</a>
+    </div>
+  </article>
+          </div>
+        </div>
       </div>
     </section>
   </main>
@@ -441,5 +600,89 @@
       <p><a href="../dados.html">Dados e transparência</a> · <a href="../privacidade.html">Privacidade</a> · <a href="../contacto.html">Contacto</a></p>
     </div>
   </footer>
+  <script>
+    (() => {
+      const page = document.querySelector('[data-seo-category-page]');
+      if (!page) return;
+
+      const grid = page.querySelector('[data-products-grid]');
+      const cards = Array.from(page.querySelectorAll('.card'));
+      const filters = Array.from(page.querySelectorAll('.seo-filter'));
+      const priceFilter = page.querySelector('[data-price-filter]');
+      const priceValue = page.querySelector('[data-price-value]');
+      const sortSelect = page.querySelector('[data-sort-select]');
+      const countEl = page.querySelector('[data-results-count]');
+      const emptyEl = page.querySelector('[data-empty-state]');
+      const filtersPanel = page.querySelector('[data-filters-panel]');
+      const overlay = page.querySelector('[data-filters-overlay]');
+
+      const selectedValues = (type) => filters
+        .filter(input => input.dataset.filter === type && input.checked)
+        .map(input => input.value);
+
+      const hasAny = (haystack, selected) => selected.length === 0 || selected.some(value => haystack.includes(value));
+
+      function cardMatches(card) {
+        const price = Number(card.dataset.price || 0);
+        if (priceFilter && price > Number(priceFilter.value || 0)) return false;
+
+        const brands = selectedValues('brand');
+        if (brands.length && !brands.includes(card.dataset.brand || '')) return false;
+
+        const stores = selectedValues('store');
+        if (!hasAny((card.dataset.stores || '').split('||').filter(Boolean), stores)) return false;
+
+        for (const type of ['forma', 'nivel', 'genero', 'tipo']) {
+          const selected = selectedValues(type);
+          if (selected.length && !selected.includes(card.dataset[type] || '')) return false;
+        }
+
+        return true;
+      }
+
+      function sortCards(visibleCards) {
+        const sorted = visibleCards.slice();
+        const mode = sortSelect?.value || 'relevancia';
+        if (mode === 'preco-asc') sorted.sort((a, b) => Number(a.dataset.price) - Number(b.dataset.price));
+        if (mode === 'preco-desc') sorted.sort((a, b) => Number(b.dataset.price) - Number(a.dataset.price));
+        if (mode === 'lojas-desc') sorted.sort((a, b) => Number(b.dataset.storeCount) - Number(a.dataset.storeCount));
+        if (mode === 'relevancia') sorted.sort((a, b) => Number(a.dataset.index) - Number(b.dataset.index));
+        sorted.forEach(card => grid.appendChild(card));
+      }
+
+      function applyFilters() {
+        if (priceFilter && priceValue) priceValue.textContent = '€' + priceFilter.value;
+        const visibleCards = cards.filter(card => {
+          const visible = cardMatches(card);
+          card.style.display = visible ? '' : 'none';
+          return visible;
+        });
+        sortCards(visibleCards);
+        if (countEl) countEl.textContent = visibleCards.length + (visibleCards.length === 1 ? ' produto' : ' produtos');
+        if (emptyEl) emptyEl.style.display = visibleCards.length ? 'none' : 'block';
+      }
+
+      filters.forEach(input => input.addEventListener('change', applyFilters));
+      priceFilter?.addEventListener('input', applyFilters);
+      sortSelect?.addEventListener('change', applyFilters);
+      page.querySelector('[data-clear-filters]')?.addEventListener('click', () => {
+        filters.forEach(input => { input.checked = false; });
+        if (priceFilter) priceFilter.value = priceFilter.max;
+        applyFilters();
+      });
+      page.querySelectorAll('[data-filter-toggle]').forEach(header => {
+        header.addEventListener('click', () => header.closest('.filter-section')?.classList.toggle('collapsed'));
+      });
+      page.querySelector('[data-open-filters]')?.addEventListener('click', () => {
+        filtersPanel?.classList.add('open');
+        overlay?.classList.add('active');
+      });
+      overlay?.addEventListener('click', () => {
+        filtersPanel?.classList.remove('open');
+        overlay.classList.remove('active');
+      });
+      applyFilters();
+    })();
+  </script>
 </body>
 </html>

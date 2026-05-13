@@ -1,6 +1,6 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-12T21:36:23.747Z",
+  "generatedAt": "2026-05-13T21:26:25.256Z",
   "productCount": 390,
   "productUrls": {
     "1": "./produto/equipe-head-coello-2026-raquete-de-padel.html",

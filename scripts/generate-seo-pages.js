@@ -1084,11 +1084,36 @@ function renderCategoryPage(category, products) {
       { '@type': 'ListItem', position: 2, name: config.label, item: SITE_URL + canonicalPath }
     ]
   };
+  const itemListLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `${config.label} no PadelCost`,
+    description: config.description,
+    url: `${SITE_URL}${canonicalPath}`,
+    numberOfItems: sorted.length,
+    itemListElement: sorted.slice(0, 48).map((product, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: `${SITE_URL}${getProductUrl(product)}`,
+      name: productTitle(product)
+    }))
+  };
+  const collectionLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: config.title,
+    description: config.description,
+    url: `${SITE_URL}${canonicalPath}`,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: sorted.length
+    }
+  };
   return layout({
     title: config.title,
     description: config.description,
     canonicalPath,
-    extraHead: jsonLd(breadcrumbLd),
+    extraHead: `${jsonLd(breadcrumbLd)}\n  ${jsonLd(collectionLd)}\n  ${jsonLd(itemListLd)}`,
     body,
     pageContext: 'category',
     activeCategory: category
@@ -1305,8 +1330,19 @@ function ensureCleanDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
+function getSitemapMeta(urlPath) {
+  if (urlPath === '/') return { changefreq: 'daily', priority: '1.0' };
+  if (urlPath.startsWith('/categoria/')) return { changefreq: 'daily', priority: '0.9' };
+  if (urlPath.startsWith('/produto/')) return { changefreq: 'weekly', priority: '0.8' };
+  if (urlPath.includes('guia-') || urlPath === '/como-funciona.html') return { changefreq: 'monthly', priority: '0.6' };
+  return { changefreq: 'monthly', priority: '0.4' };
+}
+
 function writeSitemap(paths) {
-  const urls = paths.map(urlPath => `  <url>\n    <loc>${SITE_URL}${urlPath}</loc>\n    <lastmod>${TODAY}</lastmod>\n  </url>`).join('\n');
+  const urls = paths.map(urlPath => {
+    const meta = getSitemapMeta(urlPath);
+    return `  <url>\n    <loc>${SITE_URL}${urlPath}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>${meta.changefreq}</changefreq>\n    <priority>${meta.priority}</priority>\n  </url>`;
+  }).join('\n');
   fs.writeFileSync(SITEMAP_FILE, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 }
 

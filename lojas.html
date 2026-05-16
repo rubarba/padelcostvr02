@@ -639,33 +639,126 @@
       .replace(/[\u0300-\u036f]/g, '')
       .replace(/\s+/g, ' ')
       .trim();
+    const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos', 'acessorios']);
+    const normalizeCatalogText = (value) => normalizeText(value)
+      .replace(/[^a-z0-9]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const getCatalogSearchText = (product) => normalizeCatalogText([
+      product?.name,
+      product?.brand,
+      product?.sourceCategory,
+      product?.description
+    ].filter(Boolean).join(' | '));
+    const catalogHasWord = (text, terms) => terms.some((term) => new RegExp('(^| )' + term + '( |$)').test(text));
+    const catalogHasPhrase = (text, terms) => terms.some((term) => text.includes(term));
+    const ACCESSORY_WORD_HINTS = [
+      'bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls',
+      'overgrip', 'overgrips', 'grip', 'hesacore',
+      'protetor', 'protector', 'antivibrador', 'antivibradores',
+      'amortecedor', 'amortecedores', 'cordao', 'cordon', 'cordones',
+      'pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta'
+    ];
+    const ACCESSORY_PHRASE_HINTS = [
+      'custom weight', 'contrapeso', 'contrapesos', 'peso de padel',
+      'protection tape', 'antishock', 'wrist cord', 'pick up ball',
+      'pickup ball', 'pascal box', 'dry grip', 'crystal grip', 'power grip', 'gel grip'
+    ];
+    const ACCESSORY_EXCLUDE_WORDS = [
+      'meia', 'meias', 'sock', 'socks', 'bone', 'gorra', 'viseira', 'visor',
+      'toalha', 'toalla', 'garrafa', 'botella', 'wallet', 'carteira', 'necessaire',
+      'bolsa', 'mochila', 'paletero', 'raquetero', 'sandalia', 'sandal',
+      'sapatilha', 'sapatilhas', 'sapato', 'sapatos', 'zapatilla', 'zapatillas', 'shoe', 'shoes',
+      'camiseta', 'camisa', 'polo', 'short', 'shorts', 'calca', 'calcas', 'pants', 'trousers',
+      'jacket', 'chaqueta', 'hood', 'sweat', 'sudadera', 'moletom', 'vestido', 'saia', 'falda',
+      'legging', 'malla', 'mallas', 'cotovelo', 'cotoveleira', 'joelheira', 'bandana',
+      'pendente', 'joia', 'joya', 'colar', 'raquete', 'raqueta', 'racket', 'pala'
+    ];
+    const ACCESSORY_EXCLUDE_PHRASES = [
+      't shirt', 'saco para acessorios', 'pack cross', 'red de mini padel',
+      'carro de bola', 'carrinho', 'bola de praia', 'pingente'
+    ];
+    const isCleanAccessoryProduct = (product) => {
+      if (!product || !['acessorios', 'bolas'].includes(product.category)) return false;
+      const text = getCatalogSearchText(product);
+      if (catalogHasWord(text, ACCESSORY_EXCLUDE_WORDS) || catalogHasPhrase(text, ACCESSORY_EXCLUDE_PHRASES)) return false;
+      return catalogHasWord(text, ACCESSORY_WORD_HINTS) || catalogHasPhrase(text, ACCESSORY_PHRASE_HINTS);
+    };
+    const getAccessoryProductType = (product) => {
+      const text = getCatalogSearchText(product);
+      if (catalogHasWord(text, ['overgrip', 'overgrips', 'grip', 'hesacore']) || catalogHasPhrase(text, ['dry grip', 'crystal grip', 'power grip', 'gel grip'])) return 'Overgrips';
+      if (catalogHasWord(text, ['protetor', 'protector']) || catalogHasPhrase(text, ['protection tape', 'antishock'])) return 'Protetores';
+      if (catalogHasWord(text, ['antivibrador', 'antivibradores', 'amortecedor', 'amortecedores'])) return 'Antivibradores';
+      if (catalogHasWord(text, ['cordao', 'cordon', 'cordones']) || catalogHasPhrase(text, ['wrist cord'])) return 'Cordões';
+      if (catalogHasPhrase(text, ['custom weight', 'contrapeso', 'contrapesos', 'peso de padel'])) return 'Pesos';
+      if (catalogHasWord(text, ['pressurizador', 'tubo', 'pote', 'cubo', 'gaveta', 'cesta']) || catalogHasPhrase(text, ['pascal box'])) return 'Bolas e tubos';
+      if (catalogHasWord(text, ['bola', 'bolas', 'pelota', 'pelotas', 'ball', 'balls'])) return 'Bolas';
+      return 'Acessórios';
+    };
     const normalizeCategory = (product) => {
-      if (!product || product.category !== 'bolas') return product?.category;
-      const text = normalizeText([
-        product?.name,
-        product?.sourceCategory,
-        product?.description
-      ].filter(Boolean).join(' | '));
-      const hasRacketHint = ['raquete de padel', 'raqueta de padel', 'racket', 'pala de padel', 'palas de padel']
-        .some((hint) => text.includes(hint));
-      const hasAccessoryHint = ['overgrip', 'grip', 'spray', 'pendente', 'joia', 'joyas', 'bola', 'bolas', 'pack x3', 'pacote x3', 'pacote x6', 'tubo', 'pote']
-        .some((hint) => text.includes(hint));
+      if (!product) return product?.category;
+      if (isCleanAccessoryProduct(product)) return 'acessorios';
+      if (product.category !== 'bolas') return product.category;
+      const text = getCatalogSearchText(product);
+      const hasRacketHint = catalogHasPhrase(text, ['raquete de padel', 'raqueta de padel', 'pala de padel', 'palas de padel']) || catalogHasWord(text, ['racket']);
+      const hasAccessoryHint = catalogHasWord(text, ACCESSORY_WORD_HINTS) || catalogHasPhrase(text, ACCESSORY_PHRASE_HINTS);
       return hasRacketHint && !hasAccessoryHint ? 'raquetes' : product.category;
     };
     const products = rawProducts.map((product) => {
       const category = normalizeCategory(product);
-      return category === product.category ? product : { ...product, category };
+      const accessoryType = category === 'acessorios' ? getAccessoryProductType(product) : null;
+      if (category === product.category && !accessoryType) return product;
+      return {
+        ...product,
+        category,
+        specs: accessoryType
+          ? { ...(product.specs || {}), tipo: product.specs?.tipo || accessoryType }
+          : product.specs
+      };
     });
-    const coreCategories = new Set(['raquetes', 'sapatilhas', 'sacos', 'acessorios']);
-    const normalizeCatalogText = (value) => normalizeText(value)
+    const normalizeProductIdentity = (value) => normalizeText(value)
       .replace(/\b(tamanho|tam|size)\s*\d+(?:\.\d+)?\b/g, ' ')
       .replace(/\b\d{2}(?:\.\d+)?\b/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
     const getShoeGroupKey = (product) => {
-      const brand = normalizeCatalogText(product?.brand);
-      const name = normalizeCatalogText(product?.name);
+      const brand = normalizeProductIdentity(product?.brand);
+      const name = normalizeProductIdentity(product?.name)
+        .replace(/\s*\((?:shoes|shoe)\)\s*$/i, '')
+        .replace(/\b\d{2}(?:\.\d+)?\b(?=\s*(?:eu|uk|us)?$)/g, '')
+        .replace(/\b\d{2}\s*[12]\/3\b(?=\s*(?:eu|uk|us)?$)/g, '')
+        .trim();
       return `${brand}::${name}`;
+    };
+    const normalizeCatalogIdentifier = (value) => {
+      const digits = String(value || '').replace(/[^0-9]/g, '');
+      if (!digits) return '';
+      if (digits.length === 13 && digits.startsWith('0')) return digits.slice(1);
+      return digits;
+    };
+    const getCatalogPrimaryIdentifier = (product) => normalizeCatalogIdentifier(product?.productGTIN || product?.ean || product?.upc);
+    const getCatalogSpecsScore = (product) => {
+      if (!product?.specs) return 0;
+      return Object.values(product.specs).filter((value) => Array.isArray(value) ? value.length > 0 : value !== null && value !== undefined && value !== '').length;
+    };
+    const getCatalogImageQualityScore = (product) => {
+      const effectiveSource = product?.imageSource || product?.source || '';
+      if (effectiveSource === 'padel-market') return 3;
+      if (effectiveSource === 'adidas-padel') return 2.4;
+      if (effectiveSource === 'padel-proshop') return 2.2;
+      if (effectiveSource === 'atmosfera-sport') return 1.4;
+      return 1;
+    };
+    const chooseRepresentativeProduct = (variants) => {
+      return [...variants].sort((a, b) => {
+        const storesDiff = (b.stores?.length || 0) - (a.stores?.length || 0);
+        if (storesDiff !== 0) return storesDiff;
+        const specsDiff = getCatalogSpecsScore(b) - getCatalogSpecsScore(a);
+        if (specsDiff !== 0) return specsDiff;
+        const imageDiff = getCatalogImageQualityScore(b) - getCatalogImageQualityScore(a);
+        if (imageDiff !== 0) return imageDiff;
+        return (a.price || Infinity) - (b.price || Infinity);
+      })[0];
     };
     const mergeStores = (variants) => {
       const byStore = new Map();
@@ -673,7 +766,7 @@
         (variant.stores || []).forEach((store) => {
           if (!store || !store.name) return;
           const current = byStore.get(store.name);
-          if (!current || store.price < current.price) {
+          if (!current || store.price < current.price || (store.price === current.price && store.inStock && !current.inStock)) {
             byStore.set(store.name, { ...store });
           }
         });
@@ -681,9 +774,39 @@
       return Array.from(byStore.values()).sort((a, b) => a.price - b.price);
     };
     const aggregateCatalogProducts = (items) => {
+      const groupedIdentifiers = new Map();
+      const identifierMerged = [];
       const groupedShoes = new Map();
       const result = [];
       items.forEach((product) => {
+        const identifier = getCatalogPrimaryIdentifier(product);
+        if (identifier) {
+          const key = `${product.category}::${identifier}`;
+          if (!groupedIdentifiers.has(key)) groupedIdentifiers.set(key, []);
+          groupedIdentifiers.get(key).push(product);
+          return;
+        }
+        identifierMerged.push(product);
+      });
+      groupedIdentifiers.forEach((variants, key) => {
+        if (variants.length === 1) {
+          identifierMerged.push(variants[0]);
+          return;
+        }
+        const representative = chooseRepresentativeProduct(variants);
+        const stores = mergeStores(variants);
+        const lowestPrice = stores.length > 0 ? Math.min(...stores.map((store) => store.price)) : representative.price;
+        const oldPrices = variants.map((variant) => variant.oldPrice).filter((value) => Number.isFinite(value) && value > lowestPrice);
+        identifierMerged.push({
+          ...representative,
+          id: `identifier-group:${key}`,
+          variantIds: variants.flatMap((variant) => [variant.id, ...(variant.variantIds || [])]),
+          price: lowestPrice,
+          oldPrice: oldPrices.length > 0 ? Math.max(...oldPrices) : representative.oldPrice,
+          stores
+        });
+      });
+      identifierMerged.forEach((product) => {
         if (product.category !== 'sapatilhas') {
           result.push(product);
           return;
@@ -693,18 +816,85 @@
         groupedShoes.get(key).push(product);
       });
       groupedShoes.forEach((variants, key) => {
+        if (variants.length === 1) {
+          result.push(variants[0]);
+          return;
+        }
         const representative = variants[0];
+        const stores = mergeStores(variants);
+        const lowestPrice = stores.length > 0 ? Math.min(...stores.map((store) => store.price)) : representative.price;
+        const oldPrices = variants.map((variant) => variant.oldPrice).filter((value) => Number.isFinite(value) && value > lowestPrice);
         result.push({
           ...representative,
           id: `shoe-group:${key}`,
           variantIds: variants.map((variant) => variant.id),
-          price: Math.min(...variants.map((variant) => variant.price).filter(Number.isFinite)),
-          stores: mergeStores(variants)
+          price: lowestPrice,
+          oldPrice: oldPrices.length > 0 ? Math.max(...oldPrices) : representative.oldPrice,
+          stores
         });
       });
       return result;
     };
-    const visibleProducts = products.filter((product) => coreCategories.has(product.category));
+    const isCategoryIntruder = (product, category) => {
+      const text = [product?.name, product?.brand, product?.sourceCategory, product?.description]
+        .filter(Boolean)
+        .join(' | ')
+        .toLowerCase();
+      const nameText = String(product?.name || '').toLowerCase();
+      const hasAny = (terms) => terms.some((term) => text.includes(term));
+      const nameHasAny = (terms) => terms.some((term) => nameText.includes(term));
+      if (category === 'raquetes') {
+        if (
+          hasAny([
+            'overgrip', 'overgrips', 'punho', 'punhos', 'balanceador',
+            'peso personalizado', 'optiweight', 'spray', 'totalseco',
+            'pendente', 'joyas', 'colar', 'joia', 'jewelry',
+            'pote de bolas', 'tubo de bola', 'tubo selecionador',
+            'manga ', 'mangas ', 'cotoveleira', 'joelheira',
+            'calça', 'calças', 'pólo', 'polo', 'camiseta', 'camisa',
+            't-shirt', 'vestido', 'saia', 'sack protour', 'sck protour'
+          ]) ||
+          nameText.includes(' grip ') ||
+          nameText.startsWith('grip ') ||
+          nameHasAny([
+            'hesacore', 'antivibr', 'protector', 'protetor', 'protection',
+            'aderencia', 'aderência', 'adhesive', 'tambor', 'chaveiro',
+            'porta chaves', 'keyring', 'keychain', 'funda', 'racket cover',
+            'cover racket', 'cover de raquete'
+          ])
+        ) return true;
+        if (text.includes('fronton') || text.includes('frontón')) return true;
+        if (text.includes('badminton') || text.includes('praia') || text.includes('beach') || text.includes('frescobol')) return true;
+        if (text.includes('cuero') && !text.includes('padel')) return true;
+        if ((nameText.includes('tenis') || nameText.includes('tennis')) && !nameText.includes('padel') && (nameText.includes('raqueta') || nameText.includes('raquete') || nameText.includes('racket') || nameText.includes('pala'))) return true;
+      }
+      if (category === 'acessorios') return !isCleanAccessoryProduct(product);
+      if (category === 'sapatilhas') {
+        if (hasAny([
+          'ropa', 'accesorios', 'pelotas', 'calça', 'calças', 'calções',
+          'shorts', 'pólo', 'polo', 'camiseta', 'camisa', 't-shirt',
+          'tee ', 'vestido', 'saia', 'manga ', 'mangas ', 'cotoveleira',
+          'joelheira', 'meias', 'sock', 'socks', 'overgrip', 'grip ',
+          'cheiro', 'spray', 'footgel', 'pote de bolas', 'tubo de bola',
+          'tubo selecionador', 'raquete', 'raqueta', 'badminton',
+          'pendente', 'joyas', 'colar', 'saco ', 'mochila', 'paletero',
+          'raquetero'
+        ])) return true;
+      }
+      return false;
+    };
+    const categoryPriceMax = {
+      raquetes: 800,
+      sapatilhas: 300,
+      sacos: 300,
+      acessorios: 200
+    };
+    const visibleProducts = aggregateCatalogProducts(products)
+      .filter((product) =>
+        coreCategories.has(product.category) &&
+        !isCategoryIntruder(product, product.category) &&
+        product.price <= (categoryPriceMax[product.category] || Infinity)
+      );
     const monitoredProducts = visibleProducts.length;
     const storeInfo = {
       'Adidas Padel': {
@@ -724,6 +914,9 @@
       },
       'Zona de Padel': {
         url: 'https://www.zonadepadel.es/'
+      },
+      'Decathlon ES': {
+        url: 'https://www.decathlon.es/'
       }
     };
     const storeMap = new Map();
@@ -787,6 +980,9 @@
       }
       if (storeName === 'Zona de Padel') {
         return '<img src="./logos/zonadepadel.png" alt="Zona de Padel">';
+      }
+      if (storeName === 'Decathlon ES') {
+        return '<img src="./logos/decathlon-es-logo.svg" alt="Decathlon ES">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;

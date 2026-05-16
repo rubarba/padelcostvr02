@@ -4487,6 +4487,7 @@
     'Padel Proshop PT': 3,
     'Forum Sport ES': 4,
     'Zona de Padel': 5,
+    'Decathlon ES': 6,
   };
 
   const compareStores = (a, b) => {
@@ -5863,7 +5864,8 @@
         'Atmosfera Sport': 'Atmosfera',
         'Forum Sport ES': 'Forum Sport',
         'Padel Market': 'Padel Market',
-        'Adidas Padel': 'Adidas Padel'
+        'Adidas Padel': 'Adidas Padel',
+        'Decathlon ES': 'Decathlon'
       };
       return shortNames[storeName] || storeName || 'Ver oferta';
     };
@@ -6066,6 +6068,16 @@
           <img
             src="./logos/zonadepadel.png"
             alt="Zona de Padel"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
+      if (storeName === 'Decathlon ES') {
+        return (
+          <img
+            src="./logos/decathlon-es-logo.svg"
+            alt="Decathlon ES"
             style={{ width: '100%', height: '100%', objectFit: 'contain' }}
           />
         );

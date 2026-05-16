@@ -8,8 +8,11 @@
     "generate:padelmarket": "node generate-padel-market.js",
     "generate:padelproshop": "node generate-padel-proshop.js",
     "generate:forumsport": "node generate-forum-sport.js",
+    "generate:decathlon": "node generate-decathlon.js",
     "merge:offers": "node merge-offers.js",
     "report:quality": "node report-quality.js",
+    "report:duplicates": "node report-duplicate-candidates.js",
+    "review:duplicates": "node generate-duplicate-review-page.js",
     "generate:zonadepadel": "node generate-zona-de-padel.js",
     "generate:seo": "node generate-seo-pages.js",
     "update:weekly:no-atmosfera": "node update-weekly-no-atmosfera.js"

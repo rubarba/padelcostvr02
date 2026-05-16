@@ -67,7 +67,8 @@ const STORE_LOGOS = {
   'Forum Sport ES': '../logos/logo-forum-sport-es.webp',
   'Padel Market': '../logos/logo_padelmarket.svg',
   'Padel Proshop PT': '../logos/padel-proshop-pt-logo.png',
-  'Zona de Padel': '../logos/zonadepadel.png'
+  'Zona de Padel': '../logos/zonadepadel.png',
+  'Decathlon ES': '../logos/decathlon-es-logo.svg'
 };
 
 const BRAND_LOGOS = {
@@ -686,6 +687,15 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .product-description { margin-top:1.3rem; max-width:none; }
     .product-description h2 { margin:0 0 .55rem; font-size:1rem; font-weight:700; }
     .product-description p { margin:0; color:#51627a; font-size:.92rem; line-height:1.65; }
+    .product-seo-panel { background:#fff; border:1px solid var(--line); border-radius:12px; padding:1rem; box-shadow:0 10px 28px rgba(15,31,53,.05); }
+    .product-seo-panel h2 { margin:0 0 .55rem; font-size:1.05rem; line-height:1.25; }
+    .product-seo-panel p { margin:.45rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
+    .product-seo-list { margin:.55rem 0 0; padding-left:1.15rem; color:#51627a; font-size:.92rem; line-height:1.6; }
+    .product-seo-list li { margin:.22rem 0; }
+    .product-faq { display:grid; gap:.65rem; }
+    .product-faq details { background:#fff; border:1px solid var(--line); border-radius:10px; padding:.85rem 1rem; }
+    .product-faq summary { cursor:pointer; font-weight:900; color:var(--text); }
+    .product-faq p { margin:.55rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-actions { display:flex; align-items:center; gap:.85rem; flex-wrap:wrap; margin-top:1rem; }
     .save-product-btn { display:inline-flex; align-items:center; gap:.45rem; min-height:40px; padding:.62rem .9rem; border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--text); font-weight:700; text-decoration:none; cursor:pointer; font-family:inherit; font-size:.82rem; transition:all .25s ease; }
     .save-product-btn:hover { border-color:rgba(32,111,220,.2); color:var(--blue); background:#eef7ff; }
@@ -761,6 +771,11 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
       .top-offer .best-badge { font-size:.58rem; min-height:20px; padding:.18rem .42rem; border-radius:6px; }
       .top-offer .button { width:auto; min-height:38px; min-width:92px; padding:.55rem .75rem; font-size:.82rem; }
       .product-description { margin-top:1rem; }
+      .product-seo-panel { padding:.82rem; border-radius:10px; }
+      .product-seo-panel h2 { font-size:.98rem; }
+      .product-seo-panel p, .product-seo-list, .product-faq p { font-size:.86rem; }
+      .product-faq details { padding:.72rem .82rem; }
+      .product-faq summary { font-size:.88rem; }
       .product-actions { gap:.65rem; margin-top:.85rem; }
       .price-heading { margin:1rem 0 .35rem; font-size:1.02rem; }
       .related-section { margin-top:1.15rem; }
@@ -1027,6 +1042,32 @@ function getRelatedProducts(product, products, limit = 4) {
     .slice(0, limit);
 }
 
+function getProductSeoNotes(product, lowPrice, highPrice) {
+  const storeCount = (product.stores || []).length;
+  const title = productTitle(product);
+  const priceText = formatPrice(lowPrice);
+  const rangeText = highPrice && highPrice > lowPrice ? ` entre ${formatPrice(lowPrice)} e ${formatPrice(highPrice)}` : ` desde ${priceText}`;
+  return [
+    `${title} aparece no PadelCost com ${storeCount} ${storeCount === 1 ? 'loja monitorizada' : 'lojas monitorizadas'} e preço ${rangeText}.`,
+    'Os preços podem mudar nas lojas parceiras; confirma sempre preço final, portes e disponibilidade antes de comprar.'
+  ];
+}
+
+function getProductFaq(product, lowPrice) {
+  const title = productTitle(product);
+  const storeCount = (product.stores || []).length;
+  return [
+    {
+      question: `Onde comprar ${title} ao melhor preço?`,
+      answer: `No PadelCost podes comparar as ofertas disponíveis para ${title}. Neste momento encontrámos ${storeCount} ${storeCount === 1 ? 'loja com preço disponível' : 'lojas com preço disponível'}, com melhor preço a partir de ${formatPrice(lowPrice)}.`
+    },
+    {
+      question: 'Os preços apresentados são finais?',
+      answer: 'Os preços são recolhidos de lojas parceiras e podem mudar. Antes de comprar, confirma sempre o preço final, stock, portes e condições diretamente na loja.'
+    }
+  ];
+}
+
 function renderCategoryPage(category, products) {
   const config = CATEGORY_CONFIG[category];
   const canonicalPath = getCategoryUrl(category);
@@ -1139,6 +1180,8 @@ function renderProductPage(product, allProducts = []) {
   const productFavoriteIds = [product.id, ...(product.variantIds || [])].filter(Boolean);
   const productShareUrl = SITE_URL + canonicalPath;
   const relatedProducts = getRelatedProducts(product, allProducts, 4);
+  const seoNotes = getProductSeoNotes(product, lowPrice, highPrice);
+  const productFaq = getProductFaq(product, lowPrice);
   const body = `<main>
     <section class="hero">
       <div class="container">
@@ -1189,6 +1232,21 @@ function renderProductPage(product, allProducts = []) {
             }).join('\n')}
           </div>
         </div>
+        <section class="product-seo-panel">
+          <h2>Informação para comparar antes de comprar</h2>
+          <ul class="product-seo-list">
+            ${seoNotes.map(note => `<li>${escapeHtml(note)}</li>`).join('')}
+          </ul>
+        </section>
+        <section class="product-seo-panel">
+          <h2>Perguntas frequentes</h2>
+          <div class="product-faq">
+            ${productFaq.map((item, index) => `<details${index === 0 ? ' open' : ''}>
+              <summary>${escapeHtml(item.question)}</summary>
+              <p>${escapeHtml(item.answer)}</p>
+            </details>`).join('')}
+          </div>
+        </section>
         ${relatedProducts.length ? `<div class="related-section">
           <div class="related-head">
             <h2>Alternativas semelhantes</h2>
@@ -1312,12 +1370,24 @@ function renderProductPage(product, allProducts = []) {
       { '@type': 'ListItem', position: 3, name: title, item: SITE_URL + canonicalPath }
     ]
   };
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: productFaq.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer
+      }
+    }))
+  };
 
   return layout({
     title: productMetaTitle(product),
     description: productDescription(product),
     canonicalPath,
-    extraHead: `${jsonLd(productLd)}\n  ${jsonLd(breadcrumbLd)}`,
+    extraHead: `${jsonLd(productLd)}\n  ${jsonLd(breadcrumbLd)}\n  ${jsonLd(faqLd)}`,
     body,
     pageContext: 'product',
     activeCategory: product.category,

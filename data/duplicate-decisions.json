@@ -1,0 +1,712 @@
+[
+  {
+    "key": "3-7766",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:38:37.453Z",
+    "idA": 3,
+    "nameA": "Head raquete de padel coello pro 2026",
+    "idB": 7766,
+    "nameB": "Head Coello Pro 2026"
+  },
+  {
+    "key": "7799-8073",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:41:08.267Z",
+    "idA": 7799,
+    "nameA": "Siux Gea 2026",
+    "idB": 8073,
+    "nameB": "Raquete de Padel Siux Gea 2 2026"
+  },
+  {
+    "key": "13-8883",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:41:37.221Z",
+    "idA": 13,
+    "nameA": "Raquete bullpadel ionic power 26",
+    "idB": 8883,
+    "nameB": "Raquete de padel - Bullpadel Ionic Power 26"
+  },
+  {
+    "key": "18-8952",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:42:23.716Z",
+    "idA": 18,
+    "nameA": "Raquete bullpadel vertex 05",
+    "idB": 8952,
+    "nameB": "Raquete de padel Vertex 05 26"
+  },
+  {
+    "key": "18-8956",
+    "decision": "reject",
+    "note": "O NOME É DIFERENTE E A COR TB",
+    "updatedAt": "2026-05-16T15:44:45.286Z",
+    "idA": 18,
+    "nameA": "Raquete bullpadel vertex 05",
+    "idB": 8956,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 M 26"
+  },
+  {
+    "key": "20-8956",
+    "decision": "reject",
+    "note": "    Bullpadel Vertex 05 Woman 2026\n    vs\n* Bullpadel Vertex 05 M 26",
+    "updatedAt": "2026-05-16T15:45:36.645Z",
+    "idA": 20,
+    "nameA": "Raquete bullpadel vertex 05 w",
+    "idB": 8956,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 M 26"
+  },
+  {
+    "key": "7258-8883",
+    "decision": "reject",
+    "note": "RAQUETE DIFERENTE\n    Bullpadel Ionic Power 25\n    vs\n* Bullpadel Ionic Power 26 (2026)",
+    "updatedAt": "2026-05-16T15:46:36.599Z",
+    "idA": 7258,
+    "nameA": "Bullpadel ionic power 25 raquete de padel",
+    "idB": 8883,
+    "nameB": "Raquete de padel - Bullpadel Ionic Power 26"
+  },
+  {
+    "key": "8131-8883",
+    "decision": "reject",
+    "note": "DIFERNETE",
+    "updatedAt": "2026-05-16T15:47:40.936Z",
+    "idA": 8131,
+    "nameA": "Bullpadel ionic power raquete de padel",
+    "idB": 8883,
+    "nameB": "Raquete de padel - Bullpadel Ionic Power 26"
+  },
+  {
+    "key": "378-2440",
+    "decision": "reject",
+    "note": "DIFERNTE UM É MOCHILA E OUTRO É SACO",
+    "updatedAt": "2026-05-16T15:47:58.354Z",
+    "idA": 378,
+    "nameA": "Mochila de padel nox pro series preto",
+    "idB": 2440,
+    "nameB": "Bolsa padel Nox Pro Series Preto"
+  },
+  {
+    "key": "20-8952",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:48:08.586Z",
+    "idA": 20,
+    "nameA": "Raquete bullpadel vertex 05 w",
+    "idB": 8952,
+    "nameB": "Raquete de padel Vertex 05 26"
+  },
+  {
+    "key": "42-8158",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:49:25.512Z",
+    "idA": 42,
+    "nameA": "Raquete de padel drop shot explorer pro attack",
+    "idB": 8158,
+    "nameB": "Dropshot explorer pro attack 20 raquete de padel"
+  },
+  {
+    "key": "70-7856",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:49:41.462Z",
+    "idA": 70,
+    "nameA": "Raquete de padel nox at10 genius 18k alum by agustin tapia",
+    "idB": 7856,
+    "nameB": "Nox AT10 Genius 18K Alum Agustin Tapia 2025"
+  },
+  {
+    "key": "7780-8868",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:50:30.124Z",
+    "idA": 7780,
+    "nameA": "Babolat Technical Viper Soft 3.0 2026",
+    "idB": 8868,
+    "nameB": "Raquete de padel Babolat Technical Viper Soft 3.0"
+  },
+  {
+    "key": "8766-8964",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T15:52:15.414Z",
+    "idA": 8766,
+    "nameA": "BABOLAT VIPER 3.0 2026 JUAN LEBRON (Racket)",
+    "idB": 8964,
+    "nameB": "Raquete de padel Babolat Viper Juan Lebrón 3.0"
+  },
+  {
+    "key": "49-2565",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:52:49.769Z",
+    "idA": 49,
+    "nameA": "Raquete de padel head extreme pro 2025",
+    "idB": 2565,
+    "nameB": "Raquete de Padel Head Extreme Pro"
+  },
+  {
+    "key": "7625-8890",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:52:58.164Z",
+    "idA": 7625,
+    "nameA": "Head Speed Pro",
+    "idB": 8890,
+    "nameB": "Raquete de padel adultos - Head Speed Pro"
+  },
+  {
+    "key": "7873-8890",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:53:08.758Z",
+    "idA": 7873,
+    "nameA": "Head Speed Pro X",
+    "idB": 8890,
+    "nameB": "Raquete de padel adultos - Head Speed Pro"
+  },
+  {
+    "key": "82-3938",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:53:25.196Z",
+    "idA": 82,
+    "nameA": "Raquete de padel siux electra go 4",
+    "idB": 3938,
+    "nameB": "Raquete de Padel Siux Electra ST3 Go"
+  },
+  {
+    "key": "83-1993",
+    "decision": "reject",
+    "note": "DIFERENTE",
+    "updatedAt": "2026-05-16T15:53:32.697Z",
+    "idA": 83,
+    "nameA": "Raquete de padel siux valkiria pro",
+    "idB": 1993,
+    "nameB": "Raquete de Padel Siux Valkiria Pro 2026"
+  },
+  {
+    "key": "7262-8838",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:35.724Z",
+    "idA": 7262,
+    "nameA": "Bullpadel indiga pwr 25 raquete de padel",
+    "idB": 8838,
+    "nameB": "Raqueta de padel – Bullpadel Indiga PWR 26"
+  },
+  {
+    "key": "38-7789",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:40.377Z",
+    "idA": 38,
+    "nameA": "Raquete de padel drop shot canyon pro attack",
+    "idB": 7789,
+    "nameB": "Drop Shot Canyon Pro Attack 2.0 2026"
+  },
+  {
+    "key": "10-8972",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:44.272Z",
+    "idA": 10,
+    "nameA": "Raquete bullpadel hack 04 hyb 26",
+    "idB": 8972,
+    "nameB": "Raquete de padel para - Bullpadel Hack 02 26"
+  },
+  {
+    "key": "11-8972",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:45.832Z",
+    "idA": 11,
+    "nameA": "Raquete bullpadel hack 04 premier",
+    "idB": 8972,
+    "nameB": "Raquete de padel para - Bullpadel Hack 02 26"
+  },
+  {
+    "key": "18-8888",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:47.282Z",
+    "idA": 18,
+    "nameA": "Raquete bullpadel vertex 05",
+    "idB": 8888,
+    "nameB": "Raquete de padel Bullpadel Vertex XS 26"
+  },
+  {
+    "key": "19-8952",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:48.369Z",
+    "idA": 19,
+    "nameA": "Raquete bullpadel vertex 05 geo",
+    "idB": 8952,
+    "nameB": "Raquete de padel Vertex 05 26"
+  },
+  {
+    "key": "20-8888",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:53.128Z",
+    "idA": 20,
+    "nameA": "Raquete bullpadel vertex 05 w",
+    "idB": 8888,
+    "nameB": "Raquete de padel Bullpadel Vertex XS 26"
+  },
+  {
+    "key": "2924-8972",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:55.954Z",
+    "idA": 2924,
+    "nameA": "Raquete de Padel Bullpadel Hack 04 2026",
+    "idB": 8972,
+    "nameB": "Raquete de padel para - Bullpadel Hack 02 26"
+  },
+  {
+    "key": "4481-8952",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:57.651Z",
+    "idA": 4481,
+    "nameA": "Raquete de Padel Bullpadel VERTEX 04 2025",
+    "idB": 8952,
+    "nameB": "Raquete de padel Vertex 05 26"
+  },
+  {
+    "key": "4481-8956",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T15:59:59.038Z",
+    "idA": 4481,
+    "nameA": "Raquete de Padel Bullpadel VERTEX 04 2025",
+    "idB": 8956,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 M 26"
+  },
+  {
+    "key": "8137-8972",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:05.262Z",
+    "idA": 8137,
+    "nameA": "Bullpadel hack 04 tf 25 raquete de padel",
+    "idB": 8972,
+    "nameB": "Raquete de padel para - Bullpadel Hack 02 26"
+  },
+  {
+    "key": "2055-3857",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:08.169Z",
+    "idA": 2055,
+    "nameA": "Raquete de Padel Adidas Metalbone Team Light 2026",
+    "idB": 3857,
+    "nameB": "Raquete de Padel Adidas Metalbone Team Light junco"
+  },
+  {
+    "key": "42-7786",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:09.203Z",
+    "idA": 42,
+    "nameA": "Raquete de padel drop shot explorer pro attack",
+    "idB": 7786,
+    "nameB": "Drop Shot Explorer Pro Attack Soft 2026"
+  },
+  {
+    "key": "4343-7828",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:10.178Z",
+    "idA": 4343,
+    "nameA": "Raquete de Padel Wilson Lâmina Pro V3 2025",
+    "idB": 7828,
+    "nameB": "Wilson Bela Pro V3 2025"
+  },
+  {
+    "key": "18-8853",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:14.349Z",
+    "idA": 18,
+    "nameA": "Raquete bullpadel vertex 05",
+    "idB": 8853,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 Comfort 26"
+  },
+  {
+    "key": "20-8853",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:15.382Z",
+    "idA": 20,
+    "nameA": "Raquete bullpadel vertex 05 w",
+    "idB": 8853,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 Comfort 26"
+  },
+  {
+    "key": "2050-8048",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:16.329Z",
+    "idA": 2050,
+    "nameA": "Raquete de Padel Adidas Cross It Light 2026Marta Ortega",
+    "idB": 8048,
+    "nameB": "Raquete Adidas Cross It Light 3.3 - Marta Ortega"
+  },
+  {
+    "key": "42-7203",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:17.414Z",
+    "idA": 42,
+    "nameA": "Raquete de padel drop shot explorer pro attack",
+    "idB": 7203,
+    "nameB": "Dropshot raquete explorer pro 50 raquete de padel"
+  },
+  {
+    "key": "8102-8156",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:26.124Z",
+    "idA": 8102,
+    "nameA": "Raquete de Padel Drop Shot Explorer Pro Comfort 1.0 2025",
+    "idB": 8156,
+    "nameB": "Dropshot explorer pro comfort 20 raquete de padel"
+  },
+  {
+    "key": "73-7810",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:27.505Z",
+    "idA": 73,
+    "nameA": "Raquete de padel nox at10 pro cup hard by agustin tapia",
+    "idB": 7810,
+    "nameB": "Nox AT10 Pro Cup Soft by Agustín Tapia 2026"
+  },
+  {
+    "key": "370-8032",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:32.670Z",
+    "idA": 370,
+    "nameA": "Mochila de padel head base padel bag m rosa",
+    "idB": 8032,
+    "nameB": "Head base saco de padel"
+  },
+  {
+    "key": "51-8067",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:33.519Z",
+    "idA": 51,
+    "nameA": "Raquete de padel head gravity pro 2024",
+    "idB": 8067,
+    "nameB": "HEAD RADICAL PRO 2024 (Racket)"
+  },
+  {
+    "key": "60-7859",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:34.389Z",
+    "idA": 60,
+    "nameA": "Raquete de padel head speed motion 2025",
+    "idB": 7859,
+    "nameB": "Head Gravity Motion 2025"
+  },
+  {
+    "key": "81-4095",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:41.875Z",
+    "idA": 81,
+    "nameA": "Raquete de padel siux diablo pro 4",
+    "idB": 4095,
+    "nameB": "Raquete de Padel Siux Diablo Revolution Sanyo Pro 3"
+  },
+  {
+    "key": "2319-5208",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:44.289Z",
+    "idA": 2319,
+    "nameA": "Raquete de Padel Siux Trilogy Elite 5 2025",
+    "idB": 5208,
+    "nameB": "Raquete de Padel Siux Diablo Elite 4 2025"
+  },
+  {
+    "key": "2927-7368",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:48.235Z",
+    "idA": 2927,
+    "nameA": "Raquete de Padel Bullpadel Neuron 02 EDGE 2026",
+    "idB": 7368,
+    "nameB": "Bullpadel neuron 02 edge tf 25 raquete de padel"
+  },
+  {
+    "key": "7444-8853",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:00:59.540Z",
+    "idA": 7444,
+    "nameA": "Bullpadel Vertex 04 Comfort LTD 2026",
+    "idB": 8853,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 Comfort 26"
+  },
+  {
+    "key": "369-4758",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:10.043Z",
+    "idA": 369,
+    "nameA": "Mochila de padel bullpadel bpm26022 xplo preto",
+    "idB": 4758,
+    "nameB": "Mochila Bullpadel XPLO Preto 2025"
+  },
+  {
+    "key": "396-4758",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:13.185Z",
+    "idA": 396,
+    "nameA": "Saco bullpadel bpp26022 xplo preto",
+    "idB": 4758,
+    "nameB": "Mochila Bullpadel XPLO Preto 2025"
+  },
+  {
+    "key": "3498-8957",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:14.599Z",
+    "idA": 3498,
+    "nameA": "Bolsa padel Bullpadel Tour Cáqui 2026 Premier Padel",
+    "idB": 8957,
+    "nameB": "Saco de padel Bullpadel Tour 2026"
+  },
+  {
+    "key": "7778-8765",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:19.868Z",
+    "idA": 7778,
+    "nameA": "Babolat Air Viper 2.6 2026",
+    "idB": 8765,
+    "nameB": "BABOLAT COUNTER VIPER 2.6 2026 (Racket)"
+  },
+  {
+    "key": "11-7524",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:35.947Z",
+    "idA": 11,
+    "nameA": "Raquete bullpadel hack 04 premier",
+    "idB": 7524,
+    "nameB": "Bullpadel Hack 04 Premier 2026"
+  },
+  {
+    "key": "22-8086",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:01:37.213Z",
+    "idA": 22,
+    "nameA": "Raquete bullpadel xplo premier",
+    "idB": 8086,
+    "nameB": "Raquete de Padel Bullpadel Xplo Premier Padel 2026"
+  },
+  {
+    "key": "7776-8954",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:07:37.320Z",
+    "idA": 7776,
+    "nameA": "Babolat Counter Veron 2.6 2026",
+    "idB": 8954,
+    "nameB": "Raquete de padel Babolat Counter Veron 2.6"
+  },
+  {
+    "key": "7960-8884",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:09:38.161Z",
+    "idA": 7960,
+    "nameA": "BABOLAT TECHNICAL VIPER 2.5 2025 (Racket)",
+    "idB": 8884,
+    "nameB": "Raquete de padel - Babolat Technical Viper 2.5"
+  },
+  {
+    "key": "7965-8953",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:10:05.310Z",
+    "idA": 7965,
+    "nameA": "BABOLAT TECHNICAL VIPER 3.0 2026 (Racket)",
+    "idB": 8953,
+    "nameB": "Raquete de padel Babolat Technical Viper 3.0"
+  },
+  {
+    "key": "8764-8934",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:10:34.573Z",
+    "idA": 8764,
+    "nameA": "BABOLAT AIR VERON 2.6 2026 (Racket)",
+    "idB": 8934,
+    "nameB": "Raquete de padel Babolat Air Veron 2.6"
+  },
+  {
+    "key": "8765-8820",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:10:56.580Z",
+    "idA": 8765,
+    "nameA": "BABOLAT COUNTER VIPER 2.6 2026 (Racket)",
+    "idB": 8820,
+    "nameB": "Raquete de padel Babolat Counter Viper 2.6"
+  },
+  {
+    "key": "758-4928",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:11:46.514Z",
+    "idA": 758,
+    "nameA": "Saco de raquetes adidas Protour Preto 3.4",
+    "idB": 4928,
+    "nameB": "Mochila Adidas Protour Preto/Azul 3.4"
+  },
+  {
+    "key": "7340-8838",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:12:14.696Z",
+    "idA": 7340,
+    "nameA": "Bullpadel indiga pwr 26 raquete de padel",
+    "idB": 8838,
+    "nameB": "Raqueta de padel – Bullpadel Indiga PWR 26"
+  },
+  {
+    "key": "730-770",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:12:42.017Z",
+    "idA": 730,
+    "nameA": "Saco para acessórios adidas White 2026",
+    "idB": 770,
+    "nameB": "Saco para raquetes adidas Multigame White 2026"
+  },
+  {
+    "key": "19-8956",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:13:13.380Z",
+    "idA": 19,
+    "nameA": "Raquete bullpadel vertex 05 geo",
+    "idB": 8956,
+    "nameB": "Raquete de padel - Bullpadel Vertex 05 M 26"
+  },
+  {
+    "key": "7794-8964",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:13:23.953Z",
+    "idA": 7794,
+    "nameA": "Babolat Viper Soft Juan Lebron 3.0 2026",
+    "idB": 8964,
+    "nameB": "Raquete de padel Babolat Viper Juan Lebrón 3.0"
+  },
+  {
+    "key": "7778-8764",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:13:26.615Z",
+    "idA": 7778,
+    "nameA": "Babolat Air Viper 2.6 2026",
+    "idB": 8764,
+    "nameB": "BABOLAT AIR VERON 2.6 2026 (Racket)"
+  },
+  {
+    "key": "7780-8953",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:13:28.875Z",
+    "idA": 7780,
+    "nameA": "Babolat Technical Viper Soft 3.0 2026",
+    "idB": 8953,
+    "nameB": "Raquete de padel Babolat Technical Viper 3.0"
+  },
+  {
+    "key": "7965-8868",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:13:30.026Z",
+    "idA": 7965,
+    "nameA": "BABOLAT TECHNICAL VIPER 3.0 2026 (Racket)",
+    "idB": 8868,
+    "nameB": "Raquete de padel Babolat Technical Viper Soft 3.0"
+  },
+  {
+    "key": "693-8275",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:14:00.086Z",
+    "idA": 693,
+    "nameA": "Raquete Adidas Adipower Multiweight 3.2",
+    "idB": 8275,
+    "nameB": "ADIDAS ADIPOWER 3.2 2023 (Racket)"
+  },
+  {
+    "key": "70-6953",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:14:05.867Z",
+    "idA": 70,
+    "nameA": "Raquete de padel nox at10 genius 18k alum by agustin tapia",
+    "idB": 6953,
+    "nameB": "Raquete de Padel Nox AT10 Luxury Genius 18K Alum Agustin Tapia Edição Especial Buenos Aires"
+  },
+  {
+    "key": "7842-8890",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:17:05.521Z",
+    "idA": 7842,
+    "nameA": "Head Speed Pro X 2025",
+    "idB": 8890,
+    "nameB": "Raquete de padel adultos - Head Speed Pro"
+  },
+  {
+    "key": "765-8049",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:17:15.857Z",
+    "idA": 765,
+    "nameA": "Raquete adidas Metalbone Reserve 2025",
+    "idB": 8049,
+    "nameB": "ADIDAS METALBONE 3.4 2025 (Racket)"
+  },
+  {
+    "key": "330-4758",
+    "decision": "reject",
+    "note": "",
+    "updatedAt": "2026-05-16T16:17:28.792Z",
+    "idA": 330,
+    "nameA": "Bolsa de padel bullpadel bpp25022 xplo homem preto",
+    "idB": 4758,
+    "nameB": "Mochila Bullpadel XPLO Preto 2025"
+  },
+  {
+    "key": "5645-8789",
+    "decision": "merge",
+    "note": "",
+    "updatedAt": "2026-05-16T16:17:55.346Z",
+    "idA": 5645,
+    "nameA": "Raquete de Padel Head Vibe Verde/Orange 2026",
+    "idB": 8789,
+    "nameB": "HEAD VIBE Green/Orange 2026 (Racket)"
+  }
+]

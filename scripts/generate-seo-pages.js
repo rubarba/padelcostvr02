@@ -67,7 +67,8 @@ const STORE_LOGOS = {
   'Forum Sport ES': '../logos/logo-forum-sport-es.webp',
   'Padel Market': '../logos/logo_padelmarket.svg',
   'Padel Proshop PT': '../logos/padel-proshop-pt-logo.png',
-  'Zona de Padel': '../logos/zonadepadel.png'
+  'Zona de Padel': '../logos/zonadepadel.png',
+  'Decathlon ES': '../logos/decathlon-es-logo.svg'
 };
 
 const BRAND_LOGOS = {

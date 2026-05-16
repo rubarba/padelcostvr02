@@ -25,6 +25,8 @@ const PADEL_MARKET_FILE = path.join(DATA_DIR, 'padel-market-data.js');
 const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
 const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
 const ZONA_DE_PADEL_FILE = path.join(DATA_DIR, 'zona-de-padel-data.js');
+const DECATHLON_FILE = path.join(DATA_DIR, 'decathlon-data.js');
+const DUPLICATE_DECISIONS_FILE = path.join(DATA_DIR, 'duplicate-decisions.json');
 
 const MERGED_STORE_NAMES = new Set([
   'Adidas Padel',
@@ -32,6 +34,7 @@ const MERGED_STORE_NAMES = new Set([
   'Padel Proshop PT',
   'Forum Sport ES',
   'Zona de Padel',
+  'Decathlon ES',
 ]);
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
@@ -71,11 +74,20 @@ const REJECTED_ADIDAS_KEYS = new Set([
   'sapatilhas::sapatilhas de padel adidas crazyquick ls m::branco',
 ]);
 
+const NAME_OVERRIDES_BY_IDENTIFIER = new Map([
+  ['raquetes::198772101275', 'Raquete de padel Head Extreme Motion 2026'],
+]);
+
 function extractWindowData(filePath, variableName) {
   const raw = fs.readFileSync(filePath, 'utf8');
   const prefix = `window.${variableName} = `;
   const jsonText = raw.split(prefix)[1].replace(/;\s*$/, '');
   return JSON.parse(jsonText);
+}
+
+function loadDuplicateDecisions() {
+  if (!fs.existsSync(DUPLICATE_DECISIONS_FILE)) return [];
+  return JSON.parse(fs.readFileSync(DUPLICATE_DECISIONS_FILE, 'utf8'));
 }
 
 function normalizeText(str) {
@@ -97,6 +109,15 @@ function hasWord(text, word) {
   return text.split(' ').includes(word);
 }
 
+function normalizeIdentifier(value) {
+  const text = String(value || '').trim();
+  if (!text) return '';
+  if (/^\d+$/.test(text)) {
+    return text.replace(/^0+/, '') || '0';
+  }
+  return normalizeText(text);
+}
+
 const STOPWORDS = new Set([
   'de', 'da', 'do', 'para', 'com', 'e', 'o', 'a', 'um', 'uma', 'the', 'by', 'por',
   'padel', 'pa', 'pala', 'palas', 'raquete', 'raquetes',
@@ -111,6 +132,24 @@ function signature(name) {
     .join(' ');
 }
 
+function identifierKeys(product) {
+  const values = [product.ean, product.productGTIN]
+    .map(normalizeIdentifier)
+    .filter(Boolean);
+  return [...new Set(values)].map(value => `${product.category}::${value}`);
+}
+
+function applyNameOverride(product) {
+  for (const key of identifierKeys(product)) {
+    const override = NAME_OVERRIDES_BY_IDENTIFIER.get(key);
+    if (override) {
+      product.name = override;
+      return true;
+    }
+  }
+  return false;
+}
+
 const STORE_PRIORITY = {
   'Padel Market': 0,
   'Adidas Padel': 1,
@@ -118,6 +157,7 @@ const STORE_PRIORITY = {
   'Padel Proshop PT': 3,
   'Forum Sport ES': 4,
   'Zona de Padel': 5,
+  'Decathlon ES': 6,
 };
 
 function compareStores(a, b) {
@@ -184,7 +224,7 @@ function removeProductsWithoutStores(products) {
 }
 
 function getProductIdentifierKey(product) {
-  const identifier = product.ean || product.productGTIN;
+  const identifier = normalizeIdentifier(product.ean || product.productGTIN);
   if (!identifier || !product.category) return null;
   return `${product.category}::${identifier}`;
 }
@@ -234,6 +274,43 @@ function consolidateDuplicateProducts(products) {
   return remove.size;
 }
 
+function findProductForDecision(products, id, name) {
+  const byId = products.find(product => String(product.id) === String(id));
+  if (byId) return byId;
+
+  const normalizedName = normalizeText(name);
+  return products.find(product => normalizeText(product.name) === normalizedName) || null;
+}
+
+function applyManualDuplicateDecisions(products, decisions) {
+  const remove = new Set();
+  let merged = 0;
+
+  for (const decision of decisions.filter(item => item.decision === 'merge')) {
+    const target = findProductForDecision(products, decision.idB, decision.nameB);
+    const source = findProductForDecision(products, decision.idA, decision.nameA);
+    if (!target || !source || target === source || remove.has(source)) continue;
+    if (target.category !== source.category) continue;
+
+    mergeProductData(target, source);
+    for (const store of source.stores || []) {
+      addStoreToProduct(target, { stores: [store] });
+    }
+    remove.add(source);
+    merged += 1;
+  }
+
+  if (remove.size > 0) {
+    for (let i = products.length - 1; i >= 0; i -= 1) {
+      if (remove.has(products[i])) {
+        products.splice(i, 1);
+      }
+    }
+  }
+
+  return merged;
+}
+
 function mergeProductData(product, offer) {
   if (!product.image && offer.image) {
     product.image = offer.image;
@@ -241,7 +318,7 @@ function mergeProductData(product, offer) {
   }
 
   const preferBetterAffiliateImage =
-    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es' || offer.source === 'zona-de-padel') &&
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es' || offer.source === 'zona-de-padel' || offer.source === 'decathlon-es') &&
     offer.image &&
     (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
 
@@ -250,9 +327,9 @@ function mergeProductData(product, offer) {
     product.imageSource = offer.source;
   }
 
-  if (!product.ean && offer.ean) {
-    product.ean = offer.ean;
-  }
+    if (!product.ean && offer.ean) {
+      product.ean = offer.ean;
+    }
 
   if (!product.productGTIN && offer.productGTIN) {
     product.productGTIN = offer.productGTIN;
@@ -278,6 +355,7 @@ function mergeProductData(product, offer) {
     }
   }
   product.specs = targetSpecs;
+  applyNameOverride(product);
 }
 
 function nextProductId(products) {
@@ -285,7 +363,7 @@ function nextProductId(products) {
 }
 
 function createProductFromOffer(offer, id) {
-  return {
+  const product = {
     id,
     name: normalizeProductName(offer.name || '', offer.category),
     brand: normalizeBrand(offer.brand),
@@ -318,6 +396,8 @@ function createProductFromOffer(offer, id) {
     },
     stores: [...(offer.stores || [])],
   };
+  applyNameOverride(product);
+  return product;
 }
 
 function inferCatalogCategory(item) {
@@ -450,11 +530,13 @@ function buildIndex(products) {
   const byName = new Map();
 
   for (const product of products) {
-    if (product.ean) {
-      byEan.set(`${product.category}::${product.ean}`, product);
+    const ean = normalizeIdentifier(product.ean);
+    if (ean) {
+      byEan.set(`${product.category}::${ean}`, product);
     }
-    if (product.productGTIN) {
-      byGtin.set(`${product.category}::${product.productGTIN}`, product);
+    const gtin = normalizeIdentifier(product.productGTIN);
+    if (gtin) {
+      byGtin.set(`${product.category}::${gtin}`, product);
     }
     if (product.mpn) {
       byMpn.set(`${product.category}::${normalizeText(product.mpn)}`, product);
@@ -487,6 +569,7 @@ function processOffers({
   for (const offer of offers) {
     offer.brand = normalizeBrand(offer.brand);
     normalizeCatalogCategory(offer);
+    applyNameOverride(offer);
     if (isCategoryIntruder(offer, offer.category) && !isTrustedPadelMarketRacket(offer)) {
       counters.skipped += 1;
       continue;
@@ -500,13 +583,15 @@ function processOffers({
 
     let target = null;
 
-    if (offer.ean) {
-      target = byEan.get(`${offer.category}::${offer.ean}`) || null;
+    const offerEan = normalizeIdentifier(offer.ean);
+    if (offerEan) {
+      target = byEan.get(`${offer.category}::${offerEan}`) || null;
       if (target) counters.matchesByEan += 1;
     }
 
-    if (!target && offer.productGTIN) {
-      target = byGtin.get(`${offer.category}::${offer.productGTIN}`) || null;
+    const offerGtin = normalizeIdentifier(offer.productGTIN);
+    if (!target && offerGtin) {
+      target = byGtin.get(`${offer.category}::${offerGtin}`) || null;
       if (target) counters.matchesByGtin += 1;
     }
 
@@ -540,8 +625,10 @@ function processOffers({
       products.push(newProduct);
       counters.addedAsNewProducts += 1;
 
-      if (newProduct.ean) byEan.set(`${newProduct.category}::${newProduct.ean}`, newProduct);
-      if (newProduct.productGTIN) byGtin.set(`${newProduct.category}::${newProduct.productGTIN}`, newProduct);
+      const newProductEan = normalizeIdentifier(newProduct.ean);
+      const newProductGtin = normalizeIdentifier(newProduct.productGTIN);
+      if (newProductEan) byEan.set(`${newProduct.category}::${newProductEan}`, newProduct);
+      if (newProductGtin) byGtin.set(`${newProduct.category}::${newProductGtin}`, newProduct);
       if (newProduct.mpn) byMpn.set(`${newProduct.category}::${normalizeText(newProduct.mpn)}`, newProduct);
       const newSig = signature(newProduct.name);
       if (newSig) {
@@ -568,6 +655,7 @@ function main() {
     product.name = normalizeProductName(product.name, product.category);
     product.brand = normalizeBrand(product.brand);
     normalizeCatalogCategory(product);
+    applyNameOverride(product);
   }
   for (let i = products.length - 1; i >= 0; i -= 1) {
     if (isCategoryIntruder(products[i], products[i].category)) {
@@ -589,6 +677,10 @@ function main() {
   const zonaDePadel = fs.existsSync(ZONA_DE_PADEL_FILE)
     ? extractWindowData(ZONA_DE_PADEL_FILE, 'PADELCOST_ZONA_DE_PADEL_PRODUCTS')
     : [];
+  const decathlon = fs.existsSync(DECATHLON_FILE)
+    ? extractWindowData(DECATHLON_FILE, 'PADELCOST_DECATHLON_PRODUCTS')
+    : [];
+  const duplicateDecisions = loadDuplicateDecisions();
   const indexes = buildIndex(products);
 
   const counters = {
@@ -663,6 +755,19 @@ function main() {
     });
   }
 
+  if (decathlon.length > 0) {
+    processOffers({
+      label: 'Decathlon ES',
+      offers: decathlon,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  const manualDuplicateProducts = applyManualDuplicateDecisions(products, duplicateDecisions);
   const removedProductsWithoutStores = removeProductsWithoutStores(products);
 
   const now = new Date().toISOString();
@@ -688,6 +793,7 @@ function main() {
   console.log(`   Novos produtos de lojas adicionados: ${counters.addedAsNewProducts}`);
   console.log(`   Ofertas por rever: ${counters.skipped}`);
   console.log(`   Produtos duplicados por EAN/GTIN consolidados: ${consolidatedDuplicateProducts}`);
+  console.log(`   Produtos duplicados por revisão manual: ${manualDuplicateProducts}`);
   console.log(`   Ofertas antigas removidas antes do merge: ${removedStaleOffers}`);
   console.log(`   Produtos sem lojas removidos no fim: ${removedProductsWithoutStores}`);
 }

@@ -1,7 +1,7 @@
 // PadelCost - mapa de paginas SEO gerado automaticamente
 window.PADELCOST_SEO_PAGES = {
-  "generatedAt": "2026-05-18T19:27:35.089Z",
-  "productCount": 444,
+  "generatedAt": "2026-05-19T13:50:48.194Z",
+  "productCount": 442,
   "productUrls": {
     "1": "./produto/equipe-head-coello-2026-raquete-de-padel.html",
     "7": "./produto/padel-raquete-siux-fenix-elite-6.html",
@@ -30,6 +30,7 @@ window.PADELCOST_SEO_PAGES = {
     "67": "./produto/raquete-de-padel-lok-carb-on-flow.html",
     "68": "./produto/raquete-de-padel-lok-carb-on-hype.html",
     "69": "./produto/raquete-de-padel-nox-at10-genius-12k-alum-xtrem-by-agustin-tapia.html",
+    "70": "./produto/raquete-de-padel-nox-at10-genius-18k-alum-by-agustin-tapia.html",
     "71": "./produto/raquete-de-padel-nox-at10-genius-attack-12k-alum-xtrem-por-agustin-t.html",
     "72": "./produto/raquete-de-padel-nox-at10-genius-attack-em-aluminio-18k-por-agustin.html",
     "73": "./produto/raquete-de-padel-nox-at10-pro-cup-hard-by-agustin-tapia.html",
@@ -172,7 +173,7 @@ window.PADELCOST_SEO_PAGES = {
     "1013": "./produto/adidas-courtquick-padel-m-blue-ss26-sapatilhas.html",
     "1020": "./produto/adidas-courtquick-padel-m-white-ss26-shoes.html",
     "1099": "./produto/asics-gel-resolution-x-padel-ss26-mike-yanguas-sapatilhas.html",
-    "1115": "./produto/asics-gel-dedicate-8-padel-white-w-ss26-shoes.html",
+    "1117": "./produto/asics-gel-dedicate-8-padel-white-w-ss26-shoes.html",
     "1138": "./produto/asics-sonicsmash-ff-blue-green-ss26-coki-nieto-shoes.html",
     "1159": "./produto/asics-sonicsmash-ff-green-ss26-coki-nieto-shoes.html",
     "1168": "./produto/asics-gel-dedicate-8-padel-black-green-ss26-shoes.html",
@@ -306,7 +307,6 @@ window.PADELCOST_SEO_PAGES = {
     "7328": "./produto/bullpadel-discover-ctr-raquete-de-padel.html",
     "7329": "./produto/bullpadel-discover-pwr-raquete-de-padel.html",
     "7334": "./produto/head-radical-team-26-raquete-de-padel.html",
-    "7360": "./produto/bullpadel-vertex-vibram-26v-sapatilhas-padel-hombre.html",
     "7384": "./produto/mochila-head-coello-pro-30l-cinzento-escuro-2026.html",
     "7406": "./produto/raquete-de-padel-head-evo-extreme-2026.html",
     "7407": "./produto/head-coello-team-raquete-de-padel.html",
@@ -404,6 +404,7 @@ window.PADELCOST_SEO_PAGES = {
     "8040": "./produto/raquete-de-padel-adidas-metalbone-3-4-ale-galan.html",
     "8080": "./produto/raquete-de-padel-vibor-a-black-mamba-evo-pro-black-2026.html",
     "8081": "./produto/raquete-de-padel-vibor-a-3k-black-2026.html",
+    "8083": "./produto/raquete-de-padel-nox-ventus-hybrid-12k-leve-2026.html",
     "8104": "./produto/sapatilhas-de-padel-wilson-bela-tour-black-black-branco.html",
     "8112": "./produto/sapatilhas-de-padel-adidas-game-court-2-mulheres-branco-prata-2025.html",
     "8135": "./produto/head-vibe-2025-gr-bk-raquete-de-padel.html",
@@ -430,6 +431,7 @@ window.PADELCOST_SEO_PAGES = {
     "8833": "./produto/overgrips-de-padel-bullpadel-negro.html",
     "8838": "./produto/raqueta-de-padel-bullpadel-indiga-pwr-26.html",
     "8883": "./produto/raquete-de-padel-bullpadel-ionic-power-26.html",
+    "8890": "./produto/raquete-de-padel-adultos-head-speed-pro.html",
     "8949": "./produto/sapatilhas-de-padel-hombre-bullpadel-vertex-vibram-26.html",
     "8952": "./produto/raquete-de-padel-vertex-05-26.html",
     "8963": "./produto/cubo-para-pelotas-de-tenis-o-padel-cubo-head-72-pelotas-negro.html",
@@ -438,15 +440,11 @@ window.PADELCOST_SEO_PAGES = {
     "9018": "./produto/adidas-t-crazyquick-ls-padel-sapatilhas-padel-hombre.html",
     "9021": "./produto/bullpadel-vertex-vibram-26v-sapatilhas-padel-mujer.html",
     "9037": "./produto/bullpadel-hack-vibram-26v-sapatilhas-padel-hombre.html",
-    "9038": "./produto/sapatilhas-bullpadel-performance-comfort-woman-26v-white-2026.html",
     "9039": "./produto/sapatilhas-bullpadel-indiga-26v-lime-blue-2026.html",
     "9043": "./produto/sapatilhas-asics-gel-challenger-15-clay-white-digital-sakura-2026.html",
     "9045": "./produto/sapatilhas-asics-game-ff-padel-white-misty-pine-2026.html",
-    "9048": "./produto/sapatilhas-asics-solution-swift-ff2-clay-white-dark-cobalt-2025.html",
-    "9054": "./produto/babolat-counter-veron-2-6-2026-racket.html",
-    "9056": "./produto/babolat-technical-viper-3-0-2026-racket.html",
-    "9058": "./produto/babolat-technical-viper-soft-3-0-2026-racket.html",
-    "9060": "./produto/babolat-technical-viper-2-5-2025-racket.html"
+    "9068": "./produto/raquete-de-padel-bullpadel-indiga-pwr-2026.html",
+    "9069": "./produto/raquete-de-padel-bullpadel-vertex-05-2026-x-juan-tello.html"
   }
 };
 window.PADELCOST_SEO_PRODUCT_URLS = window.PADELCOST_SEO_PAGES.productUrls;

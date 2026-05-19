@@ -917,6 +917,9 @@
       },
       'Decathlon ES': {
         url: 'https://www.decathlon.es/'
+      },
+      'Deporvillage': {
+        url: 'https://www.deporvillage.pt/'
       }
     };
     const storeMap = new Map();
@@ -983,6 +986,9 @@
       }
       if (storeName === 'Decathlon ES') {
         return '<img src="./logos/decathlon-es-logo.svg" alt="Decathlon ES">';
+      }
+      if (storeName === 'Deporvillage') {
+        return '<img src="./logos/deporvillage-logo.png" alt="Deporvillage">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;

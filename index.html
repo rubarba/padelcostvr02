@@ -4488,6 +4488,7 @@
     'Forum Sport ES': 4,
     'Zona de Padel': 5,
     'Decathlon ES': 6,
+    'Deporvillage': 7,
   };
 
   const compareStores = (a, b) => {
@@ -5865,7 +5866,8 @@
         'Forum Sport ES': 'Forum Sport',
         'Padel Market': 'Padel Market',
         'Adidas Padel': 'Adidas Padel',
-        'Decathlon ES': 'Decathlon'
+        'Decathlon ES': 'Decathlon',
+        'Deporvillage': 'Deporvillage'
       };
       return shortNames[storeName] || storeName || 'Ver oferta';
     };
@@ -6078,6 +6080,16 @@
           <img
             src="./logos/decathlon-es-logo.svg"
             alt="Decathlon ES"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
+      if (storeName === 'Deporvillage') {
+        return (
+          <img
+            src="./logos/deporvillage-logo.png"
+            alt="Deporvillage"
             style={{ width: '100%', height: '100%', objectFit: 'contain' }}
           />
         );

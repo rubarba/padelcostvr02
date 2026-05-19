@@ -26,6 +26,7 @@ const PADEL_PROSHOP_FILE = path.join(DATA_DIR, 'padel-proshop-data.js');
 const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
 const ZONA_DE_PADEL_FILE = path.join(DATA_DIR, 'zona-de-padel-data.js');
 const DECATHLON_FILE = path.join(DATA_DIR, 'decathlon-data.js');
+const DEPORVILLAGE_FILE = path.join(DATA_DIR, 'deporvillage-data.js');
 const DUPLICATE_DECISIONS_FILE = path.join(DATA_DIR, 'duplicate-decisions.json');
 
 const MERGED_STORE_NAMES = new Set([
@@ -35,6 +36,7 @@ const MERGED_STORE_NAMES = new Set([
   'Forum Sport ES',
   'Zona de Padel',
   'Decathlon ES',
+  'Deporvillage',
 ]);
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
@@ -158,6 +160,7 @@ const STORE_PRIORITY = {
   'Forum Sport ES': 4,
   'Zona de Padel': 5,
   'Decathlon ES': 6,
+  'Deporvillage': 7,
 };
 
 function compareStores(a, b) {
@@ -680,6 +683,9 @@ function main() {
   const decathlon = fs.existsSync(DECATHLON_FILE)
     ? extractWindowData(DECATHLON_FILE, 'PADELCOST_DECATHLON_PRODUCTS')
     : [];
+  const deporvillage = fs.existsSync(DEPORVILLAGE_FILE)
+    ? extractWindowData(DEPORVILLAGE_FILE, 'PADELCOST_DEPORVILLAGE_PRODUCTS')
+    : [];
   const duplicateDecisions = loadDuplicateDecisions();
   const indexes = buildIndex(products);
 
@@ -759,6 +765,18 @@ function main() {
     processOffers({
       label: 'Decathlon ES',
       offers: decathlon,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (deporvillage.length > 0) {
+    processOffers({
+      label: 'Deporvillage',
+      offers: deporvillage,
       products,
       indexes,
       allowSignatureMatch: false,

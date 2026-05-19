@@ -4489,6 +4489,8 @@
     'Zona de Padel': 5,
     'Decathlon ES': 6,
     'Deporvillage': 7,
+    'Sport is Good': 8,
+    'Smash Expert': 9,
   };
 
   const compareStores = (a, b) => {
@@ -5867,7 +5869,9 @@
         'Padel Market': 'Padel Market',
         'Adidas Padel': 'Adidas Padel',
         'Decathlon ES': 'Decathlon',
-        'Deporvillage': 'Deporvillage'
+        'Deporvillage': 'Deporvillage',
+        'Sport is Good': 'Sport is Good',
+        'Smash Expert': 'Smash Expert'
       };
       return shortNames[storeName] || storeName || 'Ver oferta';
     };
@@ -6090,6 +6094,26 @@
           <img
             src="./logos/deporvillage-logo.png"
             alt="Deporvillage"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
+      if (storeName === 'Sport is Good') {
+        return (
+          <img
+            src="./logos/sport-is-good.svg"
+            alt="Sport is Good"
+            style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+          />
+        );
+      }
+
+      if (storeName === 'Smash Expert') {
+        return (
+          <img
+            src="./logos/smash-expert.svg"
+            alt="Smash Expert"
             style={{ width: '100%', height: '100%', objectFit: 'contain' }}
           />
         );

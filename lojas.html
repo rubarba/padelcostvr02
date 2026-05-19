@@ -920,6 +920,12 @@
       },
       'Deporvillage': {
         url: 'https://www.deporvillage.pt/'
+      },
+      'Sport is Good': {
+        url: 'https://www.sportisgood.pt/'
+      },
+      'Smash Expert': {
+        url: 'https://www.smashexpert.com/'
       }
     };
     const storeMap = new Map();
@@ -989,6 +995,12 @@
       }
       if (storeName === 'Deporvillage') {
         return '<img src="./logos/deporvillage-logo.png" alt="Deporvillage">';
+      }
+      if (storeName === 'Sport is Good') {
+        return '<img src="./logos/sport-is-good.svg" alt="Sport is Good">';
+      }
+      if (storeName === 'Smash Expert') {
+        return '<img src="./logos/smash-expert.svg" alt="Smash Expert">';
       }
       const initials = storeName.split(' ').map(part => part[0]).join('').slice(0, 2).toUpperCase();
       return `<span class="store-logo-fallback">${initials}</span>`;

@@ -15,6 +15,8 @@ const steps = [
   ['Padel Proshop PT', 'node', ['generate-padel-proshop.js']],
   ['Forum Sport ES', 'node', ['generate-forum-sport.js']],
   ['Deporvillage', 'node', ['generate-deporvillage.js']],
+  ['Sport is Good', 'node', ['generate-sport-is-good.js']],
+  ['Smash Expert', 'node', ['generate-smash-expert.js']],
   ['Merge de ofertas', 'node', ['merge-offers.js']],
   ['Relatorio de qualidade', 'node', ['report-quality.js']],
   ['Paginas SEO e sitemap', 'node', ['generate-seo-pages.js']],

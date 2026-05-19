@@ -10,6 +10,8 @@
     "generate:forumsport": "node generate-forum-sport.js",
     "generate:decathlon": "node generate-decathlon.js",
     "generate:deporvillage": "node generate-deporvillage.js",
+    "generate:sportisgood": "node generate-sport-is-good.js",
+    "generate:smashexpert": "node generate-smash-expert.js",
     "merge:offers": "node merge-offers.js",
     "report:quality": "node report-quality.js",
     "report:duplicates": "node report-duplicate-candidates.js",

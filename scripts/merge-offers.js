@@ -27,6 +27,8 @@ const FORUM_SPORT_FILE = path.join(DATA_DIR, 'forum-sport-data.js');
 const ZONA_DE_PADEL_FILE = path.join(DATA_DIR, 'zona-de-padel-data.js');
 const DECATHLON_FILE = path.join(DATA_DIR, 'decathlon-data.js');
 const DEPORVILLAGE_FILE = path.join(DATA_DIR, 'deporvillage-data.js');
+const SPORT_IS_GOOD_FILE = path.join(DATA_DIR, 'sport-is-good-data.js');
+const SMASH_EXPERT_FILE = path.join(DATA_DIR, 'smash-expert-data.js');
 const DUPLICATE_DECISIONS_FILE = path.join(DATA_DIR, 'duplicate-decisions.json');
 
 const MERGED_STORE_NAMES = new Set([
@@ -37,6 +39,8 @@ const MERGED_STORE_NAMES = new Set([
   'Zona de Padel',
   'Decathlon ES',
   'Deporvillage',
+  'Sport is Good',
+  'Smash Expert',
 ]);
 
 const SAFE_ADIDAS_NAME_MAP = new Map([
@@ -161,6 +165,8 @@ const STORE_PRIORITY = {
   'Zona de Padel': 5,
   'Decathlon ES': 6,
   'Deporvillage': 7,
+  'Sport is Good': 8,
+  'Smash Expert': 9,
 };
 
 function compareStores(a, b) {
@@ -321,7 +327,7 @@ function mergeProductData(product, offer) {
   }
 
   const preferBetterAffiliateImage =
-    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es' || offer.source === 'zona-de-padel' || offer.source === 'decathlon-es') &&
+    (offer.source === 'padel-market' || offer.source === 'adidas-padel' || offer.source === 'padel-proshop' || offer.source === 'forum-sport-es' || offer.source === 'zona-de-padel' || offer.source === 'decathlon-es' || offer.source === 'sport-is-good' || offer.source === 'smash-expert') &&
     offer.image &&
     (product.source === 'atmosfera-sport' || product.imageSource === 'atmosfera-sport' || !product.imageSource);
 
@@ -686,6 +692,12 @@ function main() {
   const deporvillage = fs.existsSync(DEPORVILLAGE_FILE)
     ? extractWindowData(DEPORVILLAGE_FILE, 'PADELCOST_DEPORVILLAGE_PRODUCTS')
     : [];
+  const sportIsGood = fs.existsSync(SPORT_IS_GOOD_FILE)
+    ? extractWindowData(SPORT_IS_GOOD_FILE, 'PADELCOST_SPORT_IS_GOOD_PRODUCTS')
+    : [];
+  const smashExpert = fs.existsSync(SMASH_EXPERT_FILE)
+    ? extractWindowData(SMASH_EXPERT_FILE, 'PADELCOST_SMASH_EXPERT_PRODUCTS')
+    : [];
   const duplicateDecisions = loadDuplicateDecisions();
   const indexes = buildIndex(products);
 
@@ -777,6 +789,30 @@ function main() {
     processOffers({
       label: 'Deporvillage',
       offers: deporvillage,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (sportIsGood.length > 0) {
+    processOffers({
+      label: 'Sport is Good',
+      offers: sportIsGood,
+      products,
+      indexes,
+      allowSignatureMatch: false,
+      counters,
+      nextIdRef,
+    });
+  }
+
+  if (smashExpert.length > 0) {
+    processOffers({
+      label: 'Smash Expert',
+      offers: smashExpert,
       products,
       indexes,
       allowSignatureMatch: false,

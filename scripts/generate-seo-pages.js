@@ -69,7 +69,9 @@ const STORE_LOGOS = {
   'Padel Proshop PT': '../logos/padel-proshop-pt-logo.png',
   'Zona de Padel': '../logos/zonadepadel.png',
   'Decathlon ES': '../logos/decathlon-es-logo.svg',
-  'Deporvillage': '../logos/deporvillage-logo.png'
+  'Deporvillage': '../logos/deporvillage-logo.png',
+  'Sport is Good': '../logos/sport-is-good.svg',
+  'Smash Expert': '../logos/smash-expert.svg'
 };
 
 const BRAND_LOGOS = {

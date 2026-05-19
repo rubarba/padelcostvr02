@@ -52,6 +52,9 @@ Este comando corre, por ordem:
 - Padel Market
 - Padel Proshop PT
 - Forum Sport ES
+- Deporvillage
+- Sport is Good
+- Smash Expert
 - merge de ofertas
 - relatório de qualidade
 - páginas SEO e sitemap
@@ -110,6 +113,28 @@ Este passo:
 - tenta casar produtos por `EAN`
 - usa assinatura do nome como fallback seguro
 - acrescenta a nova loja dentro de `stores[]`
+
+### Sport is Good (AWIN)
+
+```bash
+npm run generate:sportisgood
+```
+
+Este script gera `../data/sport-is-good-data.js` com produtos da Sport is Good:
+- filtra apenas linhas com contexto de padel no nome ou na categoria do feed
+- mantém uma filtragem conservadora para não excluir produtos legítimos descritos de forma híbrida
+- remove categorias claramente fora do catálogo público antes do merge
+
+### Smash Expert (AWIN)
+
+```bash
+npm run generate:smashexpert
+```
+
+Este script gera `../data/smash-expert-data.js` com produtos da Smash Expert:
+- filtra apenas linhas com contexto de padel no nome ou na categoria do feed
+- usa a categoria de origem quando ela identifica raquetes, sapatilhas, sacos ou acessórios de padel
+- mantém a mesma abordagem conservadora usada nos feeds AWIN generalistas
 
 ### Nota sobre EAN
 

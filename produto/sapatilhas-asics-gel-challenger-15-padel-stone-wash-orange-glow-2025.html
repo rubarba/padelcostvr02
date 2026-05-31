@@ -90,28 +90,6 @@
     }
   ]
 }</script>
-  <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Onde comprar Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025 ao melhor preço?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No PadelCost podes comparar as ofertas disponíveis para Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025. Neste momento encontrámos 2 lojas com preço disponível, com melhor preço a partir de 72,01 €."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Os preços apresentados são finais?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Os preços são recolhidos de lojas parceiras e podem mudar. Antes de comprar, confirma sempre o preço final, stock, portes e condições diretamente na loja."
-      }
-    }
-  ]
-}</script>
   <style>
     :root { color-scheme: light; --blue:#0077cc; --green:#00c985; --green-dark:#00a66d; --navy:#0f1f35; --text:#132033; --muted:#66758a; --line:#dfe7f1; --bg:#f2f6fb; --soft:#eef4fb; }
     * { box-sizing: border-box; }
@@ -134,6 +112,9 @@
     .header-actions { display:flex; align-items:center; gap:.85rem; flex-shrink:0; }
     .favorites-trigger { display:inline-flex; align-items:center; gap:.55rem; color:#fff; text-decoration:none; font-size:.85rem; font-weight:800; white-space:nowrap; }
     .favorites-trigger-count { min-width:22px; height:22px; padding:0 .35rem; border-radius:999px; background:#fff; color:var(--blue); display:inline-flex; align-items:center; justify-content:center; font-size:.74rem; font-weight:900; }
+    .mobile-category-toggle { display:none; align-items:center; justify-content:center; width:44px; height:44px; border:0; background:transparent; color:#fff; cursor:pointer; }
+    .mobile-category-toggle i { font-size:1.55rem; line-height:1; }
+    .mobile-category-menu { display:none; }
     .categories-bar { background:#ffffff; border-bottom:1px solid rgba(19,32,44,.08); }
     .categories-inner { display:flex; align-items:center; gap:1rem; }
     .categories-container { flex:1; display:flex; gap:0; overflow-x:auto; scroll-behavior:smooth; min-width:0; }
@@ -156,6 +137,11 @@
     .hero { padding: 1.55rem 0 1.05rem; background: white; border-bottom:1px solid var(--line); }
     .breadcrumb { display:flex; flex-wrap:wrap; gap:.4rem; color:var(--muted); font-size:.9rem; margin-bottom:.8rem; }
     .breadcrumb a { color:var(--blue); text-decoration:none; font-weight:800; }
+    .product-back-link { display:none; }
+    .mobile-product-crumb-title { display:none; }
+    .product-hero .breadcrumb { display:none; }
+    .product-back-link { display:inline-flex; align-items:center; gap:.42rem; color:var(--blue); font-size:.92rem; font-weight:900; text-decoration:none; }
+    .product-back-link i { font-size:.78rem; }
     h1 { margin:.2rem 0 .8rem; font-size:1.28rem; font-weight:700; line-height:1.2; letter-spacing:0; }
     .lead { color:var(--muted); max-width:760px; font-size:1.08rem; margin:0; }
     .section { padding: 1.45rem 0 2rem; }
@@ -274,10 +260,6 @@
     .product-seo-panel p { margin:.45rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-seo-list { margin:.55rem 0 0; padding-left:1.15rem; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-seo-list li { margin:.22rem 0; }
-    .product-faq { display:grid; gap:.65rem; }
-    .product-faq details { background:#fff; border:1px solid var(--line); border-radius:10px; padding:.85rem 1rem; }
-    .product-faq summary { cursor:pointer; font-weight:900; color:var(--text); }
-    .product-faq p { margin:.55rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-actions { display:flex; align-items:center; gap:.85rem; flex-wrap:wrap; margin-top:1rem; }
     .save-product-btn { display:inline-flex; align-items:center; gap:.45rem; min-height:40px; padding:.62rem .9rem; border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--text); font-weight:700; text-decoration:none; cursor:pointer; font-family:inherit; font-size:.82rem; transition:all .25s ease; }
     .save-product-btn:hover { border-color:rgba(32,111,220,.2); color:var(--blue); background:#eef7ff; }
@@ -289,21 +271,31 @@
     .footer a { color:white; font-weight:800; text-decoration:none; }
     @media (min-width: 761px) and (max-width: 1040px) { .header { padding:.82rem 0; } .header-top { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:.85rem 1rem; } .brand svg { height:46px !important; } .header-tagline { padding-left:1rem; margin-left:0; } .header-tagline p { font-size:.72rem; line-height:1.35; } .header-tagline p:last-child { display:none; } .search-wrapper { grid-column:1 / -1; width:100%; max-width:none; } .category-btn { padding:.78rem 1rem; font-size:.88rem; } }
     @media (max-width: 760px) {
-      .container { width:min(100% - 24px, 1120px); }
-      .header { padding:.54rem 0 .58rem; }
-      .header-top { flex-direction:column; align-items:stretch; gap:.5rem; padding:0; position:relative; }
-      .brand { align-self:center; max-width:210px; }
-      .brand svg { height:42px !important; max-width:210px; }
+      .container { width:100%; padding:0 1rem; }
+      .header { padding:.72rem 0 .62rem; }
+      .header-top { flex-direction:column; align-items:stretch; gap:.68rem; padding:0; position:relative; }
+      .brand { align-self:center; max-width:250px; }
+      .brand svg { height:52px !important; max-width:250px; }
+      .mobile-category-toggle { display:inline-flex; position:absolute; top:.12rem; left:.05rem; z-index:3; }
       .header-tagline { border-left:0; padding-left:0; margin-left:0; text-align:center; }
-      .header-tagline p { font-size:.64rem; line-height:1.22; }
+      .header-tagline p { font-size:.66rem; line-height:1.25; }
+      .header-tagline p:first-child { font-size:.72rem; }
       .header-tagline p:last-child { display:none; }
-      .search-wrapper { width:100%; max-width:100%; margin:0 auto; }
+      .search-wrapper { width:70%; max-width:70%; margin:0 auto; }
       .search-input { padding:.78rem 1rem .78rem 2.35rem; font-size:.88rem; }
       .search-icon { left:.95rem; }
-      .header-actions { position:absolute; top:.16rem; right:0; }
-      .favorites-trigger { gap:.35rem; }
+      .header-actions { position:absolute; top:.12rem; right:.05rem; z-index:2; }
+      .favorites-trigger { padding:.1rem .08rem; font-size:.68rem; gap:.22rem; min-height:0; border:0; background:transparent; box-shadow:none; }
+      .favorites-trigger i { font-size:.88rem; }
       .favorites-trigger span:not(.favorites-trigger-count) { display:none; }
-      .favorites-trigger-count { min-width:21px; height:21px; font-size:.72rem; }
+      .favorites-trigger-count { min-width:18px; height:18px; padding:0 .24rem; font-size:.64rem; background:rgba(255,255,255,.2); color:#fff; }
+      .mobile-category-menu.open { display:block; position:fixed; top:166px; left:0; right:0; z-index:99; background:rgba(255,255,255,.98); border-bottom:1px solid rgba(19,32,44,.06); padding:.25rem 0 .75rem; box-shadow:0 22px 42px rgba(9,23,40,.14); }
+      .mobile-category-menu .container { display:flex; justify-content:center; }
+      .mobile-category-menu-inner { display:flex; flex-direction:column; align-items:stretch; justify-content:flex-start; min-height:46vh; padding:.65rem 1rem .25rem; width:100%; gap:.5rem; overflow:visible; }
+      .mobile-category-item { display:flex; align-items:center; gap:.95rem; width:100%; min-height:64px; padding:1rem; background:rgba(255,255,255,.94); border:1px solid rgba(19,32,44,.08); border-radius:18px; color:#66758a; font-family:Manrope, Arial, sans-serif; font-size:1.08rem; font-weight:800; text-decoration:none; box-shadow:0 10px 24px rgba(12,21,33,.05); }
+      .mobile-category-item.active { color:var(--text); background:rgba(36,111,178,.08); border-color:rgba(36,111,178,.24); box-shadow:0 12px 26px rgba(22,64,104,.1); }
+      .mobile-category-item .category-icon { width:63px; height:63px; }
+      .mobile-category-item .category-icon-stack { width:61px; height:61px; }
       .categories-inner { align-items:stretch; }
       .category-help-link { display:none; }
       .category-btn { padding:.5rem .85rem; font-size:.86rem; }
@@ -311,6 +303,10 @@
       .category-icon-stack { width:48px; height:48px; }
       .hero { padding:1.05rem 0 .82rem; }
       .breadcrumb { font-size:.82rem; line-height:1.35; margin-bottom:.55rem; }
+      .product-hero { padding:.78rem 0 .72rem; }
+      .product-back-link { font-size:.9rem; }
+      .product-back-link i { font-size:.76rem; }
+      .mobile-product-crumb-title { display:block; margin:.38rem 0 0; color:#51627a; font-size:.86rem; line-height:1.35; }
       h1 { font-size:1.08rem; line-height:1.28; margin:.15rem 0 0; }
       .section { padding:1rem 0 1.25rem; }
       .category-seo-summary { grid-template-columns:1fr; gap:.75rem; margin-bottom:1rem; }
@@ -335,9 +331,9 @@
       .btn-small { min-height:38px; font-size:.82rem; }
       .product-overview { grid-template-columns:1fr; padding:.82rem; gap:1rem; border-radius:12px; }
       .product-info-head { display:block; }
-      .product-image { min-height:0; aspect-ratio:1/1; padding:.65rem; }
-      .product-image img { max-height:300px; }
-      .brand-logo { min-height:58px; justify-content:flex-start; padding:.35rem .15rem; }
+      .product-image { min-height:0; height:190px; aspect-ratio:auto; padding:.6rem; }
+      .product-image img { height:100%; max-height:170px; }
+      .brand-logo { display:none; }
       .brand-logo img { max-width:132px; max-height:58px; }
       .product-brand { font-size:.76rem; }
       .product-summary { font-size:.9rem; line-height:1.5; }
@@ -355,26 +351,32 @@
       .product-description { margin-top:1rem; }
       .product-seo-panel { padding:.82rem; border-radius:10px; }
       .product-seo-panel h2 { font-size:.98rem; }
-      .product-seo-panel p, .product-seo-list, .product-faq p { font-size:.86rem; }
-      .product-faq details { padding:.72rem .82rem; }
-      .product-faq summary { font-size:.88rem; }
+      .product-seo-panel p, .product-seo-list { font-size:.86rem; }
       .product-actions { gap:.65rem; margin-top:.85rem; }
       .price-heading { margin:1rem 0 .35rem; font-size:1.02rem; }
       .related-section { margin-top:1.15rem; }
       .related-head { align-items:flex-start; margin-bottom:.65rem; }
       .related-head h2 { font-size:1rem; }
       .related-head a { font-size:.8rem; }
-      .related-grid { grid-template-columns:1fr; gap:.55rem; }
-      .stores { gap:.55rem; margin-top:.8rem; }
-      .store { grid-template-columns:72px 1fr; gap:.55rem .65rem; padding:.62rem; border-radius:10px; align-items:center; }
-      .store-logo { width:72px; max-width:100%; height:42px; border-radius:7px; padding:.25rem; grid-row:1 / span 2; }
-      .store strong { font-size:.86rem; line-height:1.15; }
-      .store-stock { font-size:.74rem; line-height:1.15; }
-      .store-stock::before { width:12px; height:12px; font-size:.52rem; }
-      .store-price-wrap { justify-content:flex-start; flex-wrap:wrap; gap:.4rem; }
-      .store-price { font-size:1.05rem; }
-      .store .best-badge { font-size:.56rem; min-height:20px; padding:.17rem .4rem; border-radius:6px; }
-      .store .button { grid-column:2; width:100%; min-height:36px; padding:.5rem .8rem; font-size:.82rem; }
+      .related-grid { grid-template-columns:repeat(2, minmax(0, 1fr)); gap:.65rem; }
+      .related-grid .card { border-radius:12px; padding:.58rem; }
+      .related-grid .favorite-static { top:.68rem; left:.68rem; width:28px; height:28px; font-size:1rem; }
+      .related-grid .card-image { height:122px; border-radius:8px; padding:.35rem; margin-bottom:.5rem; }
+      .related-grid .eyebrow { font-size:.62rem; letter-spacing:.04em; }
+      .related-grid .card h2, .related-grid .card h3 { font-size:.78rem; line-height:1.22; margin:.18rem 0 .55rem; min-height:3.65em; -webkit-line-clamp:3; }
+      .related-grid .current-price { font-size:1rem; }
+      .related-grid .card-actions { gap:.38rem; margin-top:.55rem; }
+      .related-grid .btn-small { min-height:34px; padding:.48rem .42rem; font-size:.72rem; }
+      .related-grid .btn-compare { min-height:28px; padding:.42rem 0 0; }
+      .stores { gap:.42rem; margin-top:.7rem; }
+      .store { grid-template-columns:60px minmax(0, 1fr) auto 76px; gap:.38rem; padding:.46rem .5rem; border-radius:10px; align-items:center; }
+      .store-logo { width:60px; max-width:100%; height:34px; border-radius:7px; padding:.2rem; grid-row:auto; }
+      .store strong { font-size:.76rem; line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+      .store-stock { display:none; }
+      .store-price-wrap { justify-content:flex-end; flex-direction:column; align-items:flex-end; gap:.12rem; }
+      .store-price { font-size:.98rem; line-height:1.05; }
+      .store .best-badge { font-size:.5rem; min-height:18px; padding:.14rem .34rem; border-radius:6px; }
+      .store .button { grid-column:auto; width:76px; min-width:0; min-height:34px; padding:.46rem .55rem; font-size:.76rem; }
     }
   </style>
 </head>
@@ -382,6 +384,7 @@
   <header class="header">
     <div class="container">
       <div class="header-top">
+        <button class="mobile-category-toggle" type="button" aria-label="Abrir categorias" aria-expanded="false" data-mobile-category-toggle><i class="fas fa-bars"></i></button>
         <a class="brand" href="../index.html" aria-label="PadelCost"><svg style="height:52px;width:auto" viewBox="0 0 1256.98 309.55" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <style>
@@ -416,16 +419,28 @@
           </div>
         </form>
         <div class="header-actions">
-          <a class="favorites-trigger" href="../index.html#favoritos"><span>♡</span><span>Favoritos</span><span class="favorites-trigger-count">0</span></a>
+          <a class="favorites-trigger" href="../index.html#favoritos"><i class="far fa-heart"></i><span>Favoritos</span><span class="favorites-trigger-count">0</span></a>
         </div>
       </div>
     </div>
   </header>
+  <nav class="mobile-category-menu" aria-label="Categorias mobile" data-mobile-category-menu>
+    <div class="container">
+      <div class="mobile-category-menu-inner">
+        <a class="mobile-category-item " href="../index.html?categoria=raquetes"><span class="category-icon"><span class="category-icon-stack" aria-hidden="true"><img class="category-icon-img category-icon-white" src="../logos/category-icons/WHITE_RAQUETES_TRANSPARENT.png?v=20260506-category-icons" alt=""><img class="category-icon-img category-icon-color" src="../logos/category-icons/COLOR_RAQUETES.png?v=20260506-category-icons" alt=""></span></span><span>Raquetes</span></a>
+        <a class="mobile-category-item active" href="../index.html?categoria=sapatilhas"><span class="category-icon"><span class="category-icon-stack" aria-hidden="true"><img class="category-icon-img category-icon-white" src="../logos/category-icons/WHITE_SAPATILHAS_TRANSPARENT.png?v=20260506-category-icons" alt=""><img class="category-icon-img category-icon-color" src="../logos/category-icons/COLOR_SAPATILHAS.png?v=20260506-category-icons" alt=""></span></span><span>Sapatilhas</span></a>
+        <a class="mobile-category-item " href="../index.html?categoria=sacos"><span class="category-icon"><span class="category-icon-stack" aria-hidden="true"><img class="category-icon-img category-icon-white" src="../logos/category-icons/WHITE_SACOS_TRANSPARENT.png?v=20260506-category-icons" alt=""><img class="category-icon-img category-icon-color" src="../logos/category-icons/COLOR_SACOS.png?v=20260506-category-icons" alt=""></span></span><span>Sacos de padel</span></a>
+        <a class="mobile-category-item " href="../index.html?categoria=acessorios"><span class="category-icon"><span class="category-icon-stack" aria-hidden="true"><img class="category-icon-img category-icon-white" src="../logos/category-icons/MONO_BOLAS.png?v=20260506-category-icons" alt=""><img class="category-icon-img category-icon-color" src="../logos/category-icons/COR_BOLAS.png?v=20260506-category-icons" alt=""></span></span><span>Acessórios</span></a>
+      </div>
+    </div>
+  </nav>
   
   <main>
-    <section class="hero">
+    <section class="hero product-hero">
       <div class="container">
         <nav class="breadcrumb"><a href="../index.html">Início</a><span>/</span><a href="../index.html?categoria=sapatilhas">Sapatilhas de padel</a><span>/</span><span>Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025</span></nav>
+        <a class="product-back-link" href="../index.html" data-product-back><i class="fas fa-chevron-left"></i><span>Voltar</span></a>
+        <p class="mobile-product-crumb-title">Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025</p>
       </div>
     </section>
     <section class="section">
@@ -474,88 +489,70 @@
             </div>
           </div>
         </div>
-        <section class="product-seo-panel">
-          <h2>Informação para comparar antes de comprar</h2>
-          <ul class="product-seo-list">
-            <li>Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025 aparece no PadelCost com 2 lojas monitorizadas e preço  entre 72,01 € e 88,14 €.</li><li>Os preços podem mudar nas lojas parceiras; confirma sempre preço final, portes e disponibilidade antes de comprar.</li>
-          </ul>
-        </section>
-        <section class="product-seo-panel">
-          <h2>Perguntas frequentes</h2>
-          <div class="product-faq">
-            <details open>
-              <summary>Onde comprar Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025 ao melhor preço?</summary>
-              <p>No PadelCost podes comparar as ofertas disponíveis para Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025. Neste momento encontrámos 2 lojas com preço disponível, com melhor preço a partir de 72,01 €.</p>
-            </details><details>
-              <summary>Os preços apresentados são finais?</summary>
-              <p>Os preços são recolhidos de lojas parceiras e podem mudar. Antes de comprar, confirma sempre o preço final, stock, portes e condições diretamente na loja.</p>
-            </details>
-          </div>
-        </section>
         <div class="related-section">
           <div class="related-head">
             <h2>Alternativas semelhantes</h2>
             <a href="../index.html?categoria=sapatilhas">Ver sapatilhas de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="85.11" data-store-count="4" data-brand="ASICS" data-stores="Forum Sport ES||Decathlon ES||Atmosfera Sport||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
-    <a class="card-main-link" href="./sapatilhas-de-padel-asics-sonicsmash-ff-homem-azul-verde.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a538---400_saba-blue-vital-green_3.webp&amp;feedId=93547&amp;k=cb9ea6aa5085b3e1e60dd85e746daf41a6def2ca" alt="Sapatilhas de padel asics sonicsmash ff homem azul/verde" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">ASICS</span>
-        <h2>Sapatilhas de padel asics sonicsmash ff homem azul/verde</h2>
-        <div class="card-price"><span class="current-price">85,11 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20asics%20sonicsmash%20ff%20homem%20azul%2Fverde"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-asics-sonicsmash-ff-homem-azul-verde.html">Ver 4 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="57.01" data-store-count="4" data-brand="ASICS" data-stores="Zona de Padel||Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
+            <article class="card" data-index="0" data-price="62.51" data-store-count="3" data-brand="ASICS" data-stores="Zona de Padel||Padel Proshop PT||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="">
     <a class="card-main-link" href="./sapatilhas-asics-game-ff-padel-white-misty-pine-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://www.zonadepadel.es/28902-large_default/zapatillas-asics-game-ff-padel-white-misty-pine-2026.jpg" alt="Sapatilhas Asics Game FF Padel white misty pine 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">ASICS</span>
         <h2>Sapatilhas Asics Game FF Padel white misty pine 2026</h2>
-        <div class="card-price"><span class="current-price">57,01 €</span></div>
+        <div class="card-price"><span class="current-price">62,51 €</span></div>
       </div>
     </a>
     <div class="card-actions">
       <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20Asics%20Game%20FF%20Padel%20white%20misty%20pine%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-asics-game-ff-padel-white-misty-pine-2026.html">Ver 4 lojas</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-asics-game-ff-padel-white-misty-pine-2026.html">Ver 3 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="53.18" data-store-count="4" data-brand="ASICS" data-stores="Atmosfera Sport||Forum Sport ES||Padel Market||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
-    <a class="card-main-link" href="./sapatilhas-de-padel-asics-gel-dedicate-8-padel-homem-preto-verde.html">
+<article class="card" data-index="0" data-price="54.91" data-store-count="3" data-brand="ASICS" data-stores="Zona de Padel||Forum Sport ES||Padel Proshop PT" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-asics-gel-dedicate-8-padel-feminino-branco-goiaba-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a414---003_black-vital-green_2.webp&amp;feedId=93547&amp;k=26d041c9286d8c274f26ec2ed099d33ad50ba4e0" alt="Sapatilhas de padel asics gel-dedicate 8 padel homem preto/verde" loading="lazy"></div>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/1042A241-105_1.webp?v=1765362623" alt="Sapatilhas de padel Asics Gel-Dedicate 8 Padel Feminino Branco/Goiaba 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">ASICS</span>
-        <h2>Sapatilhas de padel asics gel-dedicate 8 padel homem preto/verde</h2>
-        <div class="card-price"><span class="current-price">53,18 €</span></div>
+        <h2>Sapatilhas de padel Asics Gel-Dedicate 8 Padel Feminino Branco/Goiaba 2026</h2>
+        <div class="card-price"><span class="current-price">54,91 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20asics%20gel-dedicate%208%20padel%20homem%20preto%2Fverde"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-asics-gel-dedicate-8-padel-homem-preto-verde.html">Ver 4 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20Asics%20Gel-Dedicate%208%20Padel%20Feminino%20Branco%2FGoiaba%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-asics-gel-dedicate-8-padel-feminino-branco-goiaba-2026.html">Ver 3 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="74.75" data-store-count="3" data-brand="ASICS" data-stores="Forum Sport ES||Atmosfera Sport||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
-    <a class="card-main-link" href="./asics-solution-swift-ff-2-padel-sapatilhas-padel-hombre.html">
+<article class="card" data-index="0" data-price="72" data-store-count="2" data-brand="ASICS" data-stores="Atmosfera Sport||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-asics-solution-swift-ff-2-padel-homem-branco-cobalto.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001048683-00-P-X-20250514172126.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5ODUyN3xpbWFnZS9qcGVnfGFEYzVMMmhrTkM4eE1qa3lPVEl6TXpreE1UZ3pPQzl0WldScFlYTmZNVEF3TVRBME9EWTRNMTh3TUY5UVgxZ3RNakF5TlRBMU1UUXhOekl4TWpZdWFuQm58Mzc0MGZmYTdmODViNWNjYTQ3MDY4NjVhZGU0MTk2NGE1N2JlY2MwMTQxOWM3NzNiNWJkYTQ5MmE3YTc4Y2ZmYg&amp;feedId=58083&amp;k=bbcbf5671bfff2c2aad9530d4401d9494af1aff9" alt="Asics solution swift ff 2 padel sapatilhas Padel Hombre" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a465---100_white-dark-cobalt_2.webp&amp;feedId=93547&amp;k=656d371ce5c9e328507e9a3dec766827edb8203d" alt="Sapatilhas de padel ASICS Solution Swift Ff 2 Padel Homem Branco/Cobalto" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">ASICS</span>
-        <h2>Asics solution swift ff 2 padel sapatilhas Padel Hombre</h2>
-        <div class="card-price"><span class="current-price">74,75 €</span></div>
+        <h2>Sapatilhas de padel ASICS Solution Swift Ff 2 Padel Homem Branco/Cobalto</h2>
+        <div class="card-price"><span class="current-price">72,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Asics%20solution%20swift%20ff%202%20padel%20sapatilhas%20Padel%20Hombre"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./asics-solution-swift-ff-2-padel-sapatilhas-padel-hombre.html">Ver 3 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20ASICS%20Solution%20Swift%20Ff%202%20Padel%20Homem%20Branco%2FCobalto"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-asics-solution-swift-ff-2-padel-homem-branco-cobalto.html">Ver 2 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="72" data-store-count="2" data-brand="ASICS" data-stores="Atmosfera Sport||Smash Expert" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-asics-solution-swift-ff-2-padel-mulher-laranja-azul.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a264---800_orange-glow-cream_2.webp&amp;feedId=93547&amp;k=882bba2d2a5d69441c8238ed40722fe958c3986c" alt="Sapatilhas de padel ASICS Solution Swift Ff 2 Padel Mulher Laranja/Azul" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">ASICS</span>
+        <h2>Sapatilhas de padel ASICS Solution Swift Ff 2 Padel Mulher Laranja/Azul</h2>
+        <div class="card-price"><span class="current-price">72,00 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20ASICS%20Solution%20Swift%20Ff%202%20Padel%20Mulher%20Laranja%2FAzul"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-asics-solution-swift-ff-2-padel-mulher-laranja-azul.html">Ver 2 lojas</a>
     </div>
   </article>
           </div>
@@ -566,8 +563,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 7541;
-      const productIds = [7541];
+      const productId = 2103;
+      const productIds = [2103];
       const shareUrl = "https://padelcost.pt/produto/sapatilhas-asics-gel-challenger-15-padel-stone-wash-orange-glow-2025.html";
       const shareTitle = "Sapatilhas Asics Gel Challenger 15 Padel stone wash orange glow 2025";
       const saveButton = document.querySelector('[data-product-save]');
@@ -640,6 +637,35 @@
       <p><a href="../dados.html">Dados e transparência</a> · <a href="../privacidade.html">Privacidade</a> · <a href="../contacto.html">Contacto</a></p>
     </div>
   </footer>
+  <script>
+    (() => {
+      const toggle = document.querySelector('[data-mobile-category-toggle]');
+      const menu = document.querySelector('[data-mobile-category-menu]');
+      if (!toggle || !menu) return;
+      toggle.addEventListener('click', () => {
+        const isOpen = menu.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', String(isOpen));
+        const icon = toggle.querySelector('i');
+        if (icon) {
+          icon.classList.toggle('fa-bars', !isOpen);
+          icon.classList.toggle('fa-times', isOpen);
+        }
+      });
+    })();
+  </script>
+  <script>
+    (() => {
+      const backLink = document.querySelector('[data-product-back]');
+      if (!backLink) return;
+      backLink.addEventListener('click', (event) => {
+        const referrer = document.referrer ? new URL(document.referrer, window.location.href) : null;
+        if (window.history.length > 1 && referrer && referrer.origin === window.location.origin) {
+          event.preventDefault();
+          window.history.back();
+        }
+      });
+    })();
+  </script>
   <script>
     (() => {
       const page = document.querySelector('[data-seo-category-page]');

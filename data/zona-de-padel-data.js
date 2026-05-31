@@ -1,15 +1,220 @@
 // PadelCost - Zona de Padel normalizado automaticamente
-// Gerado em: 2026-05-10T22:32:34.746Z
-// Produtos: 596
+// Gerado em: 2026-05-31T18:59:01.364Z
+// Produtos: 671
 
 window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   {
-    "id": 7,
+    "id": 1,
+    "slug": "lok-carbon-hype-fdb-2026-15516",
+    "name": "Lok Carbon Hype FDB 2026",
+    "brand": "Lok",
+    "category": "raquetes",
+    "price": 140.1,
+    "oldPrice": 250,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32678-large_default/lok-carbon-hype-fdb-2026.jpg",
+    "ean": "8435739405703",
+    "productGTIN": "8435739405703",
+    "mpn": "15516",
+    "source": "zona-de-padel",
+    "sourceProductId": "15516",
+    "sourceCategory": "Palas de padel > Palas de pádel Lok",
+    "description": "Saca tus golpes más potentes con la Lok Carbon Hype FDB 2026, una pala de potencia pensada para jugadores que quieren dominar la red con golpes agresivos y precisión. Su formato de diamante y su tacto duro ayudan a exprimir cada remate con una respuesta muy sólida. Si buscas una pala de pádel para jugador avanzado, esta opción oficial de Franco Dal Bianco combina control, estabilidad y potencia para competir con confianza. La estructura en carbono y su núcleo EVA rígida favorecen un juego exigente y decisivo. Características y tecnologías de la pala de pádel Lok Carbon Hype FDB 2026 Forma diamante: favorece un juego ofensivo y concentra la pegada en la zona alta para ganar más potencia en remates y voleas. Núcleo de EVA rígida: aporta una respuesta inmediata en el golpeo, ideal para acelerar la bola con más contundencia en acciones de ataque. Fibra de carbono arenada: mejora la durabilidad de la pala y facilita la generación de efectos, algo clave para variar tus golpes. Punto dulce optimizado: amplía la superficie de golpeo efectiva para ofrecer mayor seguridad y mejor rendimiento en impactos exigentes. Dynamic Holes y peso equilibrado: combinan maniobrabilidad con potencia, ayudando a mantener una sensación estable y una salida de bola más eficaz. Pertenece a la colección de Lok Padel 2026. ¿Para quien es Lok Carbon Hype FDB 26? La Lok Carbon Hype FDB 2026 está pensada para jugadores avanzados o profesionales que quieren una pala exigente, con formato de diamante y un carácter claramente ofensivo. Su dureza pide técnica y fuerza para sacar todo su potencial. Es ideal para quienes dominan el juego de ataque y buscan una herramienta fiable en momentos decisivos. Si te gusta definir puntos con remates, voleas y golpes con intención, esta pala te ayudará a jugar con más determinación y precisión. ¿Por qué te va a gustar esta pala de pádel? Te gustará porque la pala oficial de Franco Dal Bianco ofrece sensaciones de alto rendimiento para competir con confianza. Su diseño está orientado a jugadores que quieren destacar en pista con una pala seria, potente y muy reactiva. Además, la combinación de carbono, EVA rígida y acabado arenado aporta una experiencia completa: más pegada, más efecto y una excelente respuesta en cada golpe. Una opción muy atractiva si buscas rendimiento profesional. Descubre más sobre la marca Lok Lok es una marca enfocada en el pádel de rendimiento, con productos diseñados para jugadores que buscan competir al máximo nivel. Sus palas destacan por una construcción cuidada y un enfoque claro en la potencia y el control. En modelos como esta Lok Carbon Hype FDB 2026, la marca refleja su apuesta por materiales de calidad y tecnologías pensadas para el juego ofensivo. Es una propuesta muy interesante para quien quiere una pala exigente y de sensaciones profesionales.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 140.1,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/lok/15516-lok-carbon-hype-fdb-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "adidas-triboo-3-0-ltd-2026-15496",
+    "name": "Adidas Triboo 3.0 LTD 2026",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 89.96,
+    "oldPrice": 180,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32547-large_default/adidas-triboo-30-ltd-2026.jpg",
+    "ean": null,
+    "productGTIN": null,
+    "mpn": "15496",
+    "source": "zona-de-padel",
+    "sourceProductId": "15496",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Disfruta de un rendimiento excepcional en pista con la Adidas Triboo 3.0 LTD 2026. Es una pala de pádel pensada para quienes buscan un juego equilibrado, cómodo y preciso. Su formato en lágrima y el equilibrio centrado facilitan la manejabilidad, mientras su núcleo EVA aporta un tacto suave para responder con confianza en cada punto. Si quieres una pala polivalente con buena salida de bola, control y efectos, esta Adidas es una gran elección. Va dirigida a jugadores de nivel intermedio y avanzado que buscan mejorar su rendimiento y comprar una pala sólida, cómoda y fiable para competir y disfrutar en pista. Características y tecnologías de la pala Adidas Triboo 3.0 Limited Edition 2026 Forma de lágrima: ofrece un balance muy equilibrado entre control y potencia, favoreciendo una pista versátil y cómoda en todo tipo de golpes. Su rango de peso aporta estabilidad en el golpeo sin renunciar a una buena manejabilidad, ideal para responder rápido en defensa y en ataque. Marco de fibra de vidrio de alta resistencia: mejora la durabilidad de la pala y ayuda a conseguir una sensación más confortable al golpear la bola. Núcleo EVA de densidad media-blanda: proporciona un tacto medio y agradable, reduce vibraciones y facilita una salida de bola más cómoda y controlada. Superficie rugosa y patrón de taladrado optimizado: incrementa los efectos y amplía el punto dulce para lograr golpes más precisos y seguros. Pertenece a la colección de Adidas 2026. ¿Para quien es Adidas Triboo 3.0 LTD 26? La Adidas Triboo 3.0 LTD 2026 está pensada para jugadores que necesitan una pala polivalente, fácil de adaptar a distintos estilos de juego. Su equilibrio centrado y su tacto medio hacen que sea una opción muy interesante para quienes quieren progresar con seguridad. Es una pala adecuada para nivel intermedio y avanzado que buscan control en defensa, comodidad en el golpeo y una respuesta fiable en la red. Si quieres una pala versátil para competir con confianza, este modelo encaja muy bien. ¿Por qué te va a gustar esta pala de pádel? Te va a gustar porque combina Sweet Spot Center y Structural Reinforcement, dos tecnologías que ayudan a lograr golpes más precisos, estables y controlados. Esa sensación de seguridad en el impacto marca la diferencia en partidos exigentes. Además, su construcción en fibra de vidrio, junto al núcleo EVA de densidad media-blanda, ofrece un tacto cómodo y reduce vibraciones. Si buscas una pala con buena sensación de juego y gran control, esta Adidas cumple muy bien. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su capacidad para unir innovación, diseño y rendimiento deportivo. En pádel, aplica esa experiencia para crear palas pensadas para mejorar la experiencia del jugador en pista. Sus modelos suelen destacar por una combinación muy cuidada de tecnologías, comodidad y equilibrio. En una pala como la Triboo 3.0 LTD 2026, esa filosofía se traduce en control, sensaciones agradables y una respuesta fiable en cada golpe.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 89.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15496-adidas-triboo-30-ltd-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "zapatillas-wilson-rush-pro-5-padel-grey-daw-2026-15359",
+    "name": "Sapatilhas Wilson Rush Pro 5 Padel grey daw 2026",
+    "brand": "Wilson Padel",
+    "category": "sapatilhas",
+    "price": 143.9,
+    "oldPrice": 160,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32219-large_default/zapatillas-wilson-rush-pro-5-padel-grey-daw-2026.jpg",
+    "ean": "097512988858",
+    "productGTIN": "097512988858",
+    "mpn": "15359",
+    "source": "zona-de-padel",
+    "sourceProductId": "15359",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Wilson",
+    "description": "Conoce todas las prestaciones de las Zapatillas Wilson Rush Pro 5 Padel grey daw 2026. Se trata de un calzado para jugadores que buscan estabilidad, ajuste seguro y respuesta rápida en pista. Su diseño en gris con detalles amarillos aporta un estilo moderno, mientras que sus tecnologías ayudan a rendir al máximo en cada punto. Si quieres unas zapatillas de pádel Wilson para competir con confianza, este modelo combina comodidad, durabilidad y gran agarre. Son una elección ideal para jugadores avanzados que necesitan control en los desplazamientos y una pisada reactiva en entrenamientos y partidos exigentes. Características y tecnologías de la zapatilla Wilson Rush Pro 5 Padel grises 2026 Endofit en el mediopié para ofrecer un ajuste firme, envolvente y muy preciso, mejorando la sensación de sujeción durante todo el partido. Engineered Sandwich Mesh: malla técnica ligera, transpirable y resistente que favorece la ventilación y ayuda a mantener el pie más fresco. Refuerzo cerámico 5D en las zonas de mayor desgaste para aumentar la durabilidad y proteger la zapatilla frente al uso intensivo. Chasis de TPU y placa Speed Plate para reforzar la estabilidad y ganar una zancada más reactiva en movimientos laterales y cambios de ritmo. Suela Duralast específica para pádel, diseñada para ofrecer gran resistencia al desgaste y un agarre óptimo en la pista. Pertenece a la colección de calzado Wilson Padel 2026. ¿Para quien son las Wilson Rush Pro 5 Padel 26? Estas zapatillas Wilson Rush Pro 5 Padel 2026 están pensadas para jugadores de pádel avanzados que necesitan un calzado fiable en cada intercambio. Su estructura favorece el control, la estabilidad y la seguridad en pista, especialmente en partidos de alta exigencia. Son una gran opción para el jugador que exige máximo rendimiento y busca una zapatilla cómoda para competir con intensidad. Si priorizas sujeción, resistencia y una respuesta sólida en cada apoyo, este modelo encaja perfectamente con tu nivel de juego. ¿Por qué te van a gustar estas zapatillas de pádel WRS338760? Te van a gustar por su estética gris con detalles amarillos, que aporta un look moderno y dinámico dentro y fuera de la pista. Además, su diseño específico para pádel ayuda a jugar con más confianza, intensidad y seguridad en cada punto. También destacan por la sensación de confort y rendimiento que ofrecen gracias a su combinación de ajuste firme, suela de agarre óptimo y materiales duraderos. Son unas zapatillas pensadas para acompañarte en entrenamientos y competiciones con buen nivel de respuesta. Descubre más sobre la marca Wilson Wilson es una marca muy reconocida en el mundo del deporte por desarrollar productos orientados al rendimiento y la precisión. En pádel, aplica esa experiencia para crear soluciones que priorizan el control, la comodidad y la estabilidad en pista. Sus zapatillas para pádel están pensadas para jugadores que buscan una respuesta fiable en movimientos rápidos y apoyos intensos. Con modelos como estas zapatillas de pádel Wilson, la marca refuerza su apuesta por el rendimiento competitivo y la durabilidad.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Competição",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 143.9,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/15359-zapatillas-wilson-rush-pro-5-padel-grey-daw-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "zapatillas-wilson-rush-pro-5-clay-white-navy-2026-15357",
+    "name": "Sapatilhas Wilson Rush Pro 5 Clay white navy 2026",
+    "brand": "Wilson Padel",
+    "category": "sapatilhas",
+    "price": 119.96,
+    "oldPrice": 160,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32216-large_default/zapatillas-wilson-rush-pro-5-clay-white-navy-2026.jpg",
+    "ean": "097512988476",
+    "productGTIN": "097512988476",
+    "mpn": "15357",
+    "source": "zona-de-padel",
+    "sourceProductId": "15357",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Wilson",
+    "description": "Las Zapatillas Wilson Rush Pro 5 Clay white navy 2026 están pensadas para jugadores que necesitan un calzado estable, reactivo y cómodo en pistas de tierra batida. Su diseño ligero gracias a la incorporación de materiales transpirables que favorecen una ventilación constante, ayudando a rendir con confianza en partidos exigentes y entrenamientos intensos. Si buscas zapatillas de pádel para hombre con buen agarre, amortiguación y sujeción, este modelo de Wilson es una gran opción. Destaca por su equilibrio entre comodidad y durabilidad ya que uno de los pilares del rendimiento de este modelo es su sistema de amortiguación Dual capaz de reducir el impacto. Características y tecnologías de las zapatillas Wilson Rush Pro 5 Clay blancas y azules 2026 Upper transpirable y ligero: favorece la ventilación del pie durante partidos largos, ayudando a mantener una sensación de frescura y confort en cada punto. Sujeción reforzada: la estructura del empeine ofrece mayor estabilidad en desplazamientos rápidos y cambios de dirección, aportando seguridad en el juego. Amortiguación Dual: combina SwiftStep supercomprimida y tecnología R-DST+, logrando una pisada suave, reactiva y con mejor retorno de energía. Protección Ceramic 5D: el refuerzo de TPU con infusión cerámica resiste mejor la abrasión de la tierra batida, aumentando la durabilidad sin sumar peso extra. Suela específica Clay: su patrón de tracción está diseñado para ofrecer agarre y deslizamientos controlados en pistas con arena, mejorando la confianza en movimiento. Pertenece a la colección de 2026. ¿Para quien son las Wilson Rush Pro 5 Clay 26? Estas zapatillas Wilson están dirigidas a jugadores de pádel que buscan un modelo fiable para rendir al máximo en cada entrenamiento y partido. Son ideales para quienes priorizan la estabilidad, la respuesta rápida y una pisada cómoda en tierra batida. Si compites con frecuencia o juegas a un nivel exigente, este calzado te ayudará a moverte con mayor confianza. Su ajuste firme y su amortiguación reactiva encajan con jugadores que necesitan seguridad en frenadas, arranques y apoyos intensos. ¿Por qué te van a gustar estas zapatillas de pádel WRS338670U? La estabilidad lateral se refuerza con el TPU Stability Chassis y la placa TPU Speed Plate, dos tecnologías que mejoran el control en los desplazamientos laterales. Esto se traduce en más seguridad y una respuesta más sólida en cada punto. Además, este conjunto favorece una mejor propulsión hacia delante, algo clave para reaccionar rápido y llegar antes a la bola. Si buscas unas zapatillas de pádel con sensaciones firmes, rápidas y muy estables, este modelo te va a convencer. Descubre más sobre la marca Wilson Wilson es una marca con larga trayectoria en el mundo del deporte y muy reconocida por su compromiso con el rendimiento. En pádel, desarrolla productos pensados para aportar control, comodidad y durabilidad a jugadores exigentes. Sus zapatillas de pádel combinan diseño técnico y tecnologías orientadas a la competición, como ocurre en las Rush Pro 5 Clay. Son una apuesta segura para quienes buscan un calzado preparado para responder en pista con estabilidad y confianza.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": "Branco",
+      "uso": "Competição",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 119.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/15357-zapatillas-wilson-rush-pro-5-clay-white-navy-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "zapatillas-asics-gel-resolution-x-clay-night-sky-illuminate-mint-2026-15240",
+    "name": "Sapatilhas Asics Gel Resolution X Clay night sky illuminate mint 2026",
+    "brand": "Asics",
+    "category": "sapatilhas",
+    "price": 144.96,
+    "oldPrice": 160,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32562-large_default/zapatillas-asics-gel-resolution-x-clay-night-sky-illuminate-mint-2026.jpg",
+    "ean": "4571633870163",
+    "productGTIN": "4571633870163",
+    "mpn": "15240",
+    "source": "zona-de-padel",
+    "sourceProductId": "15240",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
+    "description": "Nuevo diseño para las Zapatillas Asics Gel Resolution X Clay night sky illuminate mint 2026, el calzado ideal para jugadores de pádel que exigen un rendimiento superior y comodidad prolongada. Diseñadas con una malla técnica que mejora la ventilación y refuerzos que garantizan durabilidad, ofrecen una experiencia de juego precisa y segura. Su estabilidad lateral avanzada permite movimientos explosivos y cambios de dirección rápidos con total confianza. Este modelo para hombre, en tono verde secundario, está pensado para deportistas de nivel intermedio y avanzado que buscan resistencia y estabilidad en cada partido. Con una suela especializada para pistas de arena, es perfecto para quienes construyen su juego desde el fondo, asegurando un soporte sólido y continuidad durante toda la temporada. Características y tecnologías de la zapatilla Asics Gel Resolution X Clay azul marino y verde 2026 Nivel avanzado: Diseñadas para jugadores con experiencia que necesitan máxima estabilidad y resistencia en cada partido. Juego con confort: Su amortiguación equilibrada reduce el impacto en músculos y articulaciones, garantizando comodidad duración prolongada. Suela Clay, dibujo en espiga: Optimiza la tracción sobre pistas de arena, ofreciendo agarre seguro y durabilidad en cualquier condición. Sistema de soporte lateral: Estructura en mediopié que mantiene el pie alineado para movimientos rápidos y cambios de dirección precisos. Materiales resistentes y transpirables: Upper de malla técnica reforzada que regula la temperatura y prolonga la vida útil del calzado. Pertenece a la colección de 2026. ¿Para quién son las Asics Gel Resolution X Clay night sky illuminate mint 26? Estas zapatillas están diseñadas especialmente para jugadores de pádel que ya tienen un nivel intermedio o avanzado y requieren un calzado que aguante un uso frecuente e intenso. Son ideales para quienes buscan estabilidad y seguridad en cada apoyo para maximizar su rendimiento. Además, es una elección perfecta para jugadores que suelen posicionarse en la parte trasera de la pista, donde el control y la tracción son claves para mantener la consistencia a lo largo de toda la temporada. ¿Por qué te van a gustar estas zapatillas de pádel 1041A485-404? Las Asics Gel Resolution X Clay mantienen el ADN de rendimiento característico de la gama Resolution, actualizándose con un diseño moderno y dinámico en tono azul oscuro y detalles en verde menta. Su estructura sólida proporciona una sujeción excepcional que transmite confianza en cada movimiento. Su combinación de confort y soporte las convierte en compañeras ideales para partidos largos o entrenamientos intensos, ayudando a reducir la fatiga y protegiendo las articulaciones, sin sacrificar la agilidad ni la rapidez en la pista. Descubre más sobre la marca Asics Asics es una marca japonesa reconocida mundialmente por su innovación en calzado deportivo. Fundada en 1949, ha enfocado su desarrollo en la tecnología y el confort, especialmente en zapatillas para deportes de alto impacto. La experiencia de Asics en crear zapatillas técnicas para pádel se refleja en modelos como la Gel Resolution X Clay, que combinan durabilidad, soporte y amortiguación para satisfacer las exigencias de jugadores dedicados que buscan mejorar su rendimiento.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 144.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/asics/15240-zapatillas-asics-gel-resolution-x-clay-night-sky-illuminate-mint-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 15,
     "slug": "babolat-technical-viper-juan-lebron-3-0-azul-2026-15230",
     "name": "Babolat Technical Viper Juan Lebron 3.0 azul 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 379.95,
+    "price": 262.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -38,19 +243,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 379.95,
+        "price": 262.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/15230-babolat-technical-viper-juan-lebron-30-azul-2026.html"
       }
     ]
   },
   {
-    "id": 8,
+    "id": 16,
     "slug": "paletero-babolat-hr-pro-padel-lebron-azul-verde-2026-15229",
     "name": "Saco Babolat HR Pro Padel Lebrón azul verde 2026",
     "brand": "Babolat",
     "category": "sacos",
-    "price": 120.01,
+    "price": 103.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -79,19 +284,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 120.01,
+        "price": 103.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/15229-paletero-babolat-hr-pro-padel-lebron-azul-verde-2026.html"
       }
     ]
   },
   {
-    "id": 11,
+    "id": 19,
     "slug": "zapatillas-babolat-movea-2-men-fiery-red-white-2026-15226",
     "name": "Sapatilhas Babolat Movea 2 Men fiery red white 2026",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 117.01,
+    "price": 104.91,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -120,14 +325,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 117.01,
+        "price": 104.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/15226-zapatillas-babolat-movea-2-men-fiery-red-white-2026.html"
       }
     ]
   },
   {
-    "id": 14,
+    "id": 22,
     "slug": "bipack-dunlop-pro-padel-15192",
     "name": "Bipack Dunlop Pro Padel",
     "brand": "Dunlop Padel",
@@ -168,12 +373,176 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 20,
+    "id": 28,
+    "slug": "zapatillas-adidas-crazyquick-ls-padel-m-solar-turbo-2026-15180",
+    "name": "Sapatilhas Adidas Crazyquick LS Padel M solar turbo 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 107.96,
+    "oldPrice": 120,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32692-large_default/zapatillas-adidas-crazyquick-ls-padel-m-solar-turbo-2026.jpg",
+    "ean": "4069987733901",
+    "productGTIN": "4069987733901",
+    "mpn": "15180",
+    "source": "zona-de-padel",
+    "sourceProductId": "15180",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Las zapatillas Adidas Crazyquick LS Padel M Solar Turbo 2026 destacan por su ligereza y amortiguación dinámica, ideales para quienes buscan máxima rapidez en pista. Su diseño de perfil bajo y ajuste clásico garantizan estabilidad y una conexión óptima con el césped artificial, asegurando agilidad y seguridad en cada movimiento. Pensadas para jugadores avanzados que priorizan la velocidad sin sacrificar control, estas zapatillas combinan durabilidad y tecnología para ofrecer un rendimiento superior. El color Solar Turbo aporta un toque vibrante, perfecto para destacar estilo y personalidad durante el juego. Características y tecnologías de las zapatillas Adidas Crazyquick LS Padel M coral 2026 Nivel avanzado: Diseñadas para jugadores experimentados que exigen rendimiento y resistencia en partidos intensos. Ligereza y explosividad: Mediasuela Lightstrike que facilita movimientos rápidos y potentes en cada paso. Suela New Padel: Máximo agarre y durabilidad en pistas de césped artificial con arena, garantizando frenadas seguras. Estabilidad y control: Estructura Slingframe que estabiliza el mediopié ante apoyos laterales bruscos. Durabilidad reforzada: Puntera Adituff resistente al desgaste típico del pádel. Pertenece a la colección de 2026. ¿Para quien son las Adidas Crazyquick LS Padel M Solar Turbo 26? Estas zapatillas están dirigidas a jugadores que buscan destacar en la pista con un estilo enérgico y un rendimiento enfocado en la rapidez. La combinación de materiales ligeros y tecnologías avanzadas permite una movilidad ágil y controlada frente a cada jugada. El diseño favorece desplazamientos naturales, facilitando reacciones instantáneas ante cada bola. Su perfil bajo y ajuste seguro convierten a este modelo en una apuesta ideal para quienes valoran velocidad y estabilidad en cada punto. ¿Por qué te van a gustar estas zapatillas de pádel KI3587? Te encantarán por su perfecta combinación de rapidez y estabilidad, claves para jugar con confianza y conseguir cambios de dirección precisos sin perder el equilibrio. Su diseño ligero permite mantener la explosividad desde el primer hasta el último punto. Además, su aspecto dinámico en color coral flúor aporta energía y personalidad, haciendo que combines estilo y funcionalidad en cada partido y entrenamiento, manteniéndote protegido y cómodo. Descubre más sobre la marca Adidas Adidas es una referencia mundial en el mundo del deporte, combinando innovación tecnológica con diseño avanzado. Su amplio legado apoya el desarrollo de zapatillas específicas para pádel, fusionando rendimiento y comodidad. Con un enfoque en maximizar la explosividad y el control en pista, Adidas adapta sus tecnologías a las exigencias del pádel moderno, ofreciendo productos que responden a las necesidades de jugadores profesionales y amateurs.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 107.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15180-zapatillas-adidas-crazyquick-ls-padel-m-solar-turbo-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "zapatillas-adidas-courtquick-padel-m-gold-metallic-2026-15174",
+    "name": "Sapatilhas Adidas Courtquick Padel M gold metallic 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 71.96,
+    "oldPrice": 80,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32690-large_default/zapatillas-adidas-courtquick-padel-m-gold-metallic-2026.jpg",
+    "ean": "4069987520402",
+    "productGTIN": "4069987520402",
+    "mpn": "15174",
+    "source": "zona-de-padel",
+    "sourceProductId": "15174",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Las Zapatillas Adidas Courtquick Padel M gold metallic 2026 combinan un diseño innovador con tecnología avanzada, pensadas para jugadores que requieren agilidad, soporte y estilo en cada movimiento. Su estructura híbrida y la amortiguación reactiva aseguran un confort superior durante partidas intensas y rápidas sobre la pista. Destinadas a hombres que buscan un calzado que ofrezca estabilidad y libertad de movimiento, estas zapatillas doradas destacan por su resistencia y apariencia única. Si buscas mejorar tu juego con un zapato que ofrece control y comodidad, esta es la opción ideal para potenciar tu rendimiento en pádel. Características y tecnologías de la zapatilla Adidas Courtquick Padel M blancas y doradas 2026 Nivel intermedio con enfoque en confort: Diseñadas para jugadores que priorizan la comodidad sin sacrificar rendimiento en partidos prolongados. Suela New Padel: Proporciona una tracción óptima y durabilidad en cada desplazamiento, adaptándose al ritmo y estilo del juego moderno. Amortiguación avanzada Bounce y Cloudfoam: Ofrecen un retorno energético y absorción de impactos que mantienen los pies frescos y protegidos. Aportan una excelente sujeción, ideal para realizar desplazamientos laterales con seguridad. Upper con mesh: Adaptadas para las condiciones climáticas de temporada, ofreciendo soporte y ventilación adecuada. Pertenece a la colección de 2026: Modelo actualizado con tecnologías contemporáneas para potenciar tu juego este año. ¿Para quién son las Adidas Courtquick Padel M gold metallic 26? Estas zapatillas están diseñadas para jugadores que combinan agilidad y estrategia, que necesitan movimientos rápidos, apoyos firmes y un control absoluto en cada punto. Su precisión es perfecta para quienes buscan dominar cada giro, arranque o desplazamiento con máxima libertad de movimiento. Con un equilibrio ideal entre soporte y flexibilidad, son ideales para deportistas que exigen un calzado que responda a cambios de dirección veloces y sostenidos, permitiendo mantener la concentración y rendimiento durante partidos prolongados. ¿Por qué te van a gustar estas zapatillas de pádel KI3590? La combinación de un acabado dorado metálico con la tecnología avanzada brinda un diseño sofisticado y una base sólida para tus movimientos en la pista. Estas zapatillas no solo aportan estilo, sino también funcionalidad para un juego veloz y preciso. Incorporan materiales reciclados que reflejan el compromiso ambiental sin comprometer la calidad o durabilidad. Su amortiguación específica asegura comodidad y protección, lo que genera confianza en cada paso y soporte durante todo el partido. Descubre más sobre la marca Adidas Adidas es una referencia mundial en material deportivo, con décadas dedicadas a la innovación en calzado para diversas disciplinas. Su enfoque en el rendimiento y la tecnología ha evolucionado para ofrecer soluciones específicas, como estas zapatillas de pádel. Con una sólida trayectoria en diseño deportivo, Adidas ha sabido adaptar sus avances para cubrir las necesidades exclusivas del pádel, combinando estilo, confort y funciones que mejoran el rendimiento en cada partido.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 71.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15174-zapatillas-adidas-courtquick-padel-m-gold-metallic-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "zapatillas-adidas-courtquick-padel-m-ftwr-black-white-2026-15173",
+    "name": "Sapatilhas Adidas Courtquick Padel M ftwr black white 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 71.96,
+    "oldPrice": 80,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32687-large_default/zapatillas-adidas-courtquick-padel-m-ftwr-black-white-2026.jpg",
+    "ean": "4069989106338",
+    "productGTIN": "4069989106338",
+    "mpn": "15173",
+    "source": "zona-de-padel",
+    "sourceProductId": "15173",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Adidas Courtquick Padel M ftwr black 2026 son unas zapatillas para hombre diseñadas para dominar la pista con comodidad y control. Su combinación de tecnologías avanzadas y materiales duraderos garantiza agilidad y soporte en cada movimiento. Perfectas para disfrutar de tracción, estabilidad además de un movimiento natural del pie. Estas zapatillas de pádel aportan un ajuste seguro y una pisada reactiva, ideales para cambios de dirección rápidos y desplazamientos precisos. Si buscas una experiencia superior en cualquier superficie con una zapatilla a precio imbatible, resistente y confortable, la Courtquick Padel M ftwr black es tu mejor opción. Características y tecnologías de las zapatillas Adidas Courtquick Padel M blancas con detalles negros 2026 Refuerzo estabilizador: proporciona una mejor sujeción, lo que mejora nuestros apoyos laterales y evita torceduras. Amortiguación Cloudfoam: ofrece confort adicional para largas jornadas, reduciendo la fatiga en los pies sin perder sensibilidad en cada pisada. Suela Adiwear: goma resistente y optimizada para pádel que brinda tracción superior y durabilidad en movimientos intensos y rápidos. Slingframe para estabilidad lateral: estructura que mantiene el pie firme en giros y desplazamientos, aportando control y seguridad en cada paso. Diseño para jugadores intermedios: adaptada a quienes buscan un juego cómodo y eficaz manteniendo un alto rendimiento. Pertenece a la colección de calzado Adidas 2026. ¿Para quién son las Adidas Courtquick Padel M ftwr black 26? Están pensadas para jugadores que desean rapidez y precisión en cada punto, uniendo comodidad y tecnología para un rendimiento elevado. Su diseño robusto y ligero facilita movimientos seguros y eficientes. Estas zapatillas Adidas son ideales para quienes enfrentan partidos exigentes y requieren soporte confiable durante desplazamientos explosivos y cambios de dirección continuos en pista. ¿Por qué te van a gustar estas zapatillas de pádel? La Courtquick Padel M ftwr blancas con detalles negros favorece movimientos explosivos gracias a su pisada flexible y una suela adherente que mejora el agarre, brindando confianza en cada paso. Esto es esencial para mantener la velocidad y precisión en un deporte de alta demanda física. Su diseño oscuro y elegante combina estilo y funcionalidad, generando una sensación de control y robustez que te hará destacar dentro y fuera de la pista. Además, su durabilidad asegura la inversión en un calzado resistente. Descubre más sobre la marca Adidas Adidas es una marca líder mundial en deportes, famosa por combinar innovación tecnológica con diseño funcional para ofrecer productos de alta calidad. Su experiencia en calzado deportivo garantiza zapatillas que cumplen con las exigencias del pádel actual. Con un fuerte compromiso en sostenibilidad y rendimiento, Adidas ha desarrollado modelos como las Courtquick Padel que integran materiales reciclados sin perder eficiencia ni confort, ideales para jugadores que valoran tanto su juego como el medio ambiente.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": "Branco",
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 71.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15173-zapatillas-adidas-courtquick-padel-m-ftwr-black-white-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "zapatillas-adidas-courtquick-padel-m-ftwr-white-2026-15172",
+    "name": "Sapatilhas Adidas Courtquick Padel M ftwr white 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 71.96,
+    "oldPrice": 80,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/32685-large_default/zapatillas-adidas-courtquick-padel-m-ftwr-white-2026.jpg",
+    "ean": "4069989114104",
+    "productGTIN": "4069989114104",
+    "mpn": "15172",
+    "source": "zona-de-padel",
+    "sourceProductId": "15172",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Las Zapatillas Adidas Courtquick Padel M ftwr white 2026 son ideales para jugadores de nivel intermedio que buscan combinar confort y rendimiento en la pista. Diseñadas para ofrecer una pisada flexible y reactiva, proporcionan la estabilidad necesaria para movimientos explosivos y cambios de dirección precisos durante el juego. Con tecnologías avanzadas como la mediasuela Bounce que absorbe impactos, la suela Adiwear resistente y la estructura Slingframe para máxima estabilidad, estas zapatillas se adaptan a las exigencias del pádel moderno, haciendo que cada punto se juegue con confianza y control. Características y tecnologías de la zapatilla Adidas Courtquick Padel M blancas con detalles coral 2026 Nivel Intermedio: Perfectas para jugadores con experiencia que buscan comodidad y rendimiento equilibrados en cada partido. Juego Confort: Incorporan amortiguación Cloudfoam para reducir la fatiga y ofrecer una sensación suave durante largas jornadas de juego. Dibujo New Padel: Elaborada con compuesto Adiwear que garantiza un agarre firme y una gran resistencia a la abrasión en pistas de pádel. Estructura Slingframe: Refuerza el conjunto y estabiliza el pie durante giros rápidos y movimientos laterales. Incluye amortiguación Cloudfoam: Mejora el confort y reduce la fatiga para poder jugar sin molestias. Pertenece a la colección de 2026. ¿Para quien son las Adidas Courtquick Padel M ftwr white 26? Estas zapatillas están pensadas para jugadores que necesitan realizar movimientos rápidos y explosivos en la pista. Quienes exijan precisión en los cambios de dirección y un apoyo seguro para mantener la agilidad durante todo el partido encontrarán en este modelo un aliado perfecto. La combinación de una suela resistente, mediasuela reactiva y refuerzos estratégicos aporta el control y la velocidad necesarios para competir con confianza, manteniendo el confort en cada desplazamiento y punto jugado. ¿Por qué te van a gustar estas zapatillas de pádel KH5915? Una de las ventajas destacadas de estas zapatillas Adidas para pádel es su capacidad para ofrecer un equilibrio entre velocidad y estabilidad. La mediasuela Bounce asegura reactividad en cada impulso mientras mantiene una pisada flexible y segura. Además, el confort es clave con la tecnología Cloudfoam, que amortigua y reduce la fatiga durante partidos prolongados. Esto se traduce en una experiencia de juego mucho más cómoda y eficiente, ideal para quienes buscan durabilidad sin perder rendimiento. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su innovación y calidad en material deportivo. Desde su fundación, ha apostado por el desarrollo de tecnologías punteras enfocadas a mejorar el rendimiento y la comodidad de los deportistas. En el ámbito del pádel, Adidas se ha consolidado como una marca líder que combina diseño, funcionalidad y sostenibilidad, como demuestra este modelo que incorpora materiales reciclados para reducir el impacto ambiental sin perder tecnología avanzada.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": "Branco",
+      "uso": "Competição",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 71.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15172-zapatillas-adidas-courtquick-padel-m-ftwr-white-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 32,
     "slug": "zapatillas-adidas-courtjam-control-3-w-wonder-quartz-white-2026-15171",
     "name": "Sapatilhas Adidas Courtjam Control 3 W wonder quartz white 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 80.95,
+    "price": 80.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -202,19 +571,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 80.95,
+        "price": 80.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15171-zapatillas-adidas-courtjam-control-3-w-wonder-quartz-white-2026.html"
       }
     ]
   },
   {
-    "id": 34,
+    "id": 46,
     "slug": "bote-presurizador-pascal-box-switch-15152",
     "name": "Bote Presurizador Pascal Box Switch",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 128.91,
+    "price": 129.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -243,19 +612,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 128.91,
+        "price": 129.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/15152-bote-presurizador-pascal-box-switch.html"
       }
     ]
   },
   {
-    "id": 35,
+    "id": 47,
     "slug": "zapatillas-asics-solution-speed-ff-4-clay-grey-blue-ironclad-2026-15150",
     "name": "Sapatilhas Asics Solution Speed FF 4 Clay grey blue ironclad 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 120.01,
+    "price": 112.01,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -284,14 +653,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 120.01,
+        "price": 112.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/15150-zapatillas-asics-solution-speed-ff-4-clay-grey-blue-ironclad-2026.html"
       }
     ]
   },
   {
-    "id": 39,
+    "id": 51,
     "slug": "joma-game-junior-negra-verde-2026-15138",
     "name": "Joma Game Junior negra verde 2026",
     "brand": "Joma",
@@ -332,7 +701,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 40,
+    "id": 52,
     "slug": "zapatillas-joma-slam-classic-2601-black-2026-15132",
     "name": "Sapatilhas Joma Slam Classic 2601 black 2026",
     "brand": "Joma",
@@ -373,7 +742,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 41,
+    "id": 53,
     "slug": "zapatillas-joma-slam-men-2602-white-royal-2026-15127",
     "name": "Sapatilhas Joma Slam Men 2602 white royal 2026",
     "brand": "Joma",
@@ -414,105 +783,23 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 49,
-    "slug": "joma-blast-pro-soft-naranja-negro-2026-15103",
-    "name": "Joma Blast Pro Soft naranja negro 2026",
-    "brand": "Joma",
+    "id": 54,
+    "slug": "adidas-metalbone-reserve-edt-2026-15126",
+    "name": "Adidas Metalbone Reserve EDT 2026",
+    "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 179.95,
-    "oldPrice": 180,
+    "price": 324.95,
+    "oldPrice": 325,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/31787-large_default/joma-blast-pro-soft-naranja-negro-2026.jpg",
-    "ean": "8447534514115",
-    "productGTIN": "8447534514115",
-    "mpn": "15103",
+    "image": "https://www.zonadepadel.es/32526-large_default/adidas-metalbone-reserve-edt-2026.jpg",
+    "ean": "8435739409459",
+    "productGTIN": "8435739409459",
+    "mpn": "15126",
     "source": "zona-de-padel",
-    "sourceProductId": "15103",
-    "sourceCategory": "Palas de padel > Palas de padel Joma",
-    "description": "La Joma Blast Pro Soft en naranja y negro 2026 es una pala de pádel diseñada para jugadores hombres que buscan un equilibrio perfecto entre potencia y control. Su estructura con carbono 12K y núcleo BlackEVA SFT garantiza golpes firmes y cómodos, ideales para dominar el partido con precisión. Esta pala de competición, con forma lágrima y balance medio-alto, está orientada a jugadores avanzados que desean una pala versátil para construir puntos seguros y ejecutar ataques decisivos. Su amplia zona dulce ofrece máxima precisión incluso en golpes descentrados. Características y tecnologías de la pala Joma Blast Pro Soft naranja y negra 2026 Forma lágrima: proporciona un balance óptimo entre potencia y control para un juego agresivo y preciso. Núcleo Black EVA y tacto medio-blando: ofrece una salida de bola controlada y cómoda, reduciendo el impacto en el brazo. Marco DUALTECH FRAME de carbono 12K: asegura alta resistencia, rigidez y durabilidad incluso en golpes fuertes. Acabado JOMA 3D SPIN con relieve tridimensional: maximiza los efectos como topspin y slice para un mejor control en cada golpe. AEROBUMP TECH y patrón CTRL TOUCH Drilling: mejoran la aerodinámica y sensibilidad permitiendo movimientos más ágiles y golpes precisos. Pertenece a la colección de 2026. ¿Para quien es Joma Blast Pro Soft 26? La Joma Blast Pro Soft naranja negro es perfecta para jugadores competitivos que buscan una pala dura y manejable, ideal para quienes dominan el juego desde el control y quieren añadir potencia sin sacrificar comodidad. Su diseño y tecnologías están pensadas para personas con nivel avanzado que requieren precisión en cada golpe y agilidad para responder con rapidez en la pista. Es la pala idónea para construir puntos con confianza y contundencia. ¿Por qué te va a gustar esta pala de pádel? La Blast Pro Soft destaca por ser una pala equilibrada que combina potencia y control, permitiendo manejar el ritmo del partido con facilidad. Su tacto cómodo favorece largas sesiones sin molestias, ideal para jugadores exigentes. Además, su amplio punto dulce y buenas sensaciones en impactos descentrados aportan seguridad y precisión en cada golpe, lo que la convierte en una opción confiable para competir con total confianza. Descubre más sobre la marca Joma Joma es una marca española con una trayectoria consolidada en el mundo del deporte, reconocida por su innovación y calidad. Su experiencia en productos técnicos garantiza diseños adaptados a la alta competición. En pádel, Joma destaca por ofrecer palas que equilibran potencia y control, integrando tecnologías avanzadas que satisfacen las necesidades de jugadores profesionales y amateurs que buscan rendimiento y durabilidad en la pista.",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado",
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 179.95,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/15103-joma-blast-pro-soft-naranja-negro-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "slug": "joma-blast-pro-hrd-negro-gris-2026-15102",
-    "name": "Joma Blast Pro HRD negro gris 2026",
-    "brand": "Joma",
-    "category": "raquetes",
-    "price": 179.96,
-    "oldPrice": 180,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/31785-large_default/joma-blast-pro-hrd-negro-gris-2026.jpg",
-    "ean": "8447534514085",
-    "productGTIN": "8447534514085",
-    "mpn": "15102",
-    "source": "zona-de-padel",
-    "sourceProductId": "15102",
-    "sourceCategory": "Palas de padel > Palas de padel Joma",
-    "description": "La Joma Blast Pro HRD negro gris 2026 es una pala de pádel diseñada para jugadores hombres que buscan un equilibrio perfecto entre potencia, control y precisión. Su estructura con carbono 12K y el núcleo BlackEva HRD proporcionan la rigidez y firmeza necesarias para un juego agresivo sin perder sensibilidad. Ideal para competir con confianza en cada golpe. Esta pala de última generación está pensada para deportistas avanzados que demandan rendimiento y estabilidad en cada acción. Su diseño en forma de lágrima y tecnologías exclusivas como el sistema ATTACK TOUCH y AEROBUMP TECH, facilitan maniobras rápidas y consistentemente potentes, convirtiéndola en una herramienta imprescindible para dominar la pista. Características y tecnologías de la pala Joma Blast Pro HARD negro gris 2026 Forma lágrima: ofrece un balance medio-alto para combinar potencia con maniobrabilidad óptima en cada golpe. Núcleo Black Eva HRD: proporciona un tacto duro pero absorbente, ideal para proteger el brazo y mejorar la precisión y la fuerza. Material principal carbono 12K: refuerza la estructura aportando rigidez y estabilidad sin sacrificar la sensibilidad técnica. Rugosidad 3D Spin: acabado en relieve para maximizar los efectos en golpes liftados o cortados, mejorando el control. Peso optimizdo: adaptable para jugadores que requieren una pala versátil para adaptarse a distintas situaciones en pista. Pertenece a la colección de 2026. ¿Para quien es Joma Blast Pro HRD 26? Esta pala está destinada a jugadores de pádel competidores que buscan un rendimiento balanceado entre potencia y control. Su forma híbrida y tacto medio-duro facilitan golpes efectivos y maniobrables, ideales para jugadores avanzados que participan en torneos y partidos exigentes. El modelo Blast Pro HRD es perfecto para aquellos deportistas que priorizan un golpe con firmeza sin perder sensibilidad técnica. Su diseño ayuda a mantener la estabilidad bajo presión permitiendo dominar el juego con seguridad y precisión desde la defensa hasta el ataque. ¿Por qué te va a gustar esta pala de pádel? La Blast Pro HRD es una pala equilibrada y estable que ofrece un control excelente, ideal para quienes gustan de dominar el juego desde el orden y la técnica, pero también tienen la opción de imprimir potencia cuando lo deciden. Es confiable para afrontar partidas intensas. Gracias a sus tecnologías avanzadas y construcción sólida en carbono, esta pala destaca en comodidad y rendimiento. Facilita la evolución del juego asegurando golpes firmes, sin sacrificar la respuesta ni la rapidez, otorgando confianza en cada punto competitivo. Descubre más sobre la marca Joma Joma es una marca española con amplia trayectoria en el mundo del deporte, destacando por crear equipamiento de calidad y alto rendimiento para atletas. Su innovación constante la posiciona como una referencia en accesorios de pádel. En el ámbito del pádel, Joma se enfoca en desarrollar palas con las últimas tecnologías para mejorar el juego de los profesionales y aficionados avanzados. Productos como la Blast Pro HRD evidencian su compromiso con la excelencia deportiva.",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado",
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 179.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/15102-joma-blast-pro-hrd-negro-gris-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "slug": "joma-hyper-pro-hrd-negro-beige-2026-15101",
-    "name": "Joma Hyper Pro HRD negro beige 2026",
-    "brand": "Joma",
-    "category": "raquetes",
-    "price": 179.96,
-    "oldPrice": 180,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/31784-large_default/joma-hyper-pro-hrd-negro-beige-2026.jpg",
-    "ean": "8447534512227",
-    "productGTIN": "8447534512227",
-    "mpn": "15101",
-    "source": "zona-de-padel",
-    "sourceProductId": "15101",
-    "sourceCategory": "Palas de padel > Palas de padel Joma",
-    "description": "La Joma Hyper Pro HRD negro beige 2026 es una pala de pádel diseñada para ofrecer un rendimiento excepcional en la pista. Su estructura con DUALTECH FRAME y carbono 12K proporciona una gran rigidez y resistencia, ideal para jugadores que buscan potencia y estabilidad en cada golpe. Esta pala está pensada para hombres que exigen un alto nivel competitivo sin sacrificar el control. Destinada a jugadores avanzados, su diseño en forma de diamante y tecnologías avanzadas hacen que este modelo sea perfecto para quienes desean una herramienta explosiva y técnica. La combinación de potencia, tacto firme y maniobrabilidad hace que la Hyper Pro HRD sea una inversión imprescindible para dominar partidos intensos y mejorar el rendimiento. Características y tecnologías de la pala Joma Hyper Pro HARD negra y beige 2026 Forma Diamante: maximiza la potencia al desplazar el punto dulce hacia la parte superior para golpes ofensivos más contundentes. Núcleo Black EVA HRD: núcleo de alta densidad que aporta un tacto firme y reduce vibraciones, protegiendo el brazo en largas sesiones. Aerobump Tech y Speed Hole System: optimizan la aerodinámica y reducen la resistencia al aire, mejorando la maniobrabilidad en movimientos rápidos. Material de carbono 12K: proporciona rigidez y durabilidad, asegurando una transferencia eficiente de potencia. Tacto medio-duro y rugosidad 3D Spin: permiten un control superior y la capacidad de generar efectos con la bola para golpes más versátiles. Pertenece a la colección de 2026. ¿Para quién es Joma Hyper Pro HARD 26? Esta pala está orientada a jugadores de pádel que buscan un rendimiento profesional, especialmente aquellos que compiten de forma regular y necesitan una herramienta que les ofrezca máxima potencia sin renunciar al control. Ideal para jugadores de nivel avanzado que prefieren un equilibrio entre fuerza explosiva y precisión, facilitando transiciones rápidas y golpes decisivos en la red o defensa sólida en situaciones complejas. ¿Por qué te va a gustar esta pala de pádel? La Hyper Pro HRD destaca por su potencia explosiva y solidez en el impacto, ofreciendo una sensación de firmeza única que mejora cada golpe ofensivo. Su diseño técnico y equilibrado permite un manejo óptimo, incluso en momentos de alta presión durante la competición. Además, incorpora tecnologías aerodinámicas de última generación que facilitan movimientos ágiles y precisión en los golpes, convirtiéndola en la aliada perfecta para jugadores ofensivos que buscan dominar la pista con rapidez y eficacia. Descubre más sobre la marca Joma Joma es una marca española con una dilatada trayectoria en el mundo del deporte, destacando por su innovación y calidad. Desde sus inicios, se ha enfocado en proporcionar productos técnicos pensados para atletas exigentes, lo que la convierte en una referencia en pádel. Su compromiso con el desarrollo de materiales avanzados y tecnologías específicas para el pádel la posiciona como una opción ideal para jugadores que buscan palas de alto rendimiento, combinando durabilidad, potencia y control en cada modelo.",
+    "sourceProductId": "15126",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Regresa uno de los modelos más esperados de la temporada: la Adidas Metalbone Reserve EDT 2026. Se trata de una pala de pádel diseñada para jugadores exigentes que buscan máxima potencia y control. Su forma de diamante oversize y su balance alto permiten golpes ofensivos potentes, ideales para dominar la red con precisión y estilo agresivo. Pensada para jugadores avanzados y expertos, esta edición limitada destaca por su construcción en carbono y goma EVA, que garantizan durabilidad y un tacto equilibrado. Comprar esta pala es apostar por un rendimiento profesional inspirado en el juego de Ale Galán, con lo que reúne las mejores tecnologías de la marca junto con un diseño exclusivo que te hará brillar en la pista. Características y tecnologías de la pala Adidas Metalbone Reserve EDT de Ale Galán 2026 Forma Diamante: facilita el balance alto para potenciar los remates y golpes definitivos, ideal para ataques contundentes. Materiales de alta calidad: carbono 16K en las caras y marco de fibra de carbono ofrecen rigidez y resistencia para golpes potentes y duraderos. Goma EVA Soft Performance: proporciona un tacto cómodo con excelente absorción de vibraciones, mejorando el control sin perder fuerza. Tecnologías avanzadas: Octagonal Structure, Smart Holes Curve y refuerzos estructurales maximizan estabilidad, efectos y precisión. Spin Blade Decal: Acabado con relieve que mejora los efectos sobre la bola. Pertenece a la colección de palas Adidas de edición limitada 2026. ¿Para quién es Adidas Metalbone Reserve EDT 2026? Esta pala está dirigida a jugadores de nivel avanzado que buscan un perfil ofensivo marcado por la potencia y definición, ideales para quienes dominan el juego aéreo y quieren marcar la diferencia en la red. Perfecta para quienes desean llevar su pádel al máximo nivel, con un enfoque profesional y agresivo, reflejando el estilo único y dominante del jugador profesional Ale Galán. ¿Por qué te va a gustar esta pala de pádel? La Metalbone Reserve Edición Limitada es una pala exclusiva desarrollada junto a Ale Galán, pensada para maximizar el rendimiento en el juego ofensivo. Su diseño elegante y premium destaca en la gama alta de Adidas por innovación y potencia. Su combinación única de materiales avanzados y tecnologías exclusivas garantiza un equilibrio perfecto entre fuerza y control, ideal para jugadores que buscan exclusividad y alto rendimiento. Descubre más sobre la marca Adidas Adidas es una marca globalmente reconocida que combina innovación y tecnología en cada producto. Con una sólida trayectoria en deportes de alto rendimiento, su apuesta por el pádel es garantía de calidad y vanguardia. Los modelos Adidas de pádel están diseñados para jugadores que exigen máximo rendimiento y durabilidad, fusionando estilo, potencia y tecnología para satisfacer las necesidades del juego moderno.",
     "specs": {
       "peso": null,
       "forma": "Diamante",
@@ -530,19 +817,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.96,
+        "price": 324.95,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/15101-joma-hyper-pro-hrd-negro-beige-2026.html"
+        "url": "https://www.zonadepadel.es/adidas-padel/15126-adidas-metalbone-reserve-edt-2026.html"
       }
     ]
   },
   {
-    "id": 52,
+    "id": 62,
     "slug": "joma-hyper-pro-soft-verde-negro-2026-15100",
     "name": "Joma Hyper Pro Soft verde negro 2026",
     "brand": "Joma",
     "category": "raquetes",
-    "price": 179.96,
+    "price": 148.77,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -571,14 +858,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.96,
+        "price": 148.77,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/15100-joma-hyper-pro-soft-verde-negro-2026.html"
       }
     ]
   },
   {
-    "id": 53,
+    "id": 63,
     "slug": "joma-valkiria-pro-hrd-negro-gris-2026-15099",
     "name": "Joma Valkiria Pro HRD negro gris 2026",
     "brand": "Joma",
@@ -619,7 +906,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 54,
+    "id": 64,
     "slug": "joma-valkiria-pro-soft-negro-2026-15098",
     "name": "Joma Valkiria Pro Soft negro 2026",
     "brand": "Joma",
@@ -660,53 +947,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 55,
-    "slug": "joma-slam-pro-iconic-blanco-oro-2026-15097",
-    "name": "Joma Slam Pro Iconic blanco oro 2026",
-    "brand": "Joma",
-    "category": "raquetes",
-    "price": 119.96,
-    "oldPrice": 120,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/31775-large_default/joma-slam-pro-iconic-blanco-oro-2026.jpg",
-    "ean": "8447534516775",
-    "productGTIN": "8447534516775",
-    "mpn": "15097",
-    "source": "zona-de-padel",
-    "sourceProductId": "15097",
-    "sourceCategory": "Palas de padel > Palas de padel Joma",
-    "description": "La pala Joma Slam Pro Iconic blanco oro 2026 se destaca por su formato lágrima que brinda un equilibrio perfecto entre control y potencia. Diseñada para hombres, esta pala ofrece una jugabilidad versátil, adecuada tanto para golpes desde el fondo como para acciones ofensivas cerca de la red, ideal para quienes buscan rendimiento en cada punto. Con materiales de alta calidad y tecnología avanzada, esta pala está pensada para jugadores que desean una herramienta funcional, resistente y fácil de manejar en la pista. La combinación de diseño ergonómico y materiales premium hacen que la Slam Pro Iconic blanca 2026 sea una opción excelente para comprar y elevar tu nivel de juego. Características y tecnologías de la pala Joma Slam Pro Iconic blanca y oro 2026 Forma lágrima equilibrada: Amplía el punto dulce para golpes constantes y permite acelerar la bola cuando lo requieras, adaptándose a diferentes estilos. Marco en carbono 3K de alta resistencia: Aporta solidez y estabilidad, optimizando la transmisión de energía para una pegada potente sin perder control. Núcleo BlackEVA de alta densidad: Proporciona una respuesta firme y precisa que combina potencia con control, ideal para intercambios intensos. Acabado JOMA 3D SPIN: Superficie rugosa en relieve que mejora la generación de efectos, permitiendo golpes con mayor rotación y control de la trayectoria. AEROBUMP TECH: Hendiduras que optimizan el flujo de aire, mejorando la aerodinámica, la velocidad de swing y la manejabilidad en cada golpe. Pertenece a la colección de 2026. ¿Para quien es Joma Slam Pro Iconic blanco oro 26? Esta pala está destinada a jugadores que buscan un rendimiento de alto nivel con una combinación equilibrada de potencia, precisión y manejabilidad. Perfecta para quienes requieren versatilidad y eficacia en todas las fases del partido. El modelo se incluye dentro de la gama competitiva de Joma y es ideal para deportistas serios que desean una pala capaz de responder ante cualquier situación, aportando seguridad y confianza en la pista. ¿Por qué te va a gustar esta pala de pádel? La Slam Pro Iconic blanco oro 2026 destaca por su combinación inteligente de materiales que permite un juego potente y preciso al mismo tiempo. Su estructura facilita una gran sensación de control y dominio en cada punto. Diseñada para quienes desean marcar la diferencia en la pista, esta pala ofrece golpes contundentes y efectos bien definidos, haciendo que cada intercambio sea una oportunidad para destacar con su versatilidad y modernidad. Descubre más sobre la marca Joma Joma es una marca española reconocida por su compromiso con la innovación y la calidad en el deporte. Desde sus orígenes, ha desarrollado productos que combinan tecnologías avanzadas con materiales duraderos, pensados para el rendimiento. Especializada en equipamiento para deportes de raqueta, Joma ha logrado posicionarse como una referencia en el mundo del pádel gracias a su enfoque en palas que equilibran control y potencia, ideales para jugadores exigentes.",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado",
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 119.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/15097-joma-slam-pro-iconic-blanco-oro-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 56,
+    "id": 65,
     "slug": "joma-valkiria-flex-azul-blanco-2026-15095",
     "name": "Joma Valkiria Flex azul blanco 2026",
     "brand": "Joma",
     "category": "raquetes",
-    "price": 89.95,
+    "price": 79.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -735,14 +981,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.95,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/15095-joma-valkiria-flex-azul-blanco-2026.html"
       }
     ]
   },
   {
-    "id": 58,
+    "id": 66,
     "slug": "joma-master-blanco-azul-2026-15093",
     "name": "Joma Master blanco azul 2026",
     "brand": "Joma",
@@ -783,7 +1029,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 59,
+    "id": 67,
     "slug": "joma-master-negro-naranja-2026-15092",
     "name": "Joma Master negro naranja 2026",
     "brand": "Joma",
@@ -824,12 +1070,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 61,
+    "id": 69,
+    "slug": "zapatillas-adidas-gamecourt-2-m-dark-blue-white-2026-15080",
+    "name": "Sapatilhas Adidas Gamecourt 2 M dark blue white 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 52.96,
+    "oldPrice": 70,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31744-large_default/zapatillas-adidas-gamecourt-2-m-dark-blue-white-2026.jpg",
+    "ean": "4068812657504",
+    "productGTIN": "4068812657504",
+    "mpn": "15080",
+    "source": "zona-de-padel",
+    "sourceProductId": "15080",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Las Adidas Gamecourt 2 M Dark Blue White 2026 son unas zapatillas de pádel diseñadas para ofrecer comodidad y resistencia en cada partido. Su malla técnica Primegreen aporta ligereza y ventilación, manteniendo el pie seco durante los intercambios más intensos. Perfectas para jugadores que valoran un calzado fiable y cómodo para entrenamientos y competiciones. Si buscas unas zapatillas para pádel que combinen ligereza, durabilidad y un diseño en azul oscuro con detalles en blanco, estas zapatillas Adidas Gamecourt son la opción ideal. Sujeción segura y estabilidad al moverse por la pista garantizan un rendimiento óptimo en cada movimiento. Características y tecnologías de la zapatilla Adidas Gamecourt 2 M azul marino y blancas 2026 Nivel: Iniciación, perfectas para quienes comienzan en el pádel y necesitan confort y adaptación rápido. Suela Clay con patrón de espiga que ofrece gran tracción y agarre, facilitando movimientos seguros en pista. Espuma EVA en la mediasuela para una amortiguación ligera que absorbe impactos y brinda comodidad durante todo el juego. Protección Adidas Adituff en antepié que resiste abrasiones por arrastres, mejorando la durabilidad del calzado. Pisada cómoda y gran resistencia frente al desgaste. Pertenece a la colección de 2026, integrando las últimas innovaciones en calzado de pádel. ¿Para quien son las Adidas Gamecourt 2 M Dark Blue White 26? Estas zapatillas están pensadas para jugadores de pádel que buscan un calzado ligero y cómodo con buena estabilidad. Ideales para hombres que entrenan y compiten, y desean una sujeción segura en movimientos rápidos y laterales. Su diseño equilibrado es muy adecuado para deportistas que quieren mantener una sensación constante de confort durante partidos largos o sesiones intensas, sin renunciar a la resistencia y funcionalidad en la pista. ¿Por qué te van a gustar estas zapatillas de pádel KI0784? El sistema de cordones clásico permite un ajuste rápido y seguro, asegurando que el pie quede bien sujeto ante cambios de dirección y desplazamientos laterales, lo que aporta confianza y estabilidad al jugar. Con un diseño atractivo en azul oscuro y blanco, las Adidas Gamecourt 2 M combinan funcionalidad y durabilidad, ofreciendo una calidez visual que complementa su rendimiento excepcional en pista. Descubre más sobre la marca Adidas Adidas es una marca líder mundial en innovación deportiva, con una larga trayectoria ofreciendo productos que mejoran el rendimiento de atletas en distintas disciplinas, incluido el pádel. Sus zapatillas para pádel combinan tecnología avanzada y compromiso con el medio ambiente, como la gama Primegreen que utiliza materiales reciclados, elevando así tanto la calidad como la sostenibilidad en el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": "Azul",
+      "uso": "Competição",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 52.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/15080-zapatillas-adidas-gamecourt-2-m-dark-blue-white-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 70,
     "slug": "zapatillas-adidas-gamecourt-2-m-white-metallic-dark-blue-2026-15079",
     "name": "Sapatilhas Adidas Gamecourt 2 M white metallic dark blue 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 62.96,
+    "price": 62.95,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -858,19 +1145,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.96,
+        "price": 62.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15079-zapatillas-adidas-gamecourt-2-m-white-metallic-dark-blue-2026.html"
       }
     ]
   },
   {
-    "id": 62,
+    "id": 71,
     "slug": "zapatillas-adidas-courtjam-control-3-m-clay-dark-blue-2026-15078",
     "name": "Sapatilhas Adidas Courtjam Control 3 M Clay dark blue 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 79.91,
+    "price": 71.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -899,19 +1186,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.91,
+        "price": 71.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15078-zapatillas-adidas-courtjam-control-3-m-clay-dark-blue-2026.html"
       }
     ]
   },
   {
-    "id": 64,
+    "id": 73,
     "slug": "zapatillas-adidas-courtjam-control-3-w-crystal-white-silver-2026-15076",
     "name": "Sapatilhas Adidas Courtjam Control 3 W crystal white silver 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 78,
+    "price": 74.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -940,19 +1227,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 78,
+        "price": 74.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15076-zapatillas-adidas-courtjam-control-3-w-crystal-white-silver-2026.html"
       }
     ]
   },
   {
-    "id": 65,
+    "id": 74,
     "slug": "zapatillas-adidas-barricade-14-m-clay-white-ice-gold-2026-15075",
     "name": "Sapatilhas Adidas Barricade 14 M Clay white ice gold 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 144.95,
+    "price": 127.51,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -981,19 +1268,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 144.95,
+        "price": 127.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15075-zapatillas-adidas-barricade-14-m-clay-white-ice-gold-2026.html"
       }
     ]
   },
   {
-    "id": 67,
+    "id": 76,
     "slug": "adidas-world-cup-fifa-multination-2026-15073",
     "name": "Adidas World Cup FIFA Multination 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1022,19 +1309,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15073-adidas-world-cup-fifa-multination-2026.html"
       }
     ]
   },
   {
-    "id": 68,
+    "id": 77,
     "slug": "adidas-world-cup-usa-2026-15072",
     "name": "Adidas World Cup USA 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1063,19 +1350,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15072-adidas-world-cup-usa-2026.html"
       }
     ]
   },
   {
-    "id": 69,
+    "id": 78,
     "slug": "adidas-world-cup-colombia-2026-15071",
     "name": "Adidas World Cup Colombia 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1104,19 +1391,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15071-adidas-world-cup-colombia-2026.html"
       }
     ]
   },
   {
-    "id": 70,
+    "id": 79,
     "slug": "adidas-world-cup-belgium-2026-15070",
     "name": "Adidas World Cup Belgium 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1145,19 +1432,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15070-adidas-world-cup-belgium-2026.html"
       }
     ]
   },
   {
-    "id": 71,
+    "id": 80,
     "slug": "adidas-world-cup-netherlands-2026-15069",
     "name": "Adidas World Cup Netherlands 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1186,19 +1473,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15069-adidas-world-cup-netherlands-2026.html"
       }
     ]
   },
   {
-    "id": 72,
+    "id": 81,
     "slug": "adidas-world-cup-germany-2026-15068",
     "name": "Adidas World Cup Germany 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1227,19 +1514,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15068-adidas-world-cup-germany-2026.html"
       }
     ]
   },
   {
-    "id": 73,
+    "id": 82,
     "slug": "adidas-world-cup-england-2026-15067",
     "name": "Adidas World Cup England 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1268,19 +1555,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15067-adidas-world-cup-england-2026.html"
       }
     ]
   },
   {
-    "id": 74,
+    "id": 83,
     "slug": "adidas-world-cup-italy-2026-15066",
     "name": "Adidas World Cup Italy 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1309,19 +1596,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html"
       }
     ]
   },
   {
-    "id": 75,
+    "id": 84,
     "slug": "adidas-world-cup-mexico-2026-15065",
     "name": "Adidas World Cup Mexico 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 159.95,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1350,19 +1637,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.95,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15065-adidas-world-cup-mexico-2026.html"
       }
     ]
   },
   {
-    "id": 76,
+    "id": 85,
     "slug": "adidas-world-cup-argentina-2026-15064",
     "name": "Adidas World Cup Argentina 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1391,19 +1678,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15064-adidas-world-cup-argentina-2026.html"
       }
     ]
   },
   {
-    "id": 77,
+    "id": 86,
     "slug": "adidas-world-cup-france-2026-15063",
     "name": "Adidas World Cup France 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1432,19 +1719,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15063-adidas-world-cup-france-2026.html"
       }
     ]
   },
   {
-    "id": 78,
+    "id": 87,
     "slug": "adidas-world-cup-spain-2026-15062",
     "name": "Adidas World Cup Spain 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 143.96,
+    "price": 129.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1473,14 +1760,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/15062-adidas-world-cup-spain-2026.html"
       }
     ]
   },
   {
-    "id": 88,
+    "id": 96,
     "slug": "zapatillas-wilson-rush-pro-5-clay-black-red-2026-15048",
     "name": "Sapatilhas Wilson Rush Pro 5 Clay black red 2026",
     "brand": "Wilson Padel",
@@ -1521,12 +1808,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 90,
+    "id": 98,
     "slug": "zapatillas-wilson-rush-tour-5-dst-vetiver-2026-15046",
     "name": "Sapatilhas Wilson Rush Tour 5 DST vetiver 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 179.96,
+    "price": 149.28,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -1555,19 +1842,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.96,
+        "price": 149.28,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/15046-zapatillas-wilson-rush-tour-5-dst-vetiver-2026.html"
       }
     ]
   },
   {
-    "id": 92,
+    "id": 100,
     "slug": "zapatillas-wilson-rush-pro-5-clay-white-bay-2026-15044",
     "name": "Sapatilhas Wilson Rush Pro 5 Clay white bay 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 121.96,
+    "price": 114.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -1596,14 +1883,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 121.96,
+        "price": 114.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/15044-zapatillas-wilson-rush-pro-5-clay-white-bay-2026.html"
       }
     ]
   },
   {
-    "id": 93,
+    "id": 101,
     "slug": "zapatillas-wilson-rush-pro-5-clay-gray-2026-15043",
     "name": "Sapatilhas Wilson Rush Pro 5 Clay gray 2026",
     "brand": "Wilson Padel",
@@ -1644,7 +1931,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 115,
+    "id": 123,
     "slug": "bote-pelotas-tecnifibre-x-one-14974",
     "name": "Bote pelotas Tecnifibre X-One",
     "brand": "Tecnifibre",
@@ -1685,7 +1972,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 116,
+    "id": 124,
     "slug": "pack-3-botes-pelotas-tecnifibre-x-one-14973",
     "name": "Pack 3 botes pelotas Tecnifibre X-One",
     "brand": "Tecnifibre",
@@ -1726,7 +2013,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 187,
+    "id": 195,
     "slug": "wilson-optix-v2-lite-lila-2026-14872",
     "name": "Wilson Optix V2 Lite lila 2026",
     "brand": "Wilson Padel",
@@ -1767,7 +2054,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 188,
+    "id": 196,
     "slug": "wilson-optix-v2-lite-blanca-2026-14871",
     "name": "Wilson Optix V2 Lite blanca 2026",
     "brand": "Wilson Padel",
@@ -1808,53 +2095,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 206,
-    "slug": "mochila-head-coello-tour-gris-2026-14842",
-    "name": "Mochila Head Coello Tour gris 2026",
-    "brand": "Head Padel",
-    "category": "sacos",
-    "price": 59.43,
-    "oldPrice": 90,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/31001-large_default/mochila-head-coello-tour-gris-2026.jpg",
-    "ean": "198772188702",
-    "productGTIN": "198772188702",
-    "mpn": "14842",
-    "source": "zona-de-padel",
-    "sourceProductId": "14842",
-    "sourceCategory": "Paleteros de padel > Bolsas y paleteros Head",
-    "description": "Ya disponible la Mochila Head Coello Tour gris 2026 combina un diseño elegante con funcionalidad máxima para deportistas que valoran la practicidad sin perder estilo. Con detalles premium como el logo de la corona de Coello en acabado brillante y un interior rojo distintivo, esta mochila es ideal para quienes buscan un accesorio versátil para sus entrenamientos y uso diario. Diseñada para jugadores que desean llevar todo lo esencial sin complicaciones, esta mochila ofrece compartimentos específicos para hasta dos palas, zapatillas y accesorios. Gracias a su tamaño contenido y sus prácticos bolsillos exteriores, es perfecta para deportistas que priorizan comodidad y estética. Compra ahora y disfruta de un producto exclusivo que destaca en cada detalle. Características de la Mochila Head Coello Tour gris 2026 Compartimento para dos palas: protege tus palas durante el traslado con espacio reservado y seguro. Interior rojo: aporta personalidad y estilo único que refleja la esencia de la colección Coello. Bolsillo exterior con cremallera: acceso fácil y rápido a objetos pequeños y esenciales mientras estás en movimiento. Compromiso sostenible: etiqueta de papel reciclado y bolsa de plástico reciclado incluida, reafirmando la responsabilidad medioambiental de Head. Año 2026: incorpora la última tecnología en materiales y diseño para un producto actual y duradero. ¿Para quien es Mochila Head Coello Tour gris 2026? Esta mochila está dirigida a deportistas que buscan una solución práctica y funcional sin renunciar a un diseño atractivo. Es perfecta para aquellos que prefieren una mochila compacta y versátil tanto para entrenamientos como para actividades diarias. Ideal para jugadores que valoran la comodidad y requieren un espacio bien organizado para transportar sus palas, zapatillas y accesorios. La mochila Coello Tour se adapta perfectamente a su ritmo y estilo de vida dinámico. ¿Por qué te va a gustar esta Mochila de pádel? Su estilo exclusivo y elegante, con toques personalizados del número 1 del mundo, hacen de esta mochila una pieza única dentro de la colección Arturo Coello. Cada detalle, desde su acabado gris oscuro hasta los logos, transmite prestigio y distinción. Además, su diseño actualizado en color gris reforzado dota a la mochila de un carácter premium, demostrando que funcionalidad y sofisticación pueden ir de la mano para acompañarte en cada paso. Descubre más sobre la marca Head Head es una referencia mundial en el mundo del deporte, con una sólida trayectoria en la fabricación de productos de alta calidad para pádel y otras disciplinas. Su experiencia en innovación y tecnología se refleja en cada diseño. La mochila Head Coello Tour destaca dentro de su catálogo como una opción premium para jugadores que buscan combinar estilo y funcionalidad, reafirmando el compromiso de Head con la excelencia en cada detalle del producto.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 59.43,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/head-padel/14842-mochila-head-coello-tour-gris-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 207,
+    "id": 214,
     "slug": "paletero-head-coello-tour-gris-2026-14841",
     "name": "Saco Head Coello Tour gris 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 87.96,
+    "price": 74.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -1883,14 +2129,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 87.96,
+        "price": 74.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14841-paletero-head-coello-tour-gris-2026.html"
       }
     ]
   },
   {
-    "id": 208,
+    "id": 215,
     "slug": "mochila-head-coello-pro-x-gris-2026-14840",
     "name": "Mochila Head Coello PRO X gris 2026",
     "brand": "Head Padel",
@@ -1931,7 +2177,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 209,
+    "id": 216,
     "slug": "paletero-head-coello-pro-x-duffle-negro-2026-14839",
     "name": "Saco Head Coello Pro X Duffle negro 2026",
     "brand": "Head Padel",
@@ -1972,7 +2218,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 212,
+    "id": 219,
     "slug": "zapatillas-adidas-barricade-14-m-clay-flash-aqua-lucid-orange-2026-14836",
     "name": "Sapatilhas Adidas Barricade 14 M Clay flash aqua lucid orange 2026",
     "brand": "Adidas Padel",
@@ -2013,12 +2259,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 244,
+    "id": 251,
     "slug": "zapatillas-wilson-rush-tour-5-clay-white-black-2026-14774",
     "name": "Sapatilhas Wilson Rush Tour 5 Clay white black 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 179.91,
+    "price": 138.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -2047,19 +2293,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.91,
+        "price": 138.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14774-zapatillas-wilson-rush-tour-5-clay-white-black-2026.html"
       }
     ]
   },
   {
-    "id": 247,
+    "id": 254,
     "slug": "zapatillas-asics-solution-speed-ff-4-clay-bluebell-white-2026-14749",
     "name": "Sapatilhas Asics Solution Speed FF 4 Clay bluebell white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 134.91,
+    "price": 127.51,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -2088,14 +2334,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.91,
+        "price": 127.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14749-zapatillas-asics-solution-speed-ff-4-clay-bluebell-white-2026.html"
       }
     ]
   },
   {
-    "id": 248,
+    "id": 255,
     "slug": "zapatillas-wilson-rush-pro-5-tour-white-2026-14737",
     "name": "Sapatilhas Wilson Rush Pro 5 Tour white 2026",
     "brand": "Wilson Padel",
@@ -2136,12 +2382,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 249,
+    "id": 256,
     "slug": "zapatillas-wilson-rush-tour-5-white-diva-blue-2026-14736",
     "name": "Sapatilhas Wilson Rush Tour 5 white diva blue 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 168.96,
+    "price": 138.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -2170,19 +2416,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 168.96,
+        "price": 138.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14736-zapatillas-wilson-rush-tour-5-white-diva-blue-2026.html"
       }
     ]
   },
   {
-    "id": 250,
+    "id": 257,
     "slug": "zapatillas-wilson-rush-tour-5-clay-white-bay-blue-2026-14735",
     "name": "Sapatilhas Wilson Rush Tour 5 Clay white bay blue 2026",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 169.96,
+    "price": 172.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -2211,19 +2457,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 169.96,
+        "price": 172.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14735-zapatillas-wilson-rush-tour-5-clay-white-bay-blue-2026.html"
       }
     ]
   },
   {
-    "id": 259,
+    "id": 266,
     "slug": "head-coello-junior-2026-14716",
     "name": "Head Coello Junior 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 89.8,
+    "price": 84.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -2252,19 +2498,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.8,
+        "price": 84.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14716-head-coello-junior-2026.html"
       }
     ]
   },
   {
-    "id": 260,
+    "id": 267,
     "slug": "head-coello-vibe-2026-14715",
     "name": "Head Coello Vibe 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 125.91,
+    "price": 99.95,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -2293,19 +2539,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 125.91,
+        "price": 99.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14715-head-coello-vibe-2026.html"
       }
     ]
   },
   {
-    "id": 261,
+    "id": 268,
     "slug": "head-coello-team-2026-14714",
     "name": "Head Coello Team 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 168.96,
+    "price": 172.96,
     "oldPrice": 220,
     "rating": null,
     "badge": null,
@@ -2334,19 +2580,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 168.96,
+        "price": 172.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14714-head-coello-team-2026.html"
       }
     ]
   },
   {
-    "id": 262,
+    "id": 269,
     "slug": "head-coello-motion-2026-14713",
     "name": "Head Coello Motion 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 229.96,
+    "price": 266.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -2375,60 +2621,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 229.96,
+        "price": 266.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14713-head-coello-motion-2026.html"
       }
     ]
   },
   {
-    "id": 263,
-    "slug": "zapatillas-asics-gel-resolution-x-clay-white-morganite-2026-14712",
-    "name": "Sapatilhas Asics Gel Resolution X Clay white morganite 2026",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 104.8,
-    "oldPrice": 160,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30786-large_default/zapatillas-asics-gel-resolution-x-clay-white-morganite-2026.jpg",
-    "ean": "4571633406102",
-    "productGTIN": "4571633406102",
-    "mpn": "14712",
-    "source": "zona-de-padel",
-    "sourceProductId": "14712",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "Las zapatillas Asics Gel Resolution X Clay white morganite 2026 para mujer ofrecen una combinación ideal de durabilidad, confort y soporte para jugadoras avanzadas de pádel. Su exclusiva suela clay garantiza un agarre excepcional en cada movimiento lateral sobre pista de tierra batida, asegurando estabilidad y seguridad durante todo el partido. Diseñadas para las apasionadas del pádel femenino, estas zapatillas destacan por su tecnología GEL en el antepié que amortigua impactos y maximiza la energía en la pisada. No permitas que el calzado limite tu rendimiento, elige Asics para optimizar tu juego con comodidad y precisión en cada desplazamiento. Características y tecnologías de la zapatilla Asics Gel Resolution X Clay blancas y rosas 2026 Suela Espiga clásica: Perfecta para pistas de tierra batida, proporciona un agarre superior y estabilidad en los movimientos laterales. FF Blast+ Eco: Entresuela ligera y dinámica, que ofrece una amortiguación cómoda para largas sesiones de juego. Dynawall 3.0: Refuerzos en talón y mediopié que aumentan la protección y resistencia durante desplazamientos bruscos. GEL® en el antepié: Sistema exclusivo de absorción de impactos que mejora la transferencia energética y reduce la fatiga. Tobillo elevado y Dynalacing: Ajuste preciso que aporta mayor sujeción y estabilidad en movimientos extremos. Pertenece a la colección de 2026, temporada primavera/verano. ¿Para quién son las Asics Gel Resolution X Clay 26? Estas zapatillas están pensadas para mujeres que practican pádel con un nivel avanzado y buscan confort durante el juego. Ideales para jugadoras que requieren estabilidad y mayor respuesta en cada movimiento gracias a su diseño y tecnologías especializadas. Si eres una apasionada del pádel y valoras la combinación de durabilidad y confort, estas zapatillas Asics con su suela especializada Clay serán tu mejor aliada para destacar en la pista sin preocuparte por el desgaste o la incomodidad. ¿Por qué te van a gustar estas zapatillas de pádel 1042A277-104? La entresuela fabricada con material FF Blast+ Eco proporciona ligereza y una amortiguación excepcional que reduce el impacto durante el juego, facilitando movimientos fluidos y dinámicos en cada punto disputado. Además, el conocido sistema GEL® de Asics, ubicado estratégicamente en el antepié, permite una óptima transferencia de energía, ayudando a mejorar tus arrancadas y desplazamientos en la pista con mayor eficiencia y menor fatiga. Descubre más sobre la marca Asics Asics es una marca japonesa reconocida mundialmente por su innovación en calzado deportivo. Desde su fundación, ha desarrollado productos diseñados para mejorar el rendimiento y la comodidad de los atletas en diversas disciplinas. Especializada en tecnologías de amortiguación y soporte, Asics adapta sus avances al mundo del pádel, ofreciendo zapatillas que combinan durabilidad, confort y precisión para cada movimiento dentro de la cancha.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": "Branco",
-      "uso": "Pádel",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 104.8,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/14712-zapatillas-asics-gel-resolution-x-clay-white-morganite-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 264,
+    "id": 270,
     "slug": "head-coello-pro-2026-14711",
     "name": "Head Coello Pro 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 239.93,
+    "price": 299.91,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -2457,19 +2662,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 239.93,
+        "price": 299.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14711-head-coello-pro-2026.html"
       }
     ]
   },
   {
-    "id": 283,
+    "id": 289,
     "slug": "wilson-optix-v2-power-azul-2026-14687",
     "name": "Wilson Optix V2 Power azul 2026",
     "brand": "Wilson Padel",
     "category": "raquetes",
-    "price": 92.96,
+    "price": 94.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -2498,19 +2703,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 92.96,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14687-wilson-optix-v2-power-azul-2026.html"
       }
     ]
   },
   {
-    "id": 284,
+    "id": 290,
     "slug": "wilson-optix-v2-power-roja-2026-14686",
     "name": "Wilson Optix V2 Power roja 2026",
     "brand": "Wilson Padel",
     "category": "raquetes",
-    "price": 89.96,
+    "price": 92.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -2539,14 +2744,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.96,
+        "price": 92.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14686-wilson-optix-v2-power-roja-2026.html"
       }
     ]
   },
   {
-    "id": 285,
+    "id": 291,
     "slug": "wilson-endure-ls-v1-2026-14685",
     "name": "Wilson Endure LS V1 2026",
     "brand": "Wilson Padel",
@@ -2587,12 +2792,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 286,
+    "id": 292,
     "slug": "wilson-endure-v1-2026-14684",
     "name": "Wilson Endure V1 2026",
     "brand": "Wilson Padel",
     "category": "raquetes",
-    "price": 169.01,
+    "price": 199.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -2621,14 +2826,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 169.01,
+        "price": 199.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/14684-wilson-endure-v1-2026.html"
       }
     ]
   },
   {
-    "id": 287,
+    "id": 293,
     "slug": "wilson-endure-pro-v1-2026-14683",
     "name": "Wilson Endure Pro V1 2026",
     "brand": "Wilson Padel",
@@ -2669,7 +2874,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 343,
+    "id": 349,
     "slug": "zapatillas-bullpadel-performance-comfort-woman-26v-pink-2026-14621",
     "name": "Sapatilhas Bullpadel Performance Comfort Woman 26V pink 2026",
     "brand": "Bullpadel",
@@ -2710,7 +2915,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 344,
+    "id": 350,
     "slug": "zapatillas-bullpadel-performance-comfort-woman-26v-white-2026-14620",
     "name": "Sapatilhas Bullpadel Performance Comfort Woman 26V white 2026",
     "brand": "Bullpadel",
@@ -2751,7 +2956,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 366,
+    "id": 372,
     "slug": "bullpadel-vertex-04-comfort-ltd-2026-14596",
     "name": "Bullpadel Vertex 04 Comfort LTD 2026",
     "brand": "Bullpadel",
@@ -2792,53 +2997,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 367,
-    "slug": "zapatillas-asics-gel-dedicate-8-padel-white-misty-pine-2026-14593",
-    "name": "Sapatilhas Asics Gel Dedicate 8 Padel white misty pine 2026",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 55.96,
-    "oldPrice": 75,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30398-large_default/zapatillas-asics-gel-dedicate-8-padel-white-misty-pine-2026.jpg",
-    "ean": null,
-    "productGTIN": null,
-    "mpn": "14593",
-    "source": "zona-de-padel",
-    "sourceProductId": "14593",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "Las zapatillas Asics Gel Dedicate 8 Padel white misty pine 2026 ofrecen un diseño innovador y funcional pensado para mejorar el rendimiento en la pista. Ideales para jugadores que buscan confort, estabilidad y una excelente amortiguación, estas zapatillas combinan tecnología avanzada con un estilo deportivo blanco y detalles en Misty Pine. Perfectas para hombres que se inician o tienen un nivel intermedio en pádel, estas zapatillas brindan soporte lateral y una suela diseñada para un agarre óptimo en superficies de césped artificial. Si buscas comodidad durante largas sesiones de entrenamiento, este modelo es una opción imprescindible que combina rendimiento y sostenibilidad ambiental. Características y tecnologías de la zapatilla Asics Gel Dedicate 8 Padel blancas y verdes 2026 Nivel Iniciación: Perfectas para jugadores que comienzan en el pádel y necesitan confort y soporte durante el juego. Juego Confort: Incorporan una amortiguación avanzada para mantener la comodidad incluso en partidos prolongados. Suela New Padel: Su diseño específico con goma resistente asegura un agarre efectivo y durabilidad en pistas de césped artificial con arena. Estabilizado integrado que mejora la sujeción en apoyos laterales. Están fabricadas con zonas de tejido técnico para ofrecer frescura y ventilación óptima en las temporadas más cálidas. Pertenece a la colección de 2026, integrando las últimas innovaciones tecnológicas de Asics para pádel. ¿Para quién son las Asics Gel Dedicate 8 Padel white misty pine 26? Este calzado está especialmente indicado para jugadores de pádel principiantes e intermedios que valoran la combinación de estabilidad, amortiguación y frescura en cada movimiento. Su diseño equilibrado se adapta a quienes buscan mejorar sin comprometer la comodidad. La zapatilla se ajusta a deportistas que practican el pádel de forma regular y desean un calzado versátil que soporte desplazamientos laterales, cambios rápidos y una pisada cómoda, aportando soporte sin sacrificar el estilo deportivo. ¿Por qué te van a gustar estas zapatillas de pádel 1041A414-103? Te encantarán por su excepcional confort y amortiguación, gracias a la tecnología GEL® que absorbe los impactos y reduce la fatiga, permitiéndote mantener el máximo rendimiento durante largas horas de juego. Además, su estabilidad reforzada con el sistema TRUSSTIC garantiza un soporte lateral sólido en cada giro o desplazamiento, aportando confianza y seguridad en la pista con un diseño moderno y atractivo en tonos blancos y cion logotipo y detalles en verde. Descubre más sobre la marca Asics Asics es una marca reconocida mundialmente por su compromiso en crear calzado deportivo de alta calidad, enfocado en la innovación tecnológica y el bienestar del deportista. Su historia se basa en la mejora continua para ofrecer productos que potencien el rendimiento atlético. Especializada en corredores y deportistas exigentes, Asics ha adaptado su experiencia al pádel, lanzando zapatillas específicas como la Gel Dedicate 8 que combinan durabilidad, confort y soporte, esenciales para afrontar la dinámica particular de este deporte.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": null,
-      "cor": "Branco",
-      "uso": "Pádel",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 55.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/14593-zapatillas-asics-gel-dedicate-8-padel-white-misty-pine-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 372,
+    "id": 377,
     "slug": "zapatillas-adidas-defiant-speed-2-m-black-lucid-orange-2026-14587",
     "name": "Sapatilhas Adidas Defiant Speed 2 M black lucid orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 81.4,
+    "price": 89.95,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2867,14 +3031,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 81.4,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14587-zapatillas-adidas-defiant-speed-2-m-black-lucid-orange-2026.html"
       }
     ]
   },
   {
-    "id": 374,
+    "id": 379,
     "slug": "zapatillas-adidas-courtjam-control-3-m-clay-white-black-orange-2026-14584",
     "name": "Sapatilhas Adidas Courtjam Control 3 M Clay white black orange 2026",
     "brand": "Adidas Padel",
@@ -2915,12 +3079,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 375,
+    "id": 380,
     "slug": "zapatillas-bullpadel-ionic-woman-26v-beige-2026-14583",
     "name": "Sapatilhas Bullpadel Ionic Woman 26V beige 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 91.96,
+    "price": 101.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2949,19 +3113,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 91.96,
+        "price": 101.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14583-zapatillas-bullpadel-ionic-woman-26v-beige-2026.html"
       }
     ]
   },
   {
-    "id": 376,
+    "id": 381,
     "slug": "zapatillas-bullpadel-ionic-woman-26v-white-2026-14582",
     "name": "Sapatilhas Bullpadel Ionic Woman 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 107.95,
+    "price": 91.95,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -2990,19 +3154,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 107.95,
+        "price": 91.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14582-zapatillas-bullpadel-ionic-woman-26v-white-2026.html"
       }
     ]
   },
   {
-    "id": 377,
+    "id": 382,
     "slug": "zapatillas-bullpadel-indiga-26v-lime-blue-2026-14581",
     "name": "Sapatilhas Bullpadel Indiga 26V lime blue 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 51.96,
+    "price": 67.5,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -3031,14 +3195,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 51.96,
+        "price": 67.5,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14581-zapatillas-bullpadel-indiga-26v-lime-blue-2026.html"
       }
     ]
   },
   {
-    "id": 378,
+    "id": 383,
     "slug": "zapatillas-bullpadel-hybrid-fly-26v-orange-2026-14580",
     "name": "Sapatilhas Bullpadel Hybrid Fly 26V orange 2026",
     "brand": "Bullpadel",
@@ -3079,12 +3243,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 379,
+    "id": 384,
     "slug": "zapatillas-bullpadel-hybrid-fly-26v-white-2026-14579",
     "name": "Sapatilhas Bullpadel Hybrid Fly 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 72.01,
+    "price": 69.95,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -3113,19 +3277,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 72.01,
+        "price": 69.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14579-zapatillas-bullpadel-hybrid-fly-26v-white-2026.html"
       }
     ]
   },
   {
-    "id": 380,
+    "id": 385,
     "slug": "zapatillas-bullpadel-hybrid-fly-26v-grey-2026-14578",
     "name": "Sapatilhas Bullpadel Hybrid Fly 26V grey 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 64.96,
+    "price": 62.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -3154,60 +3318,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 64.96,
+        "price": 62.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14578-zapatillas-bullpadel-hybrid-fly-26v-grey-2026.html"
       }
     ]
   },
   {
-    "id": 392,
-    "slug": "zapatillas-babolat-jet-premura-2-men-seaport-2026-14538",
-    "name": "Sapatilhas Babolat Jet Premura 2 Men seaport 2026",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 124.91,
-    "oldPrice": 160,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30248-large_default/zapatillas-babolat-jet-premura-2-men-seaport-2026.jpg",
-    "ean": "3324922317945",
-    "productGTIN": "3324922317945",
-    "mpn": "14538",
-    "source": "zona-de-padel",
-    "sourceProductId": "14538",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Babolat",
-    "description": "Las zapatillas Babolat Jet Premura 2 Men seaport 2026 son la elección perfecta para jugadores avanzados que buscan máxima estabilidad y ligereza en sus movimientos. Con un diseño innovador y tecnologías exclusivas, estas zapatillas garantizan un rendimiento óptimo en cada salto y aceleración. Su tonalidad azul y estructura ergonómica las convierten en un calzado funcional y estilizado. Dirigidas a profesionales del pádel exigentes, estas zapatillas ofrecen un ajuste preciso y una transpirabilidad superior gracias a la tecnología Matryx® MICRO. Su suela Omni y sistema de agarre Michelin permiten dominar la pista con rapidez y comodidad, elevando tu juego a otro nivel. Comprar las Jet Premura 2 Men es asegurar salud y eficacia en cada punto. Características y tecnologías de la zapatilla Babolat Jet Premura 2 Men azules y blancas 2026 Nivel avanzado: ideadas para jugadores expertos que necesitan soporte y reactividad en cada movimiento. Diseño de suela Omni: proporciona un agarre multidireccional ideal para las rápidas acciones del pádel. Materiales transpirables que mantienen el pie fresco y seco durante el juego intenso además de refuerzos estructurales. Innovación en confort: espuma EVA en la suela para mejorar el rebote y reducir la fatiga muscular. Suela Michelin: reconocida durabilidad y excelente tracción para terrenos de pádel. Pertenece a la colección de 2026. ¿Para quién son las Babolat Jet Premura 2 Men seaport 26? Estas zapatillas están diseñadas para jugadores de pádel avanzados que buscan maximizar su rendimiento en pista, valorando la rapidez y precisión en sus movimientos. Si eres un competidor que exige estabilidad y ligereza, este calzado será tu aliado ideal. Para profesionales que dominan intercambios prolongados y requieren un soporte excepcional en pivotes y aceleraciones, la Jet Premura 2 Men seaport ofrece el equilibrio perfecto entre confort y durabilidad para afrontar largas sesiones de juego. ¿Por qué te van a gustar estas zapatillas de pádel 3A0S26B752-4143? La tercera generación de Premura mantiene los icónicos \"dientes\" que aportan una sujeción impecable del antepié, mientras integra nuevas funcionalidades para mayor estabilidad y confort. Su diseño 3D en talón y lengüeta ultraligera distingue a estas zapatillas de la competencia. Además, la combinación de reactividad y transpirabilidad hace que cada salto, pivote o aceleración se sienta natural y eficiente. Sea atacando la bola o en un intercambio largo, las Jet Premura 2 Men elevan tu nivel en la pista con cada movimiento. Descubre más sobre la marca Babolat Babolat es una marca francesa con una larga tradición en innovar equipamiento deportivo, especialmente reconocido en el ámbito del pádel y tenis. Su desarrollo constante en tejidos tecnológicos garantiza productos que combinan confort y alto rendimiento. Con su colaboración junto a expertos en tejidos como Chamatex, Babolat ha conseguido diseñar zapatillas que responden a las exigencias de los deportistas más profesionales. Las Jet Premura 2 Men reflejan la experiencia y calidad que caracterizan a esta firma dentro del mundo del pádel.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Omni / All Court",
-      "genero": "Homem",
-      "cor": null,
-      "uso": "Competição",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 124.91,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/babolat/14538-zapatillas-babolat-jet-premura-2-men-seaport-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 393,
+    "id": 396,
     "slug": "zapatillas-babolat-jet-premura-2-men-black-gold-2026-14537",
     "name": "Sapatilhas Babolat Jet Premura 2 Men black gold 2026",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 97.2,
+    "price": 106.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3236,14 +3359,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 97.2,
+        "price": 106.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14537-zapatillas-babolat-jet-premura-2-men-black-gold-2026.html"
       }
     ]
   },
   {
-    "id": 394,
+    "id": 397,
     "slug": "zapatillas-babolat-movea-2-men-seaport-cherry-tomato-2026-14536",
     "name": "Sapatilhas Babolat Movea 2 Men seaport cherry tomato 2026",
     "brand": "Babolat",
@@ -3284,7 +3407,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 395,
+    "id": 398,
     "slug": "zapatillas-babolat-jet-viva-men-blue-moon-seaport-2026-14535",
     "name": "Sapatilhas Babolat Jet Viva Men blue moon seaport 2026",
     "brand": "Babolat",
@@ -3325,12 +3448,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 397,
+    "id": 400,
     "slug": "adidas-arrow-hit-hexagon-ltd-2026-14533",
     "name": "Adidas Arrow Hit Hexagon LTD 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 189.95,
+    "price": 184.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -3359,55 +3482,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 189.95,
+        "price": 184.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14533-adidas-arrow-hit-hexagon-ltd-2026.html"
       }
     ]
   },
   {
-    "id": 401,
-    "slug": "zapatillas-bullpadel-indiga-woman-26v-grapefruit-2026-14527",
-    "name": "Sapatilhas Bullpadel Indiga Woman 26V grapefruit 2026",
-    "brand": "Bullpadel",
-    "category": "sapatilhas",
-    "price": 47.3,
-    "oldPrice": 75,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30123-large_default/zapatillas-bullpadel-indiga-woman-26v-grapefruit-2026.jpg",
-    "ean": "8445402958061",
-    "productGTIN": "8445402958061",
-    "mpn": "14527",
-    "source": "zona-de-padel",
-    "sourceProductId": "14527",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Bullpadel",
-    "description": "Las zapatillas Bullpadel Indiga Woman 26V grapefruit 2026 son el calzado ideal para jugadoras que buscan combinar confort y rendimiento en pista. Diseñadas especialmente para mujeres, ofrecen un equilibrio perfecto entre soporte y libertad de movimiento, asegurando mayor tracción y seguridad en cada desplazamiento. Pensadas para quienes comienzan o progresan en el pádel, estas zapatillas proporcionan la sujeción necesaria para un juego ágil y cómodo. Su diseño moderno en color blanco con detalles pomelo añade un toque dinámico, perfecto para quienes buscan un estilo que refleje su personalidad competitiva y su confianza en la pista. Características y tecnologías de la zapatilla Bullpadel Indiga Woman 26V pomelo 2026 Nivel de juego Iniciación: Perfectas para jugadoras principiantes que buscan un calzado que acompañe su mejora técnica con soporte y confort. Suela Clay con patrón de espiga: Ofrece tracción óptima sobre césped artificial con arena, facilitando movimientos rápidos y giros seguros. Mediasuela EVA y phylon: Combinación que amortigua impactos, reduciendo la fatiga muscular y manteniendo una sensación suave durante cada punto. Materiales ligeros y transpirables que aseguran frescura y comodidad en condiciones cálidas. Pertenece a la colección de 2026: Innovadoras tecnologías y estilo actualizado para estar siempre a la vanguardia en la pista. ¿Para quien son las Bullpadel Indiga Woman 26V grapefruit 26? Estas zapatillas están dirigidas a jugadoras de pádel con nivel principiante e intermediario que necesitan un calzado equilibrado, ligero y confortable que les brinde un soporte fiable durante sus entrenamientos y partidos. Ideales para deportistas que valoran la tracción eficiente y la durabilidad, son el compañero perfecto para quienes desean avanzar en su juego sin sacrificar comodidad ni estilo. ¿Por qué te van a gustar estas zapatillas de pádel 493711? El upper de malla técnica microperforada garantiza una alta transpirabilidad, permitiendo que el pie se mantenga seco y fresco durante largas sesiones en la pista. Esto es esencial para jugadoras que buscan bienestar constante en sus entrenamientos. Además, su atractivo diseño en blanco con toques en tono pomelo ofrece un look moderno y dinámico, ideal para quienes quieren combinar rendimiento con una imagen actual y deportiva. Descubre más sobre la marca Bullpadel Bullpadel es una marca reconocida mundialmente por su dedicación al pádel, ofreciendo productos de alta calidad que fusionan innovación y funcionalidad. Con años de experiencia, ha crecido convirtiéndose en referente para jugadores de todos los niveles. Sus zapatillas, como las diseñadas para mujeres, reflejan este compromiso con el control, la comodidad y la durabilidad, adaptándose a las exigencias del juego moderno y garantizando el mejor rendimiento en cada punto.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 47.3,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/bullpadel/14527-zapatillas-bullpadel-indiga-woman-26v-grapefruit-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 403,
+    "id": 405,
     "slug": "zapatillas-bullpadel-indiga-26v-dark-grey-2026-14524",
     "name": "Sapatilhas Bullpadel Indiga 26V dark grey 2026",
     "brand": "Bullpadel",
@@ -3448,7 +3530,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 406,
+    "id": 407,
+    "slug": "head-vibe-azul-amarilla-2026-14522",
+    "name": "Head Vibe azul amarilla 2026",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 74.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/30085-large_default/head-vibe-azul-amarilla-2026.jpg",
+    "ean": "198772113506",
+    "productGTIN": "198772113506",
+    "mpn": "14522",
+    "source": "zona-de-padel",
+    "sourceProductId": "14522",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Disfruta de tus primeros partidos con la Head Vibe azul amarilla 2026, una pala de pádel diseñada para jugadores que buscan un rendimiento polivalente y equilibrado. Su forma de lágrima y balance medio ofrecen un control excepcional sin renunciar a la potencia, ideal para quienes desean una pala manejable y que aporte seguridad en cada golpe. Esta pala está pensada para hombres en fase de iniciación e intermedios que buscan progresar cómodamente en su juego. La combinación de materiales de alta calidad, como la fibra de vidrio y el núcleo de goma foam, la convierten en una opción perfecta para obtener precisión, estabilidad y confort durante los partidos. Características y tecnologías de la pala Head Vibe azul y 2026 Forma lágrima: equilibrio perfecto entre control y potencia para un juego versátil. Nivel iniciación: ideal para jugadores que comienzan y desean una pala fácil y cómoda. Peso optimizado: gran manejabilidad que facilita movimientos rápidos en la pista. Material principal de fibra de vidrio: proporciona un tacto suave y una mayor tolerancia ante golpes descentrados. Núcleo foam: favorecen una salida de bola progresiva y golpes más controlados. Pertenece a la colección de palas Head para empezar a pádel 2026. ¿Para quien es Head Vibe 26? Esta pala de pádel está enfocada principalmente a jugadores de nivel iniciación e intermedios que desean una experiencia de juego confortable y segura. Su diseño polivalente y su amplio punto dulce facilitan la evolución técnica en la pista, siendo perfecta para quienes están perfeccionando su técnica. Si buscas una pala que combine facilidad de manejo y confianza en cada golpe, la Head Vibe azul y amarilla 2026 es una opción que adapta bien tanto a ataques rápidos como a juego defensivo, perfecta para partidas dinámicas y versátiles. ¿Por qué te va a gustar esta pala de pádel? Su excepcional manejabilidad y amplia tolerancia permiten una experiencia de juego cómoda, ayudando a mejorar técnica sin exigir un esfuerzo excesivo en cada golpe. Además, su diseño moderno en azul y amarillo aporta un estilo deportivo y actual en la pista. La combinación de materiales como la fibra de vidrio y el núcleo foam garantiza un tacto blando y una salida de bola fluida, aspectos fundamentales para mantener el control y la precisión, aspectos clave para progresar con confianza en el juego. Descubre más sobre la marca Head Head es una marca reconocida mundialmente por su innovación y calidad en el mundo del pádel. Desde hace años, fabrica equipamiento que combina tecnología avanzada con un diseño pensado para todo tipo de jugadores, garantizando rendimiento y durabilidad. En el caso de la Head Vibe azul amarilla 2026, esta trayectoria de excelencia se traduce en una pala pensada para quienes comienzan y buscan progresar con un producto que ofrece versatilidad, confort y fiabilidad en cada partido.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 74.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/14522-head-vibe-azul-amarilla-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 408,
     "slug": "head-vibe-verde-naranja-2026-14521",
     "name": "Head Vibe verde naranja 2026",
     "brand": "Head Padel",
@@ -3489,7 +3612,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 407,
+    "id": 409,
     "slug": "head-bolt-roja-negra-2026-14519",
     "name": "Head Bolt roja negra 2026",
     "brand": "Head Padel",
@@ -3530,12 +3653,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 408,
+    "id": 410,
     "slug": "head-bolt-blanca-gris-2026-14518",
     "name": "Head Bolt blanca gris 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 89.96,
+    "price": 74.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -3564,14 +3687,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.96,
+        "price": 74.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14518-head-bolt-blanca-gris-2026.html"
       }
     ]
   },
   {
-    "id": 413,
+    "id": 415,
     "slug": "zapatillas-bullpadel-ionic-26v-black-2026-14511",
     "name": "Sapatilhas Bullpadel Ionic 26V black 2026",
     "brand": "Bullpadel",
@@ -3612,12 +3735,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 423,
+    "id": 426,
     "slug": "zapatillas-head-revolt-pro-5-0-clay-men-white-navy-2026-14498",
     "name": "Sapatilhas Head Revolt Pro 5.0 Clay Men white navy 2026",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 114.91,
+    "price": 109.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3646,19 +3769,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.91,
+        "price": 109.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14498-zapatillas-head-revolt-pro-50-clay-men-white-navy-2026.html"
       }
     ]
   },
   {
-    "id": 428,
+    "id": 431,
     "slug": "zapatillas-asics-solution-speed-ff-4-clay-black-aurora-green-2026-14493",
     "name": "Sapatilhas Asics Solution Speed FF 4 Clay black aurora green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 119.91,
+    "price": 109.91,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3687,19 +3810,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 109.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14493-zapatillas-asics-solution-speed-ff-4-clay-black-aurora-green-2026.html"
       }
     ]
   },
   {
-    "id": 431,
+    "id": 434,
     "slug": "zapatillas-adidas-courtjam-control-3-w-white-gold-2026-14488",
     "name": "Sapatilhas Adidas Courtjam Control 3 W white gold 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 63.01,
+    "price": 67.51,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -3728,14 +3851,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.01,
+        "price": 67.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14488-zapatillas-adidas-courtjam-control-3-w-white-gold-2026.html"
       }
     ]
   },
   {
-    "id": 432,
+    "id": 435,
     "slug": "zapatillas-adidas-courtjam-control-3-w-white-beam-orange-2026-14487",
     "name": "Sapatilhas Adidas Courtjam Control 3 W white beam orange 2026",
     "brand": "Adidas Padel",
@@ -3776,12 +3899,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 434,
+    "id": 437,
     "slug": "zapatillas-adidas-courtjam-control-3-m-white-lucid-orange-2026-14485",
     "name": "Sapatilhas Adidas Courtjam Control 3 M white lucid orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 62.92,
+    "price": 63.01,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -3810,19 +3933,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.92,
+        "price": 63.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14485-zapatillas-adidas-courtjam-control-3-m-white-lucid-orange-2026.html"
       }
     ]
   },
   {
-    "id": 435,
+    "id": 438,
     "slug": "zapatillas-adidas-crazyquick-boost-padel-m-orange-2026-14483",
     "name": "Sapatilhas Adidas Crazyquick Boost Padel M orange 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 108.96,
+    "price": 114.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -3851,19 +3974,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 108.96,
+        "price": 114.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14483-zapatillas-adidas-crazyquick-boost-padel-m-orange-2026.html"
       }
     ]
   },
   {
-    "id": 436,
+    "id": 439,
     "slug": "zapatillas-adidas-gamecourt-2-m-white-2026-14482",
     "name": "Sapatilhas Adidas Gamecourt 2 M white 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 59.01,
+    "price": 57.96,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -3892,19 +4015,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.01,
+        "price": 57.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14482-zapatillas-adidas-gamecourt-2-m-white-2026.html"
       }
     ]
   },
   {
-    "id": 441,
+    "id": 444,
     "slug": "mochila-adidas-multigame-blanca-naranja-2026-14468",
     "name": "Mochila Adidas Multigame blanca naranja 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 53.92,
+    "price": 59.91,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -3933,19 +4056,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 53.92,
+        "price": 59.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14468-mochila-adidas-multigame-blanca-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 442,
+    "id": 445,
     "slug": "mochila-adidas-multigame-roja-negra-2026-14466",
     "name": "Mochila Adidas Multigame roja negra 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 53.92,
+    "price": 51.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -3974,19 +4097,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 53.92,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14466-mochila-adidas-multigame-roja-negra-2026.html"
       }
     ]
   },
   {
-    "id": 443,
+    "id": 446,
     "slug": "mochila-adidas-protour-rosa-negra-2026-14465",
     "name": "Mochila Adidas Protour rosa negra 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 67.96,
+    "price": 71.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -4015,14 +4138,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 67.96,
+        "price": 71.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14465-mochila-adidas-protour-rosa-negra-2026.html"
       }
     ]
   },
   {
-    "id": 444,
+    "id": 447,
     "slug": "mochila-adidas-protour-azul-bronce-2026-14464",
     "name": "Mochila Adidas Protour azul bronce 2026",
     "brand": "Adidas Padel",
@@ -4063,7 +4186,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 445,
+    "id": 448,
     "slug": "paletero-adidas-control-blanco-naranja-2026-14463",
     "name": "Saco Adidas Control blanco naranja 2026",
     "brand": "Adidas Padel",
@@ -4104,12 +4227,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 446,
+    "id": 449,
     "slug": "paletero-adidas-control-azul-rosa-2026-14462",
     "name": "Saco Adidas Control azul rosa 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 32.96,
+    "price": 27.24,
     "oldPrice": 45,
     "rating": null,
     "badge": null,
@@ -4138,19 +4261,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 32.96,
+        "price": 27.24,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14462-paletero-adidas-control-azul-rosa-2026.html"
       }
     ]
   },
   {
-    "id": 447,
+    "id": 450,
     "slug": "paletero-adidas-control-negro-azul-2026-14461",
     "name": "Saco Adidas Control negro azul 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 39.96,
+    "price": 27.24,
     "oldPrice": 45,
     "rating": null,
     "badge": null,
@@ -4179,19 +4302,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 39.96,
+        "price": 27.24,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14461-paletero-adidas-control-negro-azul-2026.html"
       }
     ]
   },
   {
-    "id": 448,
+    "id": 451,
     "slug": "paletero-adidas-tour-plata-2026-14460",
     "name": "Saco Adidas Tour plata 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 61.95,
+    "price": 51.01,
     "oldPrice": 85,
     "rating": null,
     "badge": null,
@@ -4220,19 +4343,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.95,
+        "price": 51.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14460-paletero-adidas-tour-plata-2026.html"
       }
     ]
   },
   {
-    "id": 449,
+    "id": 452,
     "slug": "paletero-adidas-tour-bronze-2026-14459",
     "name": "Saco Adidas Tour bronze 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 61.95,
+    "price": 75.96,
     "oldPrice": 85,
     "rating": null,
     "badge": null,
@@ -4261,19 +4384,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.95,
+        "price": 75.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14459-paletero-adidas-tour-bronze-2026.html"
       }
     ]
   },
   {
-    "id": 450,
+    "id": 453,
     "slug": "paletero-adidas-multigame-negro-rojo-2026-14456",
     "name": "Saco Adidas Multigame negro rojo 2026",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 74.95,
+    "price": 77.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -4302,14 +4425,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 74.95,
+        "price": 77.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14456-paletero-adidas-multigame-negro-rojo-2026.html"
       }
     ]
   },
   {
-    "id": 451,
+    "id": 454,
     "slug": "paletero-adidas-protour-rosa-negro-2026-14455",
     "name": "Saco Adidas Protour rosa negro 2026",
     "brand": "Adidas Padel",
@@ -4350,7 +4473,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 452,
+    "id": 455,
     "slug": "paletero-adidas-protour-azul-bronce-2026-14454",
     "name": "Saco Adidas Protour azul bronce 2026",
     "brand": "Adidas Padel",
@@ -4391,12 +4514,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 453,
+    "id": 456,
     "slug": "zapatillas-bullpadel-wonder-26v-bubblegum-2026-14436",
     "name": "Sapatilhas Bullpadel Wonder 26V bubblegum 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 121.95,
+    "price": 121.96,
     "oldPrice": 135,
     "rating": null,
     "badge": null,
@@ -4425,19 +4548,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 121.95,
+        "price": 121.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14436-zapatillas-bullpadel-wonder-26v-bubblegum-2026.html"
       }
     ]
   },
   {
-    "id": 454,
+    "id": 457,
     "slug": "zapatillas-bullpadel-wonder-26v-white-2026-14435",
     "name": "Sapatilhas Bullpadel Wonder 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 114.96,
+    "price": 121.95,
     "oldPrice": 135,
     "rating": null,
     "badge": null,
@@ -4466,14 +4589,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.96,
+        "price": 121.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14435-zapatillas-bullpadel-wonder-26v-white-2026.html"
       }
     ]
   },
   {
-    "id": 455,
+    "id": 458,
     "slug": "zapatillas-bullpadel-elite-26v-navy-2026-14434",
     "name": "Sapatilhas Bullpadel Elite 26V navy 2026",
     "brand": "Bullpadel",
@@ -4514,7 +4637,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 457,
+    "id": 460,
     "slug": "zapatillas-bullpadel-pearl-vibram-26v-lilac-2026-14432",
     "name": "Sapatilhas Bullpadel Pearl Vibram 26V lilac 2026",
     "brand": "Bullpadel",
@@ -4555,7 +4678,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 458,
+    "id": 461,
     "slug": "zapatillas-bullpadel-pearl-vibram-26v-sky-blue-2026-14431",
     "name": "Sapatilhas Bullpadel Pearl Vibram 26V sky blue 2026",
     "brand": "Bullpadel",
@@ -4596,7 +4719,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 460,
+    "id": 462,
+    "slug": "drop-shot-explorer-9-0-2026-14430",
+    "name": "Drop Shot Explorer 9.0 2026",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 173.52,
+    "oldPrice": 210,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31258-large_default/drop-shot-explorer-90-2026.jpg",
+    "ean": "8435758315984",
+    "productGTIN": "8435758315984",
+    "mpn": "14430",
+    "source": "zona-de-padel",
+    "sourceProductId": "14430",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Explorer 9.0 2026 es una pala diseñada para jugadores que buscan la combinación perfecta entre potencia y precisión. Su equilibrio medio-alto y forma lágrima facilitan golpes potentes y controlados, ideales para quienes quieren dominar el juego desde una posición ofensiva con comodidad. Esta pala está pensada para hombres que desean mejorar su rendimiento en pista con una herramienta que ofrece tecnología avanzada y un excelente tacto. Es la mejor opción para comprar si valoras el control, la absorción de impactos y la durabilidad en una pala que se adapta a un estilo de juego táctico pero agresivo. Características y tecnologías de la pala Drop Shot Explorer 9.0 2026 Forma lágrima: proporciona un equilibrio entre potencia y manejo, ideal para jugadores que buscan versatilidad en cada golpe. Aconsejada para jugadores con experiencia que requieren una pala que responda en situaciones de alta exigencia técnica y física. Ofrece un balance medio-alto que facilita golpes contundentes sin perder control ni maniobrabilidad. Núcleo y tacto EVA Pro medio y blando: aporta elasticidad, memoria mecánica y un plus de comodidad, previniendo la fatiga durante largos partidos. Material Principal carbono: proporciona resistencia y durabilidad, manteniendo la consistencia y eficacia en cada golpe. Pertenece a la colección 2026 ¿Para quién es Drop Shot Explorer 9.0 26? Esta pala está especialmente diseñada para jugadores que buscan dominar la pista con una combinación de potencia controlada y precisión. Es ideal para quienes prefieren un juego ofensivo y táctico, donde cada golpe cuenta y la estabilidad es clave. Su formato lágrima y balance medio-alto la hacen perfecta para hombres que exigen un buen rendimiento sin sacrificar la comodidad ni la maniobrabilidad, siendo una opción acertada tanto para jugadores intermedios como avanzados. ¿Por qué te va a gustar esta pala de pádel? Te encantará por la suma de tecnologías que combinan potencia y control, como el 3D Face System y Smart Holes System, que maximizan el efecto y precisión en cada golpe, haciendo que la Drop Shot Explorer 9.0 2026 responda a tus exigencias tácticas. Además, su sistema anti-vibración Cork Cushion Grip y Vibra Tech Angles Technology te garantizan comodidad y protección en la muñeca, reduciendo la fatiga, ideal para largas sesiones de juego sin perder efectividad. Descubre más sobre la marca Drop Shot Drop Shot es una marca reconocida en el mundo del pádel por su innovación y calidad en la fabricación de palas. Desde sus inicios, se ha comprometido con el desarrollo de productos que mejoran el rendimiento del jugador y su experiencia en pista. La Drop Shot Explorer 9.0 2026 refleja el enfoque de la marca hacia la tecnología y el confort, ofreciendo herramientas avanzadas que combinan materiales como el carbono y EVA para que cada golpe sea consistente y duradero.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": "Médio",
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 173.52,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/14430-drop-shot-explorer-90-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 463,
     "slug": "drop-shot-explorer-soft-woman-2026-14429",
     "name": "Drop Shot Explorer Soft Woman 2026",
     "brand": "Drop Shot",
@@ -4637,12 +4801,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 462,
+    "id": 464,
+    "slug": "drop-shot-explorer-pro-confort-2-0-2026-14428",
+    "name": "Drop Shot Explorer Pro Confort 2.0 2026",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 167.96,
+    "oldPrice": 220,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31239-large_default/drop-shot-explorer-pro-confort-20-2026.jpg",
+    "ean": "8435758316004",
+    "productGTIN": "8435758316004",
+    "mpn": "14428",
+    "source": "zona-de-padel",
+    "sourceProductId": "14428",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Explorer Pro Confort 2.0 2026 es una pala pensada para potenciar al máximo tu rendimiento en la pista, ideal para jugadores que buscan control y precisión en cada golpe. Su estructura robusta y ligera, combinada con tecnología avanzada, ofrece una experiencia cómoda y eficiente que diferencial tu juego. Esta pala de Drop Shot para hombre está diseñada especialmente para quienes requieren un equilibrio perfecto entre tacto suave y potencia ajustada. Si quieres proteger tus articulaciones y mantener el confort en largas jornadas de pádel, esta pala será tu mejor aliada para dominar cada punto con estrategia. Características y tecnologías de la pala Drop Shot Explorer Pro Confort 2.0 2026 Forma redonda que facilita un amplio punto dulce, ideal para golpes de control y precisión en situaciones defensivas o estratégicas. Núcleo de goma EVA Pro que mejora la elasticidad y la resistencia al impacto, otorgando un tacto medio-blando que garantiza confort y durabilidad. Protector integrado que ofrece mayor protección frente a golpes. Material principal de carbono en doble tubular Raw Unidirectional que aporta una estructura ligera y resistente para golpes potentes y máxima estabilidad. Amplio punto dulce, con mucha superficie para golpear que ayuda a equilibrar maniobrabilidad y potencia en cada golpe. Pertenece a la colección de 2026, integrando las tecnologías más recientes para un rendimiento avanzado. ¿Para quien es Drop Shot Explorer Pro Confort 2.0 26? Esta pala está especialmente diseñada para jugadores intermedios y avanzados que valoran el control táctico y buscan un equipamiento que ofrezca precisión y comodidad en cada toma de contacto con la bola. Su balance bajo y forma redonda son perfectos para quienes prefieren un estilo de juego defensivo y estratégico, con golpes suaves pero efectivos como dejadas y globos, sin perder la opción de un toque de potencia controlada. ¿Por qué te va a gustar esta pala de pádel? Gracias a su innovadora tecnología anti vibraciones, esta pala consigue reducir la fatiga muscular y proteger tus articulaciones, permitiendo que juegues con mayor confort durante sesiones prolongadas. La combinación de una goma EVA de alta calidad con una estructura de carbono contribuye a un tacto excepcionalmente suave y un golpe uniforme, lo que maximiza tu sensación de control y precisión en cada situación. Descubre más sobre la marca Drop Shot Drop Shot es una marca líder reconocida por su compromiso con la innovación y calidad en el mundo del pádel, desarrollando productos que integran tecnología avanzada para mejorar el rendimiento y protección del jugador. Nacida para ofrecer soluciones que combinan confort, durabilidad y eficacia, Drop Shot se ha consolidado como referente especialmente en palas profesionales, adaptándose a las necesidades de jugadores exigentes que buscan precisión y confort únicos.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 167.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/14428-drop-shot-explorer-pro-confort-20-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 465,
     "slug": "drop-shot-canyon-pro-confort-2-0-2026-14427",
     "name": "Drop Shot Canyon Pro Confort 2.0 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 197.96,
+    "price": 171.96,
     "oldPrice": 230,
     "rating": null,
     "badge": null,
@@ -4671,14 +4876,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 197.96,
+        "price": 171.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14427-drop-shot-canyon-pro-confort-20-2026.html"
       }
     ]
   },
   {
-    "id": 463,
+    "id": 466,
     "slug": "drop-shot-axion-attack-junior-2026-14426",
     "name": "Drop Shot Axion Attack Junior 2026",
     "brand": "Drop Shot",
@@ -4719,7 +4924,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 464,
+    "id": 467,
     "slug": "drop-shot-axion-comfort-1-0-2026-14425",
     "name": "Drop Shot Axion Comfort 1.0 2026",
     "brand": "Drop Shot",
@@ -4760,12 +4965,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 465,
+    "id": 468,
     "slug": "babolat-counter-vertuo-2-6-2026-14424",
     "name": "Babolat Counter Vertuo 2.6 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 135.93,
+    "price": 179.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -4794,19 +4999,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 135.93,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14424-babolat-counter-vertuo-26-2026.html"
       }
     ]
   },
   {
-    "id": 466,
+    "id": 469,
     "slug": "babolat-counter-veron-2-6-2026-14423",
     "name": "Babolat Counter Veron 2.6 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 239.96,
+    "price": 214.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -4835,14 +5040,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 239.96,
+        "price": 214.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14423-babolat-counter-veron-26-2026.html"
       }
     ]
   },
   {
-    "id": 468,
+    "id": 470,
+    "slug": "babolat-counter-viper-2-6-2026-14422",
+    "name": "Babolat Counter Viper 2.6 2026",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 287.95,
+    "oldPrice": 320,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/30223-large_default/babolat-counter-viper-26-2026.jpg",
+    "ean": "3324922283134",
+    "productGTIN": "3324922283134",
+    "mpn": "14422",
+    "source": "zona-de-padel",
+    "sourceProductId": "14422",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "La Babolat Counter Viper 2.6 2026 es una pala diseñada especialmente para jugadores de perfil contraatacante que buscan máxima precisión y control. Su construcción en carbono 3K y núcleo EVA adaptado ofrecen un equilibrio perfecto entre potencia y confort, ideal para dominar el ritmo del partido con inteligencia y estrategia. Esta pala es perfecta para tenistas exigentes que quieren controlar el juego desde la estrategia, logrando golpes milimétricos y capacidad de definición cuando es necesario. Si buscas una pala avanzada, estable y con tecnología para reducir vibraciones, la Counter Viper 2.6 es tu mejor aliada para competir con garantías. Características y tecnologías de la pala Babolat Counter Viper 2.6 Forma lágrima y perfil de 38 mm: Proporcionan equilibrio entre control y potencia, ideal para jugadores polivalentes. Núcleo de EVA con estructura sándwich: Combina capas rígidas y blandas para explosividad y confort adaptado al contraataque. Material principal carbono 3K: Ofrece una superficie resistente y precisa que mejora la dirección del golpe y potencia cuando se requiere. Rugosidad 3D y tipo lija: Permite generar efectos liftados y cortados, aportando un plus de control en golpes tácticos. Pertenece a la colección de 2026. ¿Para quién es Babolat Counter Viper 2.6 26? Esta pala está pensada para jugadores de pádel avanzados y competitivos que valoran la precisión y estabilidad en cada golpe. Son jugadores que basan su estilo en la paciencia, la colocación y la lectura del juego para dominar el partido. Ideal para deportistas que buscan una herramienta que ofrezca control absoluto sin renunciar a una potencia efectiva en momentos clave. Su diseño es perfecto para controlar el ritmo y atacar en el instante justo. ¿Por qué te va a gustar esta pala de pádel? La superficie de la Counter Viper 2.6 incorpora relieves y acabado rugoso que maximizan el efecto sobre la bola, imprescindible para golpes liftados y cortados, fundamentales en un juego táctico y efectivo. Además, el sistema Smart Buttcap ofrece la posibilidad de extraer y personalizar el cordón del mango, facilitando higiene y adaptabilidad para cada jugador, mejorando la experiencia de uso y confort. Descubre más sobre la marca Babolat Babolat es una marca histórica con más de un siglo dedicada a la fabricación de equipamiento deportivo, reconocida mundialmente por su innovación en productos de tenis y pádel. Su experiencia en materiales y tecnologías pioneras se refleja en esta pala, que combina precisión, potencia y confort, siendo una elección segura para jugadores que exigen calidad y rendimiento en su juego.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 287.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/14422-babolat-counter-viper-26-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 471,
     "slug": "babolat-air-vertuo-2-6-2026-14421",
     "name": "Babolat Air Vertuo 2.6 2026",
     "brand": "Babolat",
@@ -4883,12 +5129,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 470,
+    "id": 472,
+    "slug": "babolat-air-veron-2-6-2026-14420",
+    "name": "Babolat Air Veron 2.6 2026",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 239.96,
+    "oldPrice": 240,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/30229-large_default/babolat-air-veron-26-2026.jpg",
+    "ean": "3324922283165",
+    "productGTIN": "3324922283165",
+    "mpn": "14420",
+    "source": "zona-de-padel",
+    "sourceProductId": "14420",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "La Babolat Air Veron 2.6 2026 es una pala de pádel diseñada para jugadores que buscan un equilibrio perfecto entre manejabilidad, control y potencia explosiva. Su innovadora construcción con CarbonFlex aporta una superficie flexible y reactiva que facilita golpes dinámicos sin esfuerzo, ideal para un juego rápido y ofensivo. Destinada a hombres con nivel intermedio y avanzado, esta pala sobresale en la red gracias a su agilidad y precisión, permitiendo dominar el ritmo del partido con comodidad y eficacia. La Air Veron 2.6 destaca por su sistema antivibración y peso ligero, lo que convierte esta pala en una opción ideal para comprar si buscas rendimiento, confort y versatilidad en todas las fases del juego. Características y tecnologías de la pala Babolat Air Veron 2.6 2026 Forma diamante: favorece un punto dulce amplio y una potencia elevada, optimizando los golpes ofensivos para jugadores agresivos. Núcleo Black EVA: estructura en sándwich con tres capas que combinan rigidez y confort, proporcionando máxima tolerancia y salida de bola suave. Materiales Carbono y Fibra de vidrio: combinación que ofrece resistencia, elasticidad y respuesta reactiva en cada impacto. Rugosidad 3D en superficie: aumenta el efecto sobre la bola para un mejor control en golpes liftados y cortados, fundamental en la red. Peso entre 350-360 gramos: asegura manejabilidad y velocidad en movimientos rápidos, ideal para transiciones ágiles durante el juego. Pertenece a la colección de 2026. ¿Para quién es Babolat Air Veron 2.6 26? Esta pala está pensada para jugadores intermedios y avanzados que desean un equilibrio entre velocidad, control y potencia, permitiéndoles mantener un estilo de juego agresivo y rápido sin sacrificar la comodidad ni el control. Perfecta para quienes dominan la red y buscan golpes precisos y veloces, esta pala aporta la confianza necesaria para ejecutar una amplia variedad de tiros con eficacia, adaptándose a todas las fases del partido. ¿Por qué te va a gustar esta pala de pádel? Gracias a su forma diamante oversize y su peso ligero, la Air Veron 2.6 ofrece una excelente manejabilidad que facilita movimientos ágiles y rápidos, potenciando los ataques sin esfuerzo excesivo. Además, incorpora el sistema Smart Buttcap, que permite extraer y personalizar el cordón del mango para una limpieza sencilla o una adaptación personalizada, mejorando la experiencia global del jugador. Descubre más sobre la marca Babolat Babolat es una marca reconocida mundialmente por su innovación en la fabricación de equipamiento para deportes de raqueta, combinando tecnología avanzada con décadas de experiencia para ofrecer productos de alta calidad. Su dedicación a la investigación y desarrollo en pádel se refleja en palas como la Air Veron 2.6, que integran materiales de última generación para satisfacer las exigencias de los jugadores más exigentes, elevando su rendimiento en la pista.",
+    "specs": {
+      "peso": "360g",
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 239.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/14420-babolat-air-veron-26-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 473,
     "slug": "babolat-air-viper-2-6-2026-14419",
     "name": "Babolat Air Viper 2.6 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 319.96,
+    "price": 287.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -4917,19 +5204,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 319.96,
+        "price": 287.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14419-babolat-air-viper-26-2026.html"
       }
     ]
   },
   {
-    "id": 471,
+    "id": 474,
     "slug": "babolat-technical-veron-3-0-2026-14417",
     "name": "Babolat Technical Veron 3.0 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 197.8,
+    "price": 197.96,
     "oldPrice": 220,
     "rating": null,
     "badge": null,
@@ -4958,14 +5245,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 197.8,
+        "price": 197.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/14417-babolat-technical-veron-30-2026.html"
       }
     ]
   },
   {
-    "id": 472,
+    "id": 475,
     "slug": "babolat-technical-viper-soft-3-0-2026-14416",
     "name": "Babolat Technical Viper Soft 3.0 2026",
     "brand": "Babolat",
@@ -5006,12 +5293,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 474,
+    "id": 476,
+    "slug": "babolat-technical-viper-3-0-2026-14415",
+    "name": "Babolat Technical Viper 3.0 2026",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 329.96,
+    "oldPrice": 370,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/30201-large_default/babolat-technical-viper-30-2026.jpg",
+    "ean": "3324922283110",
+    "productGTIN": "3324922283110",
+    "mpn": "14415",
+    "source": "zona-de-padel",
+    "sourceProductId": "14415",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "Nueva versión de la Babolat Technical Viper 3.0 2026, una pala diseñada para jugadores avanzados que buscan un rendimiento ofensivo superior. Con un enfoque en la potencia extrema y la precisión milimétrica, esta raqueta destaca por su alta reactividad y estabilidad en cada golpe, ideal para dominar la pista con agresividad. Es perfecta para quienes necesitan una pala que responda al estilo intenso y decisivo de juego. Si quieres imponer tu ritmo y realizar ataques contundentes con control y comodidad, la Technical Viper 3.0 de Babolat para hombre es la elección acertada. Gracias a sus innovadoras tecnologías y su estructura pensada para el máximo rendimiento, esta pala te permitirá mejorar tus golpes ofensivos como remates y víboras, garantizando un juego contundente y seguro. Características y tecnologías de la pala Babolat Technical Viper 3.0 2026 Forma diamante: Optimiza el punto dulce para golpes potentes y controlados, ideal para jugadores que buscan imponerse en ataque. Núcleo de goma Eva con tacto duro: Proporciona una respuesta rápida y firme gracias a su construcción con 3 capas que mejora la potencia sin sacrificar estabilidad en cada impacto. Construcción en fibra de carbono 3k para dar máxima explosividad y precisión. Material principal de carbono: Garantiza resistencia y ligereza para una manejabilidad superior y mayor durabilidad. Rugosidad 3D con acabado lijado: Aumenta la fricción con la bola, permitiendo ejecutar golpes con efectos liftados o cortados con gran precisión. Pertenece a la colección de 2026: Presenta las últimas innovaciones y tecnologías adaptadas a los estilos de juego modernos. ¿Para quién es Babolat Technical Viper 3.0 26? Esta pala está fabricada especialmente para jugadores ofensivos que buscan dominar el juego con golpes de ataque contundentes y precisos. Si tu estilo se basa en la agresividad y en el control absoluto del punto, esta raqueta es la herramienta perfecta para mantener la iniciativa en cada punto. Es ideal para quienes necesitan una pala que responda de manera rápida y potente en el remate, la víbora o bandejas profundas. Así podrás imponer tu ritmo con la confianza que brinda una pala diseñada para situaciones de alta exigencia técnica y física. ¿Por qué te va a gustar esta pala de pádel? Una gran innovación que sorprende en esta pala es la integración de la tecnología Carbon Power Layer, una lámina de carbono interna que refuerza el núcleo y aumenta la potencia en golpes decisivos, como remates, sin perder estabilidad y control. También incorpora la tecnología Powered by SMAC, que combina elastómeros y elementos amortiguadores en el corazón y mango de la pala, reduciendo las vibraciones para mejorar la sensación en el golpe y proteger el brazo de lesiones por sobrecarga. Descubre más sobre la marca Babolat Babolat es una marca de reconocido prestigio mundial en el mundo del pádel y el tenis, famosa por su innovación y calidad en cada uno de sus productos. Sus palas combinan materiales avanzados y tecnologías punteras para ofrecer el máximo rendimiento. Desde sus orígenes, Babolat ha apostado por la evolución constante, adaptándose a las necesidades del jugador moderno. La Technical Viper es un claro ejemplo de su compromiso con el juego dinámico y de alta competición, apreciada por profesionales y aficionados exigentes que buscan potencia y precisión.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 329.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/14415-babolat-technical-viper-30-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 477,
     "slug": "zapatillas-bullpadel-hack-vibram-26v-lime-2026-14414",
     "name": "Sapatilhas Bullpadel Hack Vibram 26V lime 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 128.07,
+    "price": 108.01,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -5040,19 +5368,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 128.07,
+        "price": 108.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14414-zapatillas-bullpadel-hack-vibram-26v-lime-2026.html"
       }
     ]
   },
   {
-    "id": 475,
+    "id": 478,
     "slug": "zapatillas-bullpadel-hack-vibram-26v-white-2026-14413",
     "name": "Sapatilhas Bullpadel Hack Vibram 26V white 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 126,
+    "price": 115.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -5081,14 +5409,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 126,
+        "price": 115.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14413-zapatillas-bullpadel-hack-vibram-26v-white-2026.html"
       }
     ]
   },
   {
-    "id": 477,
+    "id": 480,
     "slug": "zapatillas-bullpadel-vertex-vibram-woman-26v-sand-2026-14411",
     "name": "Sapatilhas Bullpadel Vertex Vibram Woman 26V sand 2026",
     "brand": "Bullpadel",
@@ -5129,12 +5457,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 478,
+    "id": 481,
     "slug": "zapatillas-bullpadel-vertex-vibram-woman-26v-black-2026-14410",
     "name": "Sapatilhas Bullpadel Vertex Vibram Woman 26V black 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 119.91,
+    "price": 109.96,
     "oldPrice": 155,
     "rating": null,
     "badge": null,
@@ -5163,14 +5491,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.91,
+        "price": 109.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14410-zapatillas-bullpadel-vertex-vibram-woman-26v-black-2026.html"
       }
     ]
   },
   {
-    "id": 479,
+    "id": 482,
     "slug": "zapatillas-bullpadel-x-plo-vibram-26v-white-2026-14409",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 26V white 2026",
     "brand": "Bullpadel",
@@ -5211,7 +5539,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 481,
+    "id": 484,
     "slug": "zapatillas-bullpadel-x-plo-vibram-26v-dark-grey-2026-14407",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 26V dark grey 2026",
     "brand": "Bullpadel",
@@ -5252,7 +5580,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 482,
+    "id": 485,
     "slug": "zapatillas-bullpadel-ionic-26v-royal-blue-2026-14406",
     "name": "Sapatilhas Bullpadel Ionic 26V royal blue 2026",
     "brand": "Bullpadel",
@@ -5293,12 +5621,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 483,
+    "id": 486,
     "slug": "zapatillas-bullpadel-neuron-26v-navy-2026-14405",
     "name": "Sapatilhas Bullpadel Neuron 26V navy 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 104.01,
+    "price": 89.95,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -5327,14 +5655,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.01,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14405-zapatillas-bullpadel-neuron-26v-navy-2026.html"
       }
     ]
   },
   {
-    "id": 485,
+    "id": 488,
     "slug": "zapatillas-bullpadel-vertex-vibram-26v-orange-2026-14402",
     "name": "Sapatilhas Bullpadel Vertex Vibram 26V orange 2026",
     "brand": "Bullpadel",
@@ -5375,12 +5703,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 487,
+    "id": 490,
     "slug": "zapatillas-bullpadel-vertex-vibram-26v-navy-2026-14400",
     "name": "Sapatilhas Bullpadel Vertex Vibram 26V navy 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 143.96,
+    "price": 112.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -5409,14 +5737,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.96,
+        "price": 112.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14400-zapatillas-bullpadel-vertex-vibram-26v-navy-2026.html"
       }
     ]
   },
   {
-    "id": 488,
+    "id": 491,
     "slug": "bullpadel-hack-advance-2026-14399",
     "name": "Bullpadel Hack Advance 2026",
     "brand": "Bullpadel",
@@ -5457,7 +5785,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 489,
+    "id": 492,
     "slug": "bullpadel-vertex-advance-2026-14397",
     "name": "Bullpadel Vertex Advance 2026",
     "brand": "Bullpadel",
@@ -5498,12 +5826,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 490,
+    "id": 493,
     "slug": "mochila-head-pro-backpack-18l-azul-marino-2026-14396",
     "name": "Mochila Head Pro Backpack 18L azul marino 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 59.01,
+    "price": 71.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -5532,19 +5860,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.01,
+        "price": 71.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14396-mochila-head-pro-backpack-18l-azul-marino-2026.html"
       }
     ]
   },
   {
-    "id": 492,
+    "id": 495,
     "slug": "zapatillas-head-motion-team-1-5-women-padel-white-purple-night-2026-14394",
     "name": "Sapatilhas Head Motion Team 1.5 Women Padel white purple night 2026",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 63.93,
+    "price": 66.01,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5573,19 +5901,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.93,
+        "price": 66.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14394-zapatillas-head-motion-team-15-women-padel-white-purple-night-2026.html"
       }
     ]
   },
   {
-    "id": 494,
+    "id": 497,
     "slug": "zapatillas-head-motion-team-1-5-men-padel-blueberry-cantaloupe-green-2026-14392",
     "name": "Sapatilhas Head Motion Team 1.5 Men Padel blueberry cantaloupe green 2026",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 82.95,
+    "price": 77.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5614,14 +5942,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 82.95,
+        "price": 77.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14392-zapatillas-head-motion-team-15-men-padel-blueberry-cantaloupe-green-2026.html"
       }
     ]
   },
   {
-    "id": 496,
+    "id": 499,
     "slug": "zapatillas-head-motion-pro-1-5-men-padel-dark-blue-cantaloupe-green-2026-14390",
     "name": "Sapatilhas Head Motion Pro 1.5 Men Padel dark blue cantaloupe green 2026",
     "brand": "Head Padel",
@@ -5662,12 +5990,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 497,
+    "id": 500,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-white-pinkesque-2026-14389",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white pinkesque 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 79.96,
+    "price": 82.51,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5696,19 +6024,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 82.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14389-zapatillas-mizuno-wave-enforce-court-cc-white-pinkesque-2026.html"
       }
     ]
   },
   {
-    "id": 499,
+    "id": 502,
     "slug": "zapatillas-mizuno-wave-exceed-tour-7-cc-ice-water-yellow-2026-14387",
     "name": "Sapatilhas Mizuno Wave Exceed Tour 7 CC ice water yellow 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 104.9,
+    "price": 99.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -5737,14 +6065,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.9,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14387-zapatillas-mizuno-wave-exceed-tour-7-cc-ice-water-yellow-2026.html"
       }
     ]
   },
   {
-    "id": 501,
+    "id": 504,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-fiery-red-white-2026-14385",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC fiery red white 2026",
     "brand": "Mizuno",
@@ -5785,12 +6113,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 502,
+    "id": 505,
     "slug": "zapatillas-mizuno-wave-enforce-court-cc-white-dazzling-blue-2026-14384",
     "name": "Sapatilhas Mizuno Wave Enforce Court CC white dazzling blue 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 77.01,
+    "price": 71.91,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5819,14 +6147,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 77.01,
+        "price": 71.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14384-zapatillas-mizuno-wave-enforce-court-cc-white-dazzling-blue-2026.html"
       }
     ]
   },
   {
-    "id": 503,
+    "id": 506,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-cc-fiery-red-white-2026-14383",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 CC fiery red white 2026",
     "brand": "Mizuno",
@@ -5867,7 +6195,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 504,
+    "id": 507,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-cc-white-dazzling-blue-2026-14382",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 CC white dazzling blue 2026",
     "brand": "Mizuno",
@@ -5908,12 +6236,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 505,
+    "id": 508,
     "slug": "zapatillas-mizuno-wave-enforce-court-padel-black-foliage-green-2026-14381",
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel black foliage green 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 92.91,
+    "price": 79.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -5942,19 +6270,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 92.91,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14381-zapatillas-mizuno-wave-enforce-court-padel-black-foliage-green-2026.html"
       }
     ]
   },
   {
-    "id": 506,
+    "id": 509,
     "slug": "zapatillas-mizuno-wave-exceed-tour-7-padel-black-glowing-apple-2026-14380",
     "name": "Sapatilhas Mizuno Wave Exceed Tour 7 Padel black glowing apple 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 109.96,
+    "price": 107.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -5983,19 +6311,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 107.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14380-zapatillas-mizuno-wave-exceed-tour-7-padel-black-glowing-apple-2026.html"
       }
     ]
   },
   {
-    "id": 507,
+    "id": 510,
     "slug": "zapatillas-mizuno-wave-enforce-tour-2-padel-black-foliage-green-2026-14379",
     "name": "Sapatilhas Mizuno Wave Enforce Tour 2 Padel black foliage green 2026",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 114.96,
+    "price": 112.92,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -6024,19 +6352,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 114.96,
+        "price": 112.92,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/14379-zapatillas-mizuno-wave-enforce-tour-2-padel-black-foliage-green-2026.html"
       }
     ]
   },
   {
-    "id": 508,
+    "id": 511,
     "slug": "paletero-bullpadel-bpp26015-tour-negro-2026-14376",
     "name": "Saco Bullpadel BPP26015 Tour negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 37.95,
+    "price": 29.4,
     "oldPrice": 42,
     "rating": null,
     "badge": null,
@@ -6065,14 +6393,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 37.95,
+        "price": 29.4,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14376-paletero-bullpadel-bpp26015-tour-negro-2026.html"
       }
     ]
   },
   {
-    "id": 509,
+    "id": 512,
     "slug": "paletero-bullpadel-bpp26015-tour-blanco-2026-14375",
     "name": "Saco Bullpadel BPP26015 Tour blanco 2026",
     "brand": "Bullpadel",
@@ -6113,7 +6441,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 510,
+    "id": 513,
     "slug": "paletero-bullpadel-bpp26015-tour-azul-marino-2026-14374",
     "name": "Saco Bullpadel BPP26015 Tour azul marino 2026",
     "brand": "Bullpadel",
@@ -6154,12 +6482,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 511,
+    "id": 514,
     "slug": "paletero-bullpadel-bpp26015-tour-amarillo-fluor-2026-14373",
     "name": "Saco Bullpadel BPP26015 Tour amarillo flúor 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 31.96,
+    "price": 30.96,
     "oldPrice": 42,
     "rating": null,
     "badge": null,
@@ -6188,19 +6516,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 31.96,
+        "price": 30.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14373-paletero-bullpadel-bpp26015-tour-amarillo-fluor-2026.html"
       }
     ]
   },
   {
-    "id": 512,
+    "id": 515,
     "slug": "paletero-bullpadel-bpp26014-advance-negro-lima-2026-14372",
     "name": "Saco Bullpadel BPP26014 Advance negro lima 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 42.94,
+    "price": 49,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -6229,19 +6557,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 42.94,
+        "price": 49,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14372-paletero-bullpadel-bpp26014-advance-negro-lima-2026.html"
       }
     ]
   },
   {
-    "id": 513,
+    "id": 516,
     "slug": "paletero-bullpadel-bpp26014-advance-negro-naranja-2026-14371",
     "name": "Saco Bullpadel BPP26014 Advance negro naranja 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 52.96,
+    "price": 49,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -6270,14 +6598,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 52.96,
+        "price": 49,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14371-paletero-bullpadel-bpp26014-advance-negro-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 514,
+    "id": 517,
     "slug": "paletero-bullpadel-bpp26014-advance-beige-2026-14370",
     "name": "Saco Bullpadel BPP26014 Advance beige 2026",
     "brand": "Bullpadel",
@@ -6318,7 +6646,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 515,
+    "id": 518,
     "slug": "paletero-bullpadel-bpp26014-advance-azul-marino-2026-14369",
     "name": "Saco Bullpadel BPP26014 Advance azul marino 2026",
     "brand": "Bullpadel",
@@ -6359,7 +6687,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 525,
+    "id": 528,
     "slug": "mochila-bullpadel-bpm26003-tech-negra-2026-14359",
     "name": "Mochila Bullpadel BPM26003 Tech negra 2026",
     "brand": "Bullpadel",
@@ -6400,7 +6728,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 526,
+    "id": 529,
     "slug": "mochila-bullpadel-bpm26004-advance-rosa-2026-14358",
     "name": "Mochila Bullpadel BPM26004 Advance rosa 2026",
     "brand": "Bullpadel",
@@ -6441,12 +6769,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 527,
+    "id": 530,
     "slug": "mochila-bullpadel-bpm26004-advance-negra-lima-2026-14356",
     "name": "Mochila Bullpadel BPM26004 Advance negra lima 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 27.96,
+    "price": 26.96,
     "oldPrice": 40,
     "rating": null,
     "badge": null,
@@ -6475,14 +6803,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 27.96,
+        "price": 26.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14356-mochila-bullpadel-bpm26004-advance-negra-lima-2026.html"
       }
     ]
   },
   {
-    "id": 528,
+    "id": 531,
     "slug": "mochila-bullpadel-bpm26004-advance-negra-naranja-2026-14355",
     "name": "Mochila Bullpadel BPM26004 Advance negra naranja 2026",
     "brand": "Bullpadel",
@@ -6523,7 +6851,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 529,
+    "id": 532,
     "slug": "mochila-bullpadel-bpm26008-ionic-negra-2026-14354",
     "name": "Mochila Bullpadel BPM26008 Ionic negra 2026",
     "brand": "Bullpadel",
@@ -6564,30 +6892,30 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 530,
-    "slug": "paletero-bullpadel-bpp26016-casual-negro-2026-14353",
-    "name": "Saco Bullpadel BPP26016 Casual negro 2026",
+    "id": 533,
+    "slug": "bullpadel-indiga-girl-2026-14352",
+    "name": "Bullpadel Indiga Girl 2026",
     "brand": "Bullpadel",
-    "category": "sacos",
-    "price": 56,
-    "oldPrice": 80,
+    "category": "raquetes",
+    "price": 54.96,
+    "oldPrice": 60,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/29758-large_default/paletero-bullpadel-bpp26016-casual-negro-2026.jpg",
-    "ean": "8447552007019",
-    "productGTIN": "8447552007019",
-    "mpn": "14353",
+    "image": "https://www.zonadepadel.es/29757-large_default/bullpadel-indiga-girl-2026.jpg",
+    "ean": "8445402993956",
+    "productGTIN": "8445402993956",
+    "mpn": "14352",
     "source": "zona-de-padel",
-    "sourceProductId": "14353",
-    "sourceCategory": "Paleteros de padel > Paleteros Bullpadel",
-    "description": "El paletero Bullpadel BPP26016 Casual negro 2026 es la elección perfecta para jugadores que buscan un equilibrio ideal entre espacio y funcionalidad. Con compartimentos térmicos para hasta cuatro palas y un diseño sofisticado en color negro, se adapta a las necesidades de entrenamientos y competiciones. Dirigido a deportistas que valoran tanto el rendimiento como la estética, este modelo ofrece resistencia y practicidad con acabados en Nylon Dobby, neopreno y polipiel. Su estructura organizada y correas acolchadas facilitan el transporte cómodo y ordenado en cada partido. Características del paletero Bullpadel BPP26016 Casual negro 2026 Dimensiones 60 x 30 x 40 cm: ofrece una capacidad media perfecta para llevar ropa, toallas y accesorios sin sobrecargar el espacio. Compartimentos térmicos para 4 palas: protegen contra cambios de temperatura, manteniendo el rendimiento óptimo del equipo. Zona ventilada independiente: mantiene limpia y fresca la ropa usada o el calzado, evitando malos olores dentro del paletero. Bolsillo lateral exterior: cómodo para guardar objetos personales y complementos pequeños al alcance de la mano. Fabricación durable en Nylon Dobby, neopreno y polipiel: garantiza una alta resistencia y un acabado premium para un uso intensivo diario. Colección Bullpadel 2026. ¿Para quien es paletero Bullpadel BPP26016 Casual negro 26? Este paletero está pensado para jugadores que priorizan un diseño elegante y funcional, ideal para aquellos que combinan su pasión por el pádel con un estilo de vida activo y moderno. Su distribución práctica facilita la organización para entrenamientos y partidos. Se adapta especialmente a quienes necesitan llevar todo su equipo de forma ordenada y cuidadosa, gracias a sus compartimentos específicos y la capacidad equilibrada que ofrece para transportar palas, ropa y accesorios sin complicaciones. ¿Por qué te va a gustar este paletero de pádel? El Bullpadel BPP26016 Casual destaca por su estética sobria y urbana, combinando la polipiel con detalles modernos que aportan un acabado elegante y sofisticado. Es un accesorio versátil que complementa tanto la práctica deportiva como el uso diario. Además, su funcionalidad es excelente gracias a sus compartimentos térmicos y ventilados, que garantizan la protección y conservación del material deportivo, facilitando la organización y transporte confortable mediante correas acolchadas. Descubre más sobre la marca Bullpadel Bullpadel es una referencia consolidada en el mundo del pádel, conocida por la innovación y calidad de sus productos. Desde sus inicios, ha apostado por ofrecer equipamiento técnico y moderno que satisface las exigencias de jugadores amateurs y profesionales. Especializada en accesorios como paleteros, Bullpadel combina diseño y resistencia para crear soluciones que optimizan la experiencia en la pista, adaptándose a diferentes estilos y necesidades con un claro compromiso con la durabilidad y el rendimiento.",
+    "sourceProductId": "14352",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "La Bullpadel Indiga Girl 2026 es una pala ligera y versátil, diseñada especialmente para las jugadoras junior que están dando sus primeros pasos en el pádel. Con un peso de solo 280 gramos y un manejo sencillo, esta pala facilita un aprendizaje cómodo y seguro, ideal para niñas que quieren mejorar su técnica desde el principio. Pensada para jugadoras jóvenes que entrenan en escuelas deportivas o disfrutan de juegos recreativos, la Indiga Girl 26 ofrece un equilibrio perfecto entre control y potencia gracias a su forma de lágrima. Esta pala es una excelente elección para quienes buscan comodidad y progresión constante en la pista. Características y tecnologías de la pala Bullpadel Indiga Girl 2026 Forma lágrima y balance medio que proporcionan una gran maniobrabilidad y un juego polivalente para adaptarse a diversas situaciones en la pista. Peso ultraligero de 280 gramos que permite una rápida adaptación y evita fatiga en brazos y muñecas durante los entrenamientos y partidos. Caras fabricadas en Polyglass, un material flexible y resistente que ofrece durabilidad y una sensación de golpeo suave para mayor confort. Núcleo de goma Evalastic con tacto blando que brinda elasticidad, comodidad y una excelente salida de bola, facilitando el control en cada golpe. Por sus materiales, favorece la ejecución de golpes limpios y facilita el aprendizaje en etapas iniciales. Pertenece a la colección de 2026, garantizando diseño y tecnologías actuales adaptadas a las necesidades de las jugadoras junior. ¿Para quien es Bullpadel Indiga Girl 26 26? Esta pala ha sido creada especialmente para niñas que se estrenan en el mundo del pádel, con un diseño ergonómico y una empuñadura adaptada a manos pequeñas, asegurando un agarre cómodo y estable durante el juego. Es perfecta para jóvenes deportistas que asisten a escuelas deportivas o practican entrenamientos recreativos, ya que promueve un aprendizaje progresivo y un manejo sencillo para ganar confianza en la pista. ¿Por qué te va a gustar esta pala de pádel? La tecnología Grip Zone integrada en la pala ayuda a posicionar correctamente la mano no dominante, fomentando una técnica adecuada desde el inicio y mejorando la coordinación en los movimientos. Además, su estructura ligera combinada con materiales flexibles aporta comodidad y evita sobrecargas, facilitando la ejecución de golpes fluidos y controlados que inspiran confianza en las jóvenes jugadoras. Descubre más sobre la marca Bullpadel Bullpadel es una marca líder en el mundo del pádel, reconocida por su innovación y calidad en la fabricación de palas y accesorios que se adaptan a todos los niveles y edades. Su compromiso con el desarrollo de productos para jóvenes deportistas queda reflejado en modelos como la Indiga Girl, diseñados para facilitar el aprendizaje y fomentar la pasión por el pádel desde la infancia.",
     "specs": {
-      "peso": null,
-      "forma": null,
+      "peso": "280g",
+      "forma": "Híbrida",
       "equilibrio": null,
       "nivel": null,
       "material": null,
-      "estilo": null,
+      "estilo": "Equilibrado",
       "sola": null,
       "genero": null,
       "cor": null,
@@ -6598,19 +6926,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 56,
+        "price": 54.96,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/bullpadel/14353-paletero-bullpadel-bpp26016-casual-negro-2026.html"
+        "url": "https://www.zonadepadel.es/bullpadel/14352-bullpadel-indiga-girl-2026.html"
       }
     ]
   },
   {
-    "id": 533,
+    "id": 534,
+    "slug": "bullpadel-indiga-boy-2026-14351",
+    "name": "Bullpadel Indiga Boy 2026",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 53.96,
+    "oldPrice": 60,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29755-large_default/bullpadel-indiga-boy-2026.jpg",
+    "ean": "8445402993932",
+    "productGTIN": "8445402993932",
+    "mpn": "14351",
+    "source": "zona-de-padel",
+    "sourceProductId": "14351",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "Los más pequeños disfrutarán al máximo con la nueva Bullpadel Indiga Boy 2026. Es la pala perfecta para los niños que quieren empezar en el mundo del pádel con confianza y comodidad. Diseñada para facilitar el aprendizaje desde el primer instante en pista, esta pala ofrece un equilibrio ideal entre control y potencia gracias a su forma de lágrima y balance medio. Su ligereza y manejo sencillo la hacen imprescindible para las primeras etapas de juego infantil. Con un diseño pensado para niños principiantes, esta pala de pádel para jóvenes deportistas ayuda a construir una base técnica sólida sin esfuerzo. Además, su empuñadura adaptada y el innovador Grip Zone garantizan un agarre seguro y un aprendizaje técnico más rápido. Es la elección ideal para entrenamientos recreativos y clases de iniciación. Características y tecnologías de la pala Bullpadel Indiga Boy 2026 Forma lágrima y balance medio: Con esta combinación, la pala ofrece un juego equilibrado, proporcionando control y salida de bola para facilitar la adaptación en la pista. Peso ligero de 280 gramos: Ideal para niños, previene la fatiga muscular y permite un manejo sencillo que favorece la técnica sin sobrecargas. Núcleo Black Eva con tacto blando: Su núcleo genera un punto dulce amplio que ayuda a mejorar la precisión y confianza en cada golpe. Planos en fibra de vidrio Polyglass: Material resistente y flexible que aporta comodidad en el golpeo y durabilidad, perfecto para la práctica frecuente. Aporta estabilidad y un buen equilibrio durante el juego, favoreciendo un rendimiento polivalente en la pista. Pertenece a la colección de 2026. ¿Para quien es Bullpadel Indiga Boy 26 26? Esta pala está indicada para pequeños jugadores que están dando sus primeros pasos en el pádel, ideal para quienes aprenden en clubes, escuelas deportivas o en entrenamientos recreativos. Su diseño facilita la correcta adquisición de la técnica desde el inicio, evitando malos hábitos que pudieran frenar la progresión. Es perfecta para niños que disfrutan de la práctica deportiva en un entorno seguro y adaptado a sus necesidades, incluyendo competiciones no federadas donde la comodidad y facilidad de uso marcan la diferencia para su desarrollo. ¿Por qué te va a gustar esta pala de pádel? La empuñadura adaptada para manos infantiles mejora notablemente el agarre, lo que reduce la fatiga muscular y aumenta la seguridad durante el juego. Esto permite que los niños se sientan cómodos y disfruten más tiempo en la pista sin molestias. Además, el exclusivo sistema Grip Zone señala claramente la colocación de la mano no dominante, acelerando el aprendizaje técnico y mejorando la coordinación, para que los más pequeños ejecuten golpes más limpios y controlados con mayor facilidad. Descubre más sobre la marca Bullpadel Bullpadel es una marca líder en el mundo del pádel, reconocida por su innovación y calidad en el diseño de palas y equipamiento. Su compromiso con el desarrollo deportivo ha hecho que sea preferida por jugadores de todas las edades y niveles. Con especial atención a las necesidades de los jugadores jóvenes y principiantes, Bullpadel crea productos como la Indiga Boy 2026 que combinan ergonomía, tecnología avanzada y durabilidad, haciendo que el aprendizaje sea una experiencia gratificante y divertida desde el primer día.",
+    "specs": {
+      "peso": "280g",
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 53.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/14351-bullpadel-indiga-boy-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 535,
     "slug": "bullpadel-vertex-woman-junior-2026-14350",
     "name": "Bullpadel Vertex Woman Junior 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 69.96,
+    "price": 66.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -6639,19 +7008,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 66.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14350-bullpadel-vertex-woman-junior-2026.html"
       }
     ]
   },
   {
-    "id": 534,
+    "id": 536,
     "slug": "bullpadel-vertex-junior-2026-14349",
     "name": "Bullpadel Vertex Junior 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 69.96,
+    "price": 66.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -6680,19 +7049,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 66.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14349-bullpadel-vertex-junior-2026.html"
       }
     ]
   },
   {
-    "id": 535,
+    "id": 537,
     "slug": "bullpadel-hack-junior-2026-14348",
     "name": "Bullpadel Hack Junior 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 69.95,
+    "price": 64.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -6721,19 +7090,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.95,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/14348-bullpadel-hack-junior-2026.html"
       }
     ]
   },
   {
-    "id": 538,
+    "id": 540,
     "slug": "drop-shot-quantum-soft-woman-2026-14342",
     "name": "Drop Shot Quantum Soft Woman 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 215.96,
+    "price": 179.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -6762,14 +7131,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 215.96,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14342-drop-shot-quantum-soft-woman-2026.html"
       }
     ]
   },
   {
-    "id": 539,
+    "id": 541,
     "slug": "drop-shot-canyon-pro-attack-soft-2026-14341",
     "name": "Drop Shot Canyon Pro Attack Soft 2026",
     "brand": "Drop Shot",
@@ -6810,12 +7179,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 540,
+    "id": 542,
     "slug": "drop-shot-explorer-pro-attack-soft-2026-14340",
     "name": "Drop Shot Explorer Pro Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.91,
+    "price": 209.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6844,19 +7213,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.91,
+        "price": 209.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14340-drop-shot-explorer-pro-attack-soft-2026.html"
       }
     ]
   },
   {
-    "id": 541,
+    "id": 543,
     "slug": "drop-shot-axion-attack-soft-2026-14339",
     "name": "Drop Shot Axion Attack Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 251.91,
+    "price": 249.95,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6885,19 +7254,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 251.91,
+        "price": 249.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14339-drop-shot-axion-attack-soft-2026.html"
       }
     ]
   },
   {
-    "id": 542,
+    "id": 544,
     "slug": "drop-shot-flame-soft-2026-14338",
     "name": "Drop Shot Flame Soft 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 209.96,
+    "price": 189.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -6926,19 +7295,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 209.96,
+        "price": 189.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14338-drop-shot-flame-soft-2026.html"
       }
     ]
   },
   {
-    "id": 544,
+    "id": 545,
+    "slug": "drop-shot-furia-attack-2-0-2026-14337",
+    "name": "Drop Shot Furia Attack 2.0 2026",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 224.96,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31249-large_default/drop-shot-furia-attack-20-2026.jpg",
+    "ean": "8435758316080",
+    "productGTIN": "8435758316080",
+    "mpn": "14337",
+    "source": "zona-de-padel",
+    "sourceProductId": "14337",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Furia Attack 2.0 2026 es la pala perfecta para jugadores que buscan un equilibrio entre potencia y control. Su diseño ergonómico y materiales avanzados proporcionan una experiencia de juego cómoda y precisa, ideal para quienes juegan al pádel al máximo nivel. Pensada para un público exigente, esta pala ofrece una combinación insuperable de manejo, estabilidad y respuesta. Si buscas una pala manejable, potente y con un tacto firme, la Furia Attack 2.0 de Drop Shot es tu mejor opción para dominar cada punto con seguridad y estilo. Características y tecnologías de la pala Drop Shot Furia Attack 2.0 2026 Forma lágrima: Equilibra perfectamente control y potencia, favoreciendo un juego ofensivo controlado. Nivel avanzado: Diseñada para jugadores intermedios y avanzados que quieren mejorar su rendimiento en la pista. Proporciona una manejabilidad excelente sin sacrificar la fuerza en cada golpe. Núcleo EVA Pro High Density: Alta absorción de impactos que garantiza confort y consistencia en el juego. Rugosidad 3D con Face System: Textura que mejora la generación de efectos para golpes más precisos y controlados. Pertenece a la colección de 2026. ¿Para quien es Drop Shot Furia Attack 2.0 26? Esta pala está pensada para jugadores que buscan un juego ofensivo con un control máximo y confort elevado. Destaca por su precisión sin renunciar a la potencia, ideal para quienes quieren dominar la pista con golpes regulares y efectivos. Los padeleros que valoran la estabilidad y la manejabilidad encontrarán en esta pala una compañera que ofrece sensaciones excepcionales en cada toque, manteniendo la protección del brazo y una salida de bola controlada. ¿Por qué te va a gustar esta pala de pádel? Incorpora el Ergo Pro Protector, un protector de nylon ligero que protege eficazmente el marco. Así, se alarga la vida útil de la pala frente a golpes y roces durante el juego intenso y frecuentes entrenamientos. Además, integra las tecnologías Vibra Tech y Angles Technology que reducen la transmisión de vibraciones al brazo, aumentando el confort y minimizando el riesgo de lesiones, ideal para largas sesiones en la pista. Descubre más sobre la marca Drop Shot Drop Shot es una marca referente en el mundo del pádel, reconocida por su innovación y calidad en materiales de alta gama. Su compromiso con la tecnología y el rendimiento la ha posicionado como un aliado imprescindible para jugadores exigentes. Desde sus inicios, Drop Shot ha apostado por crear palas especializadas que satisfacen las demandas de todos los estilos de juego, especialmente aquellas como la Furia Attack que ofrecen potencia y control para el mejor rendimiento en pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 224.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/14337-drop-shot-furia-attack-20-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 546,
     "slug": "drop-shot-cyber-attack-2026-14336",
     "name": "Drop Shot Cyber Attack 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 269.96,
+    "price": 224.96,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -6967,19 +7377,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 269.96,
+        "price": 224.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14336-drop-shot-cyber-attack-2026.html"
       }
     ]
   },
   {
-    "id": 545,
+    "id": 547,
     "slug": "drop-shot-conqueror-attack-2-0-2026-14335",
     "name": "Drop Shot Conqueror Attack 2.0 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 305.95,
+    "price": 280.96,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -7008,19 +7418,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 305.95,
+        "price": 280.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14335-drop-shot-conqueror-attack-20-2026.html"
       }
     ]
   },
   {
-    "id": 546,
+    "id": 548,
     "slug": "drop-shot-canyon-pro-attack-2-0-2026-14334",
     "name": "Drop Shot Canyon Pro Attack 2.0 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 305.96,
+    "price": 254.91,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -7049,19 +7459,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 305.96,
+        "price": 254.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14334-drop-shot-canyon-pro-attack-20-2026.html"
       }
     ]
   },
   {
-    "id": 548,
+    "id": 549,
+    "slug": "drop-shot-explorer-pro-attack-2-0-2026-14333",
+    "name": "Drop Shot Explorer Pro Attack 2.0 2026",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 254.96,
+    "oldPrice": 340,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31220-large_default/drop-shot-explorer-pro-attack-20-2026.jpg",
+    "ean": "8435758316127",
+    "productGTIN": "8435758316127",
+    "mpn": "14333",
+    "source": "zona-de-padel",
+    "sourceProductId": "14333",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "Drop Shot Explorer Pro Attack 2.0 2026 es la pala ideal para jugadores que buscan un balance perfecto entre potencia, control y confort dentro del juego ofensivo. Diseñada para ofrecer un alto rendimiento, esta pala destaca por su versatilidad y capacidad para dominar en la pista sin perder precisión ni estabilidad. Si eres un jugador de nivel avanzado que quiere una pala que responda en cada golpe, la Explorer Pro Attack 2.0 2026 destaca como una opción excepcional. Su construcción en carbono y tecnologías innovadoras garantizan durabilidad y suavidad al tacto, facilitando golpes potentes y con efecto. Características y tecnologías de la pala Drop Shot Explorer Pro Attack 2.0 de Luca Campa 2026 Forma lágrima: Ofrece un equilibrio perfecto para golpes potentes sin perder control en cada movimiento. Núcleo de EVA Pro High Density: Asegura absorción de impactos y una respuesta consistente con excelente memoria mecánica. Carbono 24K Twill Textreme: Material de alta gama que proporciona resistencia, durabilidad y un tacto firme pero cómodo. Tecnología 3D Face System: Textura tridimensional que mejora la generación de efecto y control en cada golpe. Power Beam Heart y Twin Tubular System: Refuerzan la estructura para mayor estabilidad, potencia y homogeneidad en el rendimiento. Pertenece a la colección de 2026. ¿Para quien es Explorer Pro Attack 2.0 26? Este modelo está diseñado para jugadores de pádel intermedios y avanzados que buscan una pala ofensiva pero equilibrada, capaz de rendir al máximo tanto en ataques como en golpes de control. Ideal para quienes valoran la comodidad y estabilidad en cada partido, esta pala se adapta a estilos de juego versátiles y exigentes, ofreciendo un rendimiento profesional en cada punto. ¿Por qué te va a gustar esta pala de pádel? La Drop Shot Explorer Pro Attack 2.0 2026 incorpora el Ergo Pro Protector, un protector ultra resistente y ligero en carbono que garantiza máxima protección del marco ante impactos y roces durante el juego. Su sistema Vibra Tech minimiza las vibraciones transmitidas a la empuñadura, aumentando el control y protegiendo tu brazo para mejorar el confort en cada partido. Descubre más sobre la marca Drop Shot Drop Shot es una marca reconocida en el mundo del pádel por su dedicación a la innovación y calidad en cada uno de sus productos. Desde hace años, apuesta por la combinación de materiales de alta gama para crear palas técnicas y resistentes. Esta proyección en tecnología y diseño se refleja en la Explorer Pro Attack 2.0 2026, que sintetiza el compromiso de Drop Shot con jugadores que buscan máxima potencia, control y confort en cada golpe.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 254.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/14333-drop-shot-explorer-pro-attack-20-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 550,
     "slug": "drop-shot-prime-attack-2026-14332",
     "name": "Drop Shot Prime Attack 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 269.96,
+    "price": 249.96,
     "oldPrice": 360,
     "rating": null,
     "badge": null,
@@ -7090,19 +7541,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 269.96,
+        "price": 249.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14332-drop-shot-prime-attack-2026.html"
       }
     ]
   },
   {
-    "id": 549,
+    "id": 551,
     "slug": "drop-shot-axion-attack-2-0-2026-14331",
     "name": "Drop Shot Axion Attack 2.0 2026",
     "brand": "Drop Shot",
     "category": "raquetes",
-    "price": 269.96,
+    "price": 239.96,
     "oldPrice": 360,
     "rating": null,
     "badge": null,
@@ -7131,19 +7582,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 269.96,
+        "price": 239.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/drop-shot/14331-drop-shot-axion-attack-20-2026.html"
       }
     ]
   },
   {
-    "id": 552,
+    "id": 554,
+    "slug": "zapatillas-adidas-courtquick-padel-m-white-lucid-orange-2026-14317",
+    "name": "Sapatilhas Adidas Courtquick Padel M white lucid orange 2026",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 64.91,
+    "oldPrice": 80,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29648-large_default/zapatillas-adidas-courtquick-padel-m-white-lucid-orange-2026.jpg",
+    "ean": "4068812885693",
+    "productGTIN": "4068812885693",
+    "mpn": "14317",
+    "source": "zona-de-padel",
+    "sourceProductId": "14317",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Las Zapatillas Adidas Courtquick Padel M white lucid orange 2026 están diseñadas para hombres activos que buscan un calzado ligero y estable, ideal para rendir al máximo en la pista de pádel. Su combinación de materiales transpirables y tecnologías avanzadas garantizan comodidad y durabilidad durante cada partido. Este modelo es perfecto para jugadores que exigen rapidez y soporte en los movimientos rápidos y cambios de dirección precisos. Si buscas unas zapatillas resistentes y con un diseño moderno en tonos blanco y naranja, estas Adidas para pádel 2026 son tu mejor opción para mejorar tu juego y mantener el confort. Características y tecnologías de la zapatilla Adidas Courtquick Padel M blancas con detalles naranjas Empeine textil y sintético: ligero y transpirable que aporta frescura y sujeción durante los partidos intensos. Estructura Slingframe: ofrece estabilidad superior en giros y cambios de ritmo rápidos, ideal para movimientos explosivos. Mediasuela Bounce y amortiguación Cloudfoam: garantizan una pisada cómoda y reactiva, protegiendo las articulaciones y mejorando la energía en cada salto. Suela Adiwear: tracción optimizada y resistencia para adaptarse a cualquier superficie de la pista, aumentando la durabilidad. Puntera reforzada Adituff: proporciona mayor protección contra el desgaste, asegurando una vida útil prolongada. Pertenece a la colección de 2026. ¿Para quien son las Adidas Courtquick Padel M white lucid orange 26? Este calzado está pensado para hombres dinámicos que practican pádel regularmente y necesitan una zapatilla que combine ligereza, estabilidad y resistencia para soportar entrenamientos y partidos intensos sin perder comodidad. Ideal para jugadores intermedios que buscan un equipo que responda bien a cambios de dirección bruscos y desplazamientos rápidos, manteniendo la reactividad y el control en cada movimiento dentro de la pista. ¿Por qué te van a gustar estas zapatillas de pádel JR4648? El diseño de las Adidas Courtquick Padel 2026 resalta gracias a su empeine textil, que es ligero y altamente transpirable, otorgando ventilación y confort incluso en partidos largos, mejorando tu rendimiento sin sacrificar la sujeción. Además, la combinación de tecnologías Bounce y Cloudfoam en la mediasuela ofrece una amortiguación reactiva que protege tus pies y aumenta la rapidez en cada pisada, mientras que la estructura Slingframe aporta la estabilidad necesaria para cambios y giros veloces. Descubre más sobre la marca Adidas Adidas es una marca legendaria con una trayectoria destacada en el deporte mundial. Desde sus inicios, se ha comprometido con la innovación tecnológica para ofrecer productos de alta calidad, especialmente en el mundo del pádel y el tenis. El impulso de Adidas hacia la sostenibilidad, combinando materiales reciclados con diseños funcionales, la convierte en una referencia para jugadores que valoran rendimiento y compromiso ambiental en zapatillas como las Courtquick Padel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": "Branco",
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 64.91,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/14317-zapatillas-adidas-courtquick-padel-m-white-lucid-orange-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 555,
     "slug": "zapatillas-adidas-barricade-14-m-clay-white-black-lucid-red-2026-14315",
     "name": "Sapatilhas Adidas Barricade 14 M Clay white black lucid red 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 108.6,
+    "price": 119.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -7172,60 +7664,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 108.6,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14315-zapatillas-adidas-barricade-14-m-clay-white-black-lucid-red-2026.html"
       }
     ]
   },
   {
-    "id": 553,
-    "slug": "zapatillas-adidas-barricade-14-m-clay-white-2026-14314",
-    "name": "Sapatilhas Adidas Barricade 14 M Clay white 2026",
-    "brand": "Adidas Padel",
-    "category": "sapatilhas",
-    "price": 139.01,
-    "oldPrice": 160,
+    "id": 559,
+    "slug": "siux-fenix-elite-2026-14307",
+    "name": "Siux Fenix Elite 2026",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 169.96,
+    "oldPrice": 270,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/29640-large_default/zapatillas-adidas-barricade-14-m-clay-white-2026.jpg",
-    "ean": "4068812305368",
-    "productGTIN": "4068812305368",
-    "mpn": "14314",
+    "image": "https://www.zonadepadel.es/29567-large_default/siux-fenix-elite-2026.jpg",
+    "ean": "8436625200495",
+    "productGTIN": "8436625200495",
+    "mpn": "14307",
     "source": "zona-de-padel",
-    "sourceProductId": "14314",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
-    "description": "Las zapatillas Adidas Barricade 14 M Clay White 2026 destacan por su diseño ligero y aerodinámico, optimizado para moverse con rapidez y precisión en pistas de tierra batida. Ideales para jugadores avanzados que exigen estabilidad y sujeción en cada desplazamiento, estas zapatillas combinan innovación y comodidad para potenciar tu rendimiento. Pensadas para hombres que practican pádel y tenis a nivel competitivo, estas zapatillas ofrecen una suela específica clay que garantiza un agarre excepcional y deslizamientos controlados. Con su estructura reforzada y materiales transpirables, las Adidas Barricade 14 Clay son la opción perfecta para entrenamientos intensos y torneos donde no se pueden permitir errores. Características y tecnologías de la zapatilla Adidas Barricade 14 M Clay blancas Nivel Avanzado: Diseñadas para jugadores experimentados que buscan rendimiento y durabilidad en cada partido. Suela Clay (Espiga): La suela de goma especialmente desarrollada para tierra batida ofrece un agarre óptimo y desplazamientos seguros sobre superficies de arcilla. Juego Confort: Amortiguación en tobillo y lengüeta que proporciona un ajuste estable, manteniendo la comodidad durante largas jornadas de entrenamiento. Diseño para Primavera/Verano: Los materiales de secado rápido y malla transpirable están pensados para mantener el pie fresco y seco en climas cálidos. Pertenece a la colección de 2026: Incorpora tecnologías y mejoras recientes para estar a la vanguardia en zapatillas de pádel y tenis. ¿Para quien son las Adidas Barricade 14 M Clay white 26? Estas zapatillas están enfocadas en jugadores de pádel y tenis de nivel avanzado, que buscan una opción robusta y fiable para sus desplazamientos rápidos y exigentes. Son ideales para quienes valoran la sujeción firme y el control en las superficies de arcilla. Si te dedicas a entrenar intensamente o compites regularmente, estas zapatillas combinan estabilidad y agarre para mejorar tu rendimiento en cada punto. Su estructura garantiza confianza en movimientos laterales y cambios de dirección. ¿Por qué te van a gustar estas zapatillas de pádel JR1740? El empeine en malla transpirable, complementado con materiales sintéticos resistentes, mejora notablemente la ventilación del pie. Esto evita la acumulación de calor y humedad durante partidos largos, manteniéndote cómodo y concentrado. Por otro lado, la amortiguación situada en tobillo y lengüeta aumenta el confort y aporta un ajuste seguro sin sacrificar la firmeza necesaria para movimientos explosivos, haciendo que cada apoyo sea seguro y estable. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su innovación constante en material deportivo. Sus zapatillas para pádel y tenis combinan tecnología avanzada con diseños que se adaptan a las necesidades de los deportistas más exigentes. Desde sus inicios, Adidas ha apostado por productos que mejoran la experiencia sobre la pista. La colección Barricade simboliza la evolución y la excelencia para jugadores que requieren estabilidad, durabilidad y estilo en cada partido.",
+    "sourceProductId": "14307",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "La Siux Fenix Elite 2026 es una pala de pádel diseñada para los jugadores más exigentes que buscan un arma potente y precisa en cada golpe. Su núcleo EVA de alta densidad combinado con un acabado mate y rugoso ofrece un control absoluto y un agarre superior con la pelota, ideal para dominar la pista con explosividad y exactitud quirúrgica. Orientada a hombres que buscan una pala semi profesional, esta raqueta destaca por su forma diamantada y balance alto que aseguran una potencia extraordinaria sin sacrificar la estabilidad. Si quieres una pala que responda con firmeza y te permita ejecutar tiros con máxima efectividad, la Fenix Elite Siux 2026 es la elección perfecta para tu juego. Características y tecnologías de la pala Siux Fenix Elite 2026 Forma Diamante y Balance Alto: Optimiza la potencia en cada golpe al situar el peso en la cabeza, ideal para jugadores agresivos y ofensivos. Núcleo EVA de Alta Densidad: Absorbe impactos y ofrece un tacto medio-blando que equilibra confort y control para tiros precisos. Plano y Marco en Carbono 3K y 100% Carbono: Garantiza una pala ligera, resistente y con gran respuesta en velocidad y durabilidad. Acabado Mate y Arenoso: Proporciona un mejor agarre con la pelota, potenciando los efectos y la interacción con la bola. Peso y Perfil: Entre 360 y 375 gramos y perfil de 38 mm para un manejo óptimo entre potencia y maniobrabilidad. Pertenece a la colección de 2026. ¿Para quién es Siux Fenix Elite 26? La Siux Fenix Elite 6 2026 está pensada para jugadores masculinos avanzados que buscan dominar los partidos con potencia y precisión. Su diseño semi profesional orientado al ataque es perfecto para quienes exigen al máximo en cada punto y buscan una pala que responda con explosividad. Además, su innovadora forma hexagonal favorece la aerodinámica, mejorando la estabilidad y la transmisión de energía en cada golpe, ideal para jugadores que desean optimizar su rendimiento sin perder control. ¿Por qué te va a gustar esta pala de pádel? Gracias a su exclusivo acabado mate y arenoso, la Siux Fenix Elite te permite imprimir mucho más efecto a cada tiro, aumentando la dificultad para tus rivales y el control en los golpes complejos. Además, su combinación de materiales de alta calidad hace que sea una pala potente pero manejable, facilitando movimientos rápidos sin renunciar a la potencia que necesitas para jugadas decisivas. Descubre más sobre la marca Siux Siux es una marca reconocida en el mundo del pádel por su apuesta en innovación y calidad, especialmente en palas orientadas a jugadores avanzados y profesionales, garantizando materiales de vanguardia y diseños punteros. Desde su fundación, Siux ha desarrollado palas con un enfoque en la potencia y el control, como la Fenix Elite 2026, posicionándose como una referencia para quienes buscan alto rendimiento y fiabilidad en cada encuentro.",
     "specs": {
-      "peso": null,
-      "forma": null,
+      "peso": "375g",
+      "forma": "Diamante",
       "equilibrio": null,
       "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
       "genero": null,
-      "cor": "Branco",
-      "uso": "Competição",
-      "amortecimento": "Alto"
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
     },
     "stores": [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 139.01,
+        "price": 169.96,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/adidas-padel/14314-zapatillas-adidas-barricade-14-m-clay-white-2026.html"
+        "url": "https://www.zonadepadel.es/siux/14307-siux-fenix-elite-2026.html"
       }
     ]
   },
   {
-    "id": 594,
+    "id": 596,
     "slug": "head-radical-team-light-2026-14214",
     "name": "Head Radical Team Light 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 104.95,
+    "price": 99.95,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -7254,19 +7746,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.95,
+        "price": 99.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14214-head-radical-team-light-2026.html"
       }
     ]
   },
   {
-    "id": 595,
+    "id": 597,
     "slug": "head-radical-team-2026-14213",
     "name": "Head Radical Team 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 124.96,
+    "price": 180.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -7295,14 +7787,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 124.96,
+        "price": 180.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14213-head-radical-team-2026.html"
       }
     ]
   },
   {
-    "id": 596,
+    "id": 598,
     "slug": "head-radical-motion-2026-14212",
     "name": "Head Radical Motion 2026",
     "brand": "Head Padel",
@@ -7343,12 +7835,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 597,
+    "id": 599,
     "slug": "head-radical-pro-2026-14211",
     "name": "Head Radical Pro 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 169.95,
+    "price": 161.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -7377,19 +7869,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 169.95,
+        "price": 161.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14211-head-radical-pro-2026.html"
       }
     ]
   },
   {
-    "id": 599,
+    "id": 601,
     "slug": "paletero-head-tour-l-azul-electrico-2026-14209",
     "name": "Saco Head Tour L azul eléctrico 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 70.01,
+    "price": 62.78,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -7418,14 +7910,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 70.01,
+        "price": 62.78,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14209-paletero-head-tour-l-azul-electrico-2026.html"
       }
     ]
   },
   {
-    "id": 600,
+    "id": 602,
     "slug": "paletero-head-tour-l-negro-2026-14208",
     "name": "Saco Head Tour L negro 2026",
     "brand": "Head Padel",
@@ -7466,7 +7958,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 601,
+    "id": 603,
     "slug": "paletero-head-tour-l-naranja-2026-14207",
     "name": "Saco Head Tour L naranja 2026",
     "brand": "Head Padel",
@@ -7507,12 +7999,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 602,
+    "id": 604,
     "slug": "zapatillas-joma-set-men-2612-grey-2026-14206",
     "name": "Sapatilhas Joma Set Men 2612 grey 2026",
     "brand": "Joma",
     "category": "sapatilhas",
-    "price": 59.91,
+    "price": 54.91,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -7541,19 +8033,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.91,
+        "price": 54.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/14206-zapatillas-joma-set-men-2612-grey-2026.html"
       }
     ]
   },
   {
-    "id": 603,
+    "id": 605,
     "slug": "paletero-head-tour-l-verde-naranja-2026-14205",
     "name": "Saco Head Tour L verde naranja 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 69.96,
+    "price": 65.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -7582,19 +8074,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 65.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14205-paletero-head-tour-l-verde-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 604,
+    "id": 606,
     "slug": "paletero-head-tour-l-rosa-2026-14204",
     "name": "Saco Head Tour L rosa 2026",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 69.96,
+    "price": 65.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -7623,14 +8115,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 65.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/14204-paletero-head-tour-l-rosa-2026.html"
       }
     ]
   },
   {
-    "id": 627,
+    "id": 629,
     "slug": "zapatillas-adidas-courtquick-padel-w-red-2026-14175",
     "name": "Sapatilhas Adidas Courtquick Padel W red 2026",
     "brand": "Adidas Padel",
@@ -7671,12 +8163,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 628,
+    "id": 630,
     "slug": "zapatillas-adidas-crazyquick-ls-padel-w-white-2026-14174",
     "name": "Sapatilhas Adidas Crazyquick LS Padel W white 2026",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 97.96,
+    "price": 94.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -7705,14 +8197,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 97.96,
+        "price": 94.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14174-zapatillas-adidas-crazyquick-ls-padel-w-white-2026.html"
       }
     ]
   },
   {
-    "id": 629,
+    "id": 631,
     "slug": "zapatillas-adidas-courtquick-padel-m-blue-2026-14173",
     "name": "Sapatilhas Adidas Courtquick Padel M blue 2026",
     "brand": "Adidas Padel",
@@ -7753,12 +8245,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 630,
+    "id": 632,
     "slug": "zapatillas-nox-nerbo-white-dusk-blue-2026-14161",
     "name": "Sapatilhas Nox Nerbo white dusk blue 2026",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 104.95,
+    "price": 99.95,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -7787,14 +8279,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.95,
+        "price": 99.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/14161-zapatillas-nox-nerbo-white-dusk-blue-2026.html"
       }
     ]
   },
   {
-    "id": 631,
+    "id": 633,
     "slug": "zapatillas-nox-nerbo-white-vetiver-2026-14160",
     "name": "Sapatilhas Nox Nerbo white vetiver 2026",
     "brand": "Nox",
@@ -7835,7 +8327,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 632,
+    "id": 634,
     "slug": "zapatillas-nox-nerbo-white-raven-2026-14159",
     "name": "Sapatilhas Nox Nerbo white raven 2026",
     "brand": "Nox",
@@ -7876,7 +8368,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 634,
+    "id": 636,
     "slug": "zapatillas-nox-ml10-hexa-blue-silver-2026-14157",
     "name": "Sapatilhas Nox ML10 Hexa blue silver 2026",
     "brand": "Nox",
@@ -7917,12 +8409,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 635,
+    "id": 637,
     "slug": "zapatillas-nox-ml10-hexa-white-gum-rubber-2026-14155",
     "name": "Sapatilhas Nox ML10 Hexa white gum rubber 2026",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 104.95,
+    "price": 104.96,
     "oldPrice": 135,
     "rating": null,
     "badge": null,
@@ -7951,14 +8443,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.95,
+        "price": 104.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/14155-zapatillas-nox-ml10-hexa-white-gum-rubber-2026.html"
       }
     ]
   },
   {
-    "id": 636,
+    "id": 638,
     "slug": "zapatillas-nox-ml10-hexa-black-white-2026-14154",
     "name": "Sapatilhas Nox ML10 Hexa black white 2026",
     "brand": "Nox",
@@ -7999,7 +8491,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 637,
+    "id": 639,
     "slug": "zapatillas-nox-at10-pro-summer-sun-black-2026-14152",
     "name": "Sapatilhas Nox AT10 Pro summer sun black 2026",
     "brand": "Nox",
@@ -8040,7 +8532,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 638,
+    "id": 640,
+    "slug": "zapatillas-nox-at10-pro-turquoise-white-2026-14151",
+    "name": "Sapatilhas Nox AT10 Pro turquoise white 2026",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 74.35,
+    "oldPrice": 120,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29732-large_default/zapatillas-nox-at10-pro-turquoise-white-2026.jpg",
+    "ean": "8435778906209",
+    "productGTIN": "8435778906209",
+    "mpn": "14151",
+    "source": "zona-de-padel",
+    "sourceProductId": "14151",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Nox",
+    "description": "Las zapatillas Nox AT10 Pro turquoise white 2026 para hombre combinan tecnología avanzada y diseño moderno, ideales para jugadores que buscan control, velocidad y estabilidad en cada movimiento en pista. Este calzado, edición oficial de Agustín Tapia, garantiza comodidad superior y resistencia en cada partido. Diseñadas para deportistas que realizan desplazamientos laterales intensos y cambios de ritmo continuos, estas zapatillas ofrecen la combinación perfecta de ligereza y soporte, perfeccionando el rendimiento en cada jugada. No dejes pasar la oportunidad de mejorar tu juego con un calzado técnico y exclusivo que destaca en la temporada 2026. Características y tecnologías de la zapatillas Nox AT10 Pro turquesa y blancas 2026 Suela New Padel: Proporciona un agarre híbrido excepcional que se adapta a diferentes superficies, asegurando movimientos explosivos y cambios de dirección rápidos con seguridad. Diseño ergonómico y confort avanzado: Mediasuela amortiguada con drop balanceado que reduce la fatiga muscular. Testadas en laboratorio para proteger las articulaciones durante largos partidos. Soporte lateral reforzado: Estabilidad máxima en desplazamientos laterales, evitando lesiones y garantizando firmeza en cada pivote. Upper transpirable y envolvente: Ajuste perfecto que garantiza ventilación óptima para mantener los pies frescos y secos, incluso en entrenamientos intensos. Pertenece a la colección de 2026, reflejando innovación y las últimas tendencias en zapatillas de pádel. ¿Para quien son las Nox AT10 Pro turquoise white 26? Estas zapatillas están diseñadas para jugadores exigentes que buscan un calzado que combine durabilidad, dinamismo y control. Perfectas para quienes entrenan o compiten regularmente y necesitan rendimiento continuo en pista. Indicadas para deportistas que realizan desplazamientos laterales intensos y cambios rápidos de ritmo, estas zapatillas ofrecen un soporte óptimo en cada acción, asegurando seguridad y confort durante todo el juego. ¿Por qué te van a gustar estas zapatillas de pádel CAL26PROTUWH? El acabado en color turquesa con detalles en verde aporta un estilo fresco y moderno, que destaca en la pista sin perder la elegancia masculina. Su diseño técnico refleja un calzado premium con una silueta ergonómica que realza la exclusividad de la colección oficial de Agustín Tapia. Además, la combinación de tecnologías como la plantilla Ortholite y los refuerzos estratégicos ofrecen un ajuste cómodo y duradero, lo que las convierte en una opción ideal para jugadores que valoran tanto el rendimiento como la estética. Descubre más sobre la marca Nox Nox es una marca reconocida por su compromiso con la innovación y calidad en el pádel, desarrollando productos que mejoran el rendimiento de los jugadores en todos los niveles. Su trayectoria en el mundo del deporte la posiciona como referencia en calzado técnico. Con un enfoque especializado en zapatillas de pádel, Nox ha logrado combinar tecnología de punta con diseño ergonómico, ofreciendo modelos como estas zapatillas de 2026 que garantizan comodidad, estabilidad y resistencia en cada partido.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": "Homem",
+      "cor": "Branco",
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 74.35,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/14151-zapatillas-nox-at10-pro-turquoise-white-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "slug": "zapatillas-nox-at10-pro-asparagus-frosty-green-2026-14149",
+    "name": "Sapatilhas Nox AT10 Pro asparagus frosty green 2026",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 74.35,
+    "oldPrice": 120,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29726-large_default/zapatillas-nox-at10-pro-asparagus-frosty-green-2026.jpg",
+    "ean": "8435778906063",
+    "productGTIN": "8435778906063",
+    "mpn": "14149",
+    "source": "zona-de-padel",
+    "sourceProductId": "14149",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Nox",
+    "description": "Pisada más cómoda con las nuevas Zapatillas Nox AT10 Pro asparagus frosty green 2026 para mujer, diseñadas para ofrecer un rendimiento superior y comodidad en cada partido. Sus materiales ligeros y la suela híbrida aseguran movimientos ágiles y cambios de dirección precisos, ideales para jugadoras que requieren seguridad y rapidez en la pista. Perfectas para quienes buscan un calzado técnico y moderno sin renunciar al estilo. Estas zapatillas Nox AT10 Pro 2026 están pensadas para mujeres que entrenan o compiten con intensidad, ofreciendo soporte lateral reforzado y una amortiguación avanzada que protege el pie durante largas sesiones. Su diseño ergonómico femenino y tecnologías innovadoras garantizan estabilidad, confort y durabilidad, haciendo que cada punto sea una oportunidad para brillar. Características y tecnologías de la zapatilla Nox AT10 Pro verdes 2026 Diseño de drop optimizado: mejora la postura para reducir la fatiga muscular en desplazamientos rápidos y pivotes, aumentando la eficiencia en el juego. Soporte lateral reforzado: proporciona estabilidad y protege el pie de torsiones en movimientos laterales intensos. Mediasuela reactiva: combina absorción de impactos con retorno de energía para máxima comodidad y respuesta en cada movimiento. Upper transpirable y ergonómico: se adapta al pie femenino ofreciendo ventilación y ajuste seguro desde el primer momento. Suela New Padel: garantiza tracción constante en cualquier superficie, aportando seguridad y confianza en cada desplazamiento. Pertenece a la colección de 2026. ¿Para quien son las Nox AT10 Pro asparagus frosty green 26? Estas zapatillas están diseñadas para jugadoras que buscan rapidez, precisión y seguridad en cada movimiento sobre la pista. Son ideales para deportistas que realizan cambios de ritmo frecuentes y desplazamientos laterales intensos, que necesitan un calzado resistente y cómodo. Recomendadas para mujeres que entrenan o compiten regularmente en pádel y requieren soporte constante, durabilidad y confort prolongado para mantener el máximo rendimiento durante toda la partida o sesión de entrenamiento. ¿Por qué te van a gustar estas zapatillas de pádel CAL26PROASFG? La combinación de un diseño vibrante y moderno con tecnologías de alto rendimiento convierten a estas zapatillas en la elección perfecta para jugadoras exigentes que necesitan confort, estabilidad y agilidad desde el primer punto hasta el último. Esta edición oficial por Agustín Tapia destaca por optimizar cada movimiento en la pista, permitiendo un juego fluido y seguro sin renunciar al estilo, pensada específicamente para el pie femenino que busca calidad y funcionalidad. Descubre más sobre la marca Nox La marca Nox se ha consolidado en el mundo del pádel gracias a su apuesta por la innovación y la calidad en el desarrollo de calzado y equipamiento deportivo. Su enfoque en el rendimiento técnico y el confort ha creado productos que marcan la diferencia en pista. Especialmente en calzado femenino, Nox ofrece diseños ergonómicos y tecnologías específicas que responden a las necesidades de las jugadoras, brindando estabilidad y protección para los más exigentes partidos y entrenamientos.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": "Verde",
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 74.35,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/14149-zapatillas-nox-at10-pro-asparagus-frosty-green-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 642,
     "slug": "zapatillas-nox-at10-pro-sea-coral-white-2026-14148",
     "name": "Sapatilhas Nox AT10 Pro sea coral white 2026",
     "brand": "Nox",
@@ -8081,7 +8655,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 639,
+    "id": 643,
     "slug": "zapatillas-nox-at10-lux-dark-slate-allure-2026-14144",
     "name": "Sapatilhas Nox AT10 Lux dark slate allure 2026",
     "brand": "Nox",
@@ -8122,7 +8696,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 649,
+    "id": 653,
     "slug": "babolat-viper-soft-juan-lebron-3-0-2026-14125",
     "name": "Babolat Viper Soft Juan Lebron 3.0 2026",
     "brand": "Babolat",
@@ -8163,12 +8737,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 664,
+    "id": 668,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026-14110",
     "name": "Sapatilhas Asics Gel Resolution X Clay white bluebell 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 129.96,
+    "price": 118.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8197,19 +8771,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 129.96,
+        "price": 118.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14110-zapatillas-asics-gel-resolution-x-clay-white-bluebell-2026.html"
       }
     ]
   },
   {
-    "id": 665,
+    "id": 669,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-sienna-2026-14109",
     "name": "Sapatilhas Asics Gel Resolution X Clay black sienna 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 109.96,
+    "price": 103.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8238,19 +8812,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 103.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14109-zapatillas-asics-gel-resolution-x-clay-black-sienna-2026.html"
       }
     ]
   },
   {
-    "id": 666,
+    "id": 670,
     "slug": "zapatillas-asics-gel-challenger-15-padel-l-e-safety-yellow-2026-14108",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel L.E. safety yellow 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 109.51,
+    "price": 110.01,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -8279,19 +8853,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.51,
+        "price": 110.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14108-zapatillas-asics-gel-challenger-15-padel-le-safety-yellow-2026.html"
       }
     ]
   },
   {
-    "id": 667,
+    "id": 671,
     "slug": "zapatillas-asics-gel-challenger-15-clay-ironclad-grey-blue-2026-14107",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay ironclad grey blue 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 92.51,
+    "price": 84.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8320,14 +8894,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 92.51,
+        "price": 84.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14107-zapatillas-asics-gel-challenger-15-clay-ironclad-grey-blue-2026.html"
       }
     ]
   },
   {
-    "id": 668,
+    "id": 672,
     "slug": "zapatillas-asics-gel-challenger-15-clay-white-digital-sakura-2026-14106",
     "name": "Sapatilhas Asics Gel Challenger 15 Clay white digital sakura 2026",
     "brand": "Asics",
@@ -8368,53 +8942,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 669,
-    "slug": "zapatillas-asics-gel-challenger-15-padel-white-misty-pine-2026-14105",
-    "name": "Sapatilhas Asics Gel Challenger 15 Padel white misty pine 2026",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 84.91,
-    "oldPrice": 120,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/29071-large_default/zapatillas-asics-gel-challenger-15-padel-white-misty-pine-2026.jpg",
-    "ean": "4571633426469",
-    "productGTIN": "4571633426469",
-    "mpn": "14105",
-    "source": "zona-de-padel",
-    "sourceProductId": "14105",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "Las zapatillas Asics Gel Challenger 15 Padel white misty pine 2026 están diseñadas para ofrecer un rendimiento óptimo en pista de pádel, combinando tracción, resistencia y comodidad para cada partido. Son ideales para jugadores que buscan estabilidad y durabilidad durante sus entrenamientos y competiciones. Este calzado masculino se adapta perfectamente a deportistas de nivel inicial, intermedio o avanzado, que priorizan un ajuste firme y una sujeción lateral sólida. La combinación de diseño moderno en blanco y Misty Pine aporta un estilo fresco sin perder la funcionalidad técnica necesaria para el pádel. Características y tecnologías de la zapatilla Asics Gel Challenger 15 Padel blancas y verdes Nivel Intermedio y Avanzado: Ideal para jugadores que exigen rendimiento y confort en cada movimiento dentro de la pista. Suela New Padel: Diseñada específicamente para pádel, ofrece un agarre excepcional en aceleraciones y cambios de dirección. Con amortiguación avanzada que protege articulaciones, favoreciendo sesiones largas sin fatiga. Fabricada con materiales transpirables que mantienen tus pies frescos en clima cálido. Estabilizador que aporta mayor estabilidad en los apoyos laterales. Pertenece a la colección de 2026: Tecnología y diseño actualizados para adaptarse a las últimas exigencias del deporte. ¿Para quien son las Asics Gel Challenger 15 Padel 26? Estas zapatillas están pensadas para jugadores de pádel que realizan múltiples apoyos laterales y necesitan un calzado con sujeción reforzada. Perfectas para quienes entrenan con frecuencia y demandan una durabilidad elevada y un rendimiento constante en la pista. También son excelentes para deportistas que buscan un calzado equilibrado y cómodo que facilite movimientos rápidos y seguros, adaptándose a distintas superficies gracias a su goma AHARPLUS™ y su suela innovadora. ¿Por qué te van a gustar estas zapatillas de pádel 1041A511-101? Las Asics Gel Challenger 15 Padel destacan por ser una opción estable y duradera que no sacrifica confort. Su diseño combina una estética moderna en tonos blanco puro y Misty Pine, perfecta para quienes valoran tanto el rendimiento como la imagen en la pista. Además, la tecnología avanzada en amortiguación y ajuste, como el sistema DYNALACING™ y la protección PGUARD™ en la puntera, garantizan una experiencia deportiva segura y cómoda durante cada partido o entrenamiento. Descubre más sobre la marca Asics Asics es una de las marcas más reconocidas en el mundo deportivo, con una tradición de innovación orientada al rendimiento y la comodidad. Sus zapatillas están diseñadas para adaptarse a las necesidades específicas de cada deporte, incluido el pádel. Con décadas de experiencia en la creación de calzado técnico, Asics ofrece productos que protegen y mejoran la movilidad de los atletas, haciendo de cada modelo una evolución funcional como lo demuestra la colección 2026 de Gel Challenger 15 Padel.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": "Branco",
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 84.91,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/14105-zapatillas-asics-gel-challenger-15-padel-white-misty-pine-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 670,
+    "id": 673,
     "slug": "zapatillas-asics-gel-challenger-15-padel-guava-amethyst-2026-14104",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel guava amethyst 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 76.7,
+    "price": 84.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8443,19 +8976,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 76.7,
+        "price": 84.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14104-zapatillas-asics-gel-challenger-15-padel-guava-amethyst-2026.html"
       }
     ]
   },
   {
-    "id": 671,
+    "id": 674,
     "slug": "zapatillas-asics-gel-challenger-15-padel-white-guava-2026-14103",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel white guava 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 76.42,
+    "price": 84.91,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8484,19 +9017,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 76.42,
+        "price": 84.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14103-zapatillas-asics-gel-challenger-15-padel-white-guava-2026.html"
       }
     ]
   },
   {
-    "id": 672,
+    "id": 675,
     "slug": "zapatillas-asics-gel-resolution-x-padel-amethyst-illuminate-green-2026-14102",
     "name": "Sapatilhas Asics Gel Resolution X Padel amethyst illuminate green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 128.96,
+    "price": 119.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8525,19 +9058,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 128.96,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14102-zapatillas-asics-gel-resolution-x-padel-amethyst-illuminate-green-2026.html"
       }
     ]
   },
   {
-    "id": 673,
+    "id": 676,
     "slug": "zapatillas-asics-gel-challenger-15-padel-saba-blue-vital-green-2026-14101",
     "name": "Sapatilhas Asics Gel Challenger 15 Padel saba blue vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 78.6,
+    "price": 97.51,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -8566,19 +9099,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 78.6,
+        "price": 97.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14101-zapatillas-asics-gel-challenger-15-padel-saba-blue-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 674,
+    "id": 677,
     "slug": "zapatillas-asics-gel-resolution-x-padel-saba-blue-cool-grey-2026-14100",
     "name": "Sapatilhas Asics Gel Resolution X Padel saba blue cool grey 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 127.96,
+    "price": 119.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8607,19 +9140,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 127.96,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14100-zapatillas-asics-gel-resolution-x-padel-saba-blue-cool-grey-2026.html"
       }
     ]
   },
   {
-    "id": 675,
+    "id": 678,
     "slug": "zapatillas-asics-gel-resolution-x-clay-digital-sakura-white-2026-14095",
     "name": "Sapatilhas Asics Gel Resolution X Clay digital sakura white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 127.01,
+    "price": 124.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -8648,14 +9181,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 127.01,
+        "price": 124.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14095-zapatillas-asics-gel-resolution-x-clay-digital-sakura-white-2026.html"
       }
     ]
   },
   {
-    "id": 676,
+    "id": 679,
     "slug": "zapatillas-asics-gel-resolution-x-clay-black-aurora-green-2026-14094",
     "name": "Sapatilhas Asics Gel Resolution X Clay black aurora green 2026",
     "brand": "Asics",
@@ -8696,7 +9229,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 678,
+    "id": 681,
     "slug": "zapatillas-asics-gel-resolution-x-clay-white-aurora-green-2026-14092",
     "name": "Sapatilhas Asics Gel Resolution X Clay white aurora green 2026",
     "brand": "Asics",
@@ -8737,12 +9270,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 680,
+    "id": 683,
     "slug": "zapatillas-asics-game-ff-padel-white-guava-2026-14087",
     "name": "Sapatilhas Asics Game FF Padel white guava 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 63.01,
+    "price": 54.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8771,14 +9304,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.01,
+        "price": 54.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14087-zapatillas-asics-game-ff-padel-white-guava-2026.html"
       }
     ]
   },
   {
-    "id": 681,
+    "id": 684,
     "slug": "zapatillas-asics-game-ff-padel-guava-white-2026-14086",
     "name": "Sapatilhas Asics Game FF Padel guava white 2026",
     "brand": "Asics",
@@ -8819,7 +9352,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 682,
+    "id": 685,
     "slug": "zapatillas-asics-game-ff-padel-saba-blue-cool-grey-2026-14085",
     "name": "Sapatilhas Asics Game FF Padel saba blue cool grey 2026",
     "brand": "Asics",
@@ -8860,12 +9393,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 683,
+    "id": 686,
     "slug": "zapatillas-asics-game-ff-padel-white-misty-pine-2026-14084",
     "name": "Sapatilhas Asics Game FF Padel white misty pine 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 57.01,
+    "price": 62.51,
     "oldPrice": 95,
     "rating": null,
     "badge": null,
@@ -8894,19 +9427,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 57.01,
+        "price": 62.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14084-zapatillas-asics-game-ff-padel-white-misty-pine-2026.html"
       }
     ]
   },
   {
-    "id": 684,
+    "id": 687,
     "slug": "zapatillas-asics-game-ff-clay-grey-blue-ironclad-2026-14083",
     "name": "Sapatilhas Asics Game FF Clay grey blue ironclad 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 67.51,
+    "price": 64.91,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8935,19 +9468,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 67.51,
+        "price": 64.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14083-zapatillas-asics-game-ff-clay-grey-blue-ironclad-2026.html"
       }
     ]
   },
   {
-    "id": 685,
+    "id": 688,
     "slug": "zapatillas-asics-game-ff-clay-white-dark-neptune-2026-14082",
     "name": "Sapatilhas Asics Game FF Clay white dark neptune 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 63.01,
+    "price": 67.51,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -8976,14 +9509,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.01,
+        "price": 67.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14082-zapatillas-asics-game-ff-clay-white-dark-neptune-2026.html"
       }
     ]
   },
   {
-    "id": 695,
+    "id": 698,
     "slug": "zapatillas-asics-solution-swift-ff-2-clay-white-digital-sakura-2026-14072",
     "name": "Sapatilhas Asics Solution Swift FF 2 Clay white digital sakura 2026",
     "brand": "Asics",
@@ -9024,12 +9557,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 696,
+    "id": 699,
     "slug": "zapatillas-asics-solution-swift-ff-2-padel-saba-blue-vital-green-2026-14071",
     "name": "Sapatilhas Asics Solution Swift FF 2 Padel saba blue vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 86.01,
+    "price": 97.51,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -9058,55 +9591,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 86.01,
+        "price": 97.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14071-zapatillas-asics-solution-swift-ff-2-padel-saba-blue-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 698,
-    "slug": "zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026-14068",
-    "name": "Sapatilhas Asics Gel Dedicate 8 Padel black vital green 2026",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 55.96,
-    "oldPrice": 75,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/28809-large_default/zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026.jpg",
-    "ean": "4571633427398",
-    "productGTIN": "4571633427398",
-    "mpn": "14068",
-    "source": "zona-de-padel",
-    "sourceProductId": "14068",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "Las zapatillas Asics Gel Dedicate 8 Padel black vital green 2026 están diseñadas para ofrecer un equilibrio perfecto entre control, confort y estabilidad en la pista de pádel. Pensadas para jugadores hombres que buscan un calzado que soporte los desplazamientos laterales y movimientos rápidos, estas zapatillas proporcionan un rendimiento óptimo gracias a la combinación de materiales resistentes y tecnologías avanzadas. Ideales para jugadores de nivel iniciación e intermedio que desean una zapatilla cómoda y estable en tierra batida, estas Asics Gel Dedicate 8 ofrecen un diseño moderno en negro con detalles en verde Vital Green, aportando estilo sin sacrificar funcionalidad. Si buscas un calzado duradero con excelente amortiguación y soporte, esta es tu opción para mejorar tu juego con confianza. Características y tecnologías de la zapatilla Asics Gel Dedicate 8 Padel negras y verdes Nivel: Iniciación – Perfectas para quienes comienzan en el pádel y buscan comodidad y control en cada paso. Juego cómodo y estable – Su diseño favorece la estabilidad lateral y sujeción para movimientos rápidos y cambios de dirección. Suela New Padel – Máxima tracción y agarre en césped artificial con arena, esencial para desplazamientos ágiles. Amortiguación GEL™ en talón – Reduce el impacto y protege las articulaciones durante el juego intenso. Pertenece a la colección de 2026, incorporando las últimas innovaciones para pádel. ¿Para quien son las Asics Gel Dedicate 8 Padel black vital green 2026? Este modelo está destinado a jugadores de nivel iniciación a intermedio que valoran un calzado cómodo, con buen soporte lateral y que brinde estabilidad en desplazamientos rápidos sobre tierra batida. Su diseño aporta confianza y durabilidad en cada partido. Además, es ideal para deportistas que requieren una amortiguación media y buscan un soporte firme para giros y deslizamientos controlados, priorizando siempre la relación calidad-precio sin renunciar a la funcionalidad. ¿Por qué te van a gustar estas zapatillas de pádel 1041A414-003? Su combinación de negro profundo con detalles en verde ofrece un estilo agresivo y moderno para quienes buscan una estética técnica y deportiva en sus zapatillas para pádel, destacando en la pista tanto por diseño como por rendimiento. Además, destacan por su estabilidad lateral y sujeción consistente, cualidades clave para un juego dinámico y ágil, que permiten movimientos seguros y eficientes durante cualquier tipo de partido o entrenamiento. Descubre más sobre la marca Asics Asics cuenta con una amplia trayectoria en el desarrollo de calzado deportivo, enfocándose en la innovación y la calidad. Esta marca japonesa es reconocida por integrar tecnologías que garantizan confort y protección en productos diseñados para deportes de alta exigencia, como el pádel. Las zapatillas para pádel de Asics, como las Gel Dedicate 8, reflejan el compromiso de la marca con la durabilidad y el rendimiento, proporcionando a los jugadores un calzado que responde a las necesidades específicas de este deporte dinámico y en constante evolución.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": null,
-      "cor": "Preto",
-      "uso": "Intenso",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 55.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/14068-zapatillas-asics-gel-dedicate-8-padel-black-vital-green-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 699,
+    "id": 701,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-misty-pine-white-2026-14067",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel misty pine white 2026",
     "brand": "Asics",
@@ -9147,12 +9639,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 700,
+    "id": 702,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-white-guava-2026-14066",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white guava 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 62.51,
+    "price": 54.91,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9181,19 +9673,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.51,
+        "price": 54.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14066-zapatillas-asics-gel-dedicate-8-padel-white-guava-2026.html"
       }
     ]
   },
   {
-    "id": 701,
+    "id": 703,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-amethyst-white-2026-14065",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel amethyst white 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 47.93,
+    "price": 51.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9222,19 +9714,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 47.93,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14065-zapatillas-asics-gel-dedicate-8-padel-amethyst-white-2026.html"
       }
     ]
   },
   {
-    "id": 703,
+    "id": 705,
     "slug": "adidas-match-light-2026-14063",
     "name": "Adidas Match Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 67.46,
+    "price": 66.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9263,19 +9755,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 67.46,
+        "price": 66.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14063-adidas-match-light-2026.html"
       }
     ]
   },
   {
-    "id": 704,
+    "id": 706,
     "slug": "adidas-match-black-green-2026-14062",
     "name": "Adidas Match black green 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 66.96,
+    "price": 70.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9304,19 +9796,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 66.96,
+        "price": 70.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14062-adidas-match-black-green-2026.html"
       }
     ]
   },
   {
-    "id": 705,
+    "id": 707,
     "slug": "adidas-match-black-orange-2026-14061",
     "name": "Adidas Match black orange 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 54.96,
+    "price": 49.56,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -9345,14 +9837,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.96,
+        "price": 49.56,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14061-adidas-match-black-orange-2026.html"
       }
     ]
   },
   {
-    "id": 706,
+    "id": 708,
     "slug": "adidas-drive-light-2026-14060",
     "name": "Adidas Drive Light 2026",
     "brand": "Adidas Padel",
@@ -9393,12 +9885,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 708,
+    "id": 709,
+    "slug": "adidas-drive-black-2026-14059",
+    "name": "Adidas Drive black 2026",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 71.96,
+    "oldPrice": 80,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29017-large_default/adidas-drive-black-2026.jpg",
+    "ean": "8435739406038",
+    "productGTIN": "8435739406038",
+    "mpn": "14059",
+    "source": "zona-de-padel",
+    "sourceProductId": "14059",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Empieza a jugar con la nueva Adidas Drive black 2026, se trata de una pala de pádel diseñada para jugadores que inician su camino en este deporte. Su estructura reforzada ofrece un rendimiento estable y duradero, ideal para quienes buscan una pala fiable y cómoda que facilite el aprendizaje y el control en cada golpe. Con tecnología que maximiza la sensación de control y una amplia zona de impacto, esta pala es perfecta para mejorar la técnica con confianza. Si buscas una pala que te acompañe en tus primeros partidos, la Adidas Drive 2026 es sin duda una opción que no puedes dejar pasar. Características y tecnologías de la pala Adidas Drive black 2026 Forma redonda: proporciona un punto dulce amplio que facilita golpes más consistentes y un mejor control incluso en impactos descentrados. Nivel para iniciación: perfecta para jugadores que comienzan, ayudando a mejorar la técnica y ganando seguridad en la pista. Peso entre 350-360 gr.: garantiza un manejo cómodo y ágil, ideal para los primeros pasos en el pádel sin fatiga excesiva. Material principal de fibra de vidrio: aporta flexibilidad y tolerancia al error, permitiendo un golpeo suave y controlado. Tacto blando con núcleo EVA: ofrece mayor confort al reducir vibraciones, facilitando una salida de bola fluida. Pertenece a la colección de 2026. ¿Para quien es Adidas Drive black 26? Esta pala está pensada para quienes están descubriendo el pádel y desean avanzar con una herramienta que aporte seguridad y control. Su diseño y tecnología están adaptados a jugadores que buscan comodidad y mejorar rápidamente sus habilidades. Ideal para principiantes, la Adidas Drive black 2026 facilita corregir errores habituales gracias a su amplia zona de impacto. De esta forma, el jugador gana confianza y puede disfrutar del juego mientras progresa. ¿Por qué te va a gustar esta pala de pádel? Gracias al sistema Smart Holes Lineal, el patrón de perforaciones asegura una estabilidad óptima en todo el plano, lo que mejora la respuesta de la pala en cada golpe y aporta fiabilidad en el juego. Además, este diseño incrementa la durabilidad de la pala, un aspecto fundamental para quienes entrenan de forma habitual y desean contar con un material resistente que les acompañe durante todo el proceso de aprendizaje. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su innovación y calidad en artículos deportivos. Su compromiso con el desarrollo tecnológico se refleja en cada una de sus palas, pensadas para optimizar el rendimiento en el pádel. Con una trayectoria que combina tradición y vanguardia, Adidas ofrece productos que garantizan confort y durabilidad, ideales para jugadores que buscan mejorar con equipamiento a la altura de sus expectativas.",
+    "specs": {
+      "peso": "360g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Controlo",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 71.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/14059-adidas-drive-black-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 710,
     "slug": "adidas-drive-blue-2026-14058",
     "name": "Adidas Drive blue 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 62.96,
+    "price": 61.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -9427,14 +9960,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.96,
+        "price": 61.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14058-adidas-drive-blue-2026.html"
       }
     ]
   },
   {
-    "id": 709,
+    "id": 711,
     "slug": "adidas-rx-series-light-2026-14057",
     "name": "Adidas RX Series Light 2026",
     "brand": "Adidas Padel",
@@ -9475,7 +10008,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 710,
+    "id": 712,
     "slug": "adidas-rx-series-2026-14056",
     "name": "Adidas RX Series 2026",
     "brand": "Adidas Padel",
@@ -9516,7 +10049,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 711,
+    "id": 713,
     "slug": "zapatillas-asics-sonicsmash-ff-vital-green-misty-pine-2026-14053",
     "name": "Sapatilhas Asics Sonicsmash FF vital green misty pine 2026",
     "brand": "Asics",
@@ -9557,12 +10090,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 712,
+    "id": 714,
     "slug": "zapatillas-asics-sonicsmash-ff-saba-blue-vital-green-2026-14052",
     "name": "Sapatilhas Asics Sonicsmash FF saba blue vital green 2026",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 91.7,
+    "price": 99.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -9591,19 +10124,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 91.7,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/14052-zapatillas-asics-sonicsmash-ff-saba-blue-vital-green-2026.html"
       }
     ]
   },
   {
-    "id": 718,
+    "id": 720,
     "slug": "adidas-cross-it-team-light-2026-14040",
     "name": "Adidas Cross It Team Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 161.96,
+    "price": 159.91,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -9632,19 +10165,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 161.96,
+        "price": 159.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14040-adidas-cross-it-team-light-2026.html"
       }
     ]
   },
   {
-    "id": 720,
+    "id": 721,
+    "slug": "adidas-cross-it-team-control-2026-14039",
+    "name": "Adidas Cross It Team Control 2026",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 126.01,
+    "oldPrice": 180,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28985-large_default/adidas-cross-it-team-control-2026.jpg",
+    "ean": "8435739405987",
+    "productGTIN": "8435739405987",
+    "mpn": "14039",
+    "source": "zona-de-padel",
+    "sourceProductId": "14039",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "La Adidas Cross It Team Control 2026 es una pala equilibrada y versátil, ideal para jugadores que buscan combinar control, comodidad y potencia en cada golpe. Su diseño avanzado en fibra de vidrio y núcleo EVA Soft Performance ofrece un tacto suave, perfecto para quienes juegan con regularidad y desean minimizar la fatiga en el brazo. Destinada a deportistas de nivel intermedio alto y avanzado que requieren una pala con alto rendimiento en control y potencia contenida, esta pala facilita transiciones rápidas gracias a su sistema Dynamic Air Flow. Si buscas una pala que te acompañe en partidos intensos sin perder maniobrabilidad, esta es la opción perfecta para dominar la pista. Características y tecnologías de la pala Adidas Cross It Team Control 2026 Forma redonda y punto dulce centrado: garantiza un contacto limpio y preciso que favorece el control durante el juego. Núcleo EVA Soft Performance: proporciona un tacto blando y una excelente salida de bola para un juego más cómodo y efectivo. Acabado rugoso que potencia los tiros con efecto. Material principal en fibra de vidrio: asegura un tacto suave y duradero, ideal para partidos frecuentes. Sistema Dynamic Air Flow: reduce la resistencia del aire, mejorando la velocidad y maniobrabilidad de la pala en cada movimiento. Pertenece a la colección de 2026, representando las últimas innovaciones de Adidas en pádel. ¿Para quién es Adidas Cross It Team Control 26? Esta pala está diseñada para jugadores intermedios y avanzados que valoran una combinación equilibrada entre control y potencia. Gracias a su balance ligeramente alto, resulta ideal para quienes buscan golpes sólidos sin sacrificar comodidad durante el partido. Deportistas que juegan de manera habitual y prefieren una pala ligera y resistente encontrarán en esta opción una herramienta eficaz para mejorar su rendimiento, facilitando golpes precisos y transiciones rápidas entre defensa y ataque. ¿Por qué te va a gustar esta pala de pádel? La Cross It Team Control 2026 destaca por su tacto suave y confortable, producto de la combinación de fibra de vidrio con un núcleo EVA Soft Performance, proporcionando un golpeo preciso y cómodo incluso en entrenamientos prolongados. Además, el sistema Dynamic Air Flow junto con la tecnología Extra Power Grip contribuyen a una mayor agilidad y potencia de golpe, haciendo que esta pala sea fácil de manejar y versátil tanto en ataque como en defensa. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su innovación y calidad en el deporte. Con décadas de experiencia, ha sabido adaptarse a las necesidades de cada disciplina, incluyendo el pádel, ofreciendo productos que unen tecnología y confort. En pádel, Adidas se posiciona como referente en palas versátiles y duraderas, pensadas para jugadores de todos los niveles que buscan un equilibrio entre rendimiento y comodidad, como lo demuestra la línea Cross It.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 126.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/14039-adidas-cross-it-team-control-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 722,
     "slug": "adidas-cross-it-carbon-control-2026-14038",
     "name": "Adidas Cross It Carbon Control 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 203.96,
+    "price": 194.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -9673,19 +10247,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 203.96,
+        "price": 194.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14038-adidas-cross-it-carbon-control-2026.html"
       }
     ]
   },
   {
-    "id": 721,
+    "id": 723,
     "slug": "adidas-cross-it-carbon-2026-14037",
     "name": "Adidas Cross It Carbon 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 189.96,
+    "price": 179.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -9714,19 +10288,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 189.96,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14037-adidas-cross-it-carbon-2026.html"
       }
     ]
   },
   {
-    "id": 722,
+    "id": 724,
     "slug": "adidas-cross-it-light-2026-14036",
     "name": "Adidas Cross It Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 250,
+    "price": 269.91,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -9755,7 +10329,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 250,
+        "price": 269.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14036-adidas-cross-it-light-2026.html"
       }
@@ -9763,6 +10337,47 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   },
   {
     "id": 725,
+    "slug": "adidas-cross-it-control-2026-14035",
+    "name": "Adidas Cross It Control 2026",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 229.96,
+    "oldPrice": 350,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28972-large_default/adidas-cross-it-control-2026.jpg",
+    "ean": "8435739405949",
+    "productGTIN": "8435739405949",
+    "mpn": "14035",
+    "source": "zona-de-padel",
+    "sourceProductId": "14035",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Dentro de la serie avanzada de Adidas encontramos la Adidas Cross It Control 2026, una pala diseñada para jugadores de pádel exigentes que buscan un equilibrio perfecto entre control y potencia. Su diseño innovador con forma redonda y balance equilibrado ofrece una sensación de golpeo precisa y limpia, ideal para dominar cada punto con confianza y rapidez. Perfecta para quienes apuestan por un juego táctico sin renunciar a la agresividad en el ataque. Este modelo de Adidas está orientado a jugadores profesionales o de alto nivel que necesitan una pala versátil, capaz de ofrecer maniobrabilidad superior y un elevado rendimiento tanto en defensa como en ataque. Si buscas una pala con tecnologías avanzadas y un rendimiento excepcional, esta opción te garantiza máxima estabilidad y control en cada golpe. Características y tecnologías de la pala Adidas Cross It Control 2026 Forma redonda y balance equilibrado: proporciona un punto dulce centrado para golpes más precisos y controlados en todas las situaciones. Tecnología Dynamic Air Flow (DAF): orificios abiertos que reducen la resistencia del aire, mejorando la aceleración y maniobrabilidad en voleas y remates. Material carbono aluminizado 15K: mayor rigidez, durabilidad y precisión extrema para golpes sólidos con máxima potencia. Núcleo de Eva medio con tacto duro: combina potencia con control en golpes técnicos o defensivos. Perfil 38 mm y peso entre 360-375 gramos: ideal para ofrecer equilibrio entre manejabilidad y solidez en pista. Pertenece a la colección de 2026. ¿Para quien es Adidas Cross It Control 26? Esta pala está diseñada para jugadores profesionales o de alto nivel que dominan tanto el juego en el fondo de pista como en la red. Su rigidez estructural y manejo superior permiten combinar defensa precisa con ataques potentes y una excelente respuesta en el juego aéreo. Si buscas una pala versátil con un comportamiento equilibrado entre control y potencia, que te ayude a variar tu estrategia y dominar cada punto con precisión y agresividad, la Cross It Control 2026 es tu mejor aliado. ¿Por qué te va a gustar esta pala de pádel? La avanzada 12 Thirteen Technology con agujeros centrales de menor diámetro aumenta la rigidez estructural y mejora la durabilidad, ofreciendo una respuesta homogénea y una potencia reforzada en el punto de impacto. Esto se traduce en golpes más consistentes y efectivos. Además, el diseño innovador con el sistema Extra Power Grip y el refuerzo estructural Structural Reinforcement aporta una mayor estabilidad y resistencia a torsiones, permitiendo golpes más potentes y fluidos sin perder control, ideal para jugadores exigentes. Descubre más sobre la marca Adidas Adidas es una marca líder mundial en deportes, reconocida por su innovación y calidad en equipamiento deportivo. En pádel, destaca por desarrollar palas con tecnologías punteras que garantizan rendimiento y versatilidad para jugadores de todos los niveles. Desde hace años, Adidas ha revolucionado el pádel con modelos como esta Cross It Control 2026, enfocándose en brindar soluciones técnicas que potencian el juego ofensivo y defensivo, adecuándose a las demandas del pádel moderno.",
+    "specs": {
+      "peso": "375g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 229.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/14035-adidas-cross-it-control-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 727,
     "slug": "adidas-arrow-hit-junior-pink-2026-14032",
     "name": "Adidas Arrow Hit Junior pink 2026",
     "brand": "Adidas Padel",
@@ -9803,7 +10418,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 726,
+    "id": 728,
     "slug": "adidas-arrow-hit-junior-blue-2026-14031",
     "name": "Adidas Arrow Hit Junior blue 2026",
     "brand": "Adidas Padel",
@@ -9844,12 +10459,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 727,
+    "id": 729,
     "slug": "adidas-arrow-hit-carbon-control-2026-14030",
     "name": "Adidas Arrow Hit Carbon Control 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 184.96,
+    "price": 176.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -9878,19 +10493,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 184.96,
+        "price": 176.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14030-adidas-arrow-hit-carbon-control-2026.html"
       }
     ]
   },
   {
-    "id": 728,
+    "id": 730,
     "slug": "adidas-arrow-hit-carbon-attack-2026-14029",
     "name": "Adidas Arrow Hit Carbon Attack 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 162.01,
+    "price": 164.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -9919,19 +10534,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 162.01,
+        "price": 164.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14029-adidas-arrow-hit-carbon-attack-2026.html"
       }
     ]
   },
   {
-    "id": 729,
+    "id": 731,
     "slug": "adidas-arrow-hit-control-2026-14028",
     "name": "Adidas Arrow Hit Control 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 285.96,
+    "price": 299.96,
     "oldPrice": 400,
     "rating": null,
     "badge": null,
@@ -9960,19 +10575,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 285.96,
+        "price": 299.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14028-adidas-arrow-hit-control-2026.html"
       }
     ]
   },
   {
-    "id": 730,
+    "id": 732,
     "slug": "adidas-arrow-hit-attack-2026-14027",
     "name": "Adidas Arrow Hit Attack 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 282.96,
+    "price": 269.96,
     "oldPrice": 400,
     "rating": null,
     "badge": null,
@@ -10001,19 +10616,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 282.96,
+        "price": 269.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14027-adidas-arrow-hit-attack-2026.html"
       }
     ]
   },
   {
-    "id": 731,
+    "id": 733,
     "slug": "adidas-metalbone-superlight-2026-14026",
     "name": "Adidas Metalbone Superlight 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 134.96,
+    "price": 129.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -10042,19 +10657,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.96,
+        "price": 129.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14026-adidas-metalbone-superlight-2026.html"
       }
     ]
   },
   {
-    "id": 732,
+    "id": 734,
     "slug": "adidas-metalbone-team-light-2026-14025",
     "name": "Adidas Metalbone Team Light 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 158.96,
+    "price": 149.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -10083,14 +10698,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 158.96,
+        "price": 149.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14025-adidas-metalbone-team-light-2026.html"
       }
     ]
   },
   {
-    "id": 733,
+    "id": 735,
     "slug": "adidas-metalbone-team-2026-14024",
     "name": "Adidas Metalbone Team 2026",
     "brand": "Adidas Padel",
@@ -10131,12 +10746,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 734,
+    "id": 736,
     "slug": "adidas-metalbone-carbon-control-2026-14023",
     "name": "Adidas Metalbone Carbon Control 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 211.96,
+    "price": 194.96,
     "oldPrice": 260,
     "rating": null,
     "badge": null,
@@ -10165,14 +10780,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 211.96,
+        "price": 194.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14023-adidas-metalbone-carbon-control-2026.html"
       }
     ]
   },
   {
-    "id": 735,
+    "id": 737,
     "slug": "adidas-metalbone-carbon-2026-14021",
     "name": "Adidas Metalbone Carbon 2026",
     "brand": "Adidas Padel",
@@ -10213,12 +10828,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 737,
+    "id": 738,
+    "slug": "adidas-metalbone-control-2026-14020",
+    "name": "Adidas Metalbone Control 2026",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 389.96,
+    "oldPrice": 390,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28954-large_default/adidas-metalbone-control-2026.jpg",
+    "ean": "8435739405819",
+    "productGTIN": "8435739405819",
+    "mpn": "14020",
+    "source": "zona-de-padel",
+    "sourceProductId": "14020",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "La Adidas Metalbone Control 2026 es una pala diseñada para jugadores que buscan un equilibrio perfecto entre potencia y control. Su formato redondo y punto dulce centrado la convierten en la opción ideal para quienes dominan el juego con técnica y anticipación, sin renunciar a la fuerza característica de la familia Metalbone. Perfecta para deportistas masculinos que valoran la precisión y el tacto suave que aporta su núcleo EVA Soft Performance, esta pala ofrece una salida de bola fluida y un manejo excepcional en cada golpe. Si buscas una pala que combine resistencia, comodidad y tecnología avanzada, la Metalbone CTRL 2026 es tu mejor elección para elevar tu nivel de juego. Características y tecnologías de la pala Adidas Metalbone Control 2026 de Lorena Rufo Forma redonda con perfil de 38 mm: proporciona un punto dulce amplio que maximiza el control en cada golpe, facilitando la precisión en la colocación. Núcleo EVA Soft Performance: aporta un tacto medio y mayor confort al jugador, permitiendo una salida de bola más controlada y una sensación suave en golpes exigentes. Material principal de carbono: marco tubular 100% carbono y caras de carbono aluminizado 16K para una combinación perfecta de ligereza, rigidez y durabilidad. Personalización del balance: ofrece una gran manejabilidad y versatilidad, ideal para jugadores que buscan rapidez sin perder potencia. Pertenece a la colección de 2026: una propuesta actualizada que incluye innovaciones tecnológicas para un rendimiento superior en la pista. ¿Para quien es Metalbone CTRL 26? La Metalbone CTRL 2026 está diseñada para jugadores técnicos que priorizan el control y la precisión en cada golpe. Ideal para quienes juegan en posiciones tanto de fondo como de red, y buscan manejar el ritmo del partido con inteligencia y comodidad. Esta pala es la elección perfecta para hombres avanzados que quieren un tacto más suave pero sin perder la potencia típica de las palas Adidas Metalbone, permitiéndoles maximizar el rendimiento en cada situación de juego. ¿Por qué te va a gustar esta pala de pádel? El sistema de pesas removibles de la Metalbone Control 2026 permite personalizar el balance de la pala añadiendo hasta +11,2 g. Ajusta el peso en la cabeza para ganar potencia o reduce peso para mejorar la manejabilidad y la rapidez en la reacción. Su Extra Power Grip (EPG) proporciona un agarre ergonómico y firme, mejorando la palanca en voleas y bandejas. Esto aporta un extra de comodidad y eficacia en golpes decisivos. Descubre más sobre la marca Adidas Adidas es una marca reconocida mundialmente por su innovación en equipamiento deportivo. Su compromiso con la calidad y la tecnología avanzada se refleja en cada pala de pádel que diseña, ofreciendo productos para jugadores exigentes. La familia Metalbone destaca en la gama de palas de Adidas por combinar potencia y control, ideales para jugadores técnicos que requieren materiales de alta gama y un diseño pensado para el máximo rendimiento.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 389.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/14020-adidas-metalbone-control-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 739,
     "slug": "adidas-metalbone-hrd-2026-14019",
     "name": "Adidas Metalbone HRD+ 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 389.96,
+    "price": 273.01,
     "oldPrice": 390,
     "rating": null,
     "badge": null,
@@ -10247,19 +10903,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 389.96,
+        "price": 273.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14019-adidas-metalbone-hrd-2026.html"
       }
     ]
   },
   {
-    "id": 738,
+    "id": 740,
     "slug": "adidas-metalbone-2026-14018",
     "name": "Adidas Metalbone 2026",
     "brand": "Adidas Padel",
     "category": "raquetes",
-    "price": 278.96,
+    "price": 291.96,
     "oldPrice": 390,
     "rating": null,
     "badge": null,
@@ -10288,14 +10944,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 278.96,
+        "price": 291.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html"
       }
     ]
   },
   {
-    "id": 759,
+    "id": 761,
     "slug": "siux-beat-junior-2026-13985",
     "name": "Siux Beat Junior 2026",
     "brand": "Siux",
@@ -10336,12 +10992,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 760,
+    "id": 762,
     "slug": "siux-beat-hybrid-air-2026-13982",
     "name": "Siux Beat Hybrid Air 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 79.96,
+    "price": 69.96,
     "oldPrice": 99,
     "rating": null,
     "badge": null,
@@ -10370,19 +11026,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 69.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13982-siux-beat-hybrid-air-2026.html"
       }
     ]
   },
   {
-    "id": 761,
+    "id": 763,
     "slug": "siux-beat-hybrid-2026-13981",
     "name": "Siux Beat Hybrid 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 98.96,
+    "price": 88.96,
     "oldPrice": 99,
     "rating": null,
     "badge": null,
@@ -10411,14 +11067,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 98.96,
+        "price": 88.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13981-siux-beat-hybrid-2026.html"
       }
     ]
   },
   {
-    "id": 762,
+    "id": 764,
     "slug": "siux-beat-control-2026-13980",
     "name": "Siux Beat Control 2026",
     "brand": "Siux",
@@ -10459,7 +11115,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 764,
+    "id": 766,
     "slug": "bipack-head-padel-pro-s-2x3b-see-13977",
     "name": "Bipack Head Padel Pro S+ 2X3B SEE",
     "brand": "Head Padel",
@@ -10500,7 +11156,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 765,
+    "id": 767,
     "slug": "cajon-pelotas-head-cs-18-x-4-13976",
     "name": "Cajon Pelotas Head CS 18 x 4",
     "brand": "Head Padel",
@@ -10541,12 +11197,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 766,
+    "id": 768,
     "slug": "siux-astra-hybrid-air-2026-13975",
     "name": "Siux Astra Hybrid Air 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 119.96,
+    "price": 148.96,
     "oldPrice": 149,
     "rating": null,
     "badge": null,
@@ -10575,14 +11231,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.96,
+        "price": 148.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13975-siux-astra-hybrid-air-2026.html"
       }
     ]
   },
   {
-    "id": 773,
+    "id": 775,
     "slug": "siux-electra-elite-2026-13960",
     "name": "Siux Electra Elite 2026",
     "brand": "Siux",
@@ -10623,12 +11279,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 775,
+    "id": 776,
+    "slug": "siux-astra-control-2026-13958",
+    "name": "Siux Astra Control 2026",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 109.96,
+    "oldPrice": 149,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28498-large_default/siux-astra-control-2026.jpg",
+    "ean": "8436625200501",
+    "productGTIN": "8436625200501",
+    "mpn": "13958",
+    "source": "zona-de-padel",
+    "sourceProductId": "13958",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "La Siux Astra Control 2026 es una pala diseñada para jugadores que priorizan el control y la precisión en cada golpe. Su forma redonda y su núcleo de goma EVA Soft ofrecen una respuesta suave y maniobrable, ideal para tácticas de juego basadas en la estrategia y la resistencia. Esta pala es perfecta si buscas una herramienta confiable que te permita dominar la pista con criterio. Pensada para el jugador masculino de nivel intermedio a avanzado, esta pala destaca por su capacidad para ofrecer sensaciones refinadas y golpes limpios desde cualquier posición. La Astra Ctrl 2026 de Siux es la elección ideal para quienes quieren elevar su técnica y mantener el control absoluto en cada punto disputado. Características y tecnologías de la pala Siux Astra Control 2026 Forma redonda: amplía el punto dulce para facilitar golpes limpios y precisos sin importar la posición en la pista. Núcleo de goma EVA Soft: ofrece una respuesta blanda y controlada que potencia la sensación y previsibilidad en cada impacto. Material principal de carbono: garantiza una estructura resistente y ligera para una gran maniobrabilidad durante el juego. Perfil de 38 mm y peso entre 360-375 gramos: equilibrio perfecto entre control y comodidad para jugadores que buscan precisión. Rugosidad con lija y acabado brillante: mejora el agarre de la pelota para facilitar lifts y cortes con mayor eficacia. Pertenece a la colección de 2026. ¿Para quien es Siux Astra Control 26? Esta pala está especialmente diseñada para jugadores que desean dominar el punto con técnica y precisión antes que con fuerza bruta. Su diseño orientado al control la convierte en una opción excelente para jugadores intermedios y avanzados que buscan constancia y estrategia. Con su geometría redonda y acabado cuidadosamente pensado, la Siux Astra Control de 2026 proporciona fiabilidad y maniobrabilidad. Es la herramienta perfecta para quienes prefieren un juego inteligente y táctico, maximizando cada golpe con criterio y resistencia. ¿Por qué te va a gustar esta pala de pádel? El acabado brillante con textura arenosa no solo aporta un estilo elegante, sino que también mejora el agarre de la pelota, facilitando lifts y cortes más efectivos durante el juego. Esta combinación de estética y funcionalidad es uno de los grandes atractivos de la Astra Ctrl 2026. Además, al estar orientada a jugadores que ya dominan los fundamentos, esta pala ofrece una sensación táctil blanda que permite afinar la técnica y lograr un juego más preciso y controlado, ideal para quienes quieren elevar su nivel. Descubre más sobre la marca Siux Siux es una marca reconocida en el mundo del pádel por su compromiso con la innovación y la calidad. Su trayectoria ha posicionado a sus palas como favoritas entre jugadores que buscan rendimiento y fiabilidad. Con un enfoque en el control y la técnica, Siux desarrolla palas como la Astra Control 2026, que responden a las demandas de jugadores que aprecian la precisión y la estrategia en su juego, asegurando así un alto nivel competitivo y satisfacción en cada partido.",
+    "specs": {
+      "peso": "375g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 109.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/13958-siux-astra-control-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 777,
     "slug": "siux-astra-hybrid-2026-13957",
     "name": "Siux Astra Hybrid 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 119.96,
+    "price": 114.96,
     "oldPrice": 149,
     "rating": null,
     "badge": null,
@@ -10657,14 +11354,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 119.96,
+        "price": 114.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13957-siux-astra-hybrid-2026.html"
       }
     ]
   },
   {
-    "id": 776,
+    "id": 778,
     "slug": "siux-gea-2026-13956",
     "name": "Siux Gea 2026",
     "brand": "Siux",
@@ -10705,12 +11402,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 777,
+    "id": 779,
     "slug": "siux-trilogy-elite-2026-13955",
     "name": "Siux Trilogy Elite 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 197.96,
+    "price": 194.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -10739,19 +11436,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 197.96,
+        "price": 194.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13955-siux-trilogy-elite-2026.html"
       }
     ]
   },
   {
-    "id": 778,
+    "id": 780,
     "slug": "siux-pegasus-elite-2026-13954",
     "name": "Siux Pegasus Elite 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 204.96,
+    "price": 199.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -10780,19 +11477,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 204.96,
+        "price": 199.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13954-siux-pegasus-elite-2026.html"
       }
     ]
   },
   {
-    "id": 779,
+    "id": 781,
     "slug": "siux-diablo-elite-2026-13953",
     "name": "Siux Diablo Elite 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 204.96,
+    "price": 202.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -10821,19 +11518,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 204.96,
+        "price": 202.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13953-siux-diablo-elite-2026.html"
       }
     ]
   },
   {
-    "id": 780,
+    "id": 782,
     "slug": "siux-valkiria-elite-2026-13952",
     "name": "Siux Valkiria Elite 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 204.96,
+    "price": 202.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -10862,19 +11559,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 204.96,
+        "price": 202.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13952-siux-valkiria-elite-2026.html"
       }
     ]
   },
   {
-    "id": 793,
+    "id": 795,
     "slug": "siux-pegasus-pro-storm-grey-2026-13937",
     "name": "Siux Pegasus Pro Storm Grey 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 279.96,
+    "price": 269.91,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10903,19 +11600,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 279.96,
+        "price": 269.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13937-siux-pegasus-pro-storm-grey-2026.html"
       }
     ]
   },
   {
-    "id": 794,
+    "id": 796,
     "slug": "siux-pegasus-pro-lava-orange-2026-13936",
     "name": "Siux Pegasus Pro Lava Orange 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 279.95,
+    "price": 279.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10944,19 +11641,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 279.95,
+        "price": 279.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13936-siux-pegasus-pro-lava-orange-2026.html"
       }
     ]
   },
   {
-    "id": 796,
+    "id": 797,
+    "slug": "siux-fenix-pro-black-2026-13935",
+    "name": "Siux Fenix Pro Black 2026",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 314.96,
+    "oldPrice": 350,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28491-large_default/siux-fenix-pro-black-2026.jpg",
+    "ean": "8436625200433",
+    "productGTIN": "8436625200433",
+    "mpn": "13935",
+    "source": "zona-de-padel",
+    "sourceProductId": "13935",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "La Siux Fenix Pro Black 2026 es una pala diseñada para jugadores avanzados que buscan maximizar su potencia en cada golpe. Su forma de diamante y balance alto concentran la fuerza en la parte superior, facilitando remates explosivos y un juego agresivo. Además, su diseño elegante y discreto refleja profesionalismo en la pista, ideal para quienes valoran tanto el rendimiento como la estética. Este modelo, desarrollado junto a Leo Ausburger, combina materiales de alta calidad como carbono y fibra 12K, con un núcleo de EVA que garantiza consistencia y durabilidad. La pala ofrece un amplio punto dulce optimizado para mantener la estabilidad en cada impacto y cuenta con un sistema innovador para cambiar la correa, asegurando comodidad y personalización durante el juego. Características y tecnologías de la pala Siux Fenix Pro Black 2026 Forma diamante: Concentración de peso en la parte superior para potenciar la velocidad de golpeo y los remates. Núcleo de EVA: Combina confort y tacto duro para una respuesta rápida y efectiva en la pista. Material principal carbono: Aporta resistencia y una excelente durabilidad, manteniendo una respuesta precisa. Rugosidad 3D: Su acabado mate con textura mejora el control y permite potenciar efectos en cada golpe. Perfecto equilibrio entre manejabilidad y potencia para jugadores agresivos. Pertenece a la colección de 2026. ¿Para quien es Siux Fenix Pro Black 26? Esta pala está indicada para jugadores de nivel avanzado que se especializan en golpes de revés y buscan un rendimiento centrado en la potencia. La geometría y el balance están diseñados para optimizar velocidades de golpeo altos y hacer más efectivo el juego ofensivo. Jugador que necesita precisión y fuerza para rematar voleas y aprovechar cada oportunidad de ataque. Su configuración es ideal para quienes exigen lo máximo en términos de respuesta y agresividad en la cancha. ¿Por qué te va a gustar esta pala de pádel? La nueva Siux firmada por Leo Ausburger destaca por ofrecer una combinación excepcional entre poder y precisión. Su diseño sobrio se adapta a jugadores que buscan sensaciones de control sin renunciar a la agresividad en cada partido. Además, incorpora tecnologías exclusivas que amplían el punto dulce y facilitan la personalización rápida de la correa, elementos fundamentales para jugadores profesionales que valoran comodidad y rendimiento en cada encuentro. Descubre más sobre la marca Siux Siux es una marca española reconocida por su innovación y calidad en el mundo del pádel. Su constante apuesta por la tecnología ha hecho de sus palas opciones favoritas para jugadores que exigen máxima competitividad y durabilidad. Especializada en gamas profesionales, Siux combina materiales de alta gama y diseño funcional para ofrecer palas que acompañan a los jugadores en su evolución deportiva, como la Siux Fenix Pro Black 2026, orientada al juego de potencia.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 314.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/13935-siux-fenix-pro-black-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 798,
     "slug": "siux-fenix-pro-glow-purple-2026-13934",
     "name": "Siux Fenix Pro Glow Purple 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 259.96,
+    "price": 234.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -10985,14 +11723,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 259.96,
+        "price": 234.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13934-siux-fenix-pro-glow-purple-2026.html"
       }
     ]
   },
   {
-    "id": 797,
+    "id": 799,
     "slug": "siux-electra-pro-shadow-red-2026-13933",
     "name": "Siux Electra Pro Shadow Red 2026",
     "brand": "Siux",
@@ -11033,12 +11771,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 798,
+    "id": 800,
     "slug": "siux-electra-pro-fire-red-2026-13932",
     "name": "Siux Electra Pro Fire Red 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 254.96,
+    "price": 219.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11067,19 +11805,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 254.96,
+        "price": 219.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13932-siux-electra-pro-fire-red-2026.html"
       }
     ]
   },
   {
-    "id": 799,
+    "id": 801,
     "slug": "siux-diablo-pro-night-blue-2026-13931",
     "name": "Siux Diablo Pro Night Blue 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 239.96,
+    "price": 349.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11108,19 +11846,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 239.96,
+        "price": 349.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13931-siux-diablo-pro-night-blue-2026.html"
       }
     ]
   },
   {
-    "id": 800,
+    "id": 802,
     "slug": "siux-diablo-pro-royal-blue-2026-13930",
     "name": "Siux Diablo Pro Royal Blue 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 262.95,
+    "price": 259.95,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11149,19 +11887,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 262.95,
+        "price": 259.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13930-siux-diablo-pro-royal-blue-2026.html"
       }
     ]
   },
   {
-    "id": 801,
+    "id": 803,
     "slug": "siux-valkiria-pro-2026-13929",
     "name": "Siux Valkiria Pro 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 314.96,
+    "price": 349.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11190,19 +11928,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 314.96,
+        "price": 349.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13929-siux-valkiria-pro-2026.html"
       }
     ]
   },
   {
-    "id": 802,
+    "id": 804,
     "slug": "siux-trilogy-pro-noir-fog-2026-13928",
     "name": "Siux Trilogy Pro Noir Fog 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 259.96,
+    "price": 234.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11231,19 +11969,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 259.96,
+        "price": 234.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13928-siux-trilogy-pro-noir-fog-2026.html"
       }
     ]
   },
   {
-    "id": 803,
+    "id": 805,
     "slug": "siux-trilogy-pro-ash-green-2026-13927",
     "name": "Siux Trilogy Pro Ash Green 2026",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 239.96,
+    "price": 224.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -11272,19 +12010,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 239.96,
+        "price": 224.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/13927-siux-trilogy-pro-ash-green-2026.html"
       }
     ]
   },
   {
-    "id": 804,
+    "id": 806,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-green-2026-13926",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V green 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 84.95,
+    "price": 82.95,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -11313,19 +12051,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.95,
+        "price": 82.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13926-zapatillas-bullpadel-premier-padel-p2-26v-green-2026.html"
       }
     ]
   },
   {
-    "id": 805,
+    "id": 807,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-bone-2026-13925",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V bone 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 94.96,
+    "price": 89.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -11354,19 +12092,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 94.96,
+        "price": 89.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13925-zapatillas-bullpadel-premier-padel-p2-26v-bone-2026.html"
       }
     ]
   },
   {
-    "id": 806,
+    "id": 808,
     "slug": "zapatillas-bullpadel-premier-padel-p2-26v-anthracite-2026-13924",
     "name": "Sapatilhas Bullpadel Premier Padel P2 26V anthracite 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 84.96,
+    "price": 82.96,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -11395,14 +12133,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.96,
+        "price": 82.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13924-zapatillas-bullpadel-premier-padel-p2-26v-anthracite-2026.html"
       }
     ]
   },
   {
-    "id": 807,
+    "id": 809,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-green-2026-13923",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V green 2026",
     "brand": "Bullpadel",
@@ -11443,7 +12181,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 808,
+    "id": 810,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-bone-2026-13922",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V bone 2026",
     "brand": "Bullpadel",
@@ -11484,7 +12222,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 809,
+    "id": 811,
     "slug": "zapatillas-bullpadel-premier-padel-p1-26v-anthracite-2026-13921",
     "name": "Sapatilhas Bullpadel Premier Padel P1 26V anthracite 2026",
     "brand": "Bullpadel",
@@ -11525,7 +12263,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 810,
+    "id": 812,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-kaki-2026-13920",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V kaki 2026",
     "brand": "Bullpadel",
@@ -11566,12 +12304,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 812,
+    "id": 814,
     "slug": "zapatillas-bullpadel-premier-padel-major-26v-anthracite-2026-13918",
     "name": "Sapatilhas Bullpadel Premier Padel Major 26V anthracite 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 134.96,
+    "price": 127.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -11600,19 +12338,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 134.96,
+        "price": 127.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13918-zapatillas-bullpadel-premier-padel-major-26v-anthracite-2026.html"
       }
     ]
   },
   {
-    "id": 821,
+    "id": 823,
     "slug": "zapatillas-bullpadel-vertex-woman-pro-line-tour-final-26v-atomic-blue-2026-13879",
     "name": "Sapatilhas Bullpadel Vertex Woman Pro Line Tour Final 26V atomic blue 2026",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 100.6,
+    "price": 119.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -11641,14 +12379,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 100.6,
+        "price": 119.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13879-zapatillas-bullpadel-vertex-woman-pro-line-tour-final-26v-atomic-blue-2026.html"
       }
     ]
   },
   {
-    "id": 822,
+    "id": 824,
     "slug": "zapatillas-bullpadel-x-plo-pro-line-tour-final-26v-navy-blue-2026-13878",
     "name": "Sapatilhas Bullpadel X-PLO Pro Line Tour Final 26V navy blue 2026",
     "brand": "Bullpadel",
@@ -11689,7 +12427,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 823,
+    "id": 825,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-kaki-2026-13876",
     "name": "Saco Bullpadel BPP26015 Tour Premier kaki 2026",
     "brand": "Bullpadel",
@@ -11730,7 +12468,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 824,
+    "id": 826,
     "slug": "paletero-bullpadel-bpp26015-tour-premier-crudo-2026-13875",
     "name": "Saco Bullpadel BPP26015 Tour Premier crudo 2026",
     "brand": "Bullpadel",
@@ -11771,12 +12509,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 825,
+    "id": 827,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-premier-crudo-2026-13874",
     "name": "Saco Bullpadel BPP26003 Vertex Woman Premier crudo 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 89.91,
+    "price": 84.96,
     "oldPrice": 115,
     "rating": null,
     "badge": null,
@@ -11805,14 +12543,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.91,
+        "price": 84.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13874-paletero-bullpadel-bpp26003-vertex-woman-premier-crudo-2026.html"
       }
     ]
   },
   {
-    "id": 829,
+    "id": 831,
     "slug": "mochila-bullpadel-bpm26020-neuron-premier-negra-2026-13863",
     "name": "Mochila Bullpadel BPM26020 Neuron Premier negra 2026",
     "brand": "Bullpadel",
@@ -11853,12 +12591,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 830,
+    "id": 832,
     "slug": "paletero-bullpadel-bpp26020-neuron-premier-negro-2026-13862",
     "name": "Saco Bullpadel BPP26020 Neuron Premier negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 85.96,
+    "price": 84.96,
     "oldPrice": 115,
     "rating": null,
     "badge": null,
@@ -11887,19 +12625,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 85.96,
+        "price": 84.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13862-paletero-bullpadel-bpp26020-neuron-premier-negro-2026.html"
       }
     ]
   },
   {
-    "id": 831,
+    "id": 833,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-premier-negra-2026-13861",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo Premier negra 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 44.96,
+    "price": 41.96,
     "oldPrice": 60,
     "rating": null,
     "badge": null,
@@ -11928,14 +12666,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.96,
+        "price": 41.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13861-mochila-bullpadel-bpm26008-vertex-geo-premier-negra-2026.html"
       }
     ]
   },
   {
-    "id": 833,
+    "id": 835,
     "slug": "mochila-bullpadel-bpm26002-hack-premier-negra-2026-13859",
     "name": "Mochila Bullpadel BPM26002 Hack Premier negra 2026",
     "brand": "Bullpadel",
@@ -11976,7 +12714,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 834,
+    "id": 836,
     "slug": "paletero-bullpadel-bpp26013-hack-premier-kaki-2026-13858",
     "name": "Saco Bullpadel BPP26013 Hack Premier kaki 2026",
     "brand": "Bullpadel",
@@ -12017,7 +12755,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 835,
+    "id": 837,
     "slug": "bullpadel-vertex-05-light-premier-2026-13857",
     "name": "Bullpadel Vertex 05 Light Premier 2026",
     "brand": "Bullpadel",
@@ -12058,12 +12796,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 836,
+    "id": 838,
     "slug": "bullpadel-hack-04-premier-2026-13856",
     "name": "Bullpadel Hack 04 Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 271.96,
+    "price": 259.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -12092,19 +12830,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 271.96,
+        "price": 259.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13856-bullpadel-hack-04-premier-2026.html"
       }
     ]
   },
   {
-    "id": 838,
+    "id": 839,
+    "slug": "bullpadel-xplo-premier-2026-13855",
+    "name": "Bullpadel XPLO Premier 2026",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 269.96,
+    "oldPrice": 380,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/31460-large_default/bullpadel-xplo-premier-2026.jpg",
+    "ean": "8447552015472",
+    "productGTIN": "8447552015472",
+    "mpn": "13855",
+    "source": "zona-de-padel",
+    "sourceProductId": "13855",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "La Bullpadel XPLO Premier 2026 es una pala diseñada para jugadores que buscan una combinación perfecta entre ligereza, maniobrabilidad y una potencia brutal. Su estructura avanzada y materiales de alta calidad aseguran un rendimiento superior en cada golpe, ideal para quienes quieren dominar en la pista con agresividad y control. Perfecta para remates, bandejas y ataques decisivos, esta pala ofrece un rendimiento profesional. Diseñada especialmente para hombres competitivos y avanzados que aspiran a maximizar su juego, la pala Bullpadel XPLO Premier destaca por su marco reforzado y tecnología de carbono 3K, que garantiza estabilidad y una rápida respuesta. Si buscas llevar tu desempeño al siguiente nivel, esta pala es la elección adecuada para ti, con la que cada punto será una oportunidad para imponer tu juego con precisión y potencia. Características y tecnologías de la pala Bullpadel XPLO Premier 2026 de Di Nenno Forma Diamante: diseñada para potenciar la fuerza en cada golpe, facilitando remates potentes y agresivos que marcan la diferencia en la pista. Núcleo Multieva High Performance: combina densidades de goma para proporcionar un equilibrio ideal entre potencia explosiva y control en defensa. Superficie con Tend Carbon 3K: carbono 3K que aporta máxima rigidez y durabilidad, asegurando golpes potentes sin perder precisión ni control. Acabado rugoso 3D Grain: para generar efectos y mejorar la precisión en golpes liftados o cortados, añadiendo versatilidad a tu juego ofensivo. Perfil custom weight: Brinda equilibrio entre manejo ágil y estabilidad en impactos gracias al sistema de personalización de balance. Pertenece a la colección de 2026. ¿Para quien es Bullpadel XPLO Premier 26? Esta pala está destinada a jugadores de nivel avanzado que demandan máxima potencia y precisión para dominar en cualquier situación de juego. Ideal para quienes gustan de un estilo ofensivo y buscan una herramienta profesional que amplifique su rendimiento. Concebida para hombres apasionados por el pádel y con alta exigencia técnica, la Bullpadel XPLO Premier es perfecta para quienes compiten o entrenan al más alto nivel, ofreciendo una experiencia de juego que eleva cada punto a un nuevo estándar. ¿Por qué te va a gustar esta pala de pádel? Esta pala redefine la potencia auténtica en el pádel, aportando una combinación única de fuerza y control que la hace ideal para competiciones Premier Padel donde cada disparo cuenta y la precisión es clave. Además, el diseño avanzado y materiales premium aseguran durabilidad y maniobrabilidad, permitiendo a los jugadores exigentes exprimir todo su potencial sin sacrificar la comodidad ni la estabilidad. Descubre más sobre la marca Bullpadel Bullpadel es una marca emblemática en el mundo del pádel, reconocida por su innovación constante y la colaboración con jugadores profesionales para desarrollar productos de alta gama. Fundada hace más de dos décadas, ha revolucionado la experiencia en la pista con tecnología avanzada. Especializada en palas de alto rendimiento, Bullpadel combina diseño y funcionalidad para crear herramientas que potencian el juego ofensivo y defensivo. La XPLO Premier 2026 es un ejemplo de esta visión, destinada a jugadores que quieren destacar gracias a la calidad de un sello confiable y vanguardista.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 269.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/13855-bullpadel-xplo-premier-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 840,
     "slug": "bullpadel-neuron-02-premier-2026-13854",
     "name": "Bullpadel Neuron 02 Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 271.96,
+    "price": 259.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -12133,19 +12912,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 271.96,
+        "price": 259.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13854-bullpadel-neuron-02-premier-2026.html"
       }
     ]
   },
   {
-    "id": 839,
+    "id": 841,
     "slug": "bullpadel-vertex-05-geo-premier-2026-13853",
     "name": "Bullpadel Vertex 05 GEO Premier 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 271.96,
+    "price": 269.96,
     "oldPrice": 380,
     "rating": null,
     "badge": null,
@@ -12174,14 +12953,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 271.96,
+        "price": 269.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13853-bullpadel-vertex-05-geo-premier-2026.html"
       }
     ]
   },
   {
-    "id": 840,
+    "id": 842,
     "slug": "paletero-bullpadel-bpp26006-flow-negro-2026-13850",
     "name": "Saco Bullpadel BPP26006 Flow negro 2026",
     "brand": "Bullpadel",
@@ -12222,7 +13001,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 841,
+    "id": 843,
     "slug": "paletero-bullpadel-bpp26019-elite-blanco-2026-13849",
     "name": "Saco Bullpadel BPP26019 Elite blanco 2026",
     "brand": "Bullpadel",
@@ -12263,12 +13042,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 842,
+    "id": 844,
     "slug": "paletero-bullpadel-bpp26024-wonder-chocolate-2026-13848",
     "name": "Saco Bullpadel BPP26024 Wonder chocolate 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 69.96,
+    "price": 67.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -12297,14 +13076,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 67.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13848-paletero-bullpadel-bpp26024-wonder-chocolate-2026.html"
       }
     ]
   },
   {
-    "id": 844,
+    "id": 846,
     "slug": "paletero-bullpadel-bpp26021-pearl-azul-verdoso-2026-13846",
     "name": "Saco Bullpadel BPP26021 Pearl azul verdoso 2026",
     "brand": "Bullpadel",
@@ -12345,7 +13124,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 846,
+    "id": 848,
     "slug": "paletero-bullpadel-bpp26023-icon-verde-2026-13844",
     "name": "Saco Bullpadel BPP26023 Icon verde 2026",
     "brand": "Bullpadel",
@@ -12386,12 +13165,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 847,
+    "id": 849,
     "slug": "paletero-bullpadel-bpp26022-xplo-gris-medio-2026-13842",
     "name": "Saco Bullpadel BPP26022 XPLO gris medio 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 69.96,
+    "price": 67.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -12420,19 +13199,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 67.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13842-paletero-bullpadel-bpp26022-xplo-gris-medio-2026.html"
       }
     ]
   },
   {
-    "id": 848,
+    "id": 850,
     "slug": "paletero-bullpadel-bpp26022-xplo-negro-2026-13841",
     "name": "Saco Bullpadel BPP26022 XPLO negro 2026",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 69.96,
+    "price": 67.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -12461,14 +13240,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.96,
+        "price": 67.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13841-paletero-bullpadel-bpp26022-xplo-negro-2026.html"
       }
     ]
   },
   {
-    "id": 850,
+    "id": 852,
     "slug": "paletero-bullpadel-bpp26020-neuron-negro-2026-13839",
     "name": "Saco Bullpadel BPP26020 Neuron negro 2026",
     "brand": "Bullpadel",
@@ -12509,7 +13288,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 851,
+    "id": 853,
     "slug": "paletero-bullpadel-bpp26017-neuron-gris-oscuro-2026-13838",
     "name": "Saco Bullpadel BPP26017 Neuron gris oscuro 2026",
     "brand": "Bullpadel",
@@ -12550,7 +13329,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 852,
+    "id": 854,
     "slug": "mochila-bullpadel-bpm26002-hack-gris-verdosa-2026-13837",
     "name": "Mochila Bullpadel BPM26002 Hack gris verdosa 2026",
     "brand": "Bullpadel",
@@ -12591,7 +13370,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 853,
+    "id": 855,
     "slug": "mochila-bullpadel-bpm26001-hack-negra-2026-13836",
     "name": "Mochila Bullpadel BPM26001 Hack negra 2026",
     "brand": "Bullpadel",
@@ -12632,7 +13411,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 854,
+    "id": 856,
     "slug": "paletero-bullpadel-bpp26012-hack-gris-2026-13835",
     "name": "Saco Bullpadel BPP26012 Hack gris 2026",
     "brand": "Bullpadel",
@@ -12673,7 +13452,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 855,
+    "id": 857,
     "slug": "paletero-bullpadel-bpp26012-hack-negro-2026-13834",
     "name": "Saco Bullpadel BPP26012 Hack negro 2026",
     "brand": "Bullpadel",
@@ -12714,7 +13493,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 857,
+    "id": 858,
+    "slug": "lok-maxx-hype-gen-2-limited-edition-2026-13833",
+    "name": "Lok Maxx Hype Gen 2 Limited Edition 2026",
+    "brand": "Lok",
+    "category": "raquetes",
+    "price": 349.96,
+    "oldPrice": 350,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28170-large_default/lok-maxx-hype-gen-2-limited-edition-2026.jpg",
+    "ean": "8435739407868",
+    "productGTIN": "8435739407868",
+    "mpn": "13833",
+    "source": "zona-de-padel",
+    "sourceProductId": "13833",
+    "sourceCategory": "Palas de padel > Palas de pádel Lok",
+    "description": "Lok Maxx Hype Gen 2 Limited Edition 2026 es una pala diseñada para jugadores que buscan potencia y precisión en cada golpe. Su acabado en negro carbón con detalles rojos y su forma diamante oversize ofrecen un estilo agresivo y exclusivo, perfecto para destacar en la pista. Pensada para deportistas avanzados, esta pala une tecnología y durabilidad para mejorar tu rendimiento. Creada junto a Mike Yanguas y especialmente para el Master de Barcelona, esta edición limitada es ideal para quienes quieren mejorar su juego ofensivo y dominar cerca de la red. Si buscas una pala que combine estructura sólida, tacto dinámico y tecnologías punteras, esta Lok Maxx Hype Gen 2 es la opción definitiva para comprar y potenciar tu juego. Características y tecnologías de la pala Lok Maxx Hype Gen 2 Limited Edition 2026 Forma Diamante: Diseño oversize para máxima potencia en remates y excelentes opciones ofensivas. Núcleo Custom EVA: Permite una salida de bola explosiva con absorción eficaz de vibraciones para un tacto cómodo y dinámico. Carbono 18K y Marco 100% carbono: Ensamblaje ligero y resistente que optimiza la durabilidad y el rendimiento de la pala. Pala de edición limitada, con lo que dispone de las mejores innovaciones de la marca. 3D Spin Lines: Acabado rugoso que aumenta el efecto en golpes liftados y cortados, mejorando el control y la jugabilidad. Pertenece a la colección 2026, una edición limitada exclusiva para jugadores profesionales. ¿Para quien es Lok Maxx Hype Gen 2 Limited Edition 26? Este modelo está dirigido a jugadores de nivel avanzado que desean un equilibrio entre potencia y control. Ideal para deportistas competitivos que buscan una pala profesional con tecnologías que favorecen golpes óptimos en situaciones de alta intensidad. Diseñada para atletas que destacan en el juego ofensivo cerca de la red, esta pala exclusiva es perfecta para los que quieren reflejar personalidad y carácter en cada movimiento, buscando superar a sus rivales con precisión y fuerza. ¿Por qué te va a gustar esta pala de pádel? La potencia máxima en remates y voleas es una de las características más sobresalientes de esta pala. Gracias a su forma y materiales premium, cada golpe cerca de la red es devastador para el rival, facilitando puntos rápidos y contundentes. Su acabado con 3D Spin Lines aporta un efecto superior en golpes liftados o cortados, ofreciendo un plus táctico fundamental para jugadores que dominan la técnica y buscan sorprender con cada punto. Descubre más sobre la marca Lok Lok es reconocida por su compromiso con la innovación y calidad en el pádel, desarrollando productos que combinan tecnología con diseño exclusivo. Con especial foco en deportistas profesionales, Lok crea palas que elevan el nivel de juego. La pala Lok Maxx Hype Gen 2 es un claro ejemplo de esta filosofía, integrando materiales de alta gama y tecnologías avanzadas que aportan resistencia, ligereza y rendimiento, posicionando a Lok como una marca de referencia para jugadores exigentes.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 349.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/lok/13833-lok-maxx-hype-gen-2-limited-edition-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 859,
     "slug": "mochila-bullpadel-bpm26009-vertex-woman-blanca-2026-13832",
     "name": "Mochila Bullpadel BPM26009 Vertex Woman blanca 2026",
     "brand": "Bullpadel",
@@ -12755,7 +13575,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 858,
+    "id": 860,
     "slug": "mochila-bullpadel-bpm26008-vertex-geo-azul-intenso-2026-13831",
     "name": "Mochila Bullpadel BPM26008 Vertex Geo azul intenso 2026",
     "brand": "Bullpadel",
@@ -12796,7 +13616,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 859,
+    "id": 861,
     "slug": "mochila-bullpadel-bpm26007-vertex-negra-2026-13830",
     "name": "Mochila Bullpadel BPM26007 Vertex negra 2026",
     "brand": "Bullpadel",
@@ -12837,7 +13657,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 860,
+    "id": 862,
     "slug": "paletero-bullpadel-bpp26003-vertex-woman-celeste-2026-13829",
     "name": "Saco Bullpadel BPP26003 Vertex Woman celeste 2026",
     "brand": "Bullpadel",
@@ -12878,7 +13698,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 861,
+    "id": 863,
     "slug": "paletero-bullpadel-bpp26002-vertex-geo-azul-2026-13828",
     "name": "Saco Bullpadel BPP26002 Vertex Geo azul 2026",
     "brand": "Bullpadel",
@@ -12919,7 +13739,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 862,
+    "id": 864,
     "slug": "paletero-bullpadel-bpp26001-vertex-negro-2026-13827",
     "name": "Saco Bullpadel BPP26001 Vertex negro 2026",
     "brand": "Bullpadel",
@@ -12960,12 +13780,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 863,
+    "id": 865,
     "slug": "bullpadel-indiga-woman-2026-13794",
     "name": "Bullpadel Indiga Woman 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 80.95,
+    "price": 80.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -12994,19 +13814,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 80.95,
+        "price": 80.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13794-bullpadel-indiga-woman-2026.html"
       }
     ]
   },
   {
-    "id": 864,
+    "id": 866,
     "slug": "bullpadel-indiga-control-2026-13793",
     "name": "Bullpadel Indiga Control 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 80.95,
+    "price": 80.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -13035,19 +13855,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 80.95,
+        "price": 80.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13793-bullpadel-indiga-control-2026.html"
       }
     ]
   },
   {
-    "id": 866,
+    "id": 867,
+    "slug": "bullpadel-indiga-power-2026-13792",
+    "name": "Bullpadel Indiga Power 2026",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 80.96,
+    "oldPrice": 90,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28120-large_default/bullpadel-indiga-power-2026.jpg",
+    "ean": "8445402993819",
+    "productGTIN": "8445402993819",
+    "mpn": "13792",
+    "source": "zona-de-padel",
+    "sourceProductId": "13792",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "La Bullpadel Indiga Power 2026 es una pala de pádel diseñada para hombres que buscan un arma potente y eficaz desde la red. Su forma de diamante y balance alto permiten dominar el juego con autoridad, ofreciendo un toque blando que facilita la comodidad y reduce las vibraciones durante el partido. Esta pala es perfecta para jugadores en nivel de iniciación que desean maximizar su potencia sin sacrificar el control. La combinación de materiales como la fibra de vidrio y el carbono aseguran ligereza y durabilidad, posicionando a la Indiga Power de Bullpadel como una elección ideal para potenciar tu rendimiento en cada golpe. Características y tecnologías de la pala Bullpadel Indiga Power 2026 Forma lágrima diamante: Combinación perfecta entre potencia y manejabilidad, ideal para jugadores que quieren atacar sin perder control. Nivel de iniciación: Concebida para quienes empiezan en el pádel pero exigen prestaciones avanzadas desde el primer juego. Juego de potencia: Su balance alto y forma permiten cerrar puntos con fuerza y precisión, dominando la red. Peso entre 360-370 gramos: Ofrece un equilibrio ideal para controlar y manejar la pala sin fatiga. Materiales de rápida adaptación: Garantiza un buen balance entre estabilidad y maniobrabilidad durante el juego. Pertenece a la colección de palas iniciación Bullpadel 2026. ¿Para quien es Bullpadel Indiga Power 26? La pala Indiga Power 2026 está dirigida a jugadores masculinos que buscan desarrollar su juego con una herramienta enfocada en la potencia. Es perfecta para deportistas que se inician en el pádel, pero que no quieren perder prestaciones profesionales para dominar la pista con confianza desde el primer encuentro. Si eres un jugador en formación y quieres una pala que te acompañe en cada golpe aportando comodidad y rendimiento, esta opción de Bullpadel te ayudará a evolucionar tu técnica sin riesgos de molestias en el brazo, gracias a su tacto blando y absorción de vibraciones. ¿Por qué te va a gustar esta pala de pádel? Su núcleo SoftEva Core proporciona una respuesta suave en cada impacto, otorgando máxima comodidad y reduciendo el cansancio muscular durante el juego intenso. Esta tecnología es fundamental para quienes buscan prolongar su rendimiento partido tras partido. Además, la estructura CarbonTube Frame fabricada en fibra de carbono 100% garantiza una resistencia extraordinaria y ligereza óptima. Así, la pala no sólo aguanta los días más exigentes, sino que también mejora la precisión y potencia de tus golpes en cada situación. Descubre más sobre la marca Bullpadel Bullpadel es una firma consolidada que ha revolucionado el pádel con innovación constante, enfocándose en jugadores que exigen alta calidad y tecnología avanzada en sus palas. Su compromiso con el rendimiento se refleja en productos como la Indiga Power. Desde sus inicios, Bullpadel ha apostado por la combinación perfecta entre materiales de vanguardia y diseño funcional. Esto ha convertido a la marca en un referente para quienes buscan palas de pádel que fusionan potencia, durabilidad y confort asegurando una experiencia deportiva superior.",
+    "specs": {
+      "peso": "370g",
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 80.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/13792-bullpadel-indiga-power-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 868,
     "slug": "nox-x-zero-red-2026-13791",
     "name": "Nox X-Zero Red 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 58.96,
+    "price": 59.96,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
@@ -13076,14 +13937,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 58.96,
+        "price": 59.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13791-nox-x-zero-red-2026.html"
       }
     ]
   },
   {
-    "id": 867,
+    "id": 869,
     "slug": "nox-x-hero-blue-2026-13790",
     "name": "Nox X-Hero Blue 2026",
     "brand": "Nox",
@@ -13124,7 +13985,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 868,
+    "id": 870,
     "slug": "nox-x-hero-red-2026-13789",
     "name": "Nox X-Hero Red 2026",
     "brand": "Nox",
@@ -13165,7 +14026,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 869,
+    "id": 871,
     "slug": "nox-x-hero-white-2026-13788",
     "name": "Nox X-Hero White 2026",
     "brand": "Nox",
@@ -13206,18 +14067,18 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 870,
+    "id": 872,
     "slug": "nox-x-zero-blue-2026-13787",
     "name": "Nox X-Zero Blue 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 64.95,
+    "price": 54.96,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
     "image": "https://www.zonadepadel.es/28026-large_default/nox-x-zero-blue-2026.jpg",
-    "ean": null,
-    "productGTIN": null,
+    "ean": "8435778902805",
+    "productGTIN": "8435778902805",
     "mpn": "13787",
     "source": "zona-de-padel",
     "sourceProductId": "13787",
@@ -13240,19 +14101,101 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 64.95,
+        "price": 54.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13787-nox-x-zero-blue-2026.html"
       }
     ]
   },
   {
+    "id": 873,
+    "slug": "nox-equation-hard-advanced-2026-13786",
+    "name": "Nox Equation Hard Advanced 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 94.91,
+    "oldPrice": 125,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28023-large_default/nox-equation-hard-advanced-2026.jpg",
+    "ean": "8435778902744",
+    "productGTIN": "8435778902744",
+    "mpn": "13786",
+    "source": "zona-de-padel",
+    "sourceProductId": "13786",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "La Nox Equation Hard Advanced 2026 es una pala de pádel que combina perfectamente control, manejabilidad y precisión, ideal para jugadores intermedios que buscan un producto equilibrado y con rápida adaptación. Su goma HR3 de alta densidad ofrece un extra de potencia en cada golpe sin sacrificar el tacto y la comodidad en la pista. Diseñada para hombres con un juego polivalente, esta pala destaca por su robustez gracias al marco de carbono y la estructura de fibra de vidrio en tres capas, que aportan durabilidad y resistencia. Además, el sistema antivibraciones integrado protege contra lesiones, haciendo de esta pala una opción imprescindible para jugadores exigentes que valoran rendimiento y seguridad. Características y tecnologías de la pala Nox Equation Hard Advanced 2026 Forma redonda: proporciona un punto dulce amplio que facilita el control y la precisión en cada golpe. Ofrece un equilibrio perfecto entre manejabilidad y potencia para jugadores de nivel intermedio. Perfil de 38 mm: garantiza estabilidad y buen rendimiento en cada impacto. Núcleo Eva HR3 Hard: goma de alta densidad que entrega una sensación firme y potentes golpes. Tecnología Exclusive Spin: acabado rugoso 3D hexagonal y arenado para aumentar el agarre y facilitar la generación de efectos. Pertenece a la colección de Nox Padel 2026. ¿Para quién es Nox Equation Hard Advanced 26? Esta pala está especialmente dirigida a jugadores intermedios que aún no han definido su estilo de juego y necesitan una opción versátil, equilibrada y fácil de controlar. Su diseño polivalente se adapta a diferentes tipos de juego para un rápido aprendizaje y mejora constante. Con la incorporación de una goma más dura en esta versión, el jugador también disfruta de un extra de potencia sin perder manejabilidad, ideal para quienes buscan un complemento que potencie su rendimiento en la pista. ¿Por qué te va a gustar esta pala de pádel? La Nox Equation Hard Advanced 2026 destaca por su exclusiva tecnología Exclusive Spin, que facilita la generación de efectos y un mayor control en cada golpe, incrementando la efectividad en el juego. Además, incorpora el innovador sistema Smartstrap®, un cordón de seguridad reemplazable y personalizable, que mejora la higiene y proporciona mayor seguridad sin renunciar a la comodidad. Descubre más sobre la marca Nox Nox es una marca reconocida en el mundo del pádel por su compromiso con la innovación y la calidad en la fabricación de palas. Su trayectoria se basa en ofrecer productos que combinan tecnología avanzada con materiales de última generación. Con la Nox Equation Hard Advanced, la marca logra transmitir su filosofía al proponer una pala que no solo cuida el rendimiento y la comodidad del jugador, sino que protege y prolonga la vida útil del producto, adaptándose a las necesidades reales del pádel moderno.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 94.91,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13786-nox-equation-hard-advanced-2026.html"
+      }
+    ]
+  },
+  {
     "id": 874,
+    "slug": "nox-equation-soft-advanced-2026-13784",
+    "name": "Nox Equation Soft Advanced 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 112.96,
+    "oldPrice": 125,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28020-large_default/nox-equation-soft-advanced-2026.jpg",
+    "ean": "8435778902751",
+    "productGTIN": "8435778902751",
+    "mpn": "13784",
+    "source": "zona-de-padel",
+    "sourceProductId": "13784",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "La Nox Equation Soft Advanced 2026 es una pala de pádel diseñada para ofrecer un tacto suave gracias a su núcleo HR3, perfectA para jugadores que buscan una salida de bola excelente y confort en cada golpe. Su construcción en fibra de vidrio y carbono proporciona resistencia y un balance medio ideal para quienes juegan sesiones largas o intensas. Dirigida a jugadores de nivel intermedio, esta pala combina precisión y manejabilidad, equilibrando potencia y control. Si buscas mejorar tu rendimiento con una pala que reduzca las vibraciones y aumente la durabilidad, la Equation Soft Advanced es la opción perfecta para elevar tu juego. Características y tecnologías de la pala Nox Equation Soft Advanced 2026 Forma redonda y balance medio: para un control óptimo y manejabilidad en todas las posiciones de la pista. Núcleo HR3 Soft de baja densidad: aporta mayor sensación de confort y una salida de bola suave y potente. Exclusiva textura Exclusive Spin: con acabado 3D hexagonal y arenado que maximiza el agarre y permite imprimir efectos precisos a tus golpes. Marco de carbono: que ofrece rigidez y durabilidad, mejorando la resistencia y la respuesta en cada impacto. Sistema antivibraciones (AVS): integrado para reducir riesgos de lesiones al absorber vibraciones en los golpes descentrados. Pertenece a la colección de palas Nox Padel 2026. ¿Para quién es Nox Equation Soft Advanced 26? Esta pala está pensada para jugadores intermedios que buscan un equilibrio perfecto entre potencia, control y comodidad. Ideal para quienes valoran un tacto blando que permita largas horas de juego sin fatiga ni molestias. El jugador ideal de la Nox Equation Soft Advanced busca mejorar su precisión y manejabilidad, influyendo en cada punto con golpes controlados y efectos gracias a su textura rugosa. ¿Por qué te va a gustar esta pala de pádel? Las caras rugosas con la tecnología Exclusive Spin son una ayuda clave para amplificar la generación de efectos, permitiendo que cada golpe tenga más giro y control sobre la bola. El sistema Smart Strap facilita el cambio del cordón de seguridad, haciendo que el agarre sea mucho más higiénico, seguro y personalizable al gusto del jugador, mejorando la experiencia en pista. Descubre más sobre la marca Nox Nox es una marca española reconocida por su innovación y compromiso con la calidad en el pádel. Sus palas están diseñadas con tecnologías avanzadas para ofrecer máximo rendimiento a jugadores de todos los niveles. Especializada en fabricar palas como la Equation Soft Advanced, Nox combina materiales como fibra de vidrio y carbono para brindar durabilidad, confort y potencia, adaptándose a la evolución del juego actual.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 112.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13784-nox-equation-soft-advanced-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 876,
     "slug": "nox-at10-pro-cup-soft-by-agustin-tapia-2026-13782",
     "name": "Nox AT10 Pro Cup Soft by Agustín Tapia 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 159.96,
+    "price": 179.96,
     "oldPrice": 200,
     "rating": null,
     "badge": null,
@@ -13281,14 +14224,137 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 159.96,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13782-nox-at10-pro-cup-soft-by-agustin-tapia-2026.html"
       }
     ]
   },
   {
+    "id": 877,
+    "slug": "nox-vk10-ventus-control-12k-by-aranzazu-osoro-2026-13781",
+    "name": "Nox VK10 Ventus Control 12K by Aranzazu Osoro 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 219.96,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28012-large_default/nox-vk10-ventus-control-12k-by-aranzazu-osoro-2026.jpg",
+    "ean": "8435778902706",
+    "productGTIN": "8435778902706",
+    "mpn": "13781",
+    "source": "zona-de-padel",
+    "sourceProductId": "13781",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "La Nox VK10 Ventus Control 12K by Aranzazu Osoro 2026 es una pala diseñada para las jugadoras que buscan un equilibrio perfecto entre control y potencia. Con un diseño exclusivo en colaboración con Aranzazu Osoro \"la Vikinga\", destaca por su tecnología avanzada que ofrece un rendimiento excepcional en cada golpe. Esta pala está pensada para aquellas mujeres que desean dominar la pista con inteligencia y precisión, gracias a su amplio punto dulce y gran estabilidad. La combinación de carbono 12K y el núcleo MLD Black Eva proporciona firmeza y una excelente salida de bola, ideales para jugar con intensidad y control. Características y tecnologías de la pala Nox VK10 Ventus Control 12K by Aranzazu Osoro 2026 Forma redonda y balance bajo: ofrece un punto dulce amplio para un control superior en cada golpe. Nivel avanzado: diseñada para jugadoras experimentadas que buscan mejorar su rendimiento en la pista. Juego de control: optimiza la dirección y precisión, ideal para dominar con estrategia. Acabado rugoso en 3D y lija: proporciona un mejor efecto, permitiendo tener más control y agarre sobre la bola. Grip Custom: garantiza un agarre más cómodo y sin lesiones, pudiendo jugar sin molestias durante tofo el partido. Pertenece a la colección de palas Luxury Nox 2026. ¿Para quien es Nox VK10 Ventus Control 26? Esta pala está diseñada para jugadoras que enfrentan cada punto con determinación, prefiriendo un estilo de juego inteligente y táctico. Es perfecta para aquellas que buscan un control absoluto para manejar el ritmo de los partidos y responder con precisión en cada golpe. Si tu estilo de juego se basa en la estrategia y el dominio de la pista, esta pala te permitirá obtener ventaja en cada intercambio gracias a su estabilidad y amplio punto dulce, adaptándose a un juego exigente y competitivo. ¿Por qué te va a gustar esta pala de pádel? La principal ventaja de esta pala es su construcción con carbono 12K en las caras, que aporta una firmeza excepcional y mejora notablemente la durabilidad y el rendimiento en pista. Además, su núcleo de MLD Black Eva ofrece una gran salida de bola y estabilidad en el golpeo, lo que se traduce en un juego más confortable y eficaz incluso en los puntos más intensos. Descubre más sobre la marca Nox Nox es una marca reconocida en el mundo del pádel por su compromiso con la innovación y la calidad en cada producto. Con años de experiencia, han conseguido posicionarse como referencia para jugadores que buscan tecnología avanzada y diseño profesional. Especializados en palas de alta gama, Nox se caracteriza por desarrollar equipos que combinan materiales premium y técnicas vanguardistas, ideales para deportistas que exigen el máximo rendimiento y control en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 219.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13781-nox-vk10-ventus-control-12k-by-aranzazu-osoro-2026.html"
+      }
+    ]
+  },
+  {
     "id": 878,
+    "slug": "nox-ventus-hybrid-12k-lite-2026-13780",
+    "name": "Nox Ventus Hybrid 12K Lite 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 249.96,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28009-large_default/nox-ventus-hybrid-12k-lite-2026.jpg",
+    "ean": "8435778902713",
+    "productGTIN": "8435778902713",
+    "mpn": "13780",
+    "source": "zona-de-padel",
+    "sourceProductId": "13780",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "La Nox Ventus Hybrid 12K Lite 2026 es una pala de pádel pensada para mujeres que buscan un equilibrio ideal entre control y potencia durante cada punto. Su formato lágrima y el peso ligero de 355-365 gramos facilitan una manejabilidad óptima, perfecta para jugadores avanzados que quieren adaptarse a cualquier situación en la pista. Gracias a su construcción con carbono 12K y núcleo Multilayered Black EVA, esta pala ofrece una salida de bola excelente y gran estabilidad, resistiendo también impactos sin perder rendimiento. Si deseas una pala versátil y durable que permita golpes precisos y potentes, esta pala para mujer de alto rendimiento debe ser tu próxima adquisición. Características y tecnologías de la pala Nox Ventus Hybrid 12K Lite 2026 Forma lágrima: combina potencia y control para un juego polivalente y ágil en la pista. Peso ligero: favorece la manejabilidad sin sacrificar estabilidad en cada golpe. Núcleo de EVA blando multicapa: optimiza la salida de bola y reduce el riesgo de roturas gracias a su composición interna. Puño con custom grip: ofrece un agarre mucho más cómodo, sin vibraciones y reduciendo el riesgo de padecer lesiones. Rugosidad 3D con acabado en lija: potencia la generación de efectos y mejora el control en cada golpe. Pertenece a la colección de palas para mujer Nox 2026. ¿Para quien es Nox Ventus Hybrid 12K Lite 26? Esta pala está diseñada para jugadoras avanzadas que buscan una herramienta equilibrada. Su peso ligero permite movimientos rápidos, lo que se traduce en un juego muy versátil tanto en defensa como ataque. Perfecta para quienes necesitan un tacto firme y una salida de bola potente, la Ventus Hybrid ofrece estabilidad y precisión gracias a su marco de carbono y caras en fibra 12K, ideal para soportar exigencias competitivas. ¿Por qué te va a gustar esta pala de pádel? Incorpora una doble textura rugosa que combina tecnología 3D con un acabado arenado, lo que potencia la capacidad para imprimir efectos en la bola sin perder durabilidad. Además, esta combinación sofisticada de superficies asegura un mayor control en golpes técnicos y agresivos, marcando la diferencia en cada partido donde la precisión es clave. Descubre más sobre la marca Nox Nox es una marca consolidada en el mundo del pádel que se caracteriza por combinar innovación y calidad en sus productos. Su compromiso con materiales avanzados ofrece palas orientadas al rendimiento y durabilidad. Con la Nox Ventus Hybrid 12K Lite, la firma reafirma su liderazgo en el segmento femenino, diseñando palas que responden a las necesidades específicas de jugadoras exigentes que buscan elevar su nivel de juego.",
+    "specs": {
+      "peso": "365g",
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 249.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13780-nox-ventus-hybrid-12k-lite-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 879,
+    "slug": "nox-ea10-ventus-hybrid-12k-xtrem-2026-13779",
+    "name": "Nox EA10 Ventus Hybrid 12K XTREM 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 259.96,
+    "oldPrice": 340,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28005-large_default/nox-ea10-ventus-hybrid-12k-xtrem-2026.jpg",
+    "ean": "8435778902676",
+    "productGTIN": "8435778902676",
+    "mpn": "13779",
+    "source": "zona-de-padel",
+    "sourceProductId": "13779",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "La Nox EA10 Ventus Hybrid 12K XTREM 2026 es una pala de pádel diseñada para jugadores que exigen rendimiento y durabilidad en cada punto. Con un acabado premium en carbono y un diseño pensado para ofrecer tanto potencia como control, esta pala es ideal para hombres con nivel avanzado que buscan versatilidad en su juego. Perfecta para quienes disfrutan de un juego polivalente, esta pala está muy bien compensada, con un equilibrio óptimo para favorecer golpes rápidos y precisos. También dispone de acabado con doble rugosidad y cordón intercambiable. Si quieres mejorar tu rendimiento con una pala que ofrece rigidez y tacto medio-duro, la pala Nox EA10 Ventus 2026 es tu mejor elección para la temporada. Características y tecnologías de la pala Nox EA10 Ventus Hybrid 12K XTREM 2026 Forma lágrima: ofrece un equilibrio perfecto entre potencia y control para jugadores avanzados. Núcleo Multilayered Black EVA (MLD EVA): optimiza la salida de bola y potencia en remates con diferentes densidades para golpes defensivos y ofensivos. Marco de carbono: garantiza mayor rigidez y durabilidad, mejorando la estructura general de la pala. Dual Spin: doble técnica de superficie rugosa 3D y arenada que maximiza la generación de efectos en cada golpe. Perfil y peso: 38 mm de perfil y un peso entre 360-375 gramos para un manejo ágil y reactivo en pista. Pertenece a la colección de 2026. ¿Para quien es Nox EA10 Ventus Hybrid 12K XTREM 26? Esta pala de alta gama está destinada a jugadores de pádel que viven el deporte con máxima energía y pasión. Su forma lágrima y balance equilibrado la hacen perfecta para quienes buscan agilidad en golpes rápidos con potencia y control en cada jugada. Ideada para hombres con nivel avanzado, la Ventus Hybrid permite adaptar el juego en distintas situaciones, siendo la opción ideal para deportistas que dominan diversas estrategias y modalidades dentro de la pista. ¿Por qué te va a gustar esta pala de pádel? Creada en colaboración con Edu Alonso, una de las jóvenes promesas españolas del circuito profesional, esta pala incorpora tecnología avanzada para potenciar tu rendimiento en el juego. Además, cuenta con la patente NOX Custom Grip®, certificada para aumentar el agarre y reducir vibraciones, lo que mejora la comodidad y el control en cada golpe. Descubre más sobre la marca Nox Nox es una marca reconocida mundialmente por su innovación constante y calidad en palas de pádel, consolidándose como referente para jugadores exigentes que buscan tecnología y efectividad. Su apuesta por el carbono y tecnologías punteras se refleja en modelos como la EA10 Ventus Hybrid, alineándose con las expectativas de deportistas profesionales y amateurs de alto nivel.",
+    "specs": {
+      "peso": "375g",
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 259.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13779-nox-ea10-ventus-hybrid-12k-xtrem-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 880,
     "slug": "nox-ea10-ventus-attack-12k-xtrem-2026-13778",
     "name": "Nox EA10 Ventus Attack 12K XTREM 2026",
     "brand": "Nox",
@@ -13329,7 +14395,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 879,
+    "id": 881,
     "slug": "nox-ml10-ventus-control-3k-miguel-lamperti-2026-13777",
     "name": "Nox ML10 Ventus Control 3K Miguel Lamperti 2026",
     "brand": "Nox",
@@ -13370,12 +14436,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 880,
+    "id": 882,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-lite-2026-13774",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM Lite 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 304.96,
+    "price": 288.96,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -13404,19 +14470,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 304.96,
+        "price": 288.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13774-nox-at10-luxury-genius-12k-alum-xtrem-lite-2026.html"
       }
     ]
   },
   {
-    "id": 881,
+    "id": 883,
     "slug": "nox-at10-luxury-genius-attack-18k-alum-2026-13773",
     "name": "Nox AT10 Luxury Genius Attack 18K Alum 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 304.96,
+    "price": 269.9,
     "oldPrice": 360,
     "rating": null,
     "badge": null,
@@ -13445,19 +14511,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 304.96,
+        "price": 269.9,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13773-nox-at10-luxury-genius-attack-18k-alum-2026.html"
       }
     ]
   },
   {
-    "id": 882,
+    "id": 884,
     "slug": "nox-at10-luxury-genius-attack-12k-alum-xtrem-2026-13772",
     "name": "Nox AT10 Luxury Genius Attack 12K Alum XTREM 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 299.96,
+    "price": 269.9,
     "oldPrice": 360,
     "rating": null,
     "badge": null,
@@ -13486,19 +14552,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 299.96,
+        "price": 269.9,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13772-nox-at10-luxury-genius-attack-12k-alum-xtrem-2026.html"
       }
     ]
   },
   {
-    "id": 884,
+    "id": 885,
+    "slug": "nox-at10-luxury-genius-18k-alum-2026-13771",
+    "name": "Nox AT10 Luxury Genius 18K Alum 2026",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 350.96,
+    "oldPrice": 390,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27987-large_default/nox-at10-luxury-genius-18k-alum-2026.jpg",
+    "ean": "8435778902621",
+    "productGTIN": "8435778902621",
+    "mpn": "13771",
+    "source": "zona-de-padel",
+    "sourceProductId": "13771",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "Sé el primero en conseguir la Nox AT10 Luxury Genius 18K Alum 2026 es una pala diseñada para jugadores que buscan máxima personalización y rendimiento en la pista. Con su innovador sistema de contrapesos, podrás ajustar el balance para adaptar la pala a tu estilo único, logrando un juego más preciso y cómodo según tus necesidades en cada partido. Esta pala avanzada, creada para jugadores exigentes, combina materiales de alta calidad y tecnologías punteras que ofrecen control, versatilidad y un tacto sólido. Se convierte en la nueva pala de Agustín Tapia, combinando el carbono 18k con un núcleo de goma eva, consiguiendo un tacto flexible y sensaciones inmejorables al golpear. Es el arma perfecta para quienes desean dominar cada punto y elevar su nivel en el pádel. Características y tecnologías de la pala Nox AT10 Luxury Genius 18K Alum 2026 Forma lágrima: proporciona un equilibrado perfecto entre potencia y control, ideal para jugadores polivalentes. Sistema de pesos: nuevo sistema que permite modificar el balance de la pala, asegurando manejabilidad y estabilidad. Acabado Chromic Paint: que reacciona a la luz y cambia de color, consiguiendo un acabado espectacular. Núcleo de Eva: aporta un tacto medio-duro que combina potencia y control para un rendimiento óptimo en la pista. Rugosidad 3D y lija: la superficie Dual Spin maximiza los efectos otorgando un mejor control sobre la bola sin sacrificar la durabilidad. Pertenece a la colección de 2026. ¿Para quien es Nox AT10 Luxury Genius 26? Esta pala está enfocada a jugadores avanzados que buscan máximo rendimiento en cada partido. Si valoras la precisión, el control y una versatilidad superior en el juego, esta pala está hecha para ti. Ideal para quienes disfrutan de un tacto cómodo y una pala que se adapta a sus necesidades gracias al sistema de contrapesos intercambiables, permitiendo ajustar peso y balance al cien por ciento. ¿Por qué te va a gustar esta pala de pádel? El sistema de contrapesos intercambiables es una innovación que transforma tu experiencia de juego, permitiéndote personalizar el peso y balance con piezas de 2g y 4g, fáciles de colocar y compatibles con protectores de marco. Además, la tecnología Chromic Paint y la superficie Dual Spin optimizan la apariencia y el rendimiento en pista, asegurando una pala llamativa que destaca sin perder eficacia técnica. Descubre más sobre la marca Nox Nox es una marca reconocida mundialmente por su compromiso con la innovación y calidad en el pádel. Desde sus inicios, ha apostado por desarrollar palas que combinan tecnología avanzada y diseño, enfocándose en jugadores profesionales y amateurs exigentes. Los modelos de Nox, como este que usó Agustín Tapia, reflejan la evolución constante para brindar el mejor equilibrio entre potencia y control, consolidando su liderazgo en el mercado de palas de pádel.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 350.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13771-nox-at10-luxury-genius-18k-alum-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 886,
     "slug": "nox-at10-luxury-genius-12k-alum-xtrem-2026-13770",
     "name": "Nox AT10 Luxury Genius 12K Alum XTREM 2026",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 299.96,
+    "price": 269.01,
     "oldPrice": 390,
     "rating": null,
     "badge": null,
@@ -13527,19 +14634,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 299.96,
+        "price": 269.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/13770-nox-at10-luxury-genius-12k-alum-xtrem-2026.html"
       }
     ]
   },
   {
-    "id": 906,
+    "id": 908,
     "slug": "paletero-lok-one-negro-verde-2026-13703",
     "name": "Saco Lok One negro verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 40.5,
+    "price": 29.96,
     "oldPrice": 45,
     "rating": null,
     "badge": null,
@@ -13568,19 +14675,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 40.5,
+        "price": 29.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13703-paletero-lok-one-negro-verde-2026.html"
       }
     ]
   },
   {
-    "id": 907,
+    "id": 909,
     "slug": "paletero-lok-one-negro-naranja-2026-13702",
     "name": "Saco Lok One negro naranja 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 31.96,
+    "price": 29.96,
     "oldPrice": 45,
     "rating": null,
     "badge": null,
@@ -13609,19 +14716,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 31.96,
+        "price": 29.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13702-paletero-lok-one-negro-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 908,
+    "id": 910,
     "slug": "mochila-lok-adventure-gen-2-negra-verde-2026-13701",
     "name": "Mochila Lok Adventure Gen 2 negra verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 51.91,
+    "price": 44.96,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
@@ -13650,19 +14757,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 51.91,
+        "price": 44.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13701-mochila-lok-adventure-gen-2-negra-verde-2026.html"
       }
     ]
   },
   {
-    "id": 909,
+    "id": 911,
     "slug": "mochila-lok-maxx-gen-2-negra-verde-2026-13700",
     "name": "Mochila Lok Maxx Gen 2 negra verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 54.96,
+    "price": 51.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -13691,19 +14798,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.96,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13700-mochila-lok-maxx-gen-2-negra-verde-2026.html"
       }
     ]
   },
   {
-    "id": 910,
+    "id": 912,
     "slug": "mochila-lok-maxx-gen-2-negra-naranja-2026-13699",
     "name": "Mochila Lok Maxx Gen 2 negra naranja 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 63.91,
+    "price": 51.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -13732,19 +14839,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 63.91,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13699-mochila-lok-maxx-gen-2-negra-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 911,
+    "id": 913,
     "slug": "paletero-lok-maxx-gen-2-negro-verde-2026-13698",
     "name": "Saco Lok Maxx Gen 2 negro verde 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 89.95,
+    "price": 64.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -13773,19 +14880,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.95,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13698-paletero-lok-maxx-gen-2-negro-verde-2026.html"
       }
     ]
   },
   {
-    "id": 912,
+    "id": 914,
     "slug": "paletero-lok-maxx-gen-2-negro-naranja-2026-13697",
     "name": "Saco Lok Maxx Gen 2 negro naranja 2026",
     "brand": "Lok",
     "category": "sacos",
-    "price": 89.95,
+    "price": 64.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -13814,14 +14921,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.95,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13697-paletero-lok-maxx-gen-2-negro-naranja-2026.html"
       }
     ]
   },
   {
-    "id": 913,
+    "id": 915,
     "slug": "lok-jungle-lite-2026-13696",
     "name": "Lok Jungle Lite 2026",
     "brand": "Lok",
@@ -13862,7 +14969,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 914,
+    "id": 916,
     "slug": "lok-jungle-2026-13695",
     "name": "Lok Jungle 2026",
     "brand": "Lok",
@@ -13903,12 +15010,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 915,
+    "id": 917,
     "slug": "lok-be-flow-pink-gen-2-2026-13694",
     "name": "Lok Be Flow Pink Gen 2 2026",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 109.96,
+    "price": 64.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -13937,14 +15044,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13694-lok-be-flow-pink-gen-2-2026.html"
       }
     ]
   },
   {
-    "id": 916,
+    "id": 918,
     "slug": "lok-be-flow-yellow-gen-2-2026-13693",
     "name": "Lok Be Flow Yellow Gen 2 2026",
     "brand": "Lok",
@@ -13985,12 +15092,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 917,
+    "id": 919,
     "slug": "lok-be-hype-gen-2-2026-13692",
     "name": "Lok Be Hype Gen 2 2026",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 66.01,
+    "price": 64.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -14019,14 +15126,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 66.01,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13692-lok-be-hype-gen-2-2026.html"
       }
     ]
   },
   {
-    "id": 918,
+    "id": 920,
     "slug": "lok-easy-flow-gen-2-2026-13691",
     "name": "Lok Easy Flow Gen 2 2026",
     "brand": "Lok",
@@ -14067,7 +15174,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 919,
+    "id": 921,
     "slug": "lok-easy-hype-gen-2-2026-13690",
     "name": "Lok Easy Hype Gen 2 2026",
     "brand": "Lok",
@@ -14108,7 +15215,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 921,
+    "id": 922,
+    "slug": "lok-carbon-flow-gen-2-2026-13689",
+    "name": "Lok Carbon Flow Gen 2 2026",
+    "brand": "Lok",
+    "category": "raquetes",
+    "price": 159.96,
+    "oldPrice": 250,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28146-large_default/lok-carbon-flow-gen-2-2026.jpg",
+    "ean": "8435739406137",
+    "productGTIN": "8435739406137",
+    "mpn": "13689",
+    "source": "zona-de-padel",
+    "sourceProductId": "13689",
+    "sourceCategory": "Palas de padel > Palas de pádel Lok",
+    "description": "La Lok Carbon Flow Gen 2 2026 es una pala de pádel diseñada para jugadores exigentes que buscan un equilibrio perfecto entre control y potencia. Su formato redondo y balance centrado facilitan un manejo cómodo y seguro, ideal para quienes necesitan precisión sin renunciar a la fuerza en cada golpe. Dirigida a deportistas de nivel avanzado, esta raqueta de carbono 6K ofrece una gran estabilidad y durabilidad, gracias a sus refuerzos y diseño innovador. Comprar esta pala es apostar por una herramienta versátil que se adapta a todas las fases del juego, garantizando un rendimiento impecable en la pista. Características y tecnologías de la pala Lok Carbon Flow Gen 2 2026 Forma redonda y balance centrado: proporciona un amplio punto dulce para un control superior y un manejo cómodo, fundamental para golpes precisos. Núcleo de Goma Custom EVA: ofrece un tacto intermedio que equilibra potencia, salida de bola y confort, facilitando cada impacto. Superficie de Carbono 6K (C6): aporta firmeza y potencia, mejorando la respuesta y durabilidad de la pala durante partidos intensos. Dynamic Hole System: la perforación estratégica amplía el punto dulce y mejora la estabilidad en cada golpe. Nuevo sistema de perforación que mejora la estabilidad y los efectos, ideal para manejo ágil sin perder fuerza en el golpeo. Pertenece a la colección de 2026. ¿Para quien es Lok Carbon Flow Gen 2 26? Esta pala está diseñada para jugadores de pádel avanzados que exigen un rendimiento polivalente. Perfecta para quienes quieren dominar la pista con un modelo que ofrece un balance ideal entre control y potencia. El perfil de esta pala se adapta a jugadores que necesitan una herramienta versátil para todas las fases del juego, desde defensas seguras hasta ataques potentes. Su formato y materiales la hacen una opción completa para profesionales y amateurs experimentados. ¿Por qué te va a gustar esta pala de pádel? La Lok Carbon Flow Gen 2 2026 destaca por su fabricación en carbono 6K, que le proporciona la combinación perfecta entre rigidez y potencia en cada impacto, una característica clave para jugadores que buscan efectividad en la pista. Además, su amplio punto dulce y sistema de perforación dinámica ofrecen una gran estabilidad y comodidad, haciendo que cada golpe sea seguro y preciso, ideal para mantener el control durante juegos intensos. Descubre más sobre la marca Lok Lok es una marca consolidada en el mundo del pádel, reconocida por su compromiso con la calidad y la innovación en cada producto. Su trayectoria está ligada a ofrecer equipamiento que potencia el rendimiento de jugadores avanzados y profesionales. Con el desarrollo de palas como la Lok Carbon Flow Gen 2, la marca demuestra su apuesta por tecnologías avanzadas en carbono y diseño ergonómico, creando herramientas que satisfacen las exigencias del pádel moderno.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 159.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/lok/13689-lok-carbon-flow-gen-2-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 923,
     "slug": "lok-carbon-fdb-gen-2-2026-13688",
     "name": "Lok Carbon FDB Gen 2 2026",
     "brand": "Lok",
@@ -14149,7 +15297,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 922,
+    "id": 924,
     "slug": "lok-carbon-hype-gen-2-2026-13687",
     "name": "Lok Carbon Hype Gen 2 2026",
     "brand": "Lok",
@@ -14190,12 +15338,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 923,
+    "id": 925,
     "slug": "lok-maxx-flow-gen-2-2026-13686",
     "name": "Lok Maxx Flow Gen 2 2026",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 180.01,
+    "price": 179.96,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -14224,19 +15372,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 180.01,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/13686-lok-maxx-flow-gen-2-2026.html"
       }
     ]
   },
   {
-    "id": 925,
+    "id": 926,
+    "slug": "lok-maxx-hype-gen-2-2026-13685",
+    "name": "Lok Maxx Hype Gen 2 2026",
+    "brand": "Lok",
+    "category": "raquetes",
+    "price": 180.01,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28134-large_default/lok-maxx-hype-gen-2-2026.jpg",
+    "ean": "8435739406106",
+    "productGTIN": "8435739406106",
+    "mpn": "13685",
+    "source": "zona-de-padel",
+    "sourceProductId": "13685",
+    "sourceCategory": "Palas de padel > Palas de pádel Lok",
+    "description": "La pala Lok Maxx Hype Gen 2 2026 destaca por su alta potencia sin sacrificar el control, ideal para jugadores profesionales que exigen un rendimiento superior en cada golpe ofensivo. Su núcleo en goma EVA personalizada y construcción en carbono garantizan durabilidad y respuestas precisas, siendo además la pala de Mike Yanguas para esta temporada. Diseñada para hombres con nivel avanzado, esta pala de forma diamante es la herramienta perfecta para dominar la red con remates, víboras y bandejas agresivas. La Maxx Hype 2 Yanguas Edition es tu mejor aliada si buscas elevar tu juego con tecnología de última generación. Características y tecnologías de la pala Lok Maxx Hype Gen 2 2026 Forma Diamante y Perfil 38 mm: proporciona un balance alto orientado a la potencia, optimizando cada remate con explosividad y precisión. Material de carbono 100%: ofrece máxima rigidez, estabilidad y resistencia, asegurando que la pala soporte el desgaste del juego intenso. Superficie Carbono 18K: mejora la salida de bola impulsando golpes ofensivos y prolongando la durabilidad de la cara. Dynamic Hole System: distribución especial de agujeros que optimiza la aerodinámica y amplía el punto dulce para mejores impactos. Núcleo Custom EVA y texturizado 3D Spin Lines: combinación que aporta firmeza, confort y efecto spin para golpes liftados y cortados con efecto. Pertenece a la colección de 2026. ¿Para quién es Lok Maxx Hype Gen 2 26? Esta pala está concebida para jugadores avanzados y profesionales que buscan un estilo de juego agresivo desde la red. La geometría diamante y el balance alto ayudan a potenciar la fuerza en cada remate y víbora, clave para atacar sin miedo. Si disfrutas imponiendo tu juego en ofensiva con bandejas precisas y golpes contundentes, la Maxx Hype Gen 2 es una pala especialmente desarrollada para satisfacer esas demandas en pista, aportando control y seguridad en cada acción. ¿Por qué te va a gustar esta pala de pádel? Imagina una pala con potencia extrema que incorpora tecnologías diseñadas para maximizar tu rendimiento ofensivo. La Lok Maxx Hype 2 de Yanguas te ofrece justo eso, mejorando tu ataque con un balance óptimo y materiales de alta calidad. Además, la firma Yanguas imprime en esta pala un diseño innovador que combina agresividad y tecnología avanzada, logrando que cada golpe se convierta en un arma fundamental para el juego competitivo y exigente. Descubre más sobre la marca Lok Lok es una marca que se ha consolidado en el pádel gracias a su apuesta por la calidad y la innovación. Su experiencia en materiales compuestos se traduce en palas diseñadas para jugadores que exigen alto rendimiento y durabilidad. Con modelos como la Lok Maxx Hype Gen 2, la marca se posiciona como referencia para deportistas que buscan tecnología avanzada adaptada a un juego profesional y dinámico, ofreciendo productos con diseños exclusivos y eficientes.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 180.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/lok/13685-lok-maxx-hype-gen-2-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 927,
     "slug": "star-vie-nyra-2026-13683",
     "name": "Star Vie Nyra 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 94.96,
+    "price": 90.01,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -14265,19 +15454,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 94.96,
+        "price": 90.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13683-star-vie-nyra-2026.html"
       }
     ]
   },
   {
-    "id": 926,
+    "id": 928,
     "slug": "star-vie-arkos-2026-13682",
     "name": "Star Vie Arkos 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 96.92,
+    "price": 94.96,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -14306,19 +15495,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 96.92,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13682-star-vie-arkos-2026.html"
       }
     ]
   },
   {
-    "id": 927,
+    "id": 929,
     "slug": "star-vie-polaris-2026-13681",
     "name": "Star Vie Polaris 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 112.91,
+    "price": 109.96,
     "oldPrice": 175,
     "rating": null,
     "badge": null,
@@ -14347,14 +15536,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 112.91,
+        "price": 109.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13681-star-vie-polaris-2026.html"
       }
     ]
   },
   {
-    "id": 929,
+    "id": 930,
+    "slug": "star-vie-kenta-2026-13667",
+    "name": "Star Vie Kenta + 2026",
+    "brand": "Star Vie",
+    "category": "raquetes",
+    "price": 169.96,
+    "oldPrice": 265,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27847-large_default/star-vie-kenta-2026.jpg",
+    "ean": "8436612941080",
+    "productGTIN": "8436612941080",
+    "mpn": "13667",
+    "source": "zona-de-padel",
+    "sourceProductId": "13667",
+    "sourceCategory": "Palas de padel > Palas de padel Star Vie",
+    "description": "La Star Vie Kenta + 2026 es una pala de pádel diseñada para jugadores que buscan un control absoluto sin sacrificar potencia. Su forma redonda con balance centrado crea un amplio punto dulce, ideal para corregir golpes descentrados y asegurar una respuesta precisa en cada impacto. Esta pala combina la avanzada fibra de carbono 12K Hybrid con la goma S-EVA Flex, proporcionando un tacto suave y cómodo que hará que cada movimiento sea fluido y natural. Perfecta para jugadores avanzados y técnicos, esta raqueta de control ofrece tecnologías punteras como la Spin Boost Tech para facilitar la aplicación de efectos, y el diseño Geo Bridge que reduce la resistencia aerodinámica. La Star Vie Kenta + cuenta además con un diseño innovador de empuñadura alargada para un mejor agarre y potencia, siendo una excelente opción para quienes buscan rendimiento y confort en cada partido. Características y tecnologías de la pala Star Vie Kenta + 2026 Forma redonda y balance centrado: Aumenta el punto dulce para evitar errores en golpes descentrados, ideal para el juego de control. Material principal carbono 12K Hybrid: Garantiza una estructura resistente y ligera que potencia la precisión y durabilidad. Goma S-EVA Flex: Ofrece un tacto medio-blando que aporta comodidad y suavidad en cada golpe sin perder potencia. Diseño Geo Bridge y Spin Boost Tech: Reduce la resistencia aerodinámica y maximiza el efecto de la pelota gracias a su textura hexagonal. Pertenece a la colección de 2026: Incluye las últimas innovaciones en materiales y ergonomía para un juego avanzado y eficiente. ¿Para quien es Star Vie Kenta + 26? Esta pala está pensada para jugadores de pádel con un nivel avanzado y perfil técnico que valoran el control y la precisión sobre la potencia bruta. Ideal para deportistas que necesitan corregir golpes y buscan comodidad en cada impacto, con una sensación de toque suave y estable. Además, está orientada a quienes prefieren un estilo de juego fluido y estratégico, garantizando un manejo ágil y versátil en la pista. Su diseño y materiales hacen que sea una opción perfecta para perfeccionar la técnica y dominar cada punto con confianza. ¿Por qué te va a gustar esta pala de pádel? El agarre más largo con la tecnología LONGER HANDGRIP mejora significativamente el control y la potencia, permitiendo golpes más firmes y seguros. Esta empuñadura extensa, combinada con un grip anti shock, asegura una reducción notable de las vibraciones y mayor comodidad durante los partidos intensos. Además, el acabado del grip facilita una sujeción excelente que evita deslizamientos, mejorando la precisión y la confianza. Esto ofrece una experiencia de juego superior, ideal para quienes buscan comodidad y control sin perder efectividad en cada golpe. Descubre más sobre la marca Star Vie Star Vie es una marca española con sólida reputación en el mundo del pádel, especializada en desarrollar equipamiento de alta calidad que responde a las exigencias de jugadores profesionales y amateurs. Su apuesta por la innovación y la tecnología se refleja en palas como la Kenta +, que combinan diseño, materiales avanzados y ergonomía para ofrecer un rendimiento óptimo orientado al control y la precisión dentro de la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 169.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/star-vie/13667-star-vie-kenta-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 931,
     "slug": "star-vie-drax-2026-13666",
     "name": "Star Vie Drax + 2026",
     "brand": "Star Vie",
@@ -14395,7 +15625,130 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
+    "id": 932,
+    "slug": "star-vie-triton-balance-2026-13665",
+    "name": "Star Vie Triton Balance + 2026",
+    "brand": "Star Vie",
+    "category": "raquetes",
+    "price": 191.96,
+    "oldPrice": 296,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28210-large_default/star-vie-triton-balance-2026.jpg",
+    "ean": "8436612941042",
+    "productGTIN": "8436612941042",
+    "mpn": "13665",
+    "source": "zona-de-padel",
+    "sourceProductId": "13665",
+    "sourceCategory": "Palas de padel > Palas de padel Star Vie",
+    "description": "La Star Vie Triton Balance + 2026 es una pala ideal para jugadores exigentes que buscan una combinación perfecta entre potencia y comodidad. Con su goma M-EVA BALANCE, ofrece un tacto medio-duro que maximiza la salida de bola sin sacrificar el control, convirtiéndola en una gran opción para estilos de juego ofensivos. Diseñada especialmente para hombres con nivel avanzado, esta pala aprovecha avanzadas tecnologías como el tejido 18k Carbon Hybrid y el sistema Grip anti shock que absorbe vibraciones, proporcionando un golpeo estable y cómodo. Comprar esta pala significa asegurar un rendimiento profesional en cada punto. Características y tecnologías de la pala Star Vie Triton Balance + 2026 Forma diamante: favorece golpes potentes y un elevado punto dulce para mayor eficacia en ataques. Goma M-EVA BALANCE: núcleo de Eva que ofrece un tacto medio-duro, mejorando las sensaciones sin perder control ni potencia. Material carbono 18k Carbon Hybrid: aporta rigidez y durabilidad, además de ligereza para un manejo óptimo. Perfil de 38 mm con FIVE SIDES TECH: transmite estabilidad y firmeza en cada golpe gracias a su construcción robusta. Superficie SPIN BOOST TECH 3D: genera rugosidad en relieve para facilitar los efectos y mejorar el control en todas las situaciones. Pertenece a la colección de Star Vie 2026. ¿Para quien es Star Vie Triton Balance + 26? Esta pala está pensada para jugadores con un estilo ofensivo que buscan generar potencia explosiva pero sin renunciar a la comodidad en el golpeo. Ideal para quienes quieren aumentar su rendimiento en la pista manteniendo un tacto más agradable. Es perfecta para deportistas que requieren un alto nivel de control sin sacrificar la salida de bola, logrando golpes precisos y potentes para dominar el partido con confianza. ¿Por qué te va a gustar esta pala de pádel? La Star Vie Triton Balance + destaca por su capacidad de generar una potencia explosiva gracias a su núcleo M-EVA que combina firmeza y confort, permitiéndote dominar el juego con golpes fuertes y precisos. Además, su sistema Grip anti shock y la goma más blanda reducen las vibraciones, ofreciendo una excelente comodidad que protege las articulaciones y mejora la sujeción en cada impacto. Descubre más sobre la marca Star Vie Star Vie es una marca española con una larga trayectoria en el mundo del pádel, reconocida por desarrollar palas que combinan innovación y tradición para ofrecer productos de alto rendimiento. Su especialización en palas de pádel de carbono de calidad superior la ha convertido en una referencia para jugadores avanzados, que buscan la máxima potencia y control en cada punto.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 191.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/star-vie/13665-star-vie-triton-balance-2026.html"
+      }
+    ]
+  },
+  {
     "id": 933,
+    "slug": "star-vie-triton-power-2026-13664",
+    "name": "Star Vie Triton Power + 2026",
+    "brand": "Star Vie",
+    "category": "raquetes",
+    "price": 191.96,
+    "oldPrice": 296,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27841-large_default/star-vie-triton-power-2026.jpg",
+    "ean": "8436612941059",
+    "productGTIN": "8436612941059",
+    "mpn": "13664",
+    "source": "zona-de-padel",
+    "sourceProductId": "13664",
+    "sourceCategory": "Inicio > Palas de padel",
+    "description": "La Star Vie Triton Power + 2026 es una pala de pádel diseñada para jugadores que buscan la máxima potencia y precisión en cada golpe. Su construcción con tejido de 18K Carbon Hybrid y goma H-EVA POWER ofrece una resistencia excepcional y una rápida recuperación, ideal para un juego agresivo y ofensivo en la pista. Esta pala para hombre destaca por su perfil rígido y estructura triple TRITECH CORE, proporcionando un equilibrio perfecto entre estabilidad y control. Si buscas dominar los partidos con golpes potentes y efectos precisos, esta talla avanzada es tu mejor opción para comprar y mejorar tu rendimiento. Características y tecnologías de la pala Star Vie Triton Power + 2026 Forma Diamante: proporciona un punto dulce elevado que maximiza la potencia en cada impacto. Núcleo EVA POWER: ofrece un tacto duro y una rápida recuperación para golpes de alta velocidad y precisión. Superficie rugosa 3D: facilita el efecto en la bola, mejorando el control y diversidad en tu estrategia de juego. Tecnologías anti vibraciones para un juego mucho más cómodo. Perfil de ataque.: optimizado para un excelente equilibrio entre maniobrabilidad y potencia. Pertenece a la colección de 2026, incorporando las últimas innovaciones en materiales y diseño para el mejor rendimiento. ¿Para quien es Star Vie Triton Power + 26? Esta pala está dirigida a jugadores de nivel avanzado y experto que buscan un equipo con un tacto más duro y un rendimiento excepcional en potencia. Es perfecta para quienes prefieren un juego ofensivo y buscan controlar la pista con golpes potentes y precisos. Si eres un jugador que domina el juego de ataque y busca una pala que responda en situaciones de alta exigencia, la Star Vie Triton Power + 2026 es la pala ideal para llevar tu juego al siguiente nivel. ¿Por qué te va a gustar esta pala de pádel? Una de las tecnologías que destacan en esta pala es la Full Plane Effect, que potencia el uso de efectos en tus golpes para un juego más táctico y variado, dando ventaja en cada intercambio. Además, el grip Z-SHOCK controla las vibraciones y ofrece una sujeción cómoda y segura, lo que aumenta el confort y la precisión durante largas partidas. Descubre más sobre la marca Star Vie Star Vie es una marca española con una sólida trayectoria en el mundo del pádel, reconocida por su dedicación a la calidad y la innovación en cada producto. Sus palas combinan diseño, tecnología y rendimiento para jugadores exigentes. Especializada en equipamiento para jugadores avanzados y profesionales, Star Vie desarrolla modelos como la Triton Power +, pensados para ofrecer potencia y control en la competición más exigente, manteniendo altos estándares de durabilidad y confort.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 191.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/star-vie/13664-star-vie-triton-power-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "slug": "star-vie-astrum-2026-13663",
+    "name": "Star Vie Astrum + 2026",
+    "brand": "Star Vie",
+    "category": "raquetes",
+    "price": 191.96,
+    "oldPrice": 299,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27840-large_default/star-vie-astrum-2026.jpg",
+    "ean": "8436612941066",
+    "productGTIN": "8436612941066",
+    "mpn": "13663",
+    "source": "zona-de-padel",
+    "sourceProductId": "13663",
+    "sourceCategory": "Palas de padel > Palas de padel Star Vie",
+    "description": "La Star Vie Astrum + 2026 es una pala de pádel diseñada para jugadores avanzados que buscan un equilibrio perfecto entre potencia y control. Su tecnología Z-SHOCK ofrece un grip anti vibraciones que mejora la sujeción, mientras que su perfil rígido garantiza una estabilidad superior que se traduce en golpes precisos y efectivos. Ideal para deportistas con un estilo de juego polivalente, esta pala Star Vie destaca por su construcción en carbono 12K que ofrece un tacto suave y un punto dulce amplio. Si quieres dominar la red y controlar con exactitud cada golpe, este modelo te dará la ventaja que necesitas en el campo. Características y tecnologías de la pala Star Vie Astrum + 2026 Forma lágrima: proporciona un equilibrio óptimo entre potencia y manejo para un juego versátil. Goma técnica SHOCK SHIELD: reduce vibraciones y ajusta el balance para una experiencia más cómoda y efectiva. Sistema SPIN BOOST TECH: mejora la aerodinámica, permitiendo una mayor aceleración y fuerza en cada golpe. Construcción en carbono 12K: asegura un tacto suave y un amplio punto dulce para controlar cada impacto con precisión. Pertenece a la colección de 2026, ofreciendo la última tecnología y calidad en palas de pádel. ¿Para quien es Star Vie Astrum + 26? Esta pala está orientada a jugadores avanzados que disfrutan de un estilo de juego dinámico y polivalente. Si buscas dominar los puntos cerca de la red con golpes potentes y controlar el fondo de pista con tiros precisos, este modelo es perfecto para ti. Es una opción ideal para deportistas que valoran la combinación de potencia y control, buscando además mayor confort gracias a la reducción de vibraciones que permite jugar durante horas sin molestias. ¿Por qué te va a gustar esta pala de pádel? La superficie rugosa Full Plane Effect es una ventaja clave para todos los jugadores que desean aplicar efectos con máxima precisión, dándote un control superior sobre cada golpe y facilitando golpes con efecto para sorprender a tus rivales. Además, el sistema anti vibraciones incorporado asegura un juego libre de molestias, haciendo que cada partido sea más cómodo y agradable, previniendo la fatiga y lesiones asociadas a impactos fuertes. Descubre más sobre la marca Star Vie Star Vie es una marca reconocida en el mundo del pádel por su compromiso con la innovación y calidad. Desde sus inicios, ha apostado por desarrollar palas que se adapten a las necesidades del jugador profesional y amateur. Su especialización en materiales como el carbono y tecnologías como SHOCK SHIELD hacen que modelos como la Astrum + sean referentes para quienes buscan rendimiento avanzado y durabilidad en el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 191.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/star-vie/13663-star-vie-astrum-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 935,
     "slug": "star-vie-raptor-2026-13662",
     "name": "Star Vie Raptor + 2026",
     "brand": "Star Vie",
@@ -14436,12 +15789,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 934,
+    "id": 936,
     "slug": "star-vie-black-titan-2026-13660",
     "name": "Star Vie Black Titan 2026",
     "brand": "Star Vie",
     "category": "raquetes",
-    "price": 219.01,
+    "price": 206.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -14470,19 +15823,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 219.01,
+        "price": 206.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/star-vie/13660-star-vie-black-titan-2026.html"
       }
     ]
   },
   {
-    "id": 935,
+    "id": 937,
     "slug": "babolat-alioth-mini-junior-2025-13659",
     "name": "Babolat Alioth Mini Junior 2025",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 84.96,
+    "price": 80.01,
     "oldPrice": 85,
     "rating": null,
     "badge": null,
@@ -14511,14 +15864,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.96,
+        "price": 80.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/13659-babolat-alioth-mini-junior-2025.html"
       }
     ]
   },
   {
-    "id": 936,
+    "id": 938,
     "slug": "babolat-alioth-junior-2025-13658",
     "name": "Babolat Alioth Junior 2025",
     "brand": "Babolat",
@@ -14559,12 +15912,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 937,
+    "id": 939,
     "slug": "head-evo-extreme-2026-13657",
     "name": "Head Evo Extreme 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 61.95,
+    "price": 81.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -14593,14 +15946,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.95,
+        "price": 81.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/13657-head-evo-extreme-2026.html"
       }
     ]
   },
   {
-    "id": 938,
+    "id": 940,
     "slug": "head-extreme-team-2026-13656",
     "name": "Head Extreme Team 2026",
     "brand": "Head Padel",
@@ -14641,12 +15994,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 939,
+    "id": 941,
     "slug": "head-extreme-motion-2026-13655",
     "name": "Head Extreme Motion 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 164.95,
+    "price": 216.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -14675,19 +16028,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 164.95,
+        "price": 216.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/13655-head-extreme-motion-2025.html"
       }
     ]
   },
   {
-    "id": 940,
+    "id": 942,
     "slug": "head-extreme-pro-2026-13654",
     "name": "Head Extreme Pro 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 199.96,
+    "price": 252.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -14716,19 +16069,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 199.96,
+        "price": 252.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/13654-head-extreme-pro-2026.html"
       }
     ]
   },
   {
-    "id": 942,
+    "id": 943,
+    "slug": "head-extreme-one-2026-13653",
+    "name": "Head Extreme One 2026",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 189.96,
+    "oldPrice": 280,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29252-large_default/head-extreme-one-2026.jpg",
+    "ean": "198772101251",
+    "productGTIN": "198772101251",
+    "mpn": "13653",
+    "source": "zona-de-padel",
+    "sourceProductId": "13653",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La Head Extreme One 2026 es una pala ligera diseñada para jugadores avanzados que buscan maximizar la velocidad y la maniobrabilidad en cada golpe. Ideal para un estilo de juego ofensivo, esta raqueta destaca por su balance alto y forma de diamante, facilitando golpes potentes por encima de la cabeza con precisión y agilidad. Si buscas una pala que combine potencia explosiva, un punto dulce amplio y un tacto superior, esta opción de Head es la elección perfecta. Su tecnología avanzada y el diseño ligero hacen que sea fácil de manejar, permitiéndote dominar la pista y mejorar tu rendimiento en cada partido. Además sus planos disponen de acabado rugoso. Características y tecnologías de la pala Head Extreme One 2026 Forma de diamante y balance alto: Optimiza los golpes por encima de la cabeza para ataques más potentes y rápidos. Fibra de carbono 12K: Proporciona una superficie robusta que asegura potencia explosiva manteniendo la durabilidad del material. Espuma Power Foam: Incrementa la reactividad del golpe, mejorando la velocidad de la pelota y la respuesta en la red. Extreme Spin: Superficie rugosa que permite aplicar un efecto preciso y control táctico durante el juego. Tecnología Auxetic: mejora el rendimiento y las prestaciones durante el juego. Pertenece a la colección 2026, ofreciendo tecnologías actuales y un diseño moderno. ¿Para quién es Head Extreme One 26? Esta pala está dirigida a jugadores avanzados que valoran la rapidez y la maniobrabilidad en la pista. Ideal para quienes prefieren un juego ofensivo y agresivo, buscando un equilibrio entre potencia y control en cada golpe. Perfecta para deportistas que desean una pala ligera, fácil de manejar, con un punto dulce amplio que garantice una sensación de golpe superior y un rendimiento óptimo en partidas intensas. ¿Por qué te va a gustar esta pala de pádel? La Head Extreme One 2026 sobresale por su combinación de tecnologías que potencian tus golpes, haciendo que cada impacto sea más explosivo y efectivo sobre la pista. Su ligereza también mejora la maniobrabilidad, fundamental para un juego dinámico. Además, su construcción avanzada ofrece una sensación única al contacto con la pelota, junto con la seguridad de un material duradero que soporta el desgaste de juegos competitivos sin perder rendimiento. Descubre más sobre la marca Head Head es una marca reconocida a nivel mundial por su innovación en equipamiento deportivo, especialmente en pádel y tenis. Con décadas de experiencia, ha desarrollado productos que combinan tecnología avanzada y calidad para ofrecer rendimiento superior. Su compromiso con la excelencia se refleja en palas como la Extreme One 2026, pensadas para jugadores que exigen precisión, potencia y comodidad, consolidando a Head como líder en el mercado de pádel profesional y amateur.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 189.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/13653-head-extreme-one-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 944,
     "slug": "head-extreme-one-x-2026-13652",
     "name": "Head Extreme One X 2026",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 180.01,
+    "price": 199.96,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -14757,14 +16151,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 180.01,
+        "price": 199.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/13652-head-extreme-one-x-2026.html"
       }
     ]
   },
   {
-    "id": 943,
+    "id": 945,
+    "slug": "zapatillas-adidas-adizero-ubersonic-5-m-nm-white-aurplu-2025-13629",
+    "name": "Sapatilhas Adidas Adizero Ubersonic 5 M NM white aurplu 2025",
+    "brand": "Adidas Padel",
+    "category": "sapatilhas",
+    "price": 90.01,
+    "oldPrice": 150,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27571-large_default/zapatillas-adidas-adizero-ubersonic-5-m-nm-white-aurplu-2025.jpg",
+    "ean": "4068803766529",
+    "productGTIN": "4068803766529",
+    "mpn": "13629",
+    "source": "zona-de-padel",
+    "sourceProductId": "13629",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Adidas",
+    "description": "Descubre las Zapatillas Adidas Adizero Ubersonic 5 M NM white aurplu 2025, diseñadas para jugadores de pádel que buscan un calzado que combine ligereza y estabilidad. Su empeine de malla ligera con refuerzos asegura una sujeción perfecta en movimientos laterales, ideal para deportistas exigentes que necesitan explosividad en cada cambio de dirección. Estas zapatillas de Adidas para hombre destacan por su mediasuela Lightstrike, que proporciona un contacto óptimo con la pista, y la tecnología Speedframe que envuelve el talón, garantizando máxima estabilidad. Si buscas un calzado ágil que potencie tu rendimiento sin comprometer seguridad, esta es tu mejor elección para conquistar la temporada 2025. Características y tecnologías de la zapatilla Adidas Adizero Ubersonic 5 M NM blancas y moradas 2025 Nivel avanzado: Diseñada para jugadores que compiten con regularidad y necesitan el mejor rendimiento en cada partido. Enfoque en la ligereza: Materiales y construcción que favorecen movimientos rápidos y precisos en la pista de pádel. Suela espiga ancha: Optimizada para ofrecer un agarre excepcional y durabilidad en superficies duras. Tecnología Speedframe: Brinda mayor sujeción en el talón facilitando cambios rápidos de dirección sin perder estabilidad. Empeine textil y sintético: una combinación perfecta que favorece el movimiento natural y refuerza las zonas más expuestas. Pertenece a la colección de calzado Adidas Padel 2025. ¿Para quien son las Adidas Adizero Ubersonic 5 M NM blancas y moradas 25? Estas zapatillas están pensadas para deportistas exigentes que compiten habitualmente y quieren un calzado que permita movimientos explosivos sin sacrificar estabilidad ni seguridad en la pista. Recomendamos las Adidas Adizero Ubersonic 5 a jugadores que valoran la rapidez y precisión en sus desplazamientos, buscando una zapatilla que ofrezca soporte y ligereza para un alto rendimiento. ¿Por qué te van a gustar estas zapatillas de pádel JQ3778? Su diseño minimalista no solo aporta un estilo moderno y atractivo, sino que también maximiza la velocidad para que puedas desplegar un juego dinámico sin obstáculos que te frenen. Además, la combinación de tecnologías avanzadas y materiales ligeros garantizan una excelente sujeción y estabilidad en cada movimiento, brindándote confianza para competir al máximo nivel. Descubre más sobre la marca Adidas La marca Adidas es sinónimo de innovación y calidad en el mundo del deporte. Con décadas de experiencia, ha desarrollado tecnologías pioneras que revolucionan el rendimiento deportivo y la comodidad. En el ámbito del pádel, Adidas se ha consolidado como referencia ofreciendo zapatillas que combinan tecnología de vanguardia con diseño funcional, pensadas para satisfacer las necesidades específicas de los jugadores.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": "Branco",
+      "uso": "Competição",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 90.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/13629-zapatillas-adidas-adizero-ubersonic-5-m-nm-white-aurplu-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 946,
     "slug": "zapatillas-adidas-defiant-speed-2-m-black-silver-pink-2025-13627",
     "name": "Sapatilhas Adidas Defiant Speed 2 M black silver pink 2025",
     "brand": "Adidas Padel",
@@ -14805,7 +16240,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 972,
+    "id": 948,
+    "slug": "head-speed-junior-2025-13622",
+    "name": "Head Speed Junior 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 80.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/27438-large_default/head-speed-junior-2025.jpg",
+    "ean": "726423386025",
+    "productGTIN": "726423386025",
+    "mpn": "13622",
+    "source": "zona-de-padel",
+    "sourceProductId": "13622",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Para el disfrute de los más jóvenes presentamos la Head Speed Junior 2025, una pala diseñada especialmente para jóvenes que se inician en el pádel con un modelo que destaca por su equilibrio perfecto entre potencia y control. Su peso ligero y forma lágrima hacen que el juego sea cómodo y muy manejable, facilitando la rápida adaptación al deporte. Destinada a niños que quieren perfeccionar su técnica con una pala que aporta precisión y suavidad en el golpeo, la Head Speed Junior ofrece tecnologías avanzadas para un rendimiento superior en la pista. Sin duda, es una opción ideal para quienes buscan una pala que acompañe su desarrollo deportivo. Características y tecnologías de la pala Head Speed Junior 2025 Forma lágrima: Equilibrada para un juego polivalente que combina potencia y control de manera eficiente. Peso ligero, aproximadamente 310-330 gramos: Facilita la maniobrabilidad y reduce la fatiga durante el juego, ideal para niños. Núcleo Power Foam: Goma de alta respuesta que maximiza la potencia en cada golpe con un tacto blando y cómodo. Construcción en fibra de vidrio: Proporciona mayor control y suavidad en el golpeo gracias a su tacto característico. Grip adaptado: Aporta ligereza y permite un manejo más dinámico durante el partido. Pertenece a la colección de palas para niño Head 2025. ¿Para quien es Head Speed Junior 25? Esta pala está pensada para jóvenes jugadores que desean impulsar su nivel con una herramienta que ofrece un excelente balance entre potencia y control desde el inicio. Su diseño ergonómico y grip adaptado ayudan a mejorar la técnica. Perfecta para niños que buscan una pala que se adapte a su crecimiento y estilo de juego, facilitando la ejecución de golpes precisos sin perder fuerza. Además, su manejo ligero es ideal para quienes dan sus primeros pasos en el pádel competitivo. ¿Por qué te va a gustar esta pala de pádel? Porque la Head Speed Junior 2025 incorpora tecnologías innovadoras que optimizan el rendimiento desde edades tempranas, haciendo que cada golpe sea más cómodo y potente. Su tacto blando mejora la sensación en cada impacto para un juego más agradable. Además, su diseño está especialmente adaptado para las necesidades de los jóvenes deportistas, proporcionando una pala equilibrada, duradera y fácil de manejar que acompaña su evolución dentro del pádel. Descubre más sobre la marca Head Head es una marca con una larga trayectoria en el mundo del deporte, reconocida por desarrollar palas de pádel con tecnologías punteras y materiales de alta calidad. Su compromiso con la innovación la posiciona como referente para jugadores de todas las edades. Especializada en productos que combinan diseño y rendimiento, Head se enfoca en ofrecer herramientas que elevan el nivel de juego, como esta pala junior que ayuda a los más jóvenes a sentirse profesionales desde sus primeros entrenamientos.",
+    "specs": {
+      "peso": "330g",
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 80.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/13622-head-speed-junior-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 975,
     "slug": "bullpadel-discover-power-2025-13581",
     "name": "Bullpadel Discover Power 2025",
     "brand": "Bullpadel",
@@ -14846,7 +16322,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 973,
+    "id": 976,
     "slug": "bullpadel-discover-control-2025-13580",
     "name": "Bullpadel Discover Control 2025",
     "brand": "Bullpadel",
@@ -14887,7 +16363,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 977,
+    "id": 980,
     "slug": "bullpadel-ionic-light-2026-13575",
     "name": "Bullpadel Ionic Light 2026",
     "brand": "Bullpadel",
@@ -14928,12 +16404,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 979,
+    "id": 981,
+    "slug": "bullpadel-ionic-control-2026-13574",
+    "name": "Bullpadel Ionic Control 2026",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 143.96,
+    "oldPrice": 180,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/28631-large_default/bullpadel-ionic-control-2026.jpg",
+    "ean": "8445402975143",
+    "productGTIN": "8445402975143",
+    "mpn": "13574",
+    "source": "zona-de-padel",
+    "sourceProductId": "13574",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "La Bullpadel Ionic Control 2026 es una pala diseñada para ofrecer máximo control, precisión y confort en cada golpe. Su forma redonda con balance bajo facilita movimientos manejables, ideal para dominar golpes de toque y reforzar la defensa desde el fondo de la pista con seguridad. Este modelo de la serie Next, especialmente creado para jugadores masculinos intermedios y avanzados, destaca por su combinación única de flexibilidad y resistencia. Si buscas una pala ligera y con un punto dulce amplio que puedas usar para mejorar la precisión y el juego defensivo, la pala Ionic Control 2026 de Bullpadel es una opción imprescindible para tu equipo. Características y tecnologías de la pala Bullpadel Ionic Control 2026 Forma redonda: Proporciona un equilibrio perfecto que aumenta la precisión y facilita el control en cada golpe. Nivel intermedio: Ideal para jugadores que buscan mejorar su técnica defensiva y dominar los golpes de toque. Tacto blando y núcleo MultiEva: Aporta comodidad y una mejor salida de bola para sensaciones óptimas. Material con Glaphite: combinación híbrida de fibra de vidrio y carbono que brinda resistencia y flexibilidad para un rendimiento duradero. Relieve 3D: Incrementa notablemente los efectos que podemos dar a nuestros tiros. Pertenece a la colección de palas Next 2026. ¿Para quién es Bullpadel Ionic Control 26? La Bullpadel Ionic Control 2026 está enfocada para jugadores masculinos de nivel intermedio y avanzado que necesitan una pala cómoda, ligera y que garantice un control absoluto en la pista, ideal para potenciar golpes tácticos y defensa en situaciones complicadas. Es perfecta para aquellos jugadores que prefieren la seguridad y precisión, buscando una pala que les facilite golpes de toque y una mejor maniobrabilidad para mantenerse sólidos en el fondo de la pista. ¿Por qué te va a gustar esta pala de pádel? Esta pala destaca por ser extremadamente manejable, lo que permite disfrutar de la sensación de control y confort en cada golpe, haciendo que incluso los golpes más descentrados mantengan un alto nivel de precisión. Además, cuenta con un acabado rugoso en rugoso 3D Grain que mejora el efecto en la bola, algo fundamental para jugadores que buscan sorprender con golpes cargados de efecto y control. Descubre más sobre la marca Bullpadel Bullpadel es una marca líder en el mundo del pádel, comprometida con el desarrollo de equipamiento innovador que combina tecnología y calidad para optimizar el rendimiento de cada jugador. Su experiencia la convierte en sinónimo de confianza y excelencia. Esta pala refleja el compromiso de Bullpadel con el control y el confort, atributos esenciales para jugadores que buscan mejorar su técnica con herramientas avanzadas que se adaptan a su estilo de juego.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 143.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/13574-bullpadel-ionic-control-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 982,
     "slug": "bullpadel-ionic-power-2026-13573",
     "name": "Bullpadel Ionic Power 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 152.96,
+    "price": 161.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -14962,14 +16479,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 152.96,
+        "price": 161.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13573-bullpadel-ionic-power-2026.html"
       }
     ]
   },
   {
-    "id": 980,
+    "id": 983,
     "slug": "bullpadel-vertex-05-woman-cloud-2026-13572",
     "name": "Bullpadel Vertex 05 Woman Cloud 2026",
     "brand": "Bullpadel",
@@ -15010,12 +16527,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 981,
+    "id": 984,
     "slug": "bullpadel-neuron-02-cloud-2026-13571",
     "name": "Bullpadel Neuron 02 Cloud 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 179.96,
+    "price": 189.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -15044,19 +16561,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.96,
+        "price": 189.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13571-bullpadel-neuron-02-cloud-2026.html"
       }
     ]
   },
   {
-    "id": 984,
+    "id": 985,
+    "slug": "bullpadel-hack-04-hybrid-cloud-2026-13570",
+    "name": "Bullpadel Hack 04 Hybrid Cloud 2026",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 215.96,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29716-large_default/bullpadel-hack-04-hybrid-cloud-2026.jpg",
+    "ean": "8445402975068",
+    "productGTIN": "8445402975068",
+    "mpn": "13570",
+    "source": "zona-de-padel",
+    "sourceProductId": "13570",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "La Bullpadel Hack 04 Hybrid Cloud 2026 es una pala diseñada para jugadores que buscan un equilibrio perfecto entre comodidad y rendimiento. Con su forma híbrida, combina el control de una lágrima y la potencia del formato diamante, ofreciendo una experiencia polivalente en la pista. Ideal para quienes desean una pala ligera que minimice el impacto en las articulaciones sin renunciar a un diseño potente. Esta pala para hombre es perfecta para nivel intermedio y avanzado, gracias a su núcleo de New Blue SoftEva y caras en fibra de vidrio GlassFiber que aseguran un tacto blando y una salida de bola sencilla. Si buscas una pala con gran maniobrabilidad, control y un acabado rugoso que potencia los efectos, esta innovación Bullpadel es la opción que no puedes dejar escapar. Características y tecnologías de la pala Bullpadel Hack 04 Hybrid Cloud 2026 Forma lágrima híbrida: Combina lo mejor del formato lágrima y diamante para una polivalencia total en el juego, facilitando tanto control como potencia. Núcleo Eva New Blue SoftEva: Material de baja densidad que absorbe vibraciones, aumentando la comodidad y permitiendo golpes suaves y efectivos. Caras en Fibra de Vidrio GlassFiber: Proporcionan elasticidad para un tacto blando y salida de bola fácil, cuidando especialmente las articulaciones. Rugosidad 3D en los planos: Mejora los efectos y el control de la bola, aumentando la respuesta en golpes técnicos y estratégicos. Air React Channel: Optimiza la maniobrabilidad y facilita un juego dinámico sin fatiga. Pertenece a la colección de 2026: Modelo actualizado con las últimas tecnologías para maximizar tu rendimiento en pista. ¿Para quien es Bullpadel Hack 04 Hybrid Cloud 26? Esta pala está orientada a jugadores de pádel que cuentan con un nivel intermedio o avanzado, buscando una pala cómoda, ligera y con excelente salida de bola. La Hack 04 Hybrid Cloud es ideal para quienes valoran el control en sus golpes sin perder potencia, y quieren cuidar sus articulaciones durante largos partidos. Destinada a deportistas que desean una pala con diseño profesional pero de tacto blando, esta Bullpadel es perfecta para quienes prefieren un estilo de juego equilibrado, con facilidad en maniobras y resistencia en cada impacto, sin sacrificar estilo y rendimiento. ¿Por qué te va a gustar esta pala de pádel? La Hack 04 Hybrid Cloud forma parte de la serie de Paquito Navarro, lo que garantiza un rendimiento profesional adaptado a la comodidad. Su diseño híbrido y materiales amortiguadores hacen que cada golpe sea potente sin que tus articulaciones sufran. Además, la combinación de sus tecnologías y su estética moderna crean una pala que no solo rinde en pista, sino que también destaca en diseño. Con esta pala Bullpadel disfrutarás de la sensación de un modelo exclusivo, pensado para un juego agresivo y confortable. Descubre más sobre la marca Bullpadel Bullpadel es una marca líder en el mundo del pádel, reconocida por su innovación constante y pasión por el deporte. Fundada con el propósito de ofrecer equipos que potencien el rendimiento, la marca se ha consolidado creando productos de alta calidad y tecnología avanzada. Sus colecciones, como esta Hack 04 Hybrid Cloud 2026, reflejan el compromiso de Bullpadel por combinar materiales innovadores con diseños que cuidan la ergonomía y el confort, adaptándose a las necesidades del jugador actual.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 215.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/13570-bullpadel-hack-04-hybrid-cloud-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 987,
     "slug": "bullpadel-flow-legend-2026-13567",
     "name": "Bullpadel Flow Legend 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 199.96,
+    "price": 186.96,
     "oldPrice": 250,
     "rating": null,
     "badge": null,
@@ -15085,19 +16643,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 199.96,
+        "price": 186.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13567-bullpadel-flow-legend-2026.html"
       }
     ]
   },
   {
-    "id": 985,
+    "id": 988,
     "slug": "bullpadel-elite-woman-2026-13566",
     "name": "Bullpadel Elite Woman 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 215.96,
+    "price": 199.95,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -15126,19 +16684,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 215.96,
+        "price": 199.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13566-bullpadel-elite-woman-2026.html"
       }
     ]
   },
   {
-    "id": 986,
+    "id": 989,
     "slug": "bullpadel-wonder-2026-13565",
     "name": "Bullpadel Wonder 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 214.96,
+    "price": 199.96,
     "oldPrice": 270,
     "rating": null,
     "badge": null,
@@ -15167,19 +16725,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 214.96,
+        "price": 199.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13565-bullpadel-wonder-2026.html"
       }
     ]
   },
   {
-    "id": 987,
+    "id": 990,
     "slug": "bullpadel-pearl-2026-13562",
     "name": "Bullpadel Pearl 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 219.96,
+    "price": 209.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -15208,19 +16766,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 219.96,
+        "price": 209.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13562-bullpadel-pearl-2026.html"
       }
     ]
   },
   {
-    "id": 988,
+    "id": 991,
     "slug": "bullpadel-icon-2026-13561",
     "name": "Bullpadel Icon 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 188.92,
+    "price": 252.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -15249,19 +16807,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 188.92,
+        "price": 252.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13561-bullpadel-icon-2026.html"
       }
     ]
   },
   {
-    "id": 989,
+    "id": 992,
     "slug": "bullpadel-xplo-comfort-2026-13560",
     "name": "Bullpadel XPLO Comfort 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 191.96,
+    "price": 179.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -15290,19 +16848,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 191.96,
+        "price": 179.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13560-bullpadel-xplo-comfort-2026.html"
       }
     ]
   },
   {
-    "id": 990,
+    "id": 993,
     "slug": "bullpadel-xplo-2026-13559",
     "name": "Bullpadel XPLO 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 254.96,
+    "price": 239.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15331,19 +16889,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 254.96,
+        "price": 239.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13559-bullpadel-xplo-2026.html"
       }
     ]
   },
   {
-    "id": 991,
+    "id": 994,
     "slug": "bullpadel-neuron-02-edge-2026-13558",
     "name": "Bullpadel Neuron 02 Edge 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 254.96,
+    "price": 288.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15372,19 +16930,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 254.96,
+        "price": 288.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13558-bullpadel-neuron-02-edge-2026.html"
       }
     ]
   },
   {
-    "id": 992,
+    "id": 995,
     "slug": "bullpadel-neuron-02-2026-13556",
     "name": "Bullpadel Neuron 02 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 224.92,
+    "price": 239.91,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15413,19 +16971,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 224.92,
+        "price": 239.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13556-bullpadel-neuron-02-2026.html"
       }
     ]
   },
   {
-    "id": 993,
+    "id": 996,
     "slug": "bullpadel-hack-04-comfort-2026-13555",
     "name": "Bullpadel Hack 04 Comfort 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 199.95,
+    "price": 189.96,
     "oldPrice": 250,
     "rating": null,
     "badge": null,
@@ -15454,19 +17012,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 199.95,
+        "price": 189.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13555-bullpadel-hack-04-comfort-2026.html"
       }
     ]
   },
   {
-    "id": 994,
+    "id": 997,
     "slug": "bullpadel-hack-04-hybrid-2026-13554",
     "name": "Bullpadel Hack 04 Hybrid 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 223.96,
+    "price": 197.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15495,19 +17053,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 223.96,
+        "price": 197.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13554-bullpadel-hack-04-hybrid-2026.html"
       }
     ]
   },
   {
-    "id": 995,
+    "id": 998,
     "slug": "bullpadel-hack-04-2026-13553",
     "name": "Bullpadel Hack 04 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 254.96,
+    "price": 239.96,
     "oldPrice": 320,
     "rating": null,
     "badge": null,
@@ -15536,19 +17094,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 254.96,
+        "price": 239.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13553-bullpadel-hack-04-2026.html"
       }
     ]
   },
   {
-    "id": 996,
+    "id": 999,
     "slug": "bullpadel-vertex-05-woman-2026-13552",
     "name": "Bullpadel Vertex 05 Woman 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 219.96,
+    "price": 209.96,
     "oldPrice": 280,
     "rating": null,
     "badge": null,
@@ -15577,14 +17135,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 219.96,
+        "price": 209.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13552-bullpadel-vertex-05-woman-2026.html"
       }
     ]
   },
   {
-    "id": 997,
+    "id": 1000,
     "slug": "bullpadel-vertex-05-hybrid-2026-13550",
     "name": "Bullpadel Vertex 05 Hybrid 2026",
     "brand": "Bullpadel",
@@ -15625,12 +17183,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 998,
+    "id": 1001,
     "slug": "bullpadel-vertex-05-geo-2026-13549",
     "name": "Bullpadel Vertex 05 GEO 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 249.91,
+    "price": 237.51,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -15659,19 +17217,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 249.91,
+        "price": 237.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13549-bullpadel-vertex-05-geo-2026.html"
       }
     ]
   },
   {
-    "id": 999,
+    "id": 1002,
     "slug": "bullpadel-vertex-05-2026-13548",
     "name": "Bullpadel Vertex 05 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 254.91,
+    "price": 237.51,
     "oldPrice": 340,
     "rating": null,
     "badge": null,
@@ -15700,14 +17258,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 254.91,
+        "price": 237.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13548-bullpadel-vertex-05-2026.html"
       }
     ]
   },
   {
-    "id": 1003,
+    "id": 1005,
     "slug": "zapatillas-adidas-crazyquick-ls-padel-w-lucid-lemon-2025-13536",
     "name": "Sapatilhas Adidas Crazyquick LS Padel W lucid lemon 2025",
     "brand": "Adidas Padel",
@@ -15748,12 +17306,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1009,
+    "id": 1011,
     "slug": "zapatillas-mizuno-wave-enforce-court-padel-vibrant-yellow-2025-13514",
     "name": "Sapatilhas Mizuno Wave Enforce Court Padel vibrant yellow 2025",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 66.01,
+    "price": 69.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -15782,14 +17340,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 66.01,
+        "price": 69.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/mizuno/13514-zapatillas-mizuno-wave-enforce-court-padel-vibrant-yellow-2025.html"
       }
     ]
   },
   {
-    "id": 1011,
+    "id": 1012,
     "slug": "zapatillas-mizuno-wave-exceed-court-cc-white-calypso-coral-2025-13505",
     "name": "Sapatilhas Mizuno Wave Exceed Court CC white calypso coral 2025",
     "brand": "Mizuno",
@@ -15830,43 +17388,84 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1012,
-    "slug": "zapatillas-mizuno-wave-exceed-court-cc-odyssey-gray-white-2025-13504",
-    "name": "Sapatilhas Mizuno Wave Exceed Court CC odyssey gray white 2025",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 75.01,
-    "oldPrice": 125,
+    "id": 1014,
+    "slug": "wilson-bela-ls-v3-2025-13468",
+    "name": "Wilson Bela LS V3 2025",
+    "brand": "Wilson Padel",
+    "category": "raquetes",
+    "price": 169.96,
+    "oldPrice": 210,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/26926-large_default/zapatillas-mizuno-wave-exceed-court-cc-odyssey-gray-white-2025.jpg",
-    "ean": "5059882576467",
-    "productGTIN": "5059882576467",
-    "mpn": "13504",
+    "image": "https://www.zonadepadel.es/26829-large_default/wilson-bela-ls-v3-2025.jpg",
+    "ean": "097512928908",
+    "productGTIN": "097512928908",
+    "mpn": "13468",
     "source": "zona-de-padel",
-    "sourceProductId": "13504",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Mizuno",
-    "description": "Las zapatillas Mizuno Wave Exceed Court CC odyssey gray white 2025 están diseñadas para jugadores avanzados que buscan máxima ligereza y estabilidad en pista de tierra batida. Su innovadora combinación tecnológica proporciona un rendimiento excepcional en cada movimiento. Si quieres mejorar tu agilidad y control en el juego, estas zapatillas de Mizuno para hombre ofrecen amortiguación superior y una tracción fiable, ideales para quienes priorizan velocidad y comodidad para dominar en pistas clay. Características y tecnologías de la zapatilla Mizuno Wave Exceed Court CC grises 2025 Nivel avanzado: Pensadas para jugadores con experiencia que demandan el máximo rendimiento en sus partidos. Ligereza extraordinaria: Gracias al material POWNCE en la entresuela, facilitan movimientos ágiles y rápidos sin cansancio. Suela Clay Court: Caucho duradero que brinda una tracción óptima y control para deslizarse eficazmente en pistas de tierra batida. Diseño 2025: Edición actualizada que incorpora las últimas tecnologías de Mizuno para una experiencia mejorada en la pista. MIZUNO WAVE® y ENERZY NXT: Amortiguación y estabilidad superiores con retorno de energía dinámico para transiciones suaves y potentes. Pertenece a la colección de 2025. ¿Para quien es Mizuno Wave Exceed Court CC odyssey gray white 25? Estas zapatillas están indicadas para jugadores de pádel que compiten en terrenos de tierra batida y buscan optimizar su rendimiento con calzado que aporte rapidez y estabilidad en cada giro. Son perfectas para aquellos deportistas que priorizan la comodidad y la sujeción lateral durante partidos intensos, asegurando confianza y control en cada paso. ¿Por qué te van a gustar esta zapatillas de pádel? Su avanzado sistema de amortiguación MIZUNO WAVE® y la entresuela ENERZY NXT garantizan una absorción de impactos excepcional y un retorno de energía que mejora tu explosividad y agilidad en la pista. Además, la suela de goma especializada para pistas clay permite deslizarte y frenar con precisión, otorgando la máxima tracción para movimientos rápidos y seguros. Descubre más sobre la marca Mizuno Mizuno es una marca japonesa reconocida mundialmente por su compromiso con la innovación y calidad en el deporte. Desde hace décadas, se ha posicionado como referente en calzado deportivo de alto rendimiento. Su experiencia en tecnología aplicada a zapatillas deportivas hace que sus productos, como estas zapatillas para pádel Mizuno, sean excelentes para quienes buscan durabilidad, confort y funcionalidad en cada partido.",
+    "sourceProductId": "13468",
+    "sourceCategory": "Palas de padel > Palas de padel Wilson",
+    "description": "Wilson Bela LS V3 2025 es una pala diseñada para jugadores que buscan maximizar potencia sin sacrificar el control ni la comodidad en cada golpe. Con un peso aproximado de 355 gramos, ofrece gran manejabilidad y velocidad de movimiento para un juego ofensivo y dinámico. Pensada para jugadores avanzados y agresivos, esta pala destaca por su tecnología desarrollada junto a Fernando Belasteguín, que asegura un rendimiento de alto nivel. Ideal para quienes quieren imponer pegada y precisión en la pista, la Wilson Bela LS V3 2025 es la opción perfecta para elevar tu juego y conseguir la victoria. Características y tecnologías de la pala Wilson Bela LS V3 2025 Forma Diamante y perfil de 38 mm: optimizan la potencia y el punto dulce para golpes explosivos y mayor control en el juego ofensivo. Núcleo de espuma Power Foam: proporciona un tacto cómodo y reduce vibraciones, mejorando la sensación de golpeo y evitando fatiga. Fibra de carbono tejida en la superficie: aumenta la resistencia y absorbe impactos, ofreciendo explosividad y durabilidad en cada golpe. Distribución de agujeros optimizada: mejora la respuesta en toda la cara de la pala, aumentando precisión y control en los tiros. Grip Shock Shield y protector incorporado: garantizan comodidad en el agarre y protección del marco para una pala resistente y confortable. Pertenece a la colección de 2025. ¿Para quién es Wilson Bela LS V3 25? Esta pala está diseñada para jugadores ofensivos que necesitan un equilibrio entre potencia y control. Su ligereza hace que sea perfecta para quienes buscan una pala manejable que no sacrifique contundencia en cada golpe. La Wilson Bela LS V3 2025 se adapta a quienes desean incorporar más pegada a su juego pero sin renunciar a la precisión ni la comodidad durante los partidos intensos. ¿Por qué te va a gustar esta pala de pádel? El diseño exclusivo de esta pala es uno de sus grandes atractivos. El elegante blanco combinado con detalles en negro y rojo la hacen destacar visualmente en la pista, aportando estilo y personalidad a tu juego. Además, la firma de Belasteguín y su lema \"Un Belasteguín nunca se rinde\", visible en el cordón de seguridad, reflejan el compromiso con la calidad y la pasión que transmite esta pala en cada partido. Descubre más sobre la marca Wilson Wilson es una marca líder reconocida mundialmente por su innovación y calidad en productos deportivos, especialmente en pádel y tenis. Con décadas de experiencia, Wilson ha desarrollado equipamiento que combina tecnología avanzada con diseño funcional. En el pádel, Wilson apuesta por colaboraciones con jugadores top para crear palas que potencian el rendimiento y la experiencia en la pista, consolidándose como una opción confiable para jugadores de todos los niveles.",
     "specs": {
-      "peso": null,
-      "forma": null,
+      "peso": "355g",
+      "forma": "Diamante",
       "equilibrio": null,
       "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
       "genero": null,
-      "cor": "Branco",
-      "uso": "Intenso",
-      "amortecimento": "Alto"
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
     },
     "stores": [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 75.01,
+        "price": 169.96,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/mizuno/13504-zapatillas-mizuno-wave-exceed-court-cc-odyssey-gray-white-2025.html"
+        "url": "https://www.zonadepadel.es/wilson-padel/13468-wilson-bela-ls-v3-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "slug": "wilson-bela-v3-2025-13467",
+    "name": "Wilson Bela V3 2025",
+    "brand": "Wilson Padel",
+    "category": "raquetes",
+    "price": 234.96,
+    "oldPrice": 260,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/26912-large_default/wilson-bela-v3-2025.jpg",
+    "ean": "097512928854",
+    "productGTIN": "097512928854",
+    "mpn": "13467",
+    "source": "zona-de-padel",
+    "sourceProductId": "13467",
+    "sourceCategory": "Palas de padel > Palas de padel Wilson",
+    "description": "La pala de pádel Wilson Bela V3 2025 es una obra maestra diseñada para jugadores exigentes que desean marcar la diferencia en la pista. Desarrollada junto a Fernando Belasteguín, incorpora una combinación de tecnologías avanzadas y un diseño impactante. Su estructura reforzada con carbono de alta calidad ofrece una potencia explosiva sin sacrificar el control, ideal para jugadores que destacan por su juego ofensivo. Gracias a su núcleo de espuma EVA rígida, esta pala proporciona una salida de bola rápida y un tacto firme, lo que se traduce en mayor precisión en los golpes más exigentes. Además, el Sweet Spot optimizado y la textura Spin Effect en la superficie permiten generar efectos con facilidad y mantener la consistencia incluso en impactos descentrados. Con la pala Wilson Bela V3, dominarás cada punto con seguridad, potencia y estilo. Características y tecnologías de la pala de pádel Wilson Bela V3 Sweet Spot optimizado: Mejora la consistencia y precisión de cada golpe, incluso en impactos descentrados. Estructura con carbono de alta calidad: Refuerza el marco para aumentar la potencia y la capacidad de respuesta inmediata. Núcleo de espuma EVA rígida: Aporta un tacto firme y una rápida salida de bola, ofreciendo un control superior. Superficie con textura Spin Effect: Facilita la generación de efectos, brindando mayor control y versatilidad en el juego. Protector transparente integrado: Protege el marco y el diseño de la pala, manteniéndola en óptimo estado por más tiempo. Pertenece a la colección de palas Wilson 2025. ¿Para quién es la Wilson Bela V3 25? La pala Wilson Bela V3 2025 está dirigida a jugadores con buen nivel de técnica y juego, que buscan potencia y precisión en sus golpes. Es ideal para aquellos que desean imponer su ritmo en la pista y dominar cada punto con confianza. Si eres un jugador ofensivo que valora el control y la potencia en cada golpe, la pala de pádel Wilson Bela V3 es la herramienta perfecta para llevar tu juego al siguiente nivel. ¿Por qué te va a gustar esta pala Wilson Bela V3 WR186511U2? Porque se trata de una de las palas de Bela, reuniendo las mejores tecnologías de la marca junto con un acabado sofisticado que incluye la firma del jugador. Su diseño elegante y características avanzadas la convierten en una opción destacada para jugadores exigentes. Además, la pala Wilson Bela V3 2025 ofrece una combinación única de potencia, control y durabilidad, permitiéndote jugar con confianza y estilo en cada partido. Descubre más sobre la marca Wilson Padel Wilson es una marca reconocida mundialmente por su innovación y calidad en productos deportivos. Con décadas de experiencia en el desarrollo de equipamiento de alto rendimiento, elegir una pala Wilson es apostar por la excelencia y la pasión por el deporte. En el mundo del pádel, ha sido la marca elegida por leyendas del tenis y el pádel. Confia en la experiencia, el rendimiento profesional y una evolución constante pensada para los campeones.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 234.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/13467-wilson-bela-v3-2025.html"
       }
     ]
   },
@@ -15876,7 +17475,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Wilson Bela Pro V3 2025",
     "brand": "Wilson Padel",
     "category": "raquetes",
-    "price": 209.96,
+    "price": 199.96,
     "oldPrice": 310,
     "rating": null,
     "badge": null,
@@ -15905,7 +17504,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 209.96,
+        "price": 199.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/13466-wilson-bela-pro-v3-2025.html"
       }
@@ -15958,7 +17557,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Babolat Technical Veron Juan Lebron 3.0 2026",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 169.93,
+    "price": 171.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -15987,9 +17586,91 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 169.93,
+        "price": 171.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/13447-babolat-technical-veron-juan-lebron-30-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "slug": "babolat-technical-viper-juan-lebron-3-0-2026-13446",
+    "name": "Babolat Technical Viper Juan Lebron 3.0 2026",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 278.96,
+    "oldPrice": 380,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/29092-large_default/babolat-technical-viper-juan-lebron-30-2026.jpg",
+    "ean": "3324922283103",
+    "productGTIN": "3324922283103",
+    "mpn": "13446",
+    "source": "zona-de-padel",
+    "sourceProductId": "13446",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "Diseñada para dominar el juego desde la potencia y el control, la nueva Babolat Technical Viper Juan Lebron 3.0 2026 se ha desarrollado con los estándares más altos para jugadores ofensivos que no negocian el impacto de sus golpes. En ella se concentran los valores de potencia explosiva, rigidez y estabilidad, con un formato diamante que canaliza toda la fuerza del brazo hacia la bola. La combinación de tecnologías de última generación y materiales premium la convierten en un arma letal para el juego ofensivo. Dentro de esta línea de alto rendimiento se encuentra la Babolat Technical Viper Juan Lebron 3.0 2026, un modelo que forma parte de la colección oficial del jugador Juan Lebrón. Gracias a su núcleo X-eva de triple capa, su superficie en carbono 3K y el refuerzo Dynamic Stability System, esta pala de pádel Technical Viper negra proporciona máxima potencia en cada remate, con una gran respuesta y una precisión superior. Características y tecnologías de pala de pádel Babolat Technical Viper Juan Lebron 3.0 Carbono 3K: mayor rigidez en la superficie para imprimir potencia con un tacto firme y preciso. Goma X-eva: núcleo de triple capa que equilibra explosividad en remates y confort en golpes suaves. Dynamic Stability System: refuerzo en el corazón que mejora la estabilidad y reduce vibraciones. 3D Spin+: superficie rugosa que potencia los efectos para un juego más técnico y controlado. Smart Buttcap: sistema que permite intercambiar la correa de seguridad según tus preferencias. Pertenece a la colección de palas Babolat para la temporada 2026. ¿Para quién es la Babolat Technical Viper Juan Lebron 3.0 2026? Creada para jugadores de nivel avanzado o profesional con un perfil ofensivo, esta pala responde con firmeza en el juego de ataque. Es ideal para quienes dominan el punto desde la potencia y la precisión en cada remate. La Technical Viper Juan Lebron 3.0 de Babolat está pensada para hombres que buscan una pala reactiva, con tecnologías que absorban vibraciones, mejoren la estabilidad y permitan ejecutar golpes potentes con total confianza. ¿Por qué te va a gustar pala Technical Viper 150174? Porque es una de las palas más explosivas y avanzadas del mercado, con un diseño exclusivo del jugador Juan Lebrón. Ideal para quienes buscan un plus de agresividad en cada acción ofensiva. Además, la Babolat Technical Viper Juan Lebron 3.0 te permite jugar con precisión, aplicar efectos y mantener el control incluso en situaciones de máxima exigencia. Una pala de alto nivel, hecha para rendir al máximo. Fundada en 1875, Babolat es una de las marcas con mayor tradición en deportes de raqueta. Su apuesta constante por la innovación y la colaboración con jugadores profesionales la convierten en una firma de referencia para quienes exigen lo mejor.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 278.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/13446-babolat-technical-viper-juan-lebron-30-2026.html"
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "slug": "head-graphene-360-alpha-power-2-0-2025-13342",
+    "name": "Head Graphene 360+ Alpha Power 2.0 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 94.95,
+    "oldPrice": 250,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/26719-large_default/head-graphene-360-alpha-power-20-2025.jpg",
+    "ean": "198772074456",
+    "productGTIN": "198772074456",
+    "mpn": "13342",
+    "source": "zona-de-padel",
+    "sourceProductId": "13342",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Ya disponible uno de los modelos más populares: la pala de pádel Head Graphene 360+ Alpha Power 2.0 2025. Es una edición limitada que combina potencia, control y tecnología avanzada para ofrecer un rendimiento excepcional en la pista. Diseñada con un molde oversize y balance medio, proporciona un equilibrio perfecto entre maniobrabilidad y potencia, adaptándose a jugadores de nivel intermedio y avanzado que buscan dominar cada punto. Equipada con tecnologías de última generación como Graphene 360+ junto con núcleo Power Foam para unas sensaciones inmejorables. También dispone de refuerzo Smart Bridg y se ha reforzado el marco con sistema Tailored Frame para una experiencia de juego superior. Para acabar presenta un diseño exclusivo y acabados premium, lo que la convierten en una opción destacada para los jugadores más exigentes. Características y tecnologías de la pala de pádel Head Graphene 360+ Alpha Power 2.0 Graphene 360+: Combina la estabilidad del Graphene 360 con fibras en espiral para una mayor flexibilidad y sensación al golpear la pelota. Power Foam: Espuma de alta densidad que proporciona una potencia explosiva en cada golpe, ideal para jugadores ofensivos. Smart Bridge: Diseño específico del puente de la pala que adapta la zona al estilo de juego del jugador, optimizando la jugabilidad. Optimized Sweet Spot: Patrón de perforación optimizado que amplía el punto dulce, mejorando el control y la precisión. Tailored Frame: Construcción personalizada del marco que maximiza el rendimiento y la tolerancia en golpes descentrados. Pertenece a la colección de palas edición limitada Head 2025. ¿Para quién es la Head Graphene 360+ Alpha Power 2.0 2025? Esta pala está dirigida a jugadores de pádel de nivel intermedio a avanzado que buscan una herramienta versátil para dominar en cualquier posición de la pista. Su equilibrio entre potencia y control la hace ideal para quienes desean mejorar su rendimiento y adaptarse a diferentes estilos de juego. También es perfecta para aquellos jugadores que, sin ser profesionales, desean experimentar con una pala de calidad superior que les permita evolucionar en su juego y enfrentarse a desafíos más exigentes en la pista. ¿Por qué te va a gustar la pala Head Graphene 360+ Alpha Power 2.0 228725? Te encantará por su combinación de tecnologías avanzadas que ofrecen una experiencia de juego inigualable. La combinación de fibra de vidrio con grafeno aseguran una sensación y precisión excepcionales en cada golpe, haciendo disfrutar al máximo al jugador. Además, su diseño exclusivo y acabados premium no solo aportan un aspecto elegante y moderno, sino que también reflejan la calidad y el compromiso de Head con la innovación y el rendimiento en el pádel. Head es una marca líder en el mundo del deporte, reconocida por su constante innovación y calidad superior. Fundada en 1950, Head ha revolucionado el mercado deportivo con productos diseñados para ofrecer el máximo rendimiento a atletas de todos los niveles. Desde palas de pádel hasta accesorios, cada artículo refleja la pasión de la marca por la excelencia y el diseño ergonómico. En el ámbito del pádel, Head se destaca por su compromiso con la tecnología y la funcionalidad. Sus productos son elegidos por jugadores profesionales y aficionados que buscan calidad y rendimiento sin compromisos. Al optar por Head, eliges un equipamiento confiable que potencia tu juego y te acompaña en cada desafío dentro de la pista.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 94.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/13342-head-graphene-360-alpha-power-20-2025.html"
       }
     ]
   },
@@ -16040,7 +17721,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel white orange glow 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 54.95,
+    "price": 60.01,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -16069,7 +17750,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.95,
+        "price": 60.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/13265-zapatillas-asics-gel-dedicate-8-padel-white-orange-glow-2025.html"
       }
@@ -16322,7 +18003,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
+    "id": 1098,
+    "slug": "zapatillas-asics-gel-resolution-x-clay-bright-rose-cream-2025-13243",
+    "name": "Sapatilhas Asics Gel Resolution X Clay bright rose cream 2025",
+    "brand": "Asics",
+    "category": "sapatilhas",
+    "price": 119.01,
+    "oldPrice": 160,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/26517-large_default/zapatillas-asics-gel-resolution-x-clay-bright-rose-cream-2025.jpg",
+    "ean": "4570158690898",
+    "productGTIN": "4570158690898",
+    "mpn": "13243",
+    "source": "zona-de-padel",
+    "sourceProductId": "13243",
+    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
+    "description": "Las nuevas Zapatillas Asics Gel Resolution X Clay bright rose cream 2025 están diseñadas para jugadores que entrenan y compiten con frecuencia y necesitan un calzado que combine durabilidad, estabilidad y sujeción. Fabricadas con materiales de alta resistencia, están pensadas para pista de pádel con arena, donde los desplazamientos laterales y la fricción constante requieren un calzado técnico, seguro y con máxima tracción. Si estás buscando zapatillas de pádel cómodas, técnicas y duraderas, las Asics Gel Resolution X Clay son una de las mejores opciones del mercado. Su diseño incluye amortiguación avanzada con compuestos sostenibles, un ajuste firme que envuelve el pie y una suela AHARPLUS™ resistente a la abrasión. Para acabar presenta un diseño de suela clay, con lo que notarás un agarre más seco en la pista así que son perfectas para superficies con arena o tierra batida. Características y tecnologías de zapatillas Asics Gel Resolution X Clay rojas Suela AHARPLUS™: ofrece máxima resistencia al desgaste en desplazamientos intensos. Mediasuela en dos piezas: mejora la estabilidad y la transición lateral durante el juego. FlyteFoam™ + FF BLAST+ ECO™: amortiguación ligera, reactiva y con materiales sostenibles. Sistema DYNALACING™: ajuste personalizado que se adapta perfectamente a cada pie. Estructura Dynawall: refuerza la estabilidad lateral y permite reacciones más rápidas. Pertenece a la colección de zapatillas Asics Pádel para la temporada 2025. ¿Para quién es la Asics Gel Resolution X Clay 2025? Estas zapatillas están pensadas para jugadores intensivos que entrenan o compiten varias veces por semana o, incluso, de manera profesional. Ideales para quienes necesitan estabilidad, tracción y durabilidad en pistas con mucha arena. Perfectas para jugadores de nivel intermedio o avanzado que buscan un modelo fiable, cómodo y con tecnologías que refuercen el rendimiento en desplazamientos laterales y puntos largos. ¿Por qué te va a gustar las zapatillas Gel Resolution X Clay 1042A277-700? Te encantarán por su capacidad de amortiguación, estabilidad y ahora también por su confort. Durante las últimas temporadas se han rediseñado para mejorar su ajuste y reducir su peso, así que podrás soportar partidos intensos con una gran comodidad y ligereza. Además, las zapatillas Asics Gel Resolution X Clay rojas combinan innovación y sostenibilidad en su diseño, con un ajuste preciso que mejora la respuesta y el control en pista. Asics es una marca japonesa con décadas de experiencia en calzado deportivo. Sus productos destacan por la calidad de sus materiales, la innovación tecnológica y la confianza que brinda a miles de deportistas en todo el mundo. Además, mantiene un firme compromiso con la sostenibilidad, incorporando materiales reciclados y procesos responsables en sus líneas de producción.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 119.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/asics/13243-zapatillas-asics-gel-resolution-x-clay-bright-rose-cream-2025.html"
+      }
+    ]
+  },
+  {
     "id": 1099,
+    "slug": "nox-ml10-pro-cup-rough-surface-edition-2025-13242",
+    "name": "Nox ML10 Pro Cup Rough Surface Edition 2025",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 134.96,
+    "oldPrice": 150,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/26481-large_default/nox-ml10-pro-cup-rough-surface-edition-2025.jpg",
+    "ean": "8435778900573",
+    "productGTIN": "8435778900573",
+    "mpn": "13242",
+    "source": "zona-de-padel",
+    "sourceProductId": "13242",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "Regresa la nueva versión de la Nox ML10 Pro Cup Rough Surface Edition 2025, la evolución del clásico de Miguel Lamperti, pensada para quienes juegan con cabeza y quieren sentir el control total en cada golpe. Esta pala brilla por su gran superficie de golpeo y su tacto preciso, permitiendo jugar con seguridad y soltura incluso en los momentos más exigentes del partido. Su estructura en carbono reforzado y planos en Glass Silver aseguran una resistencia sobresaliente y una salida de bola limpia. El acabado rugoso tipo lija añade ese toque técnico que tanto buscan los jugadores intermedios y avanzados: efectos marcados, cortes profundos y liftados que incomodan al rival. Y con el sistema Smartstrap®, podrás personalizar la empuñadura y mantener la higiene sin esfuerzo. Características y tecnologías de pala de pádel Nox ML10 Pro Cup Rough Surface Edition Diseño redondo con sweet spot generoso: Una configuración ideal para jugadores que quieren mantener el control incluso en golpes forzados o descentrados. Núcleo HR3: Goma de alta densidad que responde con firmeza y potencia controlada, perfecta para el juego de fondo. Planos Glass Silver: Ofrecen una sensación suave y adaptativa en el golpeo, sin perder respuesta ni durabilidad. Rough Surface: Acabado arenoso tipo lija que mejora el grip de la bola, ideal para generar efectos sin perder precisión. Smartstrap® de NOX: Mayor higiene, personalización y seguridad gracias al sistema de cordón intercambiable. Pertenece a la colección de palas Nox 2025. ¿Para quién es la Nox ML10 Pro Cup Rough Surface Edition 2025? La ML10 Rough Surface Edition está dirigida a jugadores con experiencia que buscan una pala con respuesta técnica y máxima precisión. Ideal para quienes dominan la parte derecha de la pista y disfrutan construyendo el punto. Si te caracterizas por un estilo cerebral, táctico y buscas que tu pala se comporte como una extensión de tu brazo, esta opción no te defraudará. El control, el tacto y la facilidad para imprimir efecto están garantizados en cada movimiento. ¿Por qué te va a gustar pala ML10 Pro Cup rugosa de Lamperti PML10ROUGH25? Porque combina a la perfección innovación y tradición. Recupera el alma de una pala mítica como la Pro Cup, pero la actualiza con una superficie rugosa que añade un extra de efecto a tu juego, consiguiendo golpes realmente increibles. Y porque en cada detalle se nota que está pensada para el jugador exigente: materiales duraderos, gran salida de bola y un sistema de cordón intercambiable que cuida de ti tanto como de tu pala. Nox no necesita presentación entre los amantes del pádel. Desde sus orígenes, ha sabido ganarse un lugar privilegiado entre los jugadores que buscan palas bien equilibradas, innovadoras y con un diseño impecable. Con nombres como Miguel Lamperti o Agustín Tapia en su equipo, la excelencia está garantizada. No esperes más y disfruta de las mejores sensaciones en pista con Nox Padel!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 134.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13242-nox-ml10-pro-cup-rough-surface-edition-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1100,
     "slug": "nox-ml10-pro-cup-2025-13240",
     "name": "Nox ML10 Pro Cup 2025",
     "brand": "Nox",
@@ -16363,7 +18126,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1101,
+    "id": 1102,
     "slug": "zapatillas-asics-game-ff-padel-black-vivid-coral-2025-13234",
     "name": "Sapatilhas Asics Game FF Padel black vivid coral 2025",
     "brand": "Asics",
@@ -16404,12 +18167,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1102,
+    "id": 1103,
     "slug": "zapatillas-asics-solution-swift-ff2-padel-dark-cobalt-menthol-2025-13230",
     "name": "Sapatilhas Asics Solution Swift FF2 Padel dark cobalt menthol 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 72.01,
+    "price": 99.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -16438,7 +18201,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 72.01,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/13230-zapatillas-asics-solution-swift-ff2-padel-dark-cobalt-menthol-2025.html"
       }
@@ -16487,52 +18250,11 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
   },
   {
     "id": 1106,
-    "slug": "zapatillas-asics-game-ff-clay-white-black-2025-13217",
-    "name": "Sapatilhas Asics Game FF Clay white black 2025",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 62.51,
-    "oldPrice": 90,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/26430-large_default/zapatillas-asics-game-ff-clay-white-black-2025.jpg",
-    "ean": "4570158186759",
-    "productGTIN": "4570158186759",
-    "mpn": "13217",
-    "source": "zona-de-padel",
-    "sourceProductId": "13217",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "La combinación de amortiguación y sujeción ligera hace que estas zapatillas Asics Game FF Clay white black 2025 sean perfectas para partidos de pádel exigentes. Este modelo destaca por su comodidad, transpirabilidad y flexibilidad, cualidades que mejoran el rendimiento en pista desde el primer set. Gracias a su diseño técnico, proporcionan estabilidad sin sacrificar libertad de movimiento. Su estructura incorpora materiales resistentes y tecnologías como GEL™ y FlyteFoam™, aportando una pisada cómoda y con buena respuesta. Además, el diseño en malla abierta y los refuerzos en PU hacen que estas zapatillas Game FF Clay blancas y negras sean una excelente opción para jugadores que buscan durabilidad y dinamismo con un ajuste seguro. Características y tecnologías de zapatillas Asics Game FF Clay blancas Malla abierta: mejora la ventilación y mantiene la frescura durante el juego. Revestimientos de PU y cuero sintético: proporcionan estabilidad en cada transición y aumentan la durabilidad. Amortiguación GEL™: absorbe impactos en la pisada para mayor confort. Mediasuela FlyteFoam™: aporta ligereza y reactividad en cada paso. Suela de espiga: mejora el agarre y permite deslizamientos controlados en superficies de pádel. Pertenece a la colección de zapatillas Asics Pádel para la temporada 2025. ¿Para quién es la Asics Game FF Clay 2025? Estas zapatillas están pensadas para jugadores que necesitan moverse con rapidez, sin perder estabilidad en la pista. Especialmente recomendadas para niveles intermedios o avanzados que valoran la transpirabilidad y un ajuste firme. Gracias a su estructura técnica y materiales de calidad, las Game FF Clay en blanco y negro se adaptan al ritmo de juego dinámico que requiere el pádel actual, ofreciendo confort desde el primer uso. ¿Por qué te va a gustar las zapatillas Game FF Clay 1041A490-101? Este modelo te conquistará si buscas un calzado ligero y reactivo, con excelente amortiguación y ventilación. La combinación de tecnologías lo convierte en un aliado clave para partidos exigentes. Además de su rendimiento, el diseño elegante de las zapatillas Asics Game FF Clay white black es ideal para quienes también cuidan su estilo en pista. Un modelo versátil, técnico y moderno. Asics es una referencia mundial en calzado deportivo por su innovación continua y calidad técnica. Sus productos están diseñados para maximizar el confort y el rendimiento en cada deporte. Con décadas de experiencia y tecnologías propias como GEL™ o AHAR, Asics se ha consolidado como una de las marcas favoritas entre los jugadores de pádel que buscan fiabilidad y evolución constante.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": "Branco",
-      "uso": "Pádel",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 62.51,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/13217-zapatillas-asics-game-ff-clay-white-black-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1107,
     "slug": "paletero-babolat-court-s-azul-2026-13216",
     "name": "Saco Babolat Court S azul 2026",
     "brand": "Babolat",
     "category": "sacos",
-    "price": 41.96,
+    "price": 39.01,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
@@ -16561,55 +18283,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 41.96,
+        "price": 39.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/13216-paletero-babolat-court-s-azul-2026.html"
       }
     ]
   },
   {
-    "id": 1108,
-    "slug": "paletero-babolat-court-s-negro-2026-13215",
-    "name": "Saco Babolat Court S negro 2026",
-    "brand": "Babolat",
-    "category": "sacos",
-    "price": 58.5,
-    "oldPrice": 65,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/30274-large_default/paletero-babolat-court-s-negro-2026.jpg",
-    "ean": "3324922162996",
-    "productGTIN": "3324922162996",
-    "mpn": "13215",
-    "source": "zona-de-padel",
-    "sourceProductId": "13215",
-    "sourceCategory": "Paleteros de padel > Paleteros y bolsas Babolat",
-    "description": "El Paletero Babolat Court S negro 2026 es la elección perfecta para quienes buscan funcionalidad y estilo en una sola bolsa. Diseñado para acompañarte tanto en tus partidos de pádel como en tus actividades diarias, este paletero ofrece una capacidad óptima y una organización eficiente para transportar todo tu equipamiento deportivo. Con una capacidad de 35 litros, este paletero permite llevar hasta dos palas de pádel en su compartimento específico con separador, además de contar con un bolsillo exterior con cremallera para tener tus accesorios siempre a mano. Fabricado con materiales resistentes y 100% reciclados, refleja el compromiso de Babolat con la sostenibilidad y la durabilidad. Características del paletero Paletero Babolat Court S negro Compartimento específico para dos palas: Incorpora un espacio dedicado con separador para transportar hasta dos palas de pádel de forma segura y organizada. Capacidad de 35 litros: Espaciosa y funcional, permite guardar fácilmente todo tu material deportivo necesario. Materiales resistentes y reciclados: Fabricado con tejidos exteriores de PET 100% reciclado y un nuevo revestimiento Color Free Lining. Bolsillo exterior con cremallera: Ideal para tener tus accesorios y objetos personales siempre a mano y bien organizados. Diseño ergonómico y elegante: Su color negro con el nombre de la marca en contraste en el lateral le otorgan un aspecto moderno y profesional. Pertenece a la colección de paleteros para pádel Babolat 2026. ¿A quién va dirigido? Este paletero está diseñado para jugadores de pádel que buscan funcionalidad y organización en su equipamiento. Ideal para quienes necesitan transportar hasta dos palas y todo el material necesario para destacar en la pista, manteniendo todo en su lugar y protegido. ¿Por qué te va a gustar? Te encantará por su comodidad de transporte gracias a sus tres tipos de asas, adaptándose a tus preferencias. Además, su diseño en color negro con el nombre de la marca en contraste le confiere un estilo sofisticado que no pasa desapercibido. Descubre más sobre la marca Babolat Babolat, fundada en 1875 en Lyon, Francia, es una marca pionera en el mundo de los deportes de raqueta. Inicialmente conocida por la fabricación de cuerdas de tripa natural, ha evolucionado hasta convertirse en un referente en la producción de equipamiento para tenis, bádminton, squash y pádel. A lo largo de sus 150 años de historia, Babolat ha mantenido un compromiso constante con la innovación y la calidad, colaborando con destacados deportistas como Rafael Nadal y Carlos Alcaraz. Su enfoque en la investigación y el desarrollo ha permitido ofrecer productos que combinan rendimiento, durabilidad y diseño, consolidando su posición como líder en el sector.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 58.5,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/babolat/13215-paletero-babolat-court-s-negro-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 1109,
+    "id": 1107,
     "slug": "zapatillas-asics-game-ff-clay-black-white-2025-13214",
     "name": "Sapatilhas Asics Game FF Clay black white 2025",
     "brand": "Asics",
@@ -16650,7 +18331,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1110,
+    "id": 1108,
     "slug": "zapatillas-asics-solution-swift-ff2-clay-white-dark-cobalt-2025-13209",
     "name": "Sapatilhas Asics Solution Swift FF2 Clay white dark cobalt 2025",
     "brand": "Asics",
@@ -16691,12 +18372,135 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1165,
+    "id": 1150,
+    "slug": "nox-future-control-12k-alum-2025-13121",
+    "name": "Nox Future Control 12K Alum 2025",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 135.01,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25945-large_default/nox-future-control-12k-alum-2025.jpg",
+    "ean": "8435778900702",
+    "productGTIN": "8435778900702",
+    "mpn": "13121",
+    "source": "zona-de-padel",
+    "sourceProductId": "13121",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "Disfruta jugando en el fondo de pista con la Pala Nox Future Control 12K Alum 2025, la mejor aliada para jugadores que apuestan por control y la colocación de sus tiros. Su construcción en carbono 12K Alum ofrece una combinación precisa de firmeza y adaptabilidad, mientras que su formato redondo con balance bajo garantiza una respuesta controlada en cada impacto, favoreciendo un manejo suave y estable del juego defensivo. La pala de pádel Future Control 12K Alum de Nox destaca por su espectacular punto dulce ampliado, ideal para corregir golpes descentrados y minimizar errores no forzados. Equipado con el núcleo EV50, proporciona una amortiguación progresiva que absorbe la potencia rival y facilita la preparación de cada contraataque. El acabado SPIN 3D da una ventaja táctica extra en golpes cortados y liftados, mientras que el SMARTSTRAP® y el innovador CUSTOM GRIP® aportan ajuste personalizado y comodidad superior partido tras partido. Características y tecnologías de pala de pádel Nox Future Control 12K Alum Carbono 12K Alum: Fibra entrelazada que ofrece resistencia y flexibilidad para absorber impactos y aumentar la durabilidad. Núcleo EV50: Goma de alta densidad que favorece la precisión en golpes defensivos y aporta estabilidad en las fases de recuperación. SPIN 3D Surface: Acabado texturizado que optimiza la generación de efectos. SmartStrap® System: Nueva generación de correas intercambiables que mejora la higiene y facilita el reemplazo. Custom Grip® Technology: Empuñadura adaptable que aumenta el control y amortigua las vibraciones. Pertenece a la colección de palas Nox NFA 2025. ¿Para quién es la Nox Future Control 12K Alum 2025? Diseñada para jugadores de perfil técnico que priorizan el control sobre la potencia. Ideal para aquellos que construyen puntos desde el fondo, defienden con paciencia y prefieren un golpeo más manejable y preciso. Perfecta para hombres que disfrutan de un juego estratégico, donde la consistencia, el toque y la calidad en la salida de bola son fundamentales para dominar el ritmo del partido y minimizar errores no forzados. ¿Por qué te va a gustar pala Future Control 12K Alum PFUTCON25? Su amplio punto dulce y su balance controlado te permitirán golpear con confianza incluso en situaciones defensivas extremas. Cada golpe transmitirá estabilidad, mejorando tu precisión y reduciendo los fallos en desplazamientos exigentes. Además, su combinación de tecnologías avanzadas como SPIN 3D y Custom Grip hará que tus efectos sean más efectivos y tu comodidad en pista sea insuperable. Una pala hecha para quien entiende que en el control está la verdadera fuerza. NOX, marca española pionera desde 2009, se ha convertido en un sinónimo de calidad, innovación y éxito competitivo en el pádel mundial. Con una fuerte apuesta por la investigación y la colaboración con deportistas de élite, NOX ofrece palas que no solo rinden, sino que inspiran un juego de máxima excelencia.",
+    "specs": {
+      "peso": "50g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 135.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13121-nox-future-control-12k-alum-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1151,
+    "slug": "nox-future-hybrid-12k-alum-2025-13119",
+    "name": "Nox Future Hybrid 12K Alum 2025",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 129.96,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25942-large_default/nox-future-hybrid-12k-alum-2025.jpg",
+    "ean": "8435778900696",
+    "productGTIN": "8435778900696",
+    "mpn": "13119",
+    "source": "zona-de-padel",
+    "sourceProductId": "13119",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "Juega cómodo tanto en ataque como en defensa con la nueva Pala Nox Future Hybrid 12K Alum 2025, diseñada para jugadores que buscan la combinación perfecta de control y potencia en pista. Su estructura de carbono 12K Alum la acompaña un molde en forma lágrima y balance medio, ofreciendo una experiencia de golpeo equilibrada, ideal para dominar cualquier situación de juego con precisión y energía. La pala de pádel Future Hybrid 12K Alum de Nox incorpora tecnologías de alta gama como el núcleo reactivo EV50 y el acabado rugoso SPIN 3D para generar efectos incisivos. Con el sistema de sujeción SMARTSTRAP y el innovador CUSTOM GRIP, maximiza tanto la comodidad como la seguridad. Un modelo polivalente pensado para brillar en todas las áreas de la pista. Características y tecnologías de pala de pádel Nox Future Hybrid 12K Alum CARBON 12K ALUM: Material que proporciona rigidez estructural y una respuesta homogénea ante cambios de temperatura. EV50: Núcleo de alta densidad que imprime velocidad a la bola y favorece una excelente salida de bola con tacto sólido. SPIN 3D: Superficie rugosa en 3D que mejora los efectos en golpes liftados y cortados. SMARTSTRAP®: Cordón de seguridad reemplazable que facilita su mantenimiento y mejora la higiene. CUSTOM GRIP®: Sistema patentado para optimizar el agarre y reducir vibraciones certificadas por Testea Padel. Pertenece a la colección de palas Nox 2025. ¿Para quién es la Nox Future Hybrid 12K Alum 2025? Esta pala está diseñada para jugadores polivalentes, de nivel medio-alto a profesional, que buscan equilibrar potencia y control en su juego. Perfecta para quienes dominan tanto el juego ofensivo en la red como los golpes de fondo estratégicos. Es la herramienta ideal para hombres que valoran una respuesta firme, precisión en cada golpe y un diseño que les permita adaptarse a cualquier situación del partido, desde ataques explosivos hasta defensas milimétricas. ¿Por qué te va a gustar pala Future Hybrid 12K Alum PFUTHYB25? Te encantará porque su construcción en carbono 12K Alum y su núcleo EV50 proporcionan un golpeo sólido, preciso y reactivo. La combinación de balance medio y forma lágrima logra un equilibrio perfecto entre ataque y control. Además, tecnologías como el SPIN 3D y el diseño del grip te darán ventaja en efectos y comodidad en el agarre, permitiéndote desplegar un juego dinámico y adaptarte a cualquier desafío que surja en la pista. NOX, nacida en 2009 en España, se ha posicionado como una marca de referencia mundial gracias a su innovación tecnológica y su compromiso con el alto rendimiento. Sus palas, diseñadas para ofrecer un equilibrio perfecto entre potencia, control y durabilidad, son la elección preferida de jugadores profesionales y amateurs exigentes.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 129.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13119-nox-future-hybrid-12k-alum-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1152,
+    "slug": "nox-future-attack-12k-alum-2025-13117",
+    "name": "Nox Future Attack 12K Alum 2025",
+    "brand": "Nox",
+    "category": "raquetes",
+    "price": 114.96,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25939-large_default/nox-future-attack-12k-alum-2025.jpg",
+    "ean": "8435778900689",
+    "productGTIN": "8435778900689",
+    "mpn": "13117",
+    "source": "zona-de-padel",
+    "sourceProductId": "13117",
+    "sourceCategory": "Palas de padel > Palas de padel Nox",
+    "description": "Ya disponible para los más pegadores la Pala Nox Future Attack 12K Alum 2025, pensada para los jugadores más exigentes que buscan llevar su juego ofensivo al máximo nivel. Esta pala combina una estructura de carbono 12K Alum ultraligera con forma de diamante y balance alto, permitiendo una potencia de golpeo espectacular sin renunciar al control. Gracias a su núcleo EV50 de alta densidad, ofrece una respuesta explosiva en cada impacto, ideal para dominar en la red y acelerar los remates con una velocidad impresionante. La pala de pádel Future Attack 12K Alum de Nox no solo destaca por su construcción, sino también por sus innovadoras tecnologías. El acabado SPIN 3D aporta una superficie rugosa que maximiza los efectos y la precisión en cada golpeo, mientras que el sistema SMARTSTRAP® permite personalizar y mejorar la higiene del cordón de seguridad. Además, el CUSTOM GRIP® certificado reduce vibraciones, aumentando el confort durante el juego. Una pala diseñada para ofrecer máximo rendimiento, estabilidad y dominio en todos los niveles del partido. Características y tecnologías de pala de pádel Nox Future Attack 12K Alum CARBON 12K ALUM: Carbono ultraligero que proporciona una rigidez y tacto uniforme incluso con cambios de temperatura. EV50: Núcleo de goma de alta densidad con gran reactividad, ideal para golpes veloces y potentes. SPIN 3D: Superficie rugosa con acabado en 3D que permite mayor efecto y precisión en cada golpeo. SMARTSTRAP®: Sistema de cordón reemplazable para mayor higiene, personalización y seguridad. CUSTOM GRIP®: Tecnología patentada para aumentar el agarre y reducir vibraciones, certificada por Testea Padel. Pertenece a la colección de palas Nox Future Academy 2025. ¿Para quién es la Nox Future Attack 12K Alum 2025? La pala está diseñada para jugadores con nivel avanzado o competitivo, que priorizan la potencia y un juego ofensivo. Su forma diamante y balance alto están pensados para quienes buscan dominar desde la red. Es la pala ideal para hombres con técnica pulida que necesitan una herramienta técnica para explotar toda su fuerza y precisión. Utilizada por jóvenes promesas de la Nox Future Academy, garantiza rendimiento profesional. ¿Por qué te va a gustar pala Future Attack 12K Alum PFUTATT25? Te encantará porque combina una pegada explosiva con una sensación de control superior. Cada golpe transmite una respuesta firme y directa, permitiéndote imponer tu estilo agresivo desde cualquier parte de la pista. La integración de tecnologías como SPIN 3D y EV50 proporciona una experiencia completa en términos de potencia, precisión y efectos. Ideal para los que no solo compiten, sino que quieren dominar cada punto. NOX es una de las marcas más prestigiosas del pádel a nivel mundial. Fundada en 2009 en España, ha revolucionado el mercado con palas de alto rendimiento utilizadas por profesionales como Agustín Tapia y Miguel Lamperti. Su compromiso con la innovación, la calidad y la excelencia la posiciona como una elección segura para jugadores que buscan lo mejor.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 114.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/nox/13117-nox-future-attack-12k-alum-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1164,
     "slug": "zapatillas-asics-gel-resolution-x-clay-night-energy-2025-13100",
     "name": "Sapatilhas Asics Gel Resolution X Clay night energy 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 112.51,
+    "price": 129.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -16725,14 +18529,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 112.51,
+        "price": 129.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/13100-zapatillas-asics-gel-resolution-x-clay-night-energy-2025.html"
       }
     ]
   },
   {
-    "id": 1219,
+    "id": 1218,
     "slug": "zapatillas-bullpadel-flow-25i-dark-blue-2025-13007",
     "name": "Sapatilhas Bullpadel Flow 25I dark blue 2025",
     "brand": "Bullpadel",
@@ -16769,6 +18573,47 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
         "price": 69.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/13007-zapatillas-bullpadel-flow-25i-dark-blue-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1219,
+    "slug": "zapatillas-bullpadel-indiga-25i-navy-blue-2025-13004",
+    "name": "Sapatilhas Bullpadel Indiga 25I navy blue 2025",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 54.96,
+    "oldPrice": 75,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25830-large_default/zapatillas-bullpadel-indiga-25i-navy-blue-2025.jpg",
+    "ean": "8445402878451",
+    "productGTIN": "8445402878451",
+    "mpn": "13004",
+    "source": "zona-de-padel",
+    "sourceProductId": "13004",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Bullpadel",
+    "description": "Las zapatillas Bullpadel Indiga 25I navy blue 2025 están diseñadas para jugadores de nivel medio o iniciación que buscan un calzado cómodo, flexible y con excelente tracción. Este modelo destaca por su suela de espiga de alta densidad, que proporciona un agarre superior en todo tipo de pistas. Además, su estructura ligera y transpirable garantiza una experiencia de juego más cómoda desde el primer punto. Gracias a su diseño funcional y materiales pensados para favorecer el rendimiento, las Bullpadel Indiga 25I azul marino se convierten en una aliada perfecta para quienes están empezando en el pádel o entrenan con frecuencia. Su construcción sin costuras mejora la movilidad del pie, mientras que el tejido mesh asegura frescura durante los partidos más exigentes. Características y tecnologías de zapatillas Bullpadel Indiga 25I azul marino 2025 Herringbone Sole: suela de espiga con caucho de alta densidad y 3 mm de profundidad para un agarre eficaz. Thermo Sealed: sistema sin costuras que mejora la flexibilidad y reduce el peso total de la zapatilla. Tejido mesh: favorece la ventilación para mantener el pie seco y fresco en todo momento. Mid Stab: estabilizador central de TPU que refuerza el arco y mejora la estabilidad general. Diseño ligero: ideal para facilitar los movimientos rápidos y ágiles en la pista. Pertenece a la colección de zapatillas Bullpadel para la temporada 2025. ¿Para quién es la Bullpadel Indiga 25I en azul oscuro 2025? Estas zapatillas están pensadas para jugadores que se están iniciando en el pádel o que practican de manera ocasional, pero buscan comodidad, ligereza y un buen agarre en pista. Las Bullpadel Indiga 25I navy blue son ideales para quienes necesitan unas zapatillas versátiles, con diseño deportivo y buen ajuste, a un precio competitivo y con materiales que favorecen la movilidad. ¿Por qué te va a gustar zapatillas Indiga 25I 491717? Te encantarán porque ofrecen la tracción y flexibilidad que necesitas si estás dando tus primeros pasos en el pádel o quieres seguir mejorando sin complicaciones. Su construcción ligera, junto al confort que aporta el tejido mesh y el ajuste sin costuras, hacen de estas zapatillas una opción fiable para quienes priorizan la comodidad. Bullpadel lleva años marcando tendencia en el pádel profesional y amateur. Sus productos combinan diseño, tecnología y un profundo conocimiento del juego, lo que la convierte en una marca de referencia para jugadores de todos los niveles.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": "Azul",
+      "uso": "Competição",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 54.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/13004-zapatillas-bullpadel-indiga-25i-navy-blue-2025.html"
       }
     ]
   },
@@ -16860,7 +18705,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25I maroon white 2025",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 94.96,
+    "price": 85.68,
     "oldPrice": 165,
     "rating": null,
     "badge": null,
@@ -16889,7 +18734,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 94.96,
+        "price": 85.68,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/12997-zapatillas-bullpadel-x-plo-vibram-25i-maroon-white-2025.html"
       }
@@ -16983,7 +18828,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Ionic 25I royal white 2025",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 75.01,
+    "price": 72.65,
     "oldPrice": 125,
     "rating": null,
     "badge": null,
@@ -17012,7 +18857,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 75.01,
+        "price": 72.65,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/12992-zapatillas-bullpadel-ionic-25i-royal-white-2025.html"
       }
@@ -17024,7 +18869,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Ionic 25I dark blue 2025",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 68.75,
+    "price": 64.96,
     "oldPrice": 125,
     "rating": null,
     "badge": null,
@@ -17053,7 +18898,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 68.75,
+        "price": 64.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/12991-zapatillas-bullpadel-ionic-25i-dark-blue-2025.html"
       }
@@ -17065,7 +18910,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Neuron Vibram 25I navy blue 2025",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 90.01,
+    "price": 89.95,
     "oldPrice": 150,
     "rating": null,
     "badge": null,
@@ -17094,7 +18939,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 90.01,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/12989-zapatillas-bullpadel-neuron-vibram-25i-navy-blue-2025.html"
       }
@@ -17106,7 +18951,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Bullpadel Vertex Vibram 25I maroon 2025",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 99.95,
+    "price": 94.96,
     "oldPrice": 165,
     "rating": null,
     "badge": null,
@@ -17135,14 +18980,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 99.95,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/12981-zapatillas-bullpadel-vertex-vibram-25i-maroon-2025.html"
       }
     ]
   },
   {
-    "id": 1237,
+    "id": 1230,
+    "slug": "zapatillas-bullpadel-vertex-vibram-25i-dark-blue-2025-12979",
+    "name": "Sapatilhas Bullpadel Vertex Vibram 25I dark blue 2025",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 99.95,
+    "oldPrice": 165,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25814-large_default/zapatillas-bullpadel-vertex-vibram-25i-dark-blue-2025.jpg",
+    "ean": "8445402875733",
+    "productGTIN": "8445402875733",
+    "mpn": "12979",
+    "source": "zona-de-padel",
+    "sourceProductId": "12979",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Bullpadel",
+    "description": "Prepárate para rendir como un profesional con las zapatillas Bullpadel Vertex Vibram 25I dark blue 2025, el modelo elegido por Juan Tello para la nueva temporada. Su diseño técnico de alto nivel asegura la mejor combinación entre rendimiento y protección, gracias a una estructura reforzada y materiales avanzados que garantizan comodidad incluso en los intercambios más intensos. Estas zapatillas de pádel Vertex Vibram dark blue están pensadas para jugadores exigentes que necesitan un calzado que acompañe su juego rápido y agresivo. Incorporan tecnologías como la suela VIBRAM y el sistema CATAPULT para un impulso explosivo, así como una puntera reforzada sin costuras para mayor durabilidad. Una apuesta segura para quienes entrenan y compiten al máximo nivel. Características y tecnologías de zapatillas Bullpadel Vertex Vibram 25I azul marino Suela VIBRAM híbrida: máxima durabilidad y excelente agarre para combinar desplazamientos fluidos con gran estabilidad en cada paso. Sistema CATAPULT: pieza interior que actúa como estabilizador y a la vez potencia el impulso en cada movimiento. Puntera reforzada sin costuras: protección completa en la zona frontal y lateral, ideal para jugadores de uso intensivo. Construcción acolchada: mayor confort y soporte gracias al refuerzo extra en la zona del talón. Plantilla ORTHOLITE: comodidad superior y gestión del sudor para mantener el pie fresco durante todo el partido. Pertenece a la colección de zapatillas Bullpadel para la temporada 2025. ¿Para quién es la Bullpadel Vertex Vibram 25I 2025? Estas zapatillas están orientadas a jugadores de pádel que buscan un calzado técnico, de alto rendimiento, con excelente amortiguación, estabilidad y resistencia. Pensadas para un perfil competitivo o semiprofesional que entrena con frecuencia y requiere materiales duraderos y fiables. Gracias a su diseño específico y tecnologías de alto nivel, son ideales para deportistas que valoran la protección, el agarre y la reactividad, sin renunciar a la comodidad. La elección perfecta para quienes exigen el máximo a su calzado en cada partido. ¿Por qué te va a gustar zapatillas Vertex Vibram 25I 491754? Porque es un modelo validado por Juan Tello, diseñado para jugadores intensivos que buscan un rendimiento técnico sobresaliente en cada punto disputado. Incorpora lo mejor de la innovación de Bullpadel en materia de estabilidad y respuesta. Además de su suela VIBRAM y sistema CATAPULT, su diseño moderno en azul con acabados premium te permitirá destacar dentro y fuera de la pista. Una zapatilla creada para jugadores de élite que no se conforman con menos. Bullpadel es una de las marcas líderes del mundo del pádel, reconocida por su innovación constante y por contar con algunos de los mejores jugadores del circuito profesional. Su gama de productos está diseñada específicamente para ofrecer el máximo rendimiento dentro de la pista.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Pádel",
+      "genero": null,
+      "cor": "Azul",
+      "uso": "Competição",
+      "amortecimento": "Alto"
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 99.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/12979-zapatillas-bullpadel-vertex-vibram-25i-dark-blue-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1238,
     "slug": "zapatillas-joma-spin-men-2602-white-2026-12923",
     "name": "Sapatilhas Joma Spin Men 2602 white 2026",
     "brand": "Joma",
@@ -17183,7 +19069,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1238,
+    "id": 1239,
     "slug": "zapatillas-joma-spin-men-2632-white-blue-2026-12919",
     "name": "Sapatilhas Joma Spin Men 2632 white blue 2026",
     "brand": "Joma",
@@ -17224,7 +19110,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1239,
+    "id": 1240,
     "slug": "zapatillas-joma-open-men-2609-yellow-2026-12912",
     "name": "Sapatilhas Joma Open Men 2609 yellow 2026",
     "brand": "Joma",
@@ -17265,7 +19151,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1240,
+    "id": 1241,
     "slug": "zapatillas-joma-slam-classic-2609-yellow-2026-12910",
     "name": "Sapatilhas Joma Slam Classic 2609 yellow 2026",
     "brand": "Joma",
@@ -17302,47 +19188,6 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
         "price": 80.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/12910-zapatillas-joma-slam-classic-2609-yellow-2026.html"
-      }
-    ]
-  },
-  {
-    "id": 1241,
-    "slug": "zapatillas-joma-slam-classic-2602-white-2026-12908",
-    "name": "Sapatilhas Joma Slam Classic 2602 white 2026",
-    "brand": "Joma",
-    "category": "sapatilhas",
-    "price": 77.96,
-    "oldPrice": 100,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/31834-large_default/zapatillas-joma-slam-classic-2602-white-2026.jpg",
-    "ean": "8447534142868",
-    "productGTIN": "8447534142868",
-    "mpn": "12908",
-    "source": "zona-de-padel",
-    "sourceProductId": "12908",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Joma",
-    "description": "Ligereza, estabilidad y amortiguación se combinan en las Joma Slam Classic 2602 white 2026, un modelo diseñado para jugadores que buscan seguridad en cada paso. Gracias a su suela New Padel, proporciona un excelente agarre incluso en desplazamientos agresivos. Estas zapatillas de pádel Joma Slam Classic 2602 blancas integran tecnologías como REACTIVE BALL para amortiguar impactos, VTS para mantener el pie seco y STABILIS que estabiliza cada pisada. Además, el sistema SPORTECH garantiza un ajuste cómodo sin rozaduras, convirtiéndolas en una opción fiable para competir o entrenar al máximo nivel. Características y tecnologías de zapatillas de pádel Joma Slam Classic 2602 blancas 2026 VTS: sistema de ventilación que mejora la transpirabilidad y mantiene los pies frescos. SPORTECH: ajuste termosellado sin costuras que proporciona mayor confort y sujeción. PROTECTION: refuerzo de goma en las zonas de mayor desgaste para una mayor resistencia. REACTIVE BALL: tecnología de absorción de impactos que mejora el retorno de energía. STABILIS: pieza estabilizadora en el mediopié que evita torsiones y mejora la seguridad en cada movimiento. Pertenece a la colección de zapatillas Joma Pádel para la temporada 2026. ¿Para quién es la Joma Slam Classic 2602 26? La Slam Men blanca está dirigida a jugadores de pádel de nivel medio o avanzado que entrenan o compiten con regularidad. Es perfecta para quienes valoran amortiguación, agarre y ajuste seguro. Su diseño técnico la convierte en una excelente aliada para partidos de alta exigencia, ya que protege el pie, mejora la estabilidad y garantiza una pisada reactiva sin perder comodidad. ¿Por qué te va a gustar zapatillas Joma Slam Classic 2602 TCSLAS2602C? Porque ofrece una pisada suave y firme a la vez. Su estructura combina tecnologías clave para ofrecer confort, respuesta y agarre en todo momento, incluso en los partidos más intensos. La Joma Slam Classic 2602 white 2026 reúne lo mejor en diseño, funcionalidad y materiales. Ideal para quienes buscan un calzado técnico que acompañe su ritmo de juego con seguridad y durabilidad. Desde su fundación en 1965, Joma ha sido sinónimo de innovación en el calzado deportivo. Hoy es una marca reconocida internacionalmente, respaldada por deportistas profesionales y conocida por su excelente relación calidad-precio.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": "Branco",
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 77.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/12908-zapatillas-joma-slam-classic-2602-white-2026.html"
       }
     ]
   },
@@ -17393,7 +19238,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Joma Slam Men 2601 black 2026",
     "brand": "Joma",
     "category": "sapatilhas",
-    "price": 84.96,
+    "price": 79.96,
     "oldPrice": 106,
     "rating": null,
     "badge": null,
@@ -17422,7 +19267,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.96,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/12905-zapatillas-joma-slam-men-2601-black-2026.html"
       }
@@ -17434,7 +19279,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "name": "Sapatilhas Joma Spin Lady 2612 light grey 2026",
     "brand": "Joma",
     "category": "sapatilhas",
-    "price": 69.91,
+    "price": 62.51,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -17463,7 +19308,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 69.91,
+        "price": 62.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/joma/12862-zapatillas-joma-spin-lady-2612-light-grey-2026.html"
       }
@@ -17552,7 +19397,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1261,
+    "id": 1258,
+    "slug": "bullpadel-icon-cloud-2025-12794",
+    "name": "Bullpadel Icon Cloud 2025",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 141.29,
+    "oldPrice": 250,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25317-large_default/bullpadel-icon-cloud-2025.jpg",
+    "ean": "8445402691968",
+    "productGTIN": "8445402691968",
+    "mpn": "12794",
+    "source": "zona-de-padel",
+    "sourceProductId": "12794",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "Descubre que puede hacer por ti la Bullpadel Icon Cloud 2025, pensada para jugadores ofensivos que priorizan la potencia sobre el control. Su forma de diamante y su balance alto proporcionan una salida de bola potente, perfecta para dominar desde la red. Ligera, confortable y con un diseño espectacular, es una opción ideal para quienes buscan rendimiento sin renunciar a la comodidad. Inspirada en la leyenda Juan Martín Díaz, esta pala incorpora tecnologías punteras que reducen las vibraciones, mejoran el agarre y permiten jugar durante más tiempo sin fatiga. La pala Bullpadel Icon Cloud ha sido creada para revolucionar tu juego y maximizar tu rendimiento en cada punto. Características y tecnologías de la pala de pádel Bullpadel Icon Cloud 2025 Forma diamante y balance alto: Potencia maximizada para jugadores de ataque. ElasticFiber: Tejido flexible que mejora la salida de bola sin sacrificar control. CloudEva: Goma interior de tacto suave que mejora la absorción de impactos. Hesacore Gel: Empuñadura ergonómica que reduce la fatiga y mejora el agarre. CustomWeight: Sistema ajustable para modificar el peso según el estilo de juego. Vibradrive y Ease Vibe: Tecnología de amortiguación para reducir vibraciones y prevenir lesiones. Pertenece a la colección de palas Bullpadel 2025. ¿Para quién es la Bullpadel Icon Cloud 2025? La Icon Cloud ha sido diseñada para jugadores de nivel intensivo que buscan una pala de ataque. Su estructura ligera y tecnológica favorece la potencia, siendo ideal para quienes juegan en la posición de revés y desean definir el punto con precisión. Si eres un jugador agresivo que necesita una pala potente, adaptable y que además cuide tu brazo durante los partidos más intensos, esta pala será tu aliada perfecta en la pista. ¿Por qué te va a gustar la pala Bullpadel Icon Cloud 448125? Te encantará porque combina lo mejor de la tecnología Bullpadel con un diseño cómodo y explosivo. La combinación entre CloudEva y ElasticFiber ofrece una gran experiencia de golpeo, con una salida de bola rápida y suave. Además, su sistema CustomWeight y el uso del Hesacore Gel aportan una personalización y confort únicos, permitiéndote ajustar la pala a tu gusto y reducir las molestias derivadas del juego agresivo. ¡Un lujo para los más exigentes! Bullpadel es una de las marcas más emblemáticas del mundo del pádel. Desde 1995, ha apostado por la innovación, el desarrollo tecnológico y la colaboración con jugadores profesionales como Paquito Navarro o Alejandra Salazar. Sus palas destacan por integrar tecnologías propias como Vibradrive, MultiEva o CustomWeight, que optimizan el rendimiento según el estilo de juego. Con presencia en el World Padel Tour y productos para todos los niveles, Bullpadel sigue liderando el mercado año tras año.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 141.29,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/12794-bullpadel-icon-cloud-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1259,
     "slug": "siux-trilogy-go-5-2025-12784",
     "name": "Siux Trilogy Go 5 2025",
     "brand": "Siux",
@@ -17593,7 +19479,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1264,
+    "id": 1260,
+    "slug": "siux-trilogy-pro-5-2025-12779",
+    "name": "Siux Trilogy Pro 5 2025",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 129.96,
+    "oldPrice": 325,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25272-large_default/siux-trilogy-pro-5-2025.jpg",
+    "ean": "8435762902781",
+    "productGTIN": "8435762902781",
+    "mpn": "12779",
+    "source": "zona-de-padel",
+    "sourceProductId": "12779",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "La Siux Trilogy Pro 5 2025 es la compañera perfecta para jugadores avanzados que desean dominar la pista con cada golpe. Su forma redonda y balance bajo proporcionan un control absoluto sobre la bola, mientras que su construcción en 100% carbono asegura resistencia y ligereza. Diseñada para el juego estratégico y técnico, esta pala destaca por su núcleo de goma EVA de rápida recuperación y el sistema Dual Pro Grip que reduce vibraciones y aumenta la comodidad en el juego. El acabado en brillo con relieve 3D aporta efecto extra y un toque premium a cada golpe. Características y tecnologías de la Pala de Pádel Siux Trilogy Pro 5 Forma redonda: Aporta precisión milimétrica en cada golpe, ideal para estilos de juego técnicos. Construcción 100% carbono: Garantiza una estructura ligera y resistente con una excelente respuesta en pista. Núcleo EVA de rápida recuperación: Mejora las sensaciones de control y potencia durante el impacto. Dual Pro Grip: Reduce las vibraciones y mejora el confort en partidos largos e intensos. Acabado brillo con relieve 3D: Añade efecto a los golpes y realza el diseño visual de la pala. Pertenece a la colección de palas Siux 2025. ¿Para quién es la Siux Trilogy Pro 5 2025? La Siux Trilogy Pro 5 está dirigida a jugadores de nivel avanzado que buscan una pala técnica, diseñada para un control absoluto. Es ideal para quienes tienen experiencia en pista y desean perfeccionar su precisión sin renunciar a la potencia. Perfecta para aquellos que dominan el ritmo del juego y apuestan por una pala que les permita mantener el control incluso en las situaciones más exigentes. Esta pala te ayudará a ejecutar golpes ajustados con confianza y seguridad. ¿Por qué te va a gustar Pala Trilogy Pro 5 112655? Te encantará la Siux Trilogy Pro 5 por su construcción técnica y su capacidad para ofrecer control absoluto en cada punto. El tacto de su goma EVA y el balance bajo te proporcionan estabilidad y precisión en cada acción. Además, su diseño elegante con acabado 3D no solo es visualmente atractivo, sino que mejora notablemente los efectos. Una pala creada para jugadores exigentes que quieren destacar por su estrategia y calidad de golpeo. Siux es una marca española referente en el mundo del pádel, reconocida por el desarrollo de palas de alta gama para jugadores profesionales y amateurs. Su catálogo destaca por el uso de materiales de última generación y tecnologías propias. Desde su creación, Siux ha apostado por la innovación continua, colaborando con jugadores profesionales para perfeccionar cada modelo. Elegir Siux es apostar por calidad, rendimiento y diseño de primer nivel. ¡Eleva tu juego con una pala pensada para ganar!",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 129.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/12779-siux-trilogy-pro-5-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1262,
     "slug": "bote-pelotas-tecnifibre-padel-tour-12757",
     "name": "Bote pelotas Tecnifibre Padel Tour",
     "brand": "Tecnifibre",
@@ -17634,7 +19561,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1289,
+    "id": 1287,
     "slug": "bolsa-joma-open-azul-lima-2025-12651",
     "name": "Bolsa Joma Open azul lima 2025",
     "brand": "Joma",
@@ -17675,12 +19602,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1352,
+    "id": 1290,
+    "slug": "siux-fenix-pro-black-2025-12645",
+    "name": "Siux Fenix Pro Black 2025",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 149.95,
+    "oldPrice": 325,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/25268-large_default/siux-fenix-pro-black-2025.jpg",
+    "ean": "8435762906406",
+    "productGTIN": "8435762906406",
+    "mpn": "12645",
+    "source": "zona-de-padel",
+    "sourceProductId": "12645",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "La Siux Fenix Pro Black 2025 es una pala de pádel diseñada para jugadores ofensivos que buscan la máxima potencia en cada golpe. Se convierte en la nueva pala de Leo Augsburger. Gracias a su forma de diamante y balance alto permiten una pegada explosiva cerca de la red, haciendo de esta pala la aliada perfecta para quienes desean un juego agresivo y dominante en la pista. Fabricada con carbono 24K en su superficie, esta pala ofrece una resistencia excepcional y una respuesta firme en cada impacto. Además, incorpora un núcleo de goma EVA de alta densidad, proporcionando mayor rigidez y aumentando la potencia en los remates. Con un marco de carbono 100% y tecnología Carbon Xtreme, logra una combinación ideal de estabilidad, durabilidad y efecto, permitiendo golpes precisos y cargados de potencia. En estas últimas unidades, NO se incluye shockout. Características y tecnologías de la Pala de pádel Siux Fenix Pro Black de Leo Augsburger Forma de diamante y balance alto: Potencia máxima en cada golpe, ideal para jugadores pegadores. Dual Grip no disponible en las últimas unidades. Carbono 24K en la superficie: Mayor rigidez y resistencia, ofreciendo una respuesta firme en los golpes. Goma EVA de alta densidad: Aporta una sensación más sólida en los impactos y mejora la salida de bola. Marco de carbono 100%: Aumenta la durabilidad y estabilidad en cada jugada. Tecnología Carbon Xtreme: Mejora la capacidad de efecto y control, optimizando el rendimiento en la pista. Pertenece a la colección de palas Siux 2025. ¿Para quién es la Siux Fenix Pro Black 2025? La Siux Fenix Pro Black 2025 está diseñada para jugadores avanzados o profesionales que buscan una pala con potencia extrema y un alto rendimiento cerca de la red. Es ideal para aquellos que basan su juego en remates agresivos y golpes decisivos. Si eres un jugador con una estrategia ofensiva y necesitas una pala que potencie tu pegada sin perder estabilidad ni control, la Fenix Pro Black es la elección perfecta para dominar cada punto en la pista. ¿Por qué te va a gustar Pala Siux Fenix Pro Black FENBLACK? La Siux Fenix Pro Black destaca por su increíble combinación de potencia, resistencia y control. Su estructura en carbono 24K y su núcleo de goma EVA de alta densidad ofrecen una pegada potente sin perder estabilidad en los golpes. El diseño en negro con detalles sofisticados le otorga un aspecto profesional y elegante. Si buscas una pala que te ayude a definir los puntos con precisión y fuerza, este modelo es el indicado para ti. Siux es una de las marcas más prestigiosas en el mundo del pádel, conocida por fabricar palas de alto rendimiento con materiales y tecnologías de última generación. Desde su fundación, ha trabajado junto a jugadores profesionales para desarrollar productos que optimicen el juego de los deportistas más exigentes. Gracias a su constante innovación y a la incorporación de tecnologías avanzadas, Siux se ha convertido en una marca líder en el circuito profesional. Con la Siux Fenix Pro Black 2025, reafirma su compromiso con la calidad y el rendimiento, ofreciendo una pala que lleva el juego ofensivo a otro nivel.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 149.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/12645-siux-fenix-pro-black-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1349,
     "slug": "zapatillas-asics-game-ff-clay-indigo-fog-white-2025-12532",
     "name": "Sapatilhas Asics Game FF Clay indigo fog white 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 54.96,
+    "price": 59.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -17709,19 +19677,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.96,
+        "price": 59.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/12532-zapatillas-asics-game-ff-clay-indigo-fog-white-2025.html"
       }
     ]
   },
   {
-    "id": 1386,
+    "id": 1383,
     "slug": "zapatillas-wilson-intrigue-lite-navy-blaze-2025-12466",
     "name": "Sapatilhas Wilson Intrigue Lite navy blaze 2025",
     "brand": "Wilson Padel",
     "category": "sapatilhas",
-    "price": 79.96,
+    "price": 78.01,
     "oldPrice": 130,
     "rating": null,
     "badge": null,
@@ -17750,14 +19718,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.96,
+        "price": 78.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/12466-zapatillas-wilson-intrigue-lite-navy-blaze-2025.html"
       }
     ]
   },
   {
-    "id": 1399,
+    "id": 1396,
     "slug": "mochila-nox-pro-series-blanca-2025-12443",
     "name": "Mochila Nox Pro Series blanca 2025",
     "brand": "Nox",
@@ -17798,12 +19766,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1400,
+    "id": 1397,
     "slug": "paletero-nox-pro-series-blanco-2025-12442",
     "name": "Saco Nox Pro Series blanco 2025",
     "brand": "Nox",
     "category": "sacos",
-    "price": 49.91,
+    "price": 59.96,
     "oldPrice": 72,
     "rating": null,
     "badge": null,
@@ -17832,14 +19800,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 49.91,
+        "price": 59.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/12442-paletero-nox-pro-series-blanco-2025.html"
       }
     ]
   },
   {
-    "id": 1412,
+    "id": 1408,
     "slug": "zapatillas-bullpadel-x-plo-vibram-25v-navy-2025-12371",
     "name": "Sapatilhas Bullpadel X-Plo Vibram 25V navy 2025",
     "brand": "Bullpadel",
@@ -17880,7 +19848,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1422,
+    "id": 1417,
     "slug": "wilson-defy-ls-v1-2025-12346",
     "name": "Wilson Defy LS V1 2025",
     "brand": "Wilson Padel",
@@ -17921,12 +19889,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1431,
+    "id": 1426,
     "slug": "zapatillas-puma-nova-court-red-dark-crimson-2025-12320",
     "name": "Sapatilhas Puma Nova Court red dark crimson 2025",
     "brand": "Puma",
     "category": "sapatilhas",
-    "price": 59.96,
+    "price": 44.95,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -17955,19 +19923,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.96,
+        "price": 44.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/puma/12320-zapatillas-puma-nova-court-red-dark-crimson-2025.html"
       }
     ]
   },
   {
-    "id": 1434,
+    "id": 1429,
     "slug": "paletero-head-coello-pro-x-duffle-bag-2025-12313",
     "name": "Saco Head Coello Pro X Duffle Bag 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 99.96,
+    "price": 95.41,
     "oldPrice": 159,
     "rating": null,
     "badge": null,
@@ -17996,14 +19964,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 99.96,
+        "price": 95.41,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/12313-paletero-head-coello-pro-x-duffle-bag-2025.html"
       }
     ]
   },
   {
-    "id": 1508,
+    "id": 1430,
+    "slug": "head-coello-junior-2025-12312",
+    "name": "Head Coello Junior 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 59.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/23505-large_default/head-coello-junior-2025.jpg",
+    "ean": "198772015770",
+    "productGTIN": "198772015770",
+    "mpn": "12312",
+    "source": "zona-de-padel",
+    "sourceProductId": "12312",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala de pádel Head Coello Junior 2025 es la opción ideal para jóvenes jugadores que buscan mejorar su técnica con una pala ligera, versátil y fácil de manejar. Inspirada y desarrollada en colaboración con Arturo Coello, esta pala cuenta con un diseño premium con detalles exclusivos, como su firma y el logotipo de su corona. Su forma de lágrima y gran tamaño proporcionan un punto dulce más amplio, facilitando golpes precisos y con mayor control. Construida con una superficie de golpeo de fibra de vidrio, la Head Coello Junior 2025 ofrece una sensación más suave en el impacto, ideal para desarrollar la técnica sin sobrecargar el brazo. Gracias a su núcleo Power Foam, proporciona una salida de bola óptima con una potencia accesible. Además, incorpora tecnologías como Innegra™, que refuerza la pala, y el Integrated Protector System, que protege contra impactos y prolonga su durabilidad. Características y tecnologías de pala de pádel Head Coello Junior Diseño desarrollado con Arturo Coello: Pala inspirada en el número uno del mundo, con detalles personalizados. Forma de lágrima y tamaño oversize: Punto dulce ampliado para mayor tolerancia en los golpes. Superficie de golpeo de fibra de vidrio: Sensación de golpeo más suave y mayor facilidad en la ejecución de los golpes. Núcleo Power Foam: Potencia accesible con un excelente control para jugadores en desarrollo. Innegra™ Technology: Material ultraligero y resistente que mejora la estabilidad y absorción de impactos. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head Coello Junior 2025? Esta pala está pensada para jóvenes jugadores que están dando sus primeros pasos en el pádel o buscan mejorar su técnica con una pala equilibrada y ligera. Su fácil manejabilidad permite desarrollar golpes precisos sin esfuerzo. Gracias a su estructura liviana y balance bajo, es ideal para jugadores que necesitan una pala con mayor maniobrabilidad sin sacrificar potencia y control. Perfecta para competiciones juveniles y entrenamientos. ¿Por qué te va a gustar pala Head Coello Junior 226725? Te encantará porque combina tecnología avanzada con un diseño exclusivo. Su estructura ligera y punto dulce amplio facilitan la precisión y el control en cada golpe, ayudando a los jóvenes jugadores a perfeccionar su juego. Además, su acabado premium y detalles inspirados en Arturo Coello hacen que sea una pala única en el mercado. Con materiales de alta calidad, garantiza resistencia y durabilidad para largas sesiones de juego. Descubre más sobre la marca Head Head es una marca líder en el mundo del pádel, reconocida por su constante innovación y calidad en el equipamiento deportivo. Gracias a su compromiso con la excelencia, desarrolla palas que ofrecen rendimiento, durabilidad y confort en la pista. Con un enfoque en la tecnología y el diseño, Head ha sido la elección de numerosos jugadores profesionales, incluyendo a Arturo Coello. Sus productos garantizan la mejor experiencia de juego para jugadores de todos los niveles.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 59.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/12312-head-coello-junior-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1502,
     "slug": "wilson-defy-v1-2025-12117",
     "name": "Wilson Defy V1 2025",
     "brand": "Wilson Padel",
@@ -18044,7 +20053,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1511,
+    "id": 1505,
     "slug": "wilson-defy-pro-v1-2025-12111",
     "name": "Wilson Defy Pro V1 2025",
     "brand": "Wilson Padel",
@@ -18085,7 +20094,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1521,
+    "id": 1515,
     "slug": "zapatillas-bullpadel-premier-major-black-2025-12093",
     "name": "Sapatilhas Bullpadel Premier Major black 2025",
     "brand": "Bullpadel",
@@ -18126,30 +20135,30 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1541,
-    "slug": "head-coello-team-2025-11997",
-    "name": "Head Coello Team 2025",
-    "brand": "Head Padel",
+    "id": 1534,
+    "slug": "siux-electra-elite-st4-2025-11998",
+    "name": "Siux Electra Elite ST4 2025",
+    "brand": "Siux",
     "category": "raquetes",
-    "price": 176.96,
-    "oldPrice": 220,
+    "price": 228.96,
+    "oldPrice": 229,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/23039-large_default/head-coello-team-2025.jpg",
-    "ean": "198772015756",
-    "productGTIN": "198772015756",
-    "mpn": "11997",
+    "image": "https://www.zonadepadel.es/23049-large_default/siux-electra-elite-st4-2025.jpg",
+    "ean": "8435762902866",
+    "productGTIN": "8435762902866",
+    "mpn": "11998",
     "source": "zona-de-padel",
-    "sourceProductId": "11997",
-    "sourceCategory": "Palas de padel > Palas de padel Head",
-    "description": "Si te gustan las palas de edicón limitada, te encantará la novedad que lanza Head: la pala de pádel HEAD Coello Team 2025 . Es la opción ideal para jugadores de nivel intermedio y avanzado que buscan una potencia fácil y mayor comodidad en cada golpe. Diseñada en colaboración con el número uno del mundo, Arturo Coello, esta pala destaca por su rigidez más blanda, lo que permite una mejor salida de bola y estabilidad al avanzar hacia la red. La HEAD Coello Team 2025 está equipada con tecnología Auxetic 2.0, que brinda una sensación superior y un impulso extra de potencia. Su superficie de golpeo de fibra de vidrio ofrece una mayor flexibilidad y confort, mientras que la espuma Power Foam garantiza una respuesta explosiva en golpes ofensivos como el smash y la víbora. Características y tecnologías de la pala de pádel HEAD Coello Team Tecnología Auxetic 2.0: Mayor sensación y potencia sin precedentes en cada golpe. Superficie de fibra de vidrio: Mejora la salida de bola con una rigidez más blanda. Espuma Power Foam: Proporciona una potencia explosiva y mayor confort. Estructura de carbono con grafeno: Más estabilidad y resistencia en la pista. Pertenece a la colección de palas HEAD exclusivas 2025. ¿Para quién es la HEAD Coello Team 2025? La pala HEAD Coello Team está diseñada para jugadores de nivel alto o intermedio que buscan mejorar su rendimiento con una pala cómoda y estable. Gracias a su rigidez más blanda y equilibrio medio, es perfecta para aquellos que desean ganar confianza en golpes ofensivos y mejorar su juego en la red. Si eres un jugador que quiere dar un salto de calidad en su nivel, esta pala te permitirá realizar golpes potentes con facilidad. Su combinación de materiales avanzados y tecnologías innovadoras hacen que cada golpe sea más efectivo y preciso. ¿Por qué te va a gustar la pala HEAD Coello Team 225035? La HEAD Coello Team 2025 se distingue por su excelente combinación de potencia y confort. Su superficie de fibra de vidrio y espuma Power Foam mejorada permiten una mayor salida de bola con menos esfuerzo, ideal para jugadores en evolución. Su diseño exclusivo, con detalles personalizados de Arturo Coello, junto con la tecnología Auxetic 2.0, hacen que esta pala ofrezca una experiencia de juego única. Además, su estructura de carbono refuerza la estabilidad y durabilidad para un rendimiento superior. HEAD es una marca de referencia en el mundo del pádel, utilizada por los mejores jugadores del circuito profesional. Su compromiso con la innovación y la calidad la convierten en una de las mejores opciones para quienes buscan equipamiento de alto rendimiento. pala de pádel HEAD Coello Team 2025 es la opción ideal para jugadores de nivel intermedio y avanzado que buscan una potencia fácil y mayor comodidad en cada golpe. Diseñada en colaboración con el número uno del mundo, Arturo Coello, esta pala destaca por su rigidez más blanda, lo que permite una mejor salida de bola y estabilidad al avanzar hacia la red. La HEAD Coello Team 2025 está equipada con tecnología Auxetic 2.0, que brinda una sensación superior y un impulso extra de potencia. Su superficie de golpeo de fibra de vidrio ofrece una mayor flexibilidad y confort, mientras que la espuma Power Foam garantiza una respuesta explosiva en golpes ofensivos como el smash y la víbora. Características y tecnologías de la pala de pádel HEAD Coello Team Tecnología Auxetic 2.0: Mayor sensación y potencia sin precedentes en cada golpe. Superficie de fibra de vidrio: Mejora la salida de bola con una rigidez más blanda. Espuma Power Foam: Proporciona una potencia explosiva y mayor confort. Estructura de carbono con grafeno: Más estabilidad y resistencia en la pista. Pertenece a la colección de palas HEAD 2025. ¿Para quién es la HEAD Coello Team 25? La pala HEAD Coello Team está diseñada para jugadores de nivel alto o intermedio que buscan mejorar su rendimiento con una pala cómoda y estable. Gracias a su rigidez más blanda y equilibrio medio, es perfecta para aquellos que desean ganar confianza en golpes ofensivos y mejorar su juego en la red. Si eres un jugador que quiere dar un salto de calidad en su nivel, esta pala te permitirá realizar golpes potentes con facilidad. Su combinación de materiales avanzados y tecnologías innovadoras hacen que cada golpe sea más efectivo y preciso. ¿Por qué te va a gustar la pala HEAD Coello Team 225035? La HEAD Coello Team 2025 se distingue por su excelente combinación de potencia y confort. Su superficie de fibra de vidrio y espuma Power Foam mejorada permiten una mayor salida de bola con menos esfuerzo, ideal para jugadores en evolución. Su diseño exclusivo, con detalles personalizados de Arturo Coello, junto con la tecnología Auxetic 2.0, hacen que esta pala ofrezca una experiencia de juego única. Además, su estructura de carbono refuerza la estabilidad y durabilidad para un rendimiento superior. HEAD es una marca de referencia en el mundo del pádel, utili",
+    "sourceProductId": "11998",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "Ya tenemos disponible la nueva gama de palas Electra para los jugadores versátiles. Presentamos la pala de pádel Siux Electra Elite ST4 2025 es la elección perfecta para jugadores avanzados que buscan versatilidad y control en su juego. Gracias a su nueva estructura de puente, ofrece una mayor manejabilidad y estabilidad, mejorando su rendimiento tanto en ataque como en defensa. Con un punto dulce ampliado y balance medio, la Electra Elite ST4 permite dominar la red con facilidad. Su superficie de carbono 12K proporciona una sensación equilibrada entre potencia y control, mientras que su acabado arenoso mejora el agarre para potenciar los efectos en cada golpe. Características y tecnologías de la pala de pádel Siux Electra Elite ST4 Nuevo puente optimizado: Mayor manejabilidad y estabilidad en cada golpe. Superficie de carbono 12K: Combinación perfecta de potencia y control. Balance medio: Excelente equilibrio entre ataque y defensa. Acabado arenoso: Mejora el agarre y permite un mejor efecto en los golpes. Switch Strap: Sistema de correa reemplazable para mayor comodidad y personalización. Pertenece a la colección de palas Siux 2025. ¿Para quién es la Siux Electra Elite ST4 2025? La Siux Electra Elite ST4 está diseñada para jugadores de nivel avanzado que buscan una pala equilibrada con excelente control y un punto dulce amplio. Su balance medio permite transiciones rápidas entre defensa y ataque, ideal para quienes buscan dominar la red. Si eres un jugador que valora la versatilidad y precisión en cada golpe, esta pala te proporcionará un rendimiento excepcional en cada punto. Su construcción en carbono 12K y acabado arenoso te ayudarán a mejorar los efectos en la bola y controlar el partido. ¿Por qué te va a gustar la pala Siux Electra Elite ST4 112637? La Siux Electra Elite ST4 2025 destaca por su excelente equilibrio entre control y potencia. Su punto dulce ampliado y su forma de lágrima garantizan una mayor precisión y comodidad en cada golpe, reduciendo el margen de error. Con innovaciones como el Dual Pro Grip y el sistema Switch Strap, esta pala ofrece una experiencia de juego más cómoda y personalizada. Su diseño moderno y acabado brillante arenoso le dan un estilo único en la pista. Siux es una de las marcas más reconocidas en el mundo del pádel, famosa por su innovación y calidad. Sus palas son utilizadas por jugadores profesionales y ofrecen tecnologías avanzadas que mejoran el rendimiento y la experiencia en cada partido.",
     "specs": {
       "peso": null,
-      "forma": null,
-      "equilibrio": "Médio",
-      "nivel": "Intermédio",
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
       "material": "Carbono",
-      "estilo": "Potência",
+      "estilo": "Equilibrado",
       "sola": null,
       "genero": null,
       "cor": null,
@@ -18160,19 +20169,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 176.96,
+        "price": 228.96,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/head-padel/11997-head-coello-team-2025.html"
+        "url": "https://www.zonadepadel.es/siux/11998-siux-electra-elite-st4-2025.html"
       }
     ]
   },
   {
-    "id": 1542,
+    "id": 1535,
     "slug": "head-coello-motion-2025-11996",
     "name": "Head Coello Motion 2025",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 194.01,
+    "price": 182.96,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -18201,19 +20210,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 194.01,
+        "price": 182.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11996-head-coello-motion-2025.html"
       }
     ]
   },
   {
-    "id": 1543,
+    "id": 1536,
     "slug": "head-coello-pro-2025-11995",
     "name": "Head Coello Pro 2025",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 179.96,
+    "price": 184.01,
     "oldPrice": 350,
     "rating": null,
     "badge": null,
@@ -18242,14 +20251,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 179.96,
+        "price": 184.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11995-head-coello-pro-2025.html"
       }
     ]
   },
   {
-    "id": 1544,
+    "id": 1537,
     "slug": "zapatillas-joma-slam-lady-2501-black-2025-11994",
     "name": "Sapatilhas Joma Slam Lady 2501 black 2025",
     "brand": "Joma",
@@ -18290,12 +20299,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1545,
+    "id": 1538,
     "slug": "head-speed-pro-x-2025-11985",
     "name": "Head Speed Pro X 2025",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 187.95,
+    "price": 180.01,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -18324,60 +20333,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 187.95,
+        "price": 180.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11985-head-speed-pro-x-2025.html"
       }
     ]
   },
   {
-    "id": 1546,
-    "slug": "siux-valkiria-go-2025-11983",
-    "name": "Siux Valkiria Go 2025",
-    "brand": "Siux",
-    "category": "raquetes",
-    "price": 138.96,
-    "oldPrice": 139,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/23042-large_default/siux-valkiria-go-2025.jpg",
-    "ean": "8435762902910",
-    "productGTIN": "8435762902910",
-    "mpn": "11983",
-    "source": "zona-de-padel",
-    "sourceProductId": "11983",
-    "sourceCategory": "Palas de padel > Palas de pádel Siux",
-    "description": "Presenrtamos una de las últimas novedades del mercado de pádel: laSiux Valkiria Go 2025 es la pala ideal para jugadores intermedios que buscan un equilibrio perfecto entre control y potencia. Con un balance medio y una superficie de carbono 3K ALUMESH, proporciona estabilidad, confort y una excelente salida de bola en cada golpe. La pala de pádel Siux Valkiria Go cuenta con una forma híbrida y un tacto medio-bajo, ideal para jugadores que desean mejorar su técnica con una pala polivalente. Con su acabado brillante y diseño moderno, pertenece a la nueva colección 2025 de Siux. Características y tecnologías de pala de pádel Siux Valkiria Go Balance medio: Ofrece estabilidad y versatilidad para un juego equilibrado. Forma híbrida: Permite combinar control y potencia en cada golpe. Superficie de carbono 3K ALUMESH: Aporta resistencia y una gran salida de bola. Tacto medio-bajo: Ideal para jugadores que buscan mayor confort en el golpeo. Acabado brillante: Diseño atractivo y elegante que resalta en la pista. Pertenece a la colección de palas Siux 2025. ¿Para quién es la Siux Valkiria Go 2025? La Siux Valkiria Go está diseñada para jugadores intermedios que buscan una pala equilibrada y versátil. Ideal para quienes desean mejorar su juego sin renunciar al control ni a la potencia en la pista. Su tacto medio-bajo y su balance equilibrado la convierten en una pala cómoda y manejable, perfecta para jugadores que buscan un rendimiento sólido en cada punto. Un modelo diseñado para evolucionar en el pádel. ¿Por qué te va a gustar la pala Siux Valkiria Go 112659? Te encantará la Siux Valkiria Go por su capacidad de adaptarse a distintos estilos de juego. Su superficie de carbono 3K ALUMESH proporciona una gran resistencia, mientras que su tacto medio-bajo garantiza un golpeo más cómodo y preciso. Además, su diseño brillante y su forma híbrida le aportan un toque moderno y elegante. Es la elección perfecta para jugadores que buscan mejorar su rendimiento con una pala de calidad y alto confort en la pista. Siux es una marca líder en el pádel, conocida por su constante innovación y calidad en la fabricación de palas. Con modelos para todos los niveles, combina materiales avanzados y tecnología de vanguardia para ofrecer el mejor rendimiento en la pista.",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": "Intermédio",
-      "material": "Carbono",
-      "estilo": "Equilibrado",
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 138.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/siux/11983-siux-valkiria-go-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1547,
+    "id": 1539,
     "slug": "siux-electra-pro-st4-2025-11977",
     "name": "Siux Electra Pro ST4 2025",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 169.01,
+    "price": 149.96,
     "oldPrice": 325,
     "rating": null,
     "badge": null,
@@ -18406,19 +20374,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 169.01,
+        "price": 149.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/11977-siux-electra-pro-st4-2025.html"
       }
     ]
   },
   {
-    "id": 1549,
+    "id": 1540,
+    "slug": "siux-fenix-pro-5-2025-11975",
+    "name": "Siux Fenix Pro 5 2025",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 159.01,
+    "oldPrice": 325,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22964-large_default/siux-fenix-pro-5-2025.jpg",
+    "ean": "8435762902811",
+    "productGTIN": "8435762902811",
+    "mpn": "11975",
+    "source": "zona-de-padel",
+    "sourceProductId": "11975",
+    "sourceCategory": "Palas de padel > Palas de pádel Siux",
+    "description": "Siente todo el poder con la Siux Fenix Pro 5 2025, la pala ideal para jugadores que buscan máxima potencia en su juego. Con su forma de diamante, balance alto y superficie de carbono 24K, esta pala está diseñada para maximizar los golpes ofensivos y llevar tu rendimiento al siguiente nivel. Elegida por el profesional Leo Augsburger, la pala de pádel Siux Fenix Pro 5 destaca por su tacto duro y acabado en 3D, que mejoran la precisión y el efecto en cada golpe. Pertenece a la nueva colección 2025, ofreciendo un diseño único y moderno para dominar en la pista. Características y tecnologías de pala de pádel Siux Fenix Pro 5 Balance alto: Diseñada para maximizar la potencia en los golpes ofensivos. Forma de diamante: Ideal para jugadores agresivos que buscan un impacto contundente. Carbono 24K: Superficie resistente que mejora la durabilidad y la salida de bola. Tacto duro: Proporciona mayor precisión y control en golpes de alta potencia. Acabado 3D: Mejora el efecto y la precisión en los golpes cortados. Pertenece a la colección de palas Siux 2025. ¿Para quién es la Siux Fenix Pro 5 2025? La Siux Fenix Pro 5 está diseñada para jugadores avanzados y profesionales que prefieren un juego potente y ofensivo. Ideal para hombres que buscan una pala robusta y precisa para dominar los partidos más exigentes. Es perfecta para jugadores agresivos con buen físico que necesitan una pala que soporte golpes fuertes y garantice un excelente rendimiento en cada punto. Un modelo diseñado para destacar en competiciones de alto nivel. ¿Por qué te va a gustar la pala Siux Fenix Pro 5 112643? Te encantará la Siux Fenix Pro 5 porque combina potencia, precisión y diseño. Su forma de diamante y balance alto maximizan los golpes ofensivos, mientras que el tacto duro asegura un control excepcional en cada jugada. Además, su acabado en 3D y carbono 24K ofrecen durabilidad y un diseño moderno, convirtiéndola en una pala de alto rendimiento. Elegida por Leo Augsburger, esta pala está preparada para llevar tu juego al máximo nivel. Siux es una marca de referencia en el pádel, destacada por su compromiso con la innovación y la calidad. Fundada con el objetivo de ofrecer productos de alto rendimiento, Siux combina tecnología avanzada y diseño único para satisfacer las demandas de jugadores profesionales y amateurs.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 159.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/siux/11975-siux-fenix-pro-5-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1541,
     "slug": "paletero-nox-ml10-team-blanco-gris-2025-11963",
     "name": "Saco Nox ML10 Team blanco gris 2025",
     "brand": "Nox",
     "category": "sacos",
-    "price": 44.96,
+    "price": 46.91,
     "oldPrice": 73,
     "rating": null,
     "badge": null,
@@ -18447,14 +20456,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.96,
+        "price": 46.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/11963-paletero-nox-ml10-team-blanco-gris-2025.html"
       }
     ]
   },
   {
-    "id": 1550,
+    "id": 1542,
     "slug": "paletero-nox-ml10-team-negro-azul-2025-11962",
     "name": "Saco Nox ML10 Team negro azul 2025",
     "brand": "Nox",
@@ -18495,7 +20504,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1551,
+    "id": 1543,
     "slug": "paletero-nox-ml10-team-negro-arcilla-2025-11961",
     "name": "Saco Nox ML10 Team negro arcilla 2025",
     "brand": "Nox",
@@ -18536,130 +20545,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1552,
-    "slug": "mochila-head-pro-x-backpack-25l-negra-2025-11957",
-    "name": "Mochila Head Pro X Backpack 25L negra 2025",
-    "brand": "Head Padel",
-    "category": "sacos",
-    "price": 54.9,
-    "oldPrice": 90,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/22950-large_default/mochila-head-pro-x-backpack-25l-negra-2025.jpg",
-    "ean": "726423346449",
-    "productGTIN": "726423346449",
-    "mpn": "11957",
-    "source": "zona-de-padel",
-    "sourceProductId": "11957",
-    "sourceCategory": "Paleteros de padel > Bolsas y paleteros Head",
-    "description": "La Mochila Head Pro X Backpack 25L negra 2025 es la solución perfecta para quienes buscan un accesorio funcional, moderno y sostenible. Su diseño versátil permite utilizarla tanto en la pista de pádel como en la ciudad, ofreciendo espacio para hasta tres raquetas en su compartimento acolchado. Además, su estilo contemporáneo y su construcción de alta calidad aseguran que sea una elección duradera y elegante. Fabricada con un enfoque en la sostenibilidad, esta mochila incluye detalles como una etiqueta hecha de papel reciclado y cordel de cáñamo. Con compartimentos prácticos, como un bolsillo lateral elástico para botellas y un pequeño bolsillo delantero para accesorios, la Head Pro X Backpack combina practicidad y diseño innovador para adaptarse a todas tus necesidades. Características de la mochila Head Pro X Backpack 25L negra 2025 Apertura versátil: El compartimento principal se puede abrir desde la parte superior o la delantera, permitiendo un acceso rápido y cómodo. Espacio acolchado para raquetas: Capacidad para guardar hasta tres raquetas de pádel, protegiéndolas de golpes y arañazos. Bolsillo lateral elástico: Perfecto para llevar una botella de agua o elementos de uso frecuente durante el juego. Bolsillo delantero para accesorios: Ideal para organizar pequeños objetos como el pasaporte, cartera o llaves, manteniéndolos siempre a mano. Materiales sostenibles: Etiqueta hecha de papel reciclado y cordel de cáñamo, reafirmando el compromiso de HEAD con el medio ambiente. Pertenece a la colección de mochilas para pádel Head 2025. ¿A quién va dirigido? La Mochila Head Pro X Backpack 25L negra 2025 está diseñada para jugadores de pádel que buscan un accesorio funcional y con estilo para transportar su equipamiento. También es ideal para quienes necesitan una mochila versátil que pueda usarse en su día a día fuera de la pista. ¿Por qué te va a gustar? Te encantará la Head Pro X Backpack 25L negra 2025 por su diseño moderno y funcional. Su capacidad para transportar tres raquetas y accesorios esenciales, combinada con su apertura versátil, la convierte en una solución práctica y elegante para jugadores exigentes. Además, su construcción con materiales sostenibles no solo garantiza durabilidad, sino que también refleja un compromiso con el medio ambiente. Esta mochila es la opción perfecta para quienes valoran el rendimiento y la responsabilidad ecológica. Descubre más sobre la marca Head Head es una marca líder en el mundo del deporte, reconocida por su innovación y calidad en productos para el pádel y otras disciplinas. Con décadas de experiencia, Head combina tecnología avanzada con diseños atractivos para satisfacer las necesidades de los jugadores más exigentes. Desde palas de alto rendimiento hasta accesorios funcionales como la Mochila Head Pro X Backpack 25L negra 2025, la marca continúa liderando el mercado gracias a su enfoque en la excelencia y el compromiso con el medio ambiente. ¡Confía en Head para destacar en cada partido!",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 54.9,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/head-padel/11957-mochila-head-pro-x-backpack-25l-negra-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1553,
-    "slug": "zapatillas-wilson-rush-pro-4-5-clay-white-bosphorus-2025-11946",
-    "name": "Sapatilhas Wilson Rush Pro 4.5 Clay white bosphorus 2025",
-    "brand": "Wilson Padel",
-    "category": "sapatilhas",
-    "price": 74.96,
-    "oldPrice": 140,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/22952-large_default/zapatillas-wilson-rush-pro-45-clay-white-bosphorus-2025.jpg",
-    "ean": "097512845625",
-    "productGTIN": "097512845625",
-    "mpn": "11946",
-    "source": "zona-de-padel",
-    "sourceProductId": "11946",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Wilson",
-    "description": "Las Zapatillas Wilson Rush Pro 4.5 Clay white bosphorus 2025 son la opción perfecta para jugadores de pádel que buscan rendimiento, comodidad y estilo en cada partido. Diseñadas con una parte superior textil y sintética, ofrecen una ligereza excepcional que mejora la agilidad en la pista. Su suela de goma tipo clay garantiza un agarre óptimo en cualquier superficie de juego. Estas zapatillas destacan por su amortiguación superior, ideal para reducir el impacto y proporcionar confort en cada movimiento. Con un ajuste seguro gracias al cierre de cordones y un interior acolchado, las Wilson Rush Pro 4.5 combinan funcionalidad y diseño moderno. ¡Mejora tu juego con este modelo insuperable! Características y tecnologías de zapatillas Wilson Rush Pro 4.5 Clay white bosphorus 2025 Construcción ligera y flexible: Parte superior textil y sintética que garantiza agilidad y comodidad en cada partido. Amortiguación avanzada: La entresuela reduce el impacto y proporciona un confort excepcional en cada movimiento. Suela de goma tipo clay: Diseñada para ofrecer un excelente agarre y tracción en cualquier superficie de pádel. Ajuste ergonómico: Cierre de cordones y cuello acolchado para un soporte seguro y adaptado a tus pies. Plantilla extraíble: Facilita la limpieza y el mantenimiento para un uso prolongado y cómodo. Pertenece a la colección de zapatillas Wilson Pádel 2025. ¿Para quién es la Wilson Rush Pro 4.5 Clay 2025? Las Wilson Rush Pro 4.5 Clay white bosphorus 2025 están diseñadas para jugadores de pádel que buscan calzado técnico con excelente tracción, amortiguación y soporte. Son ideales tanto para entrenamientos intensos como para competiciones exigentes. Perfectas para jugadores que desean mejorar su rendimiento, estas zapatillas ofrecen ligereza y flexibilidad, permitiendo movimientos rápidos y giros precisos. Además, su diseño moderno en blanco y verde aporta un toque distintivo en la pista. ¿Por qué te va a gustar Zapatillas Rush Pro 4.5 Clay? Te encantarán las Wilson Rush Pro 4.5 Clay white bosphorus 2025 porque combinan tecnologías avanzadas con diseño ergonómico para ofrecerte la mejor experiencia en la pista. Su suela tipo clay y amortiguación avanzada garantizan estabilidad y confort en cada punto del partido. Además, su construcción ligera y transpirable mejora la agilidad, mientras que los materiales de alta calidad aseguran durabilidad y resistencia. Estas zapatillas son la opción perfecta para jugadores que buscan un rendimiento excepcional sin sacrificar el estilo. Wilson es una marca líder en el mundo del deporte, conocida por su innovación y compromiso con la calidad. Desde sus inicios, ha desarrollado productos diseñados para potenciar el rendimiento de los atletas, combinando tecnología avanzada con diseños funcionales y modernos. Con décadas de experiencia, Wilson se ha consolidado como una referencia en equipamiento deportivo. Las zapatillas Rush Pro 4.5 Clay representan el compromiso de la marca por ofrecer productos que mejoren tu rendimiento y estilo en cada partido. ¡Confía en Wilson para alcanzar tu máximo potencial!",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": "Branco",
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 74.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/wilson-padel/11946-zapatillas-wilson-rush-pro-45-clay-white-bosphorus-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1554,
-    "slug": "zapatillas-joma-set-2543-turquoise-navy-2025-11944",
-    "name": "Sapatilhas Joma Set 2543 turquoise navy 2025",
-    "brand": "Joma",
-    "category": "sapatilhas",
-    "price": 39.95,
-    "oldPrice": 65,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/24534-large_default/zapatillas-joma-set-2543-turquoise-navy-2025.jpg",
-    "ean": "8447150335682",
-    "productGTIN": "8447150335682",
-    "mpn": "11944",
-    "source": "zona-de-padel",
-    "sourceProductId": "11944",
-    "sourceCategory": "Zapatillas de padel > Zapatillas Joma",
-    "description": "Las zapatillas Joma Set azul marino 2025 son la elección perfecta para jugadores en perfeccionamiento que buscan estabilidad y comodidad en cada movimiento. Con un diseño ergonómico y una suela clay, ofrecen el agarre necesario para rendir al máximo en la pista. Fabricadas con mesh transpirable y equipadas con tecnologías como STABILIS y VTS, estas zapatillas garantizan frescura, soporte y rendimiento. Su ajuste termosellado proporciona durabilidad y comodidad, ideal para quienes buscan mejorar su juego. Características y tecnologías de Zapatillas de pádel Joma Set Azul Marino TSETS2543C VTS: sistema de ventilación que mantiene los pies frescos durante el juego. SPORTECH: ajuste termosellado que mejora la ergonomía y asegura comodidad. STABILIS: media suela que previene torsiones indeseadas y mejora la estabilidad. Suela DURABILITY en espiga clay, diseñada para agarre y deslizamientos controlados. Protección termosellada PROTECTION, que aumenta la durabilidad y resistencia. Pertenece a la colección de zapatillas Joma Pádel 2025. ¿Para quién es la Joma Set 25? Las Joma Set 2025 están pensadas para jugadores en perfeccionamiento que buscan estabilidad y agarre en la pista. Son ideales para aquellos que necesitan un calzado cómodo y resistente para seguir mejorando su técnica en cada partido. Diseñadas para deportistas que realizan desplazamientos moderados, estas zapatillas ofrecen un equilibrio perfecto entre soporte y flexibilidad. Su diseño técnico asegura confianza y rendimiento durante los entrenamientos y competiciones. ¿Por qué te va a gustar las zapatillas Set TSETS2543C? Las Joma Set destacan por su equilibrio entre comodidad y rendimiento. Su sistema de ventilación VTS mantiene los pies frescos, mientras que la suela clay proporciona el agarre ideal para moverte con seguridad en la pista. Además, su construcción ligera y mediasuela STABILIS mejoran la estabilidad, reduciendo riesgos de lesiones. Este modelo combina diseño atractivo y tecnologías avanzadas, haciendo que cada partido sea más cómodo y efectivo. Sobre Joma Joma es una marca líder en el mundo del deporte, reconocida por su calidad y tecnología en calzado especializado. Sus productos están diseñados para maximizar el rendimiento de los deportistas, ofreciendo durabilidad, comodidad y diseños innovadores.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": null,
-      "uso": "Competição",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 39.95,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/joma/11944-zapatillas-joma-set-2543-turquoise-navy-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1555,
+    "id": 1544,
     "slug": "paletero-babolat-rh-pro-padel-negro-2025-11930",
     "name": "Saco Babolat RH Pro Padel negro 2025",
     "brand": "Babolat",
@@ -18700,7 +20586,89 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1564,
+    "id": 1550,
+    "slug": "babolat-technical-viper-2-5-2025-11897",
+    "name": "Babolat Technical Viper 2.5 2025",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 159.96,
+    "oldPrice": 320,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22805-large_default/babolat-technical-viper-25-2025.jpg",
+    "ean": "3324922164471",
+    "productGTIN": "3324922164471",
+    "mpn": "11897",
+    "source": "zona-de-padel",
+    "sourceProductId": "11897",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "Presentamos una de las palas preferidas por los jugadores de ataque: la Babolat Technical Viper 2.5 2025, una pala de pádel diseñada para jugadores técnicos que buscan una combinación de potencia explosiva y precisión en sus golpes. Su estructura de carbono, núcleo Multi-EVA y forma de diamante la convierten en una herramienta perfecta para dominar el juego de ataque, marcando la diferencia con cada golpe decisivo. Con tecnologías avanzadas como el Vibrabsorb Systrem para una óptima absorción de vibraciones y un acabado rugoso para generar efectos, la Technical Viper te brinda control total y confort. Diseñada para jugadores exigentes que necesitan una pala de alto rendimiento, este modelo redefine el juego con su potencia y manejabilidad. Características y tecnologías de pala de pádel Babolat Technical Viper 2.5 Superficie de carbono: Aporta máxima potencia y una respuesta explosiva en cada golpeo. Núcleo Multi-EVA: Combina diferentes densidades para adaptarse a la velocidad del golpe, equilibrando potencia y control. Patrón de agujeros optimizado: Diseñado específicamente para su forma de diamante, potencia los golpes decisivos y la precisión. VIBRABSORB SYSTEM²: Reduce las vibraciones para mayor comodidad y seguridad en cada partido. Acabado rugoso y relieves: Facilita la generación de efectos y mejora el control en los golpes con efecto. Pertenece a la colección de palas Babolat 2025. ¿Para quién es la Babolat Technical Viper 2025? La Babolat Technical Viper 2.5 está diseñada para jugadores avanzados y técnicos que buscan dominar la pista con golpes precisos y potentes. Es ideal para quienes priorizan un estilo de juego agresivo y quieren marcar la diferencia en los momentos clave del partido. Perfecta para jugadores con una técnica depurada, esta pala está pensada para maximizar el rendimiento en el ataque, permitiéndote tomar el control del juego y sorprender a tus adversarios con golpes explosivos y efectos únicos. ¿Por qué te va a gustar la pala Babolat Technical Viper 216447? Te encantará la Babolat Technical Viper 2.5 por su combinación de potencia explosiva y precisión. Su tecnología Multi-EVA y su patrón de agujeros optimizado garantizan un rendimiento excepcional en cada golpe, mientras que su diseño rugoso permite imprimir efectos sorprendentes. Además, la incorporación del sistema VIBRABSORB SYSTEM² mejora la comodidad durante los partidos más intensos, reduciendo vibraciones y permitiéndote jugar con mayor confianza. Su diseño innovador la convierte en la pala perfecta para jugadores que quieren destacar tanto en estilo como en rendimiento. Babolat es una marca líder en el mundo del pádel y los deportes de raqueta, con más de 150 años de experiencia en innovación y diseño. Desde su fundación en 1875, Babolat ha sido sinónimo de calidad y rendimiento, apoyando a los mejores jugadores del mundo. Con un enfoque constante en la tecnología y el desarrollo, Babolat crea palas diseñadas para superar las expectativas de los deportistas más exigentes. Si buscas potencia, precisión y confort en cada golpe, Babolat es tu mejor opción para alcanzar el máximo nivel en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 159.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/11897-babolat-technical-viper-25-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1551,
+    "slug": "babolat-air-viper-2-5-2025-11894",
+    "name": "Babolat Air Viper 2.5 2025",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 199.95,
+    "oldPrice": 320,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22790-large_default/babolat-air-viper-25-2025.jpg",
+    "ean": "3324922164488",
+    "productGTIN": "3324922164488",
+    "mpn": "11894",
+    "source": "zona-de-padel",
+    "sourceProductId": "11894",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "La Babolat Air Viper 2.5 2025 es una pala de pádel diseñada para jugadores agresivos que buscan máxima potencia y rapidez en cada golpe. Gracias a su estructura ligera de solo 355 gramos y su punto dulce ampliado, ofrece un equilibrio perfecto entre estabilidad y manejabilidad. Su fabricación en fibra de carbono 16K proporciona una explosividad y precisión excepcionales, ideales para dominar la pista. Esta pala incorpora tecnologías avanzadas como el núcleo X EVA de tres capas, la tecnología 3D Spin+ para efectos asombrosos y el sistema Vibrasorb, que absorbe vibraciones para una sensación más cómoda. Con un diseño brillante y moderno, la Air Viper 2.5 no solo destaca por su rendimiento, sino también por su estética espectacular. ¡Un accesorio imprescindible para jugadores avanzados que desean llevar su juego al siguiente nivel! Características y tecnologías de pala de pádel Babolat Air Viper 2.5 Punto dulce ampliado: Su diseño permite mayor estabilidad y precisión en los golpes, sin añadir peso extra. Fibra de carbono 16K: Proporciona explosividad y una excelente respuesta en cada golpeo. Tecnología 3D Spin+: Superficie rugosa con acabado arenoso para generar efectos impresionantes. Sistema Vibrasorb: Absorbe vibraciones para un juego cómodo y reduce el riesgo de lesiones. Núcleo X EVA: Tres capas de goma de diferentes densidades que optimizan la potencia y la salida de la bola. Pertenece a la colección de palas Babolat 2025. ¿Para quién es la Babolat Air Viper 2025? La Babolat Air Viper 2.5 está diseñada para jugadores avanzados con un estilo agresivo que buscan potencia explosiva en cada golpe. Es perfecta para quienes desean un equilibrio entre ligereza y manejabilidad, maximizando su rendimiento en la pista. Ideal para aquellos jugadores que disfrutan dominando en la red y realizando remates espectaculares con efectos, esta pala también es una excelente opción para quienes priorizan la comodidad y el control gracias a su tecnología de absorción de vibraciones. ¿Por qué te va a gustar la pala Babolat Air Viper 2.5 150160? Te encantará la Babolat Air Viper multicolor por su ligereza y potencia explosiva, diseñada para ofrecerte el máximo rendimiento en cada punto. Su innovador sistema 3D Spin+ te permitirá imprimir efectos espectaculares, convirtiendo tus golpes en una ventaja en la pista. Además, su tecnología Vibrasorb garantiza una experiencia de juego cómoda y fluida, reduciendo las vibraciones y permitiéndote mantener el control durante los partidos más exigentes. Su diseño brillante no solo te hará destacar por tu juego, sino también por tu estilo. Babolat es una marca líder en deportes de raqueta con más de 150 años de experiencia. Fundada en 1875 en Francia, ha innovado constantemente para ofrecer productos que combinan rendimiento, calidad y tecnología, convirtiéndose en una referencia tanto para profesionales como aficionados. Su compromiso con la innovación y el desarrollo de materiales de alta calidad ha llevado a Babolat a ser la elección preferida de los mejores jugadores del mundo. Con palas como la Air Viper, la marca reafirma su misión de ayudar a los deportistas a alcanzar su máximo potencial en cada golpe.",
+    "specs": {
+      "peso": "355g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 199.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/11894-babolat-air-viper-25-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1553,
     "slug": "mochila-head-pro-x-backpack-negra-gris-2025-11874",
     "name": "Mochila Head Pro X Backpack negra gris 2025",
     "brand": "Head Padel",
@@ -18741,12 +20709,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1565,
+    "id": 1554,
     "slug": "mochila-head-tour-backpack-25l-verde-2025-11873",
     "name": "Mochila Head Tour Backpack 25L verde 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 43.84,
+    "price": 48.01,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -18775,14 +20743,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 43.84,
+        "price": 48.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11873-mochila-head-tour-backpack-25l-verde-2025.html"
       }
     ]
   },
   {
-    "id": 1567,
+    "id": 1556,
     "slug": "paletero-adidas-control-3-4-naranja-2025-11860",
     "name": "Saco Adidas Control 3.4 naranja 2025",
     "brand": "Adidas Padel",
@@ -18823,7 +20791,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1568,
+    "id": 1557,
     "slug": "paletero-adidas-control-3-4-verde-2025-11858",
     "name": "Saco Adidas Control 3.4 Verde 2025",
     "brand": "Adidas Padel",
@@ -18864,12 +20832,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1569,
+    "id": 1558,
     "slug": "paletero-adidas-multigame-3-4-arena-2025-11854",
     "name": "Saco Adidas Multigame 3.4 Arena 2025",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 60.01,
+    "price": 99.96,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -18898,19 +20866,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 60.01,
+        "price": 99.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/11854-paletero-adidas-multigame-34-arena-2025.html"
       }
     ]
   },
   {
-    "id": 1570,
+    "id": 1559,
     "slug": "paletero-adidas-protour-3-4-negro-2025-11853",
     "name": "Saco Adidas Protour 3.4 negro 2025",
     "brand": "Adidas Padel",
     "category": "sacos",
-    "price": 75.96,
+    "price": 84.96,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -18939,14 +20907,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 75.96,
+        "price": 84.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/11853-paletero-adidas-protour-34-negro-2025.html"
       }
     ]
   },
   {
-    "id": 1571,
+    "id": 1560,
     "slug": "paletero-head-base-padel-verde-2025-11850",
     "name": "Saco Head Base Padel verde 2025",
     "brand": "Head Padel",
@@ -18987,7 +20955,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1572,
+    "id": 1561,
     "slug": "paletero-head-base-padel-azul-marino-2025-11849",
     "name": "Saco Head Base Padel azul marino 2025",
     "brand": "Head Padel",
@@ -19028,12 +20996,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1573,
+    "id": 1562,
     "slug": "paletero-head-base-padel-negro-2025-11848",
     "name": "Saco Head Base Padel negro 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 35.96,
+    "price": 40.96,
     "oldPrice": 50,
     "rating": null,
     "badge": null,
@@ -19062,19 +21030,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 35.96,
+        "price": 40.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11848-paletero-head-base-padel-negro-2025.html"
       }
     ]
   },
   {
-    "id": 1578,
+    "id": 1567,
     "slug": "mochila-head-base-17l-verde-2025-11839",
     "name": "Mochila Head Base 17L verde 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 21.01,
+    "price": 24.96,
     "oldPrice": 35,
     "rating": null,
     "badge": null,
@@ -19103,19 +21071,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 21.01,
+        "price": 24.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11839-mochila-head-base-17l-verde-2025.html"
       }
     ]
   },
   {
-    "id": 1580,
+    "id": 1569,
     "slug": "mochila-head-base-17l-azul-marino-2025-11837",
     "name": "Mochila Head Base 17L azul marino 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 23.96,
+    "price": 24.96,
     "oldPrice": 35,
     "rating": null,
     "badge": null,
@@ -19144,14 +21112,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 23.96,
+        "price": 24.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11837-mochila-head-base-17l-azul-marino-2025.html"
       }
     ]
   },
   {
-    "id": 1583,
+    "id": 1572,
     "slug": "mochila-head-base-17l-black-2025-11834",
     "name": "Mochila Head Base 17L black 2025",
     "brand": "Head Padel",
@@ -19192,7 +21160,212 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1591,
+    "id": 1573,
+    "slug": "head-vibe-gris-negra-2025-11833",
+    "name": "Head Vibe gris negra 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 69.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22580-large_default/head-vibe-gris-negra-2025.jpg",
+    "ean": "724794765166",
+    "productGTIN": "724794765166",
+    "mpn": "11833",
+    "source": "zona-de-padel",
+    "sourceProductId": "11833",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala Head Vibe 2025 es la elección perfecta para jugadores ocasionales que buscan llevar su juego al siguiente nivel. Con su diseño moderno y alegre, esta pala ofrece una combinación de potencia fácil de controlar, tacto blando y una gran tolerancia gracias a su punto dulce ampliado. Diseñada con tecnologías avanzadas como HEAD Innegra™ y Power Foam, esta pala polivalente de forma lágrima garantiza energía en cada golpe. Además, su superficie de golpeo de fibra de vidrio proporciona sensaciones suaves, mientras que el protector de carbono IPS asegura una mayor durabilidad. Características y tecnologías de pala de pádel Head Vibe Forma de lágrima y diseño polivalente que aporta potencia y control a tu juego. Superficie de golpeo de fibra de vidrio para un tacto blando y cómodo. HEAD Innegra™ para una mayor absorción de impactos y estabilidad mejorada. Goma Power Foam para máxima potencia en golpes rápidos y ofensivos. Protector de carbono IPS que aumenta la durabilidad frente a golpes y arañazos. Pertenece a la colección de palas Head para la temporada 2025. ¿Para quién es la Head Vibe 2025? La pala Head Vibe 2025 está dirigida a jugadores ocasionales y principiantes que buscan una pala polivalente con gran tolerancia y potencia controlada. Ideal para quienes desean mejorar su juego y competir con confianza en la pista. ¿Por qué te va a gustar pala Head Vibe 226145? Te encantará la pala Head Vibe por su facilidad de uso y su diseño moderno que aporta un toque de personalidad a tu equipo. Su tacto suave y el amplio punto dulce hacen que cada golpe sea preciso y cómodo. Además, con tecnologías como HEAD Innegra™ y Power Foam, obtendrás una pala duradera y de alto rendimiento que respalda tu estilo de juego ofensivo. Diseñada para durar y brillar en cada partido. Head es sinónimo de innovación y excelencia en el mundo de los deportes de raqueta. Con décadas de experiencia, esta marca se ha posicionado como líder en la creación de productos que combinan tecnología avanzada y diseño moderno para maximizar el rendimiento de los jugadores. Con la Head Vibe 2025, la marca refuerza su compromiso de ofrecer calidad y durabilidad, proporcionando a los jugadores herramientas ideales para competir y disfrutar del pádel. Elegir Head es elegir experiencia y pasión por el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 69.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11833-head-vibe-gris-negra-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1574,
+    "slug": "head-vibe-azul-roja-2025-11832",
+    "name": "Head Vibe azul roja 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 99.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22576-large_default/head-vibe-azul-roja-2025.jpg",
+    "ean": "724794765159",
+    "productGTIN": "724794765159",
+    "mpn": "11832",
+    "source": "zona-de-padel",
+    "sourceProductId": "11832",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala Head Vibe 2025 es la elección perfecta para jugadores ocasionales que buscan llevar su juego al siguiente nivel. Con su diseño moderno y alegre, esta pala ofrece una combinación de potencia fácil de controlar, tacto blando y una gran tolerancia gracias a su punto dulce ampliado. Diseñada con tecnologías avanzadas como HEAD Innegra™ y Power Foam, esta pala polivalente de forma lágrima garantiza energía en cada golpe. Además, su superficie de golpeo de fibra de vidrio proporciona sensaciones suaves, mientras que el protector de carbono IPS asegura una mayor durabilidad. Características y tecnologías de pala de pádel Head Vibe Forma de lágrima y diseño polivalente que aporta potencia y control a tu juego. Superficie de golpeo de fibra de vidrio para un tacto blando y cómodo. HEAD Innegra™ para una mayor absorción de impactos y estabilidad mejorada. Goma Power Foam para máxima potencia en golpes rápidos y ofensivos. Protector de carbono IPS que aumenta la durabilidad frente a golpes y arañazos. Pertenece a la colección de palas Head para la temporada 2025. ¿Para quién es la Head Vibe 2025? La pala Head Vibe 2025 está dirigida a jugadores ocasionales y principiantes que buscan una pala polivalente con gran tolerancia y potencia controlada. Ideal para quienes desean mejorar su juego y competir con confianza en la pista. ¿Por qué te va a gustar pala Head Vibe 226135? Te encantará la pala Head Vibe por su facilidad de uso y su diseño moderno que aporta un toque de personalidad a tu equipo. Su tacto suave y el amplio punto dulce hacen que cada golpe sea preciso y cómodo. Además, con tecnologías como HEAD Innegra™ y Power Foam, obtendrás una pala duradera y de alto rendimiento que respalda tu estilo de juego ofensivo. Diseñada para durar y brillar en cada partido. Head es sinónimo de innovación y excelencia en el mundo de los deportes de raqueta. Con décadas de experiencia, esta marca se ha posicionado como líder en la creación de productos que combinan tecnología avanzada y diseño moderno para maximizar el rendimiento de los jugadores. Con la Head Vibe 2025, la marca refuerza su compromiso de ofrecer calidad y durabilidad, proporcionando a los jugadores herramientas ideales para competir y disfrutar del pádel. Elegir Head es elegir experiencia y pasión por el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 99.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11832-head-vibe-azul-roja-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1575,
+    "slug": "head-vibe-negra-morada-2025-11831",
+    "name": "Head Vibe negra morada 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 99.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22572-large_default/head-vibe-negra-morada-2025.jpg",
+    "ean": "724794765142",
+    "productGTIN": "724794765142",
+    "mpn": "11831",
+    "source": "zona-de-padel",
+    "sourceProductId": "11831",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala Head Vibe 2025 es la elección perfecta para jugadores ocasionales que buscan llevar su juego al siguiente nivel. Con su diseño moderno y alegre, esta pala ofrece una combinación de potencia fácil de controlar, tacto blando y una gran tolerancia gracias a su punto dulce ampliado. Diseñada con tecnologías avanzadas como HEAD Innegra™ y Power Foam, esta pala polivalente de forma lágrima garantiza energía en cada golpe. Además, su superficie de golpeo de fibra de vidrio proporciona sensaciones suaves, mientras que el protector de carbono IPS asegura una mayor durabilidad. Características y tecnologías de pala de pádel Head Vibe Forma de lágrima y diseño polivalente que aporta potencia y control a tu juego. Superficie de golpeo de fibra de vidrio para un tacto blando y cómodo. HEAD Innegra™ para una mayor absorción de impactos y estabilidad mejorada. Goma Power Foam para máxima potencia en golpes rápidos y ofensivos. Protector de carbono IPS que aumenta la durabilidad frente a golpes y arañazos. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head Vibe 2025? La pala Head Vibe 2025 está dirigida a jugadores ocasionales y principiantes que buscan una pala polivalente con gran tolerancia y potencia controlada. Ideal para quienes desean mejorar su juego y competir con confianza en la pista. ¿Por qué te va a gustar pala Head Vibe 226125? Te encantará la pala Head Vibe por su facilidad de uso y su diseño moderno que aporta un toque de personalidad a tu equipo. Su tacto suave y el amplio punto dulce hacen que cada golpe sea preciso y cómodo. Además, con tecnologías como HEAD Innegra™ y Power Foam, obtendrás una pala duradera y de alto rendimiento que respalda tu estilo de juego ofensivo. Diseñada para durar y brillar en cada partido. Head es sinónimo de innovación y excelencia en el mundo de los deportes de raqueta. Con décadas de experiencia, esta marca se ha posicionado como líder en la creación de productos que combinan tecnología avanzada y diseño moderno para maximizar el rendimiento de los jugadores. Con la Head Vibe 2025, la marca refuerza su compromiso de ofrecer calidad y durabilidad, proporcionando a los jugadores herramientas ideales para competir y disfrutar del pádel. Elegir Head es elegir experiencia y pasión por el deporte.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 99.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11831-head-vibe-negra-morada-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1576,
+    "slug": "head-bolt-print-negra-2025-11830",
+    "name": "Head Bolt print negra 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 69.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22568-large_default/head-bolt-print-negra-2025.jpg",
+    "ean": "724794765197",
+    "productGTIN": "724794765197",
+    "mpn": "11830",
+    "source": "zona-de-padel",
+    "sourceProductId": "11830",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala Head Bolt 2025 es perfecta para jugadores ocasionales y principiantes que buscan potencia controlada y comodidad en cada golpe. Su diseño atrevido, unido a su forma de lágrima y superficie de fibra de vidrio, ofrece un tacto blando y un punto dulce amplio para mayor tolerancia. Esta pala polivalente combina la tecnología HEAD Innegra™ para absorción de impactos con la goma Power Foam, ideal para golpes ofensivos. Además, cuenta con un protector de carbono IPS para mayor durabilidad, siendo una elección ideal para quienes empiezan a competir en la pista. Características y tecnologías de pala de pádel Head Bolt Diseño atrevido y forma de lágrima que aporta potencia y control. Superficie de golpeo de fibra de vidrio para un tacto blando y cómodo. HEAD Innegra™ para absorción de impactos y mayor estabilidad. Goma Power Foam para máxima potencia en golpes ofensivos. Protector de carbono IPS que aumenta la durabilidad de la pala. Pertenece a la colección de palas Head para la temporada 2025. ¿Para quién es la Head Bolt 2025? La Head Bolt 2025 está dirigida a jugadores principiantes y ocasionales que buscan una pala cómoda, tolerante y con una potencia fácil de controlar. Ideal para quienes empiezan a competir en su club y desean mejorar su rendimiento en la pista. ¿Por qué te va a gustar pala Head Bolt 226245? Te encantará la pala Head Bolt por su combinación de potencia y control, gracias a su forma de lágrima y la goma Power Foam. Además, su tacto blando y el amplio punto dulce aseguran comodidad y confianza en cada golpe. El diseño llamativo y las tecnologías avanzadas, como HEAD Innegra™ y el protector IPS, hacen de esta pala una opción duradera y funcional. Perfecta para disfrutar de cada partido con estilo y rendimiento. Head es una marca líder en deportes de raqueta, conocida por su innovación y calidad en productos diseñados para maximizar el rendimiento de jugadores de todos los niveles. Con décadas de experiencia, ofrece soluciones avanzadas que combinan tecnología y estilo. Elegir Head significa confiar en una marca comprometida con la excelencia y la mejora continua. Sus productos, como la Head Bolt, reflejan un diseño pensado para los jugadores más exigentes, asegurando la mejor experiencia en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 69.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11830-head-bolt-print-negra-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1577,
+    "slug": "head-bolt-azul-verde-2025-11829",
+    "name": "Head Bolt azul verde 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 74.96,
+    "oldPrice": 100,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22564-large_default/head-bolt-azul-verde-2025.jpg",
+    "ean": "724794765180",
+    "productGTIN": "724794765180",
+    "mpn": "11829",
+    "source": "zona-de-padel",
+    "sourceProductId": "11829",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala Head Bolt 2025 es perfecta para jugadores ocasionales y principiantes que buscan potencia controlada y comodidad en cada golpe. Su diseño atrevido, unido a su forma de lágrima y superficie de fibra de vidrio, ofrece un tacto blando y un punto dulce amplio para mayor tolerancia. Esta pala polivalente combina la tecnología HEAD Innegra™ para absorción de impactos con la goma Power Foam, ideal para golpes ofensivos. Además, cuenta con un protector de carbono IPS para mayor durabilidad, siendo una elección ideal para quienes empiezan a competir en la pista. Características y tecnologías de pala de pádel Head Bolt Diseño atrevido y forma de lágrima que aporta potencia y control. Superficie de golpeo de fibra de vidrio para un tacto blando y cómodo. HEAD Innegra™ para absorción de impactos y mayor estabilidad. Goma Power Foam para máxima potencia en golpes ofensivos. Protector de carbono IPS que aumenta la durabilidad de la pala. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head Bolt 2025? La Head Bolt 2025 está dirigida a jugadores principiantes y ocasionales que buscan una pala cómoda, tolerante y con una potencia fácil de controlar. Ideal para quienes empiezan a competir en su club y desean mejorar su rendimiento en la pista. ¿Por qué te va a gustar pala Head Bolt 226235? Te encantará la pala Head Bolt por su combinación de potencia y control, gracias a su forma de lágrima y la goma Power Foam. Además, su tacto blando y el amplio punto dulce aseguran comodidad y confianza en cada golpe. El diseño llamativo y las tecnologías avanzadas, como HEAD Innegra™ y el protector IPS, hacen de esta pala una opción duradera y funcional. Perfecta para disfrutar de cada partido con estilo y rendimiento. Head es una marca líder en deportes de raqueta, conocida por su innovación y calidad en productos diseñados para maximizar el rendimiento de jugadores de todos los niveles. Con décadas de experiencia, ofrece soluciones avanzadas que combinan tecnología y estilo. Elegir Head significa confiar en una marca comprometida con la excelencia y la mejora continua. Sus productos, como la Head Bolt, reflejan un diseño pensado para los jugadores más exigentes, asegurando la mejor experiencia en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 74.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11829-head-bolt-azul-verde-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1578,
     "slug": "zapatillas-asics-solution-speed-ff-3-clay-light-ube-indigo-fog-2025-11809",
     "name": "Sapatilhas Asics Solution Speed FF 3 Clay light ube indigo fog 2025",
     "brand": "Asics",
@@ -19233,12 +21406,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1593,
+    "id": 1580,
     "slug": "zapatillas-babolat-movea-2-men-white-cyan-blue-2025-11796",
     "name": "Sapatilhas Babolat Movea 2 Men white cyan blue 2025",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 79.91,
+    "price": 75.01,
     "oldPrice": 125,
     "rating": null,
     "badge": null,
@@ -19267,14 +21440,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.91,
+        "price": 75.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/11796-zapatillas-babolat-movea-2-men-white-cyan-blue-2025.html"
       }
     ]
   },
   {
-    "id": 1594,
+    "id": 1581,
     "slug": "zapatillas-babolat-jet-premura-2-men-black-tomato-red-2025-11791",
     "name": "Sapatilhas Babolat Jet Premura 2 Men black tomato red 2025",
     "brand": "Babolat",
@@ -19315,7 +21488,335 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1609,
+    "id": 1584,
+    "slug": "drop-shot-canyon-pro-comfort-1-0-2025-11760",
+    "name": "Drop Shot Canyon Pro Comfort 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 111.82,
+    "oldPrice": 220,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22351-large_default/drop-shot-canyon-pro-comfort-10-2025.jpg",
+    "ean": "8435758306548",
+    "productGTIN": "8435758306548",
+    "mpn": "11760",
+    "source": "zona-de-padel",
+    "sourceProductId": "11760",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Canyon Pro Comfort 1.0 2025 es una pala diseñada para jugadores de nivel medio-avanzado que buscan potencia y comodidad en cada golpe. Inspirada en la línea de Pablo Lima, este modelo combina materiales de alta calidad con tecnologías innovadoras que optimizan tu rendimiento en la pista. Con forma de diamante y un balance alto, esta pala ofrece un impacto potente y preciso. Su núcleo de Eva Soft garantiza elasticidad y ligereza, mientras que su diseño moderno en tonos azules y rojos transmite deportividad y estilo. Características y tecnologías de Pala de pádel Drop Shot Canyon Pro Comfort 1.0 Carbono 3K: Proporciona una estructura resistente y jugabilidad superior. Eva Soft Low Density: Goma elástica y ligera que mejora la potencia y el confort en cada golpe. Smart Holes System: Distribución estratégica de agujeros para un mejor efecto y reducción de vibraciones. Sistema 3D Face: Textura en 3D que aporta mayor efecto a la pelota en golpes agresivos. Vibra Tech Angles y Cork Cushion Grip: Tecnologías que minimizan las vibraciones, ofreciendo un juego cómodo y seguro. Pertenece a la colección de palas Drop Shot 2025. ¿Para quién es la Drop Shot Canyon Pro Comfort 1.0 2025? La Drop Shot Canyon Pro Comfort 1.0 es ideal para jugadores de nivel intermedio y avanzado que buscan una pala equilibrada entre potencia y jugabilidad. Su diseño en forma de diamante y balance alto se adaptan a quienes prefieren un juego agresivo y potente. Con características avanzadas como el Smart Holes System y el núcleo de Eva Soft, está diseñada para proporcionar golpes potentes y precisos, manteniendo el confort en todo momento. ¿Por qué te va a gustar la Pala Drop Shot Canyon Pro Comfort 1.0 DP324006? Te encantará esta pala porque combina materiales de alta calidad con un diseño moderno y funcional. Su estructura de Carbono 3K y su tecnología 3D Face optimizan el efecto y la potencia en cada golpe, permitiéndote destacar en la pista. Además, está diseñada pensando en el jugador agresivo que busca destacar en cada partido. Su diseño inspirado en la línea de Pablo Lima y sus innovadoras tecnologías la convierten en una pala excepcional. Drop Shot se ha consolidado como una de las marcas líderes en el mundo del pádel gracias a su innovación constante y compromiso con la calidad. Colaborando con jugadores de élite como Pablo Lima, desarrolla productos que destacan por su rendimiento y diseño. Con una trayectoria de excelencia, Drop Shot utiliza tecnologías avanzadas y materiales de alta calidad para crear palas que responden a las necesidades de jugadores de todos los niveles. Una apuesta segura para llevar tu juego al siguiente nivel.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Potência",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 111.82,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11760-drop-shot-canyon-pro-comfort-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1585,
+    "slug": "drop-shot-explorer-pro-comfort-1-0-2025-11755",
+    "name": "Drop Shot Explorer Pro Comfort 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 198.96,
+    "oldPrice": 220,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22348-large_default/drop-shot-explorer-pro-comfort-10-2025.jpg",
+    "ean": "8435758306524",
+    "productGTIN": "8435758306524",
+    "mpn": "11755",
+    "source": "zona-de-padel",
+    "sourceProductId": "11755",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Explorer Pro Comfort 1.0 2025 es una pala de pádel diseñada para jugadores de nivel medio-avanzado que buscan control y jugabilidad en cada golpe. Inspirada en el modelo de Lucas Campagnolo, este modelo combina un diseño moderno con materiales y tecnologías de alta calidad, destacando por su forma redonda y balance bajo. Con Carbono 3K y un núcleo de Eva Soft, ofrece una excelente absorción de impactos y una sensación de comodidad única. Su diseño vibrante, con detalles en amarillo, negro y rojo, junto al logo del jugador profesional, la convierten en una pala con personalidad y estilo inconfundibles. Características y tecnologías de Pala de pádel Drop Shot Explorer Pro Comfort 1.0 Carbono 3K: Material resistente y duradero que asegura una jugabilidad superior. Eva Soft Low Density: Proporciona mayor elasticidad y potencia en cada golpe. Smart Holes System: Distribución estratégica de agujeros para un efecto mejorado y menor vibración. Sistema 3D Face: Textura homogénea para un mayor control y efecto en la pelota. Twin Tubular System: Doble tubular de carbono que aporta rigidez y durabilidad al marco. Pertenece a la colección de palas Drop Shot 2025. ¿Para quién es la Drop Shot Explorer Pro Comfort 1.0 2025? La Drop Shot Explorer Pro Comfort 1.0 es perfecta para jugadores que buscan equilibrio entre control y potencia, gracias a su núcleo de Eva Soft y su forma redonda. Es ideal para jugadores que quieren mejorar su técnica mientras disfrutan de un juego cómodo y preciso. Diseñada para quienes valoran la calidad en los materiales y tecnologías como el Smart Holes System, esta pala reduce vibraciones y mejora el efecto en cada golpe. Un modelo que combina jugabilidad y estilo en una sola herramienta. ¿Por qué te va a gustar la Pala Drop Shot Explorer Pro Comfort 1.0 DP324004? Te encantará la Drop Shot Explorer Pro Comfort 1.0 2025 por su capacidad de proporcionar un control excepcional y una experiencia de juego cómoda y eficiente. Su diseño inspirado en Lucas Campagnolo agrega valor al incluir detalles únicos y modernos. Además, sus tecnologías como el Vibra Tech Angles y el Cork Cushion Grip garantizan una reducción significativa de vibraciones, mejorando tu rendimiento en cada golpe. Una pala pensada para jugadores que buscan destacar en la pista. Descubre más sobre la marca Drop Shot Drop Shot es una marca líder en el mundo del pádel, reconocida por su innovación y calidad en cada uno de sus productos. Con una trayectoria que combina la experiencia y la colaboración con jugadores profesionales, sus palas están diseñadas para superar las expectativas de los jugadores más exigentes. La marca se destaca por el uso de materiales avanzados y tecnologías exclusivas que garantizan durabilidad, rendimiento y estilo. Confía en Drop Shot para llevar tu juego al siguiente nivel y destacar en la pista.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 198.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11755-drop-shot-explorer-pro-comfort-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1590,
+    "slug": "drop-shot-explorer-pro-control-1-0-2025-11748",
+    "name": "Drop Shot Explorer Pro Control 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 129.96,
+    "oldPrice": 240,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22342-large_default/drop-shot-explorer-pro-control-10-2025.jpg",
+    "ean": "8435758306586",
+    "productGTIN": "8435758306586",
+    "mpn": "11748",
+    "source": "zona-de-padel",
+    "sourceProductId": "11748",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Explorer Pro Control 1.0 2025 es la pala oficial de la línea del jugador profesional Lucas Campagnolo. Diseñada para ofrecer precisión y jugabilidad, cuenta con un molde redondo y balance bajo, lo que garantiza un amplio punto dulce para realizar golpes técnicos y controlados. Su núcleo de EVA Soft Low Density y caras de Carbono 12K Textreme aseguran una experiencia de juego cómoda y precisa. Fabricada con las tecnologías más avanzadas de Drop Shot, como el Smart Holes System y el 3D Face, esta pala reduce vibraciones y mejora el efecto en cada golpe. Si buscas destacar en la pista con la pala oficial de Campagnolo, ¡la Explorer Pro Control es tu mejor elección! Características y tecnologías de Pala de pádel Drop Shot Explorer Pro Control 1.0 Construcción en Carbono 12K Textreme, que ofrece flexibilidad y alta resistencia a impactos. Smart Holes System, para una distribución de agujeros que optimiza el efecto y reduce vibraciones. Núcleo de EVA Soft Low Density, que aporta ligereza y mayor potencia en los golpes. Textura 3D Face en las caras, que proporciona mayor efecto y control al golpear la pelota. Incluye el Ergo Pro Protector, un protector ligero y reemplazable para proteger el marco de golpes. Pertenece a la colección de palas Drop Shot 2025 y a la línea de Lucas Campagnolo. ¿Para quién es la Drop Shot Explorer Pro Control 2025? La Drop Shot Explorer Pro Control 1.0 está diseñada para jugadores de nivel medio y avanzado que buscan una pala con máximo control y gran precisión. Ideal para quienes disfrutan de un estilo de juego técnico y estratégico, esta pala es perfecta para desarrollar tu mejor juego. Gracias a su balance bajo, molde redondo y tecnologías avanzadas, es la elección preferida por jugadores que desean destacar en cada partido y llevar su técnica al siguiente nivel, como el profesional Lucas Campagnolo. ¿Por qué te va a gustar la Pala Drop Shot Explorer Pro Control 1.0 DP324010? Porque es la pala oficial de Lucas Campagnolo, diseñada para ofrecer precisión absoluta y control en cada golpe. Su núcleo de EVA Soft y el Carbono 12K aseguran ligereza, resistencia y una experiencia de juego de alto rendimiento. Además de sus tecnologías avanzadas, su diseño moderno y juvenil convierten esta pala en una de las favoritas de la colección 2025. Si buscas jugar con el estilo y la calidad de un profesional, ¡esta es tu pala! Drop Shot es líder en innovación y calidad en el mundo del pádel. Sus productos, respaldados por jugadores profesionales como Lucas Campagnolo, combinan tecnologías exclusivas y materiales de alta gama para garantizar el mejor rendimiento. Elegir Drop Shot significa apostar por excelencia, jugabilidad y diseños únicos que te acompañan en cada partido. Únete a los mejores y domina la pista con la confianza de una marca reconocida internacionalmente.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 129.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11748-drop-shot-explorer-pro-control-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1591,
+    "slug": "drop-shot-canyon-pro-control-1-0-2025-11747",
+    "name": "Drop Shot Canyon Pro Control 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 121.98,
+    "oldPrice": 240,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22338-large_default/drop-shot-canyon-pro-control-10-2025.jpg",
+    "ean": "8435758306579",
+    "productGTIN": "8435758306579",
+    "mpn": "11747",
+    "source": "zona-de-padel",
+    "sourceProductId": "11747",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Drop Shot Canyon Pro Control 1.0 2025 es la pala ideal para jugadores que buscan un equilibrio perfecto entre control y jugabilidad. Con su forma redonda y balance bajo, ofrece un amplio punto dulce para maximizar la precisión en cada golpe, permitiendo un dominio absoluto del juego en cualquier situación. Fabricada con Carbono 12K Textreme, esta pala destaca por su flexibilidad y resistencia. Diseñada pensando en los jugadores de nivel medio y avanzado, esta pala incluye tecnologías avanzadas como el Smart Holes System y el Vibra Tech Angles, que reducen las vibraciones y mejoran la comodidad. Su diseño moderno y juvenil, con acabados que reflejan la profesionalidad de Pablo Lima, la convierten en una opción inigualable en la colección 2025. Características y tecnologías de Pala de pádel Drop Shot Canyon Pro Control 1.0 Construcción en Carbono 12K Textreme, que garantiza flexibilidad, ligereza y alta resistencia. Smart Holes System que optimiza la distribución de los agujeros para mayor efecto y precisión en cada golpe. Incorpora Vibra Tech Angles, una tecnología que minimiza las vibraciones en la empuñadura. Equipado con Ergo Pro Protector, un protector ligero y reemplazable para proteger el marco de golpes. Núcleo de EVA Pro High Density, que proporciona un excelente control y potencia equilibrada. Pertenece a la colección de palas Drop Shot 2025. ¿Para quién es la Drop Shot Canyon Pro Control 2025? La Drop Shot Canyon Pro Control 1.0 está diseñada para jugadores de nivel medio y avanzado que priorizan el control en su estilo de juego. Ideal para quienes buscan una pala que les permita realizar golpes precisos y mantener el dominio en cada punto. Con su amplio punto dulce y balance bajo, es perfecta para jugadores técnicos que disfrutan de un estilo de juego calculado y estratégico, asegurando una experiencia de máxima calidad en cada partido. ¿Por qué te va a gustar la Pala Drop Shot Canyon Pro Control 1.0 DP324009? La combinación de tecnologías avanzadas como el Smart Holes System y el Vibra Tech Angles aseguran comodidad y precisión en cada golpe, mientras que su construcción en Carbono 12K Textreme ofrece ligereza y resistencia excepcionales. Además, su diseño moderno y la calidad de los materiales empleados la convierten en una pala que no solo destaca por su rendimiento, sino también por su estilo único. ¡Es la elección perfecta para jugadores exigentes! Drop Shot es líder en innovación y calidad en el mundo del pádel. Con tecnologías exclusivas y diseños respaldados por profesionales como Pablo Lima, la marca se ha consolidado como una referencia en el sector, ofreciendo productos que garantizan el mejor rendimiento. Su compromiso con la excelencia y la innovación la posicionan como una marca que entiende y satisface las necesidades de los jugadores, desde principiantes hasta profesionales, ofreciendo una experiencia de juego única.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 121.98,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11747-drop-shot-canyon-pro-control-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1592,
+    "slug": "drop-shot-furia-attack-1-0-2025-11744",
+    "name": "Drop Shot Furia Attack 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 252.95,
+    "oldPrice": 280,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22328-large_default/drop-shot-furia-attack-10-2025.jpg",
+    "ean": "8435758306616",
+    "productGTIN": "8435758306616",
+    "mpn": "11744",
+    "source": "zona-de-padel",
+    "sourceProductId": "11744",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La Pala Drop Shot Furia Attack 1.0 es el modelo ideal para jugadores avanzados que buscan maximizar la potencia en cada golpe. Diseñada con un molde en forma de lágrima y balance medio-alto, esta pala proporciona una combinación perfecta de precisión y agresividad, permitiéndote dominar cada jugada con estilo. Además, gracias a la incorporación de tecnologías innovadoras como el Carbono 18K Textreme y la goma EVA Pro, ofrece una sensación de control y una excelente salida de bola. Con detalles en color verde y un diseño atemporal, la Drop Shot Furia Attack 1.0 2025 no solo destaca por su rendimiento, sino también por su estética. Ideal para juegos rápidos y exigentes, incorpora el Sistema Cork Cushion Grip y la tecnología Vibra Tech Angles para reducir las vibraciones y garantizar una experiencia cómoda y segura en cada partido. Características y tecnologías de Pala de Pádel Drop Shot Furia Attack 1.0 Molde lágrima: Punto dulce intermedio que mejora la precisión y potencia. Carbono 18K Textreme: Material ligero y flexible que proporciona mayor control y durabilidad. Goma EVA Pro: Elasticidad y control que mejoran la salida de bola. Smart Holes System: Distribución estratégica de agujeros para un mejor desarrollo de fuerza y efecto. Cork Cushion Grip: Lámina de corcho en la empuñadura que reduce las vibraciones. Pertenece a la colección de palas Drop Shot 2025. ¿Para quién es la Drop Shot Furia Attack 1.0 2025? Esta pala está diseñada para jugadores avanzados que buscan un buen equilibrio, pero con extra de potencia para pegar fuerte a la bola. Perfecta para aquellos que prefieren un juego dinámico y rápido, la Drop Shot Furia Attack 1.0 es ideal para dominar en la red y realizar remates contundentes con precisión. ¿Por qué te va a gustar Pala Drop Shot Furia Attack DP324013? Te encantará porque combina un diseño innovador con tecnologías avanzadas que maximizan el rendimiento. La incorporación de Carbono 18K y la tecnología Power Beam Heart garantiza un control superior y una salida de bola potente, mejorando tu experiencia en la pista. Además, su sistema de reducción de vibraciones, como el Sistema Cork Cushion Grip, asegura comodidad en cada golpe, evitando lesiones y proporcionando un manejo ergonómico. Es la pala perfecta para quienes buscan destacar en cada partido. Drop Shot es sinónimo de innovación y calidad en el mundo del pádel. Con una trayectoria consolidada, esta marca trabaja de la mano de profesionales como Jon Sanz para desarrollar productos que optimizan el rendimiento de los jugadores. Cada pala combina tecnologías avanzadas y diseño atractivo, haciendo de Drop Shot una elección preferida por jugadores de todos los niveles. Comprometidos con la excelencia, Drop Shot se posiciona como líder en el mercado gracias a su constante innovación y su apuesta por materiales de primera calidad, garantizando productos que destacan tanto en funcionalidad como en estética.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 252.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11744-drop-shot-furia-attack-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1593,
+    "slug": "drop-shot-axion-attack-1-0-2025-11742",
+    "name": "Drop Shot Axion Attack 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 177.88,
+    "oldPrice": 350,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22322-large_default/drop-shot-axion-attack-10-2025.jpg",
+    "ean": "8435758306678",
+    "productGTIN": "8435758306678",
+    "mpn": "11742",
+    "source": "zona-de-padel",
+    "sourceProductId": "11742",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La pala de pádel Drop Shot Axion Attack 1.0 2025 es la elección perfecta para jugadores avanzados que buscan potencia y rendimiento en cada golpe. Diseñada con un molde en forma de lágrima y un balance medio-alto, este modelo ofrece un juego agresivo y eficiente. Su interior de Goma EVA Pro proporciona control y una alta velocidad de la bola, ideal para quienes exigen precisión y fuerza en la pista. Con su fabricación en Carbono 24K Twill, la Axion Attack 1.0 garantiza flexibilidad, resistencia y una reacción rápida al impacto. Además, incorpora tecnologías avanzadas como el Smart Holes System y el sistema antivibración Vibra Tech Angles, junto con el Anti Twist System, para minimizar las vibraciones y mejorar la comodidad. Su diseño llamativo en azul y amarillo con la firma de Jon Sanz añade un toque único a esta pala de alto rendimiento. Características y tecnologías de pala de pádel Drop Shot Axion Attack 1.0 de Jon Sanz Molde en forma de lágrima, proporcionando un equilibrio entre potencia y control. Carbono 24K Twill en las caras, con un entretejido tipo sarga flexible y resistente. Goma EVA Pro en el núcleo para una alta velocidad de bola y control excepcional. Smart Holes System que optimiza la distribución de agujeros para mejorar los efectos y reducir vibraciones. Anti Twist System, con una pieza de silicona para reducir hasta el 85% de las vibraciones. Pertenece a la colección de palas Drop Shot Pádel 2025. ¿Para quién es la Drop Shot Axion Attack 1.0 2025? La Drop Shot Axion Attack 1.0 2025 está diseñada para jugadores avanzados que buscan una pala que potencie su juego ofensivo. Su diseño en forma de lágrima y su balance hacia la cabeza hacen de esta pala la opción ideal para quienes desean imprimir potencia en cada golpe sin perder el control. Perfecta para jugadores con un estilo agresivo, la Axion Attack 1.0 permite dominar tanto en la red como desde el fondo de la pista, ofreciendo un rendimiento equilibrado y dinámico en cada partida. ¿Por qué te va a gustar esta pala Drop Shot Axion Attack 1.0 DP324019? Te encantará la Drop Shot Axion Attack 1.0 2025 por ser la pala oficial del jugador profesional Jon Sanz, garantizando calidad y rendimiento. Su estructura de carbono 24K y sus tecnologías avanzadas aseguran resistencia, comodidad y un juego potente. Con sistemas innovadores como el Anti Twist System y un diseño moderno y llamativo, esta pala combina estilo y funcionalidad, convirtiéndose en una opción destacada para los jugadores más exigentes. Drop Shot es una marca líder en el mundo del pádel, reconocida por su compromiso con la innovación y la excelencia. Sus productos, utilizados por jugadores profesionales, integran las últimas tecnologías para garantizar el mejor rendimiento en la pista. Con un enfoque en la calidad y el diseño, Drop Shot se posiciona como referente en el sector, ofreciendo palas que combinan funcionalidad, durabilidad y estilo. Conquista la pista con Drop Shot, ¡una marca creada para ganar!",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 177.88,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11742-drop-shot-axion-attack-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1594,
+    "slug": "drop-shot-axion-control-1-0-2025-11741",
+    "name": "Drop Shot Axion Control 1.0 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 127.06,
+    "oldPrice": 250,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22319-large_default/drop-shot-axion-control-10-2025.jpg",
+    "ean": "8435758306593",
+    "productGTIN": "8435758306593",
+    "mpn": "11741",
+    "source": "zona-de-padel",
+    "sourceProductId": "11741",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La pala de pádel Drop Shot Axion Control 1.0 2025 ha sido diseñada para jugadores de nivel alto que buscan equilibrar potencia y control en su juego. Su formato redondo, combinado con un punto dulce amplio y centrado, garantiza precisión en cada golpe y un balance bajo que proporciona una gran manejabilidad. Con su núcleo de Goma EVA Soft y caras fabricadas en Carbono 12K Textreme, esta pala ofrece un tacto suave y un rendimiento sobresaliente en cada partida. Además, la Drop Shot Axion Control 1.0 incorpora innovadoras tecnologías como el Smart Holes System, que optimiza la distribución de agujeros, y el sistema 3D Face, que mejora los efectos en los golpes. Con el protector Ergo Pro Protector y sistemas antivibración como Vibra Tech Angles y Cork Cushion Grip, esta pala garantiza durabilidad, confort y una experiencia de juego superior. Todo ello en un diseño moderno con detalles en amarillo y rojo que no pasa desapercibido. Características y tecnologías de pala de pádel Drop Shot Axion Control 1.0 de Jon Sanz Formato redondo con balance bajo para un control preciso y manejo excepcional. Carbono 12K Textreme en las caras combinado con Goma EVA Soft para una excelente elasticidad y sensación de potencia. Smart Holes System, optimizando la distribución de agujeros para un mejor efecto y reducción de vibraciones. Protección extra con el Ergo Pro Protector, ligero y reemplazable. Incluye tecnologías antivibración: Vibra Tech Angles y Cork Cushion Grip. Pertenece a la colección de palas Drop Shot para Jon Sanz 2025. ¿Para quién es la Drop Shot Axion Control 1.0 2025? La pala Drop Shot Axion Control 1.0 2025 está dirigida a jugadores intermedios que buscan una pala versátil, con un equilibrio perfecto entre control y potencia. Ideal para quienes necesitan precisión en golpes defensivos y potencia para remates agresivos en la red. Con un formato redondo y tecnologías avanzadas, esta pala es perfecta para quienes desean mejorar su técnica sin sacrificar comodidad ni rendimiento. Su manejo sencillo y reducido impacto de vibraciones la hacen apta para largas sesiones de juego. ¿Por qué te va a gustar esta pala Drop Shot Axion Control 1.0 DP324011? Te encantará la Drop Shot Axion Control 1.0 2025 por su excepcional combinación de materiales de calidad y tecnologías innovadoras. Además forma parte de la línea de nuestro jugador profesional Jon Sanz. Para acabar intuitivo y la facilidad de manejo la convierten en una pala ideal para jugadores en constante evolución. Además, su sistema antivibración y protección adicional garantizan comodidad y durabilidad. El equilibrio entre flexibilidad y resistencia permite un juego dinámico, mientras que su atractivo diseño en amarillo y rojo añade estilo a cada golpe. Drop Shot es sinónimo de innovación y excelencia en el mundo del pádel. Sus productos, diseñados con tecnologías de vanguardia, han sido elegidos por jugadores profesionales y aficionados que buscan elevar su nivel de juego. Con un compromiso inquebrantable con la calidad y el diseño, Drop Shot se posiciona como líder en el sector, ofreciendo palas que combinan funcionalidad y estilo. Optar por Drop Shot es apostar por lo mejor del pádel. ¡Descubre su colección y experimenta la diferencia!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 127.06,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11741-drop-shot-axion-control-10-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1595,
+    "slug": "drop-shot-axion-comfort-2025-11739",
+    "name": "Drop Shot Axion Comfort 2025",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 116.9,
+    "oldPrice": 230,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/22313-large_default/drop-shot-axion-comfort-2025.jpg",
+    "ean": "8435758306555",
+    "productGTIN": "8435758306555",
+    "mpn": "11739",
+    "source": "zona-de-padel",
+    "sourceProductId": "11739",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "La pala de pádel Drop Shot Axion Comfort 2025 es la elección perfecta para aquellos jugadores que tienen buen nivel de juego y buscan versatilidad en el pádel. Diseñada con un formato redondo, esta pala garantiza un equilibrio perfecto entre control y potencia, ideal para perfeccionar la técnica y disfrutar de un juego dinámico. Sus caras de Carbono 3K y el núcleo de Goma EVA Soft aseguran elasticidad, comodidad y un rendimiento sobresaliente en cada golpe. Equipada con las tecnologías más avanzadas de Drop Shot, como el Smart Holes System y la textura 3D Face, esta pala ofrece un excelente agarre, control y capacidad para añadir efectos a cada golpeo. Además, incorpora el innovador sistema Ergo Pro Protector, que protege el marco de posibles golpes, y tecnologías antivibración como Vibra Tech Angles y Cork Cushion Grip, diseñadas para prevenir molestias y lesiones. ¡Todo en un diseño elegante y actual que destaca en la pista! Características y tecnologías de pala de pádel Drop Shot Axion Comfort Carbono 3K en las caras y núcleo de Goma EVA Soft, ofreciendo resistencia y jugabilidad excepcionales. Smart Holes System, que optimiza la distribución de los agujeros para mayor control y efecto. Textura 3D Face, diseñada para mejorar el agarre y los efectos en los golpes. Sistemas antivibración: Vibra Tech Angles y Cork Cushion Grip, reduciendo vibraciones al máximo. Incluye Ergo Pro Protector, proporcionando durabilidad extra al marco. Pertenece a la colección de palas Drop Shot Pádel 2025. ¿Para quién es la Drop Shot Axion Comfort 2025? La pala Drop Shot Axion Comfort 2025 está diseñada para jugadores con nivel alto o intermedio que buscan una pala accesible y fácil de manejar. Es ideal para quienes desean mejorar su técnica y explorar las posibilidades del juego con una pala que combina control, potencia moderada y tecnologías avanzadas. Con su formato redondo y balance equilibrado, se adapta perfectamente a jugadores que prefieren un estilo de juego defensivo pero desean una transición fluida hacia un juego ofensivo. La comodidad y reducción de vibraciones son ideales para partidas prolongadas. ¿Por qué te va a gustar esta pala Drop Shot Axion Comfort DP324007? Te encantará la Drop Shot Axion Comfort 2025 por su diseño intuitivo y la facilidad con la que se adapta a la mayoría de jugadores. Sus tecnologías avanzadas, como la textura 3D Face y el sistema antivibración, te permitirán disfrutar de un juego cómodo y preciso. Además forma parte de la serie de productos oficiales de Jon Sanz, jugador profesional así que su durabilidad, diseño moderno y uso de materiales como el carbono 3K garantizan una experiencia de calidad. Si estás buscando iniciarte en el pádel con estilo y rendimiento, esta pala es tu mejor opción. ¡Haz que cada golpe cuente! Drop Shot es una marca reconocida a nivel mundial por su compromiso con la innovación y la calidad en el pádel. Desde sus inicios, ha desarrollado productos que combinan las mejores tecnologías y materiales, ganándose la confianza de jugadores profesionales y amateurs. Con un enfoque constante en el rendimiento y la sostenibilidad, Drop Shot se posiciona como líder en el mercado, ofreciendo palas que destacan tanto por su diseño como por sus prestaciones. Invertir en un producto Drop Shot es apostar por lo mejor del pádel. ¡Descubre su colección y eleva tu nivel de juego!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 116.9,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/11739-drop-shot-axion-comfort-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1596,
     "slug": "siux-diablo-4-go-2025-11732",
     "name": "Siux Diablo 4 Go 2025",
     "brand": "Siux",
@@ -19356,12 +21857,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1610,
+    "id": 1597,
     "slug": "siux-diablo-4-elite-2025-11731",
     "name": "Siux Diablo 4 Elite 2025",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 138.01,
+    "price": 199.01,
     "oldPrice": 230,
     "rating": null,
     "badge": null,
@@ -19390,14 +21891,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 138.01,
+        "price": 199.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/siux/11731-siux-diablo-4-elite-2025.html"
       }
     ]
   },
   {
-    "id": 1611,
+    "id": 1598,
     "slug": "siux-diablo-4-pro-2025-11730",
     "name": "Siux Diablo 4 Pro 2025",
     "brand": "Siux",
@@ -19438,7 +21939,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1621,
+    "id": 1608,
     "slug": "paletero-head-tour-l-green-2025-11662",
     "name": "Saco Head Tour L Green 2025",
     "brand": "Head Padel",
@@ -19479,12 +21980,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1622,
+    "id": 1609,
     "slug": "paletero-head-pro-x-l-duffle-negro-gris-2025-11658",
     "name": "Saco Head Pro X L Duffle Negro Gris 2025",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 99.95,
+    "price": 94.96,
     "oldPrice": 140,
     "rating": null,
     "badge": null,
@@ -19513,14 +22014,55 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 99.95,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11658-paletero-head-pro-x-l-duffle-negro-gris-2025.html"
       }
     ]
   },
   {
-    "id": 1624,
+    "id": 1610,
+    "slug": "head-evo-speed-2025-11657",
+    "name": "Head Evo Speed 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 72.96,
+    "oldPrice": 90,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21976-large_default/head-evo-speed-2025.jpg",
+    "ean": "726423386018",
+    "productGTIN": "726423386018",
+    "mpn": "11657",
+    "source": "zona-de-padel",
+    "sourceProductId": "11657",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Descubre la Head Evo Speed 2025, una pala de pádel diseñada para quienes buscan mejorar su rendimiento en la pista. Con su forma de lágrima y punto dulce amplio, esta pala facilita un golpeo cómodo y eficaz. Además, su ligereza y balance bajo garantizan un manejo excepcional, siendo perfecta para jugadores de nivel medio o avanzado. Fabricada con tecnologías avanzadas como Innegra para mayor estabilidad y absorción, y su superficie de golpeo en fibra de vidrio que ofrece un tacto blando y una salida de bola óptima. Ideal para quienes buscan potencia, confort y precisión en cada golpe, sin sacrificar estilo gracias a su diseño moderno. Características y tecnologías de Pala de pádel Head Evo Speed Punto dulce amplio con forma de lágrima, perfecto para mejorar el control y la potencia. Superficie de golpeo de fibra de vidrio que proporciona un tacto suave y excelente salida de bola. Tecnología Innegra que mejora la estabilidad y la absorción de impactos. Goma Soft Foam, ideal para maximizar el confort y el punto dulce. Peso ligero y balance bajo que optimizan la manejabilidad en cada jugada. Pertenece a la colección oficial de palas Head 2025. ¿Para quién es la Head Evo Speed 2025? La Head Evo Speed 2025 está dirigida a jugadores de nivel medio o avanzado que buscan mejorar su técnica y disfrutar de un juego más cómodo y controlado. Su diseño versátil y su construcción ligera la hacen ideal tanto para entrenamientos como para partidos de competición. ¿Por qué te va a gustar esta pala Head Evo Speed 226405? Te encantará por su combinación de potencia y confort. Su tecnología avanzada, como la goma Soft Foam y la Innegra, aseguran un juego cómodo y estable. Además, su diseño moderno y balance optimizado la convierten en una pala perfecta para dominar la pista. Con la Head Evo Speed 2025, experimentarás un golpeo suave y preciso, gracias a su punto dulce extragrande y materiales de alta calidad. Su construcción en fibra de vidrio y balance bajo ofrecen manejabilidad y control excepcionales en cada golpe. Head es una marca líder en el mundo del deporte, reconocida por su compromiso con la innovación y la calidad. Desde su fundación, ha revolucionado el diseño de productos deportivos, combinando tecnología avanzada y materiales de alta gama para satisfacer las necesidades de los jugadores más exigentes. Con años de experiencia en deportes de raqueta, Head se ha consolidado como una referencia en pádel, ofreciendo palas, accesorios y equipamiento que garantizan rendimiento y durabilidad. Con una Head, no solo llevas un producto, sino también la confianza de jugar con lo mejor.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 72.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11657-head-evo-speed-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1611,
     "slug": "paletero-head-pro-x-l-negro-2025-11656",
     "name": "Saco Head Pro X L negro 2025",
     "brand": "Head Padel",
@@ -19561,12 +22103,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1634,
+    "id": 1620,
     "slug": "zapatillas-asics-gel-dedicate-8-clay-light-blue-coast-2025-11610",
     "name": "Sapatilhas Asics Gel Dedicate 8 Clay light blue coast 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 45.01,
+    "price": 49.91,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -19595,19 +22137,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 45.01,
+        "price": 49.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/11610-zapatillas-asics-gel-dedicate-8-clay-light-blue-coast-2025.html"
       }
     ]
   },
   {
-    "id": 1635,
+    "id": 1621,
     "slug": "zapatillas-asics-gel-dedicate-8-padel-black-energy-aqua-2025-11607",
     "name": "Sapatilhas Asics Gel Dedicate 8 Padel Black energy aqua 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 54.95,
+    "price": 67.96,
     "oldPrice": 75,
     "rating": null,
     "badge": null,
@@ -19636,60 +22178,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.95,
+        "price": 67.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/11607-zapatillas-asics-gel-dedicate-8-padel-black-energy-aqua-2025.html"
       }
     ]
   },
   {
-    "id": 1636,
-    "slug": "zapatillas-asics-game-ff-padel-grey-blue-energy-aqua-2025-11604",
-    "name": "Sapatilhas Asics Game FF Padel grey blue energy aqua 2025",
-    "brand": "Asics",
-    "category": "sapatilhas",
-    "price": 54.95,
-    "oldPrice": 90,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/21789-large_default/zapatillas-asics-game-ff-padel-grey-blue-energy-aqua-2025.jpg",
-    "ean": "4570158173643",
-    "productGTIN": "4570158173643",
-    "mpn": "11604",
-    "source": "zona-de-padel",
-    "sourceProductId": "11604",
-    "sourceCategory": "Zapatillas de padel > Zapatillas de padel Asics",
-    "description": "Descubre la nueva edición de las Asics Game FF Padel Grey Blue Energy Aqua 2025 son la elección perfecta para jugadores que buscan un equilibrio entre rendimiento y confort. Diseñadas con un enfoque en la ligereza y la flexibilidad, estas zapatillas están equipadas con tecnologías de última generación como GEL y Flytefoam, que garantizan una excelente amortiguación y absorción de impactos. Su construcción duradera y diseño versátil permiten adaptarse a las demandas del pádel moderno, asegurando un juego dinámico y eficiente. Gracias a su diseño con malla abierta, estas zapatillas ofrecen una ventilación óptima que mantiene tus pies frescos incluso durante los partidos más intensos. La combinación de revestimientos de poliuretano y cuero sintético proporciona estabilidad y soporte en cada movimiento lateral. Además, su suela específica para pádel asegura un agarre superior, permitiendo transiciones rápidas y movimientos multidireccionales con total confianza. Características y tecnologías de zapatillas de pádel Asics Game FF Padel Grey Blue Energy Aqua Malla abierta: Mejora el flujo de aire, manteniendo los pies frescos y cómodos. Revestimientos de PU y cuero sintético: Garantizan estabilidad y soporte en movimientos laterales rápidos. Mediasuela GEL y Flytefoam: Proporciona amortiguación avanzada y absorción de impactos para mayor comodidad. Diseño de suela mejorada: Más flexible y resistente, ideal para adaptarse al juego dinámico en pádel. Ligereza y versatilidad: Diseñadas para jugadores que cubren toda la pista con rapidez y agilidad. Pertenece a la colección de zapatillas Asics Pádel 2025. ¿Para quién es la Asics Game FF Padel 2025? Las Asics Game FF Padel están diseñadas para hombres apasionados por el pádel que buscan optimizar su rendimiento en pista. Ideales para jugadores de nivel intermedio y avanzado, su combinación de tecnologías asegura un equilibrio perfecto entre ligereza, estabilidad y confort, destacando en todo tipo de superficies. Estas zapatillas son perfectas para quienes priorizan la velocidad y la precisión en cada movimiento. Con su diseño ergonómico y su sistema de amortiguación avanzado, las Game FF Padel ofrecen el soporte y la versatilidad que necesitas para mantenerte competitivo durante largos partidos. ¿Por qué te va a gustar las zapatillas Asics Game FF Padel 1041A493-400? Te encantará la Asics Game FF Padel porque combina un diseño moderno con la tecnología más avanzada. Su construcción ligera y ventilada asegura frescura y confort, mientras que su sistema de amortiguación GEL y Flytefoam reduce la fatiga, permitiéndote dar lo mejor de ti en cada punto. Además, su suela específica para pádel garantiza un agarre excepcional en movimientos rápidos, y su estructura resistente asegura una durabilidad prolongada. Es una inversión segura para cualquier jugador que desee mejorar su juego y disfrutar de una experiencia en pista de alto nivel. Asics es sinónimo de innovación y calidad en el mundo del calzado deportivo. Fundada en Japón en 1949, la marca ha liderado la industria al incorporar tecnologías avanzadas que redefinen los estándares de rendimiento y confort. Desde su famosa tecnología GEL hasta el desarrollo de materiales sostenibles, Asics ha sido pionera en ofrecer productos diseñados para satisfacer las necesidades de los atletas más exigentes. Con una trayectoria de más de siete décadas, Asics continúa siendo una referencia en el deporte, ganándose la confianza de jugadores de pádel y deportistas de élite de todo el mundo. Elegir Asics significa optar por una marca comprometida con la excelencia y la innovación constante.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": "Pádel",
-      "genero": null,
-      "cor": "Azul",
-      "uso": "Competição",
-      "amortecimento": "Alto"
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 54.95,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/asics/11604-zapatillas-asics-game-ff-padel-grey-blue-energy-aqua-2025.html"
-      }
-    ]
-  },
-  {
-    "id": 1637,
+    "id": 1622,
     "slug": "zapatillas-asics-gel-challenger-14-clay-indigo-fog-white-2025-11590",
     "name": "Sapatilhas Asics Gel Challenger 14 Clay indigo fog white 2025",
     "brand": "Asics",
     "category": "sapatilhas",
-    "price": 84.96,
+    "price": 89.95,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -19718,14 +22219,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 84.96,
+        "price": 89.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/asics/11590-zapatillas-asics-gel-challenger-14-clay-indigo-fog-white-2025.html"
       }
     ]
   },
   {
-    "id": 1638,
+    "id": 1623,
     "slug": "head-speed-team-2025-11586",
     "name": "Head Speed Team 2025",
     "brand": "Head Padel",
@@ -19766,7 +22267,171 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1643,
+    "id": 1624,
+    "slug": "head-speed-motion-2025-11585",
+    "name": "Head Speed Motion 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 192.96,
+    "oldPrice": 240,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21747-large_default/head-speed-motion-2025.jpg",
+    "ean": "726423385998",
+    "productGTIN": "726423385998",
+    "mpn": "11585",
+    "source": "zona-de-padel",
+    "sourceProductId": "11585",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Conoce todos los detalles de la nueva Head Speed Motion 2025, la pala de pádel perfecta para mujeres que buscan una mezcla ideal de potencia, control y manejabilidad. Apoyada por la campeona mundial Ari Sánchez, esta pala está diseñada para jugadoras avanzadas y de competición que desean acelerar su juego con precisión y estilo. Su peso ligero y construcción ergonómica garantizan un rendimiento ágil y eficiente. Equipada con tecnologías de vanguardia como Auxetic 2.0, que mejora las sensaciones en cada golpe, y una superficie híbrida que combina fibra de carbono y vidrio para optimizar la potencia y el control, la Speed Motion asegura un juego dinámico y preciso. Además, cuenta con un diseño exclusivo y una pintura de doble efecto que añade un toque de sofisticación a tu equipo en la pista. Características y tecnologías de la pala de pádel Head Speed Motion 2025 Auxetic 2.0: Ofrece un tacto incomparable y potencia adicional para un juego más confiado. Superficie híbrida: Combina fibra de carbono y fibra de vidrio, proporcionando un control mejorado y potencia explosiva. Optimized Sweet Spot: Amplía la zona de impacto, asegurando mayor tolerancia y precisión. Soft Butt Cap 2.0: Tapón blando que mejora el agarre y reduce las vibraciones para mayor comodidad. Graphene Inside: Aumenta la estabilidad del marco y optimiza la salida de bola. Pertenece a la colección de palas para mujer Head 2025. ¿Para quién es la Head Speed Motion 2025? La Head Speed Motion está diseñada específicamente para mujeres que buscan una pala ligera y ágil, ideal para jugadoras avanzadas o de competición. Con su equilibrio perfecto entre potencia y control, es ideal para quienes priorizan movimientos rápidos y precisos en la pista. Esta pala destaca por su versatilidad y diseño ergonómico, adaptándose perfectamente a jugadoras que desean dominar tanto el juego ofensivo como defensivo. Su construcción ligera facilita un manejo excepcional, asegurando un rendimiento óptimo en cada partido. ¿Por qué te va a gustar la pala Head Speed Motion 2210759600? Te encantará la Speed Motion porque combina ligereza y potencia en un diseño exclusivo. Su tecnología Auxetic 2.0 garantiza un tacto excepcional y potencia en cada golpe, mientras que la superficie híbrida ofrece control superior y durabilidad. Además, el sistema Soft Butt Cap 2.0 proporciona un agarre cómodo y reduce las vibraciones, haciendo cada partida más placentera. Con un diseño único y tecnologías de última generación, esta pala está pensada para jugadoras que desean destacar en la pista. Head es una marca líder en el mundo del deporte, conocida por su innovación y calidad desde su fundación en 1950. Con décadas de experiencia, ha revolucionado disciplinas como el tenis, el esquí y el pádel, siendo una elección confiable para atletas profesionales y amateurs. En el pádel, Head destaca por integrar tecnologías avanzadas como Auxetic y Graphene en sus productos, ofreciendo palas que maximizan el rendimiento y la comodidad. Al elegir Head, inviertes en excelencia, innovación y éxito en la pista como lo hacen ya jugadores como Arturo Coello o Paula Josemaria.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 192.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11585-head-speed-motion-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1625,
+    "slug": "head-speed-pro-2025-11584",
+    "name": "Head Speed Pro 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 224.96,
+    "oldPrice": 280,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21745-large_default/head-speed-pro-2025.jpg",
+    "ean": "726423385981",
+    "productGTIN": "726423385981",
+    "mpn": "11584",
+    "source": "zona-de-padel",
+    "sourceProductId": "11584",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "No pierdas la oportunidad de conseguir la nueva edición de la Head Speed Pro 2025 . Se trata de una pala de pádel diseñada para jugadores de competición y nivel avanzado que buscan maximizar su potencia y control en cada golpe. Con una forma de lágrima y un diseño premium, esta pala ofrece una combinación perfecta de precisión y fuerza, ideal para acelerar tu juego y dominar la pista. Equipada con tecnologías innovadoras como Auxetic 2.0, que mejora el tacto y las sensaciones en el golpeo, y una superficie híbrida que combina fibra de carbono y fibra de vidrio, la Speed Pro garantiza durabilidad, potencia explosiva y un rendimiento inigualable. Además, incorpora sistemas como Damp Plus y Soft Butt Cap 2.0 para reducir vibraciones y ofrecer mayor comodidad en cada partida. Características y tecnologías de la pala de pádel Head Speed Pro 2025 Auxetic 2.0: Mejora las sensaciones y la respuesta en cada golpe para una experiencia única. Superficie híbrida: Mezcla fibra de carbono y fibra de vidrio para máxima resistencia y potencia. Optimized Sweet Spot: Amplía el punto dulce para mayor tolerancia y precisión. Damp Plus: Sistema que aísla y amortigua las vibraciones, proporcionando confort adicional. Power Foam: Goma que optimiza la potencia en golpes rápidos y ofensivos. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head Speed Pro 2025? La Head Speed Pro está diseñada para hombres con experiencia en pádel que buscan una pala versátil y potente. Su forma de lágrima y peso equilibrado la hacen perfecta para jugadores que desean combinar potencia en los golpes ofensivos y control en la defensa. Ideal para quienes juegan a nivel avanzado o en competiciones, esta pala destaca por su diseño ergonómico y tecnologías avanzadas, lo que permite un juego dinámico y preciso en cada momento del partido. ¿Por qué te va a gustar la pala Head Speed Pro 2210652100? Te encantará la Speed Pro por su rendimiento excepcional y su diseño premium. Su tecnología Auxetic 2.0 ofrece un tacto incomparable, mientras que la superficie híbrida garantiza durabilidad y potencia explosiva en cada golpe. Además, el sistema Damp Plus minimiza las vibraciones, proporcionando un confort único, y el Optimized Sweet Spot amplía el punto dulce, asegurando precisión incluso en los golpes más exigentes. Es la pala ideal para jugadores que buscan destacar en la pista. Head es una marca líder en innovación y excelencia en el mundo del deporte, destacando por ofrecer productos de alta calidad y rendimiento. Fundada en 1950, ha revolucionado el tenis, el esquí y el pádel, siendo sinónimo de confianza para atletas de élite y amateurs. En el pádel, Head combina tecnologías de vanguardia con diseños modernos, como su sistema Auxetic y las superficies híbridas, para garantizar el máximo rendimiento en cada partido. Elegir Head significa apostar por calidad, innovación y éxito.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 224.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11584-head-speed-pro-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1626,
+    "slug": "head-speed-one-2025-11583",
+    "name": "Head Speed One 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 169.96,
+    "oldPrice": 280,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21741-large_default/head-speed-one-2025.jpg",
+    "ean": "726423385974",
+    "productGTIN": "726423385974",
+    "mpn": "11583",
+    "source": "zona-de-padel",
+    "sourceProductId": "11583",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Sé el primero en descubrir las novedades del 2025 en nuestra tienda online. Consigue la Head Speed One 2025, una pala de pádel diseñada para jugadores avanzados que buscan una combinación perfecta de ligereza, potencia y control. Con un peso de solo n, esta pala es altamente manejable, permitiendo movimientos rápidos y precisos en cada golpe. Su diseño premium con acabado mate y brillante refleja su carácter innovador y moderno. Incorpora tecnologías avanzadas como Auxetic 2.0, que ofrece un tacto inigualable, y Carbono 2D, que garantiza mayor rigidez y potencia explosiva. Su sistema Extreme Spin mejora el agarre de la pelota para maximizar los efectos, mientras que el tapón Soft Butt Cap 2.0 y la tecnología Damp Plus reducen las vibraciones, ofreciendo un confort excepcional durante todo el partido. Características y tecnologías de la pala de pádel Head Speed One 2025 Auxetic 2.0: Proporciona una respuesta mejorada y sensaciones incomparables en cada golpe. Carbono 2D: Superficie exclusiva de carbono tejida en dos dimensiones para mayor rigidez y durabilidad. Extreme Spin: Tecnología rugosa que optimiza el agarre de la pelota, mejorando los efectos. Damp Plus: Aisla y amortigua las vibraciones, aumentando la comodidad del jugador. Soft Butt Cap 2.0: Tapón blando que mejora el agarre y reduce el riesgo de lesiones o molestias. Pertenece a la colección de palas nivel avanzado Head 2025. ¿Para quién es la Head Speed One 2025? La Head Speed One está diseñada para hombres con un nivel avanzado que buscan una pala ligera, manejable y resistente. Su construcción permite transiciones rápidas entre ataque y defensa, siendo ideal para jugadores que priorizan la velocidad y el control en sus movimientos. Perfecta para quienes desean maximizar su rendimiento en la pista, esta pala combina tecnologías de vanguardia y un diseño ergonómico, ofreciendo precisión en golpes defensivos y potencia en jugadas ofensivas, garantizando así una experiencia de juego excepcional. ¿Por qué te va a gustar la pala Head Speed One SPONE? Te encantará la Speed One porque su peso ligero de 345 gramos permite una maniobrabilidad excepcional. La tecnología Auxetic 2.0 garantiza un tacto y sensaciones mejoradas, mientras que el sistema Extreme Spin maximiza los efectos, ofreciendo un control superior en cada golpe. Además, el diseño moderno y el uso de materiales de alta calidad como el Carbono 2D aseguran una durabilidad superior. Con tecnologías como Damp Plus y Soft Butt Cap 2.0, esta pala reduce las vibraciones y proporciona un confort inigualable, convirtiéndola en una opción premium para jugadores exigentes. Head es sinónimo de innovación y excelencia en el mundo del deporte. Desde su fundación en 1950, ha revolucionado disciplinas como el tenis, el esquí y el pádel, ofreciendo productos diseñados para maximizar el rendimiento de atletas profesionales y amateurs. En el pádel, Head destaca por integrar tecnologías de última generación en sus palas, combinando diseño, comodidad y potencia. Elegir Head significa confiar en una marca con décadas de experiencia y compromiso con la calidad.",
+    "specs": {
+      "peso": "345g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 169.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11583-head-speed-one-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1627,
+    "slug": "head-speed-one-x-2025-11582",
+    "name": "Head Speed One X 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 180.01,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21738-large_default/head-speed-one-x-2025.jpg",
+    "ean": "726423385967",
+    "productGTIN": "726423385967",
+    "mpn": "11582",
+    "source": "zona-de-padel",
+    "sourceProductId": "11582",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La Head Speed One X 2025 es la pala de pádel ideal para jugadores avanzados que buscan un equilibrio perfecto entre potencia y control. Con un diseño revolucionario, incorpora tecnologías como Auxetic 2.0, que proporciona una respuesta excepcional, y Carbono 2D, para ofrecer golpes más potentes y precisos. Su construcción está pensada para maximizar el rendimiento en cada partido, adaptándose a las necesidades de los jugadores más exigentes. Diseñada para resistir las demandas del juego profesional, su superficie de golpeo única y la tecnología Extreme Spin permiten un mayor efecto en cada golpe. Además, el sistema Damp Plus y el Soft Butt Cap 2.0 garantizan un confort superior al reducir vibraciones y ofrecer un agarre más cómodo, convirtiéndola en una opción premium para quienes exigen lo mejor. La combinación de materiales avanzados asegura una experiencia de juego excepcional, incluso en los momentos más intensos del partido. Características y tecnologías de la pala de pádel Head Speed One X 2025 Auxetic 2.0: Mejora el tacto y la sensación, ofreciendo una respuesta inigualable en cada golpe. Extreme Spin: Tecnología de rugoso que maximiza el agarre de la pelota para mejorar los efectos. Carbono 2D: Superficie de golpeo de carbono tejida en dos dimensiones, que incrementa la potencia y resistencia. Damp Plus: Sistema que reduce las vibraciones para mayor confort durante el juego. Power Foam: Núcleo que maximiza la potencia en golpes ofensivos como el smash. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head Speed One X 2025? La Head Speed One X está diseñada para hombres con un nivel avanzado o profesional que buscan una pala que combine control, potencia y durabilidad. Es ideal para jugadores que quieren destacar tanto en ataque como en defensa, gracias a su diseño versátil y tecnologías avanzadas. Gracias a su peso y estabilidad optimizados, esta pala ofrece una experiencia superior en cada partido. Es perfecta para quienes necesitan precisión y potencia en su juego, sin comprometer la comodidad y el control. ¿Por qué te va a gustar la pala Head Speed One X 2210452100? Te encantará la Speed One X porque combina un diseño innovador con las mejores tecnologías del mercado. Su sistema Auxetic 2.0 asegura un tacto incomparable, mientras que la tecnología Extreme Spin maximiza los efectos, ofreciendo una ventaja táctica en cada golpe. Además, el sistema Damp Plus y el Soft Butt Cap 2.0 garantizan un confort excepcional al reducir vibraciones y proporcionar un agarre ergonómico. Con una superficie de carbono 2D resistente, esta pala se adapta perfectamente a los jugadores más exigentes. Head, líder mundial en innovación deportiva, es conocida por su enfoque en tecnología y diseño de alto rendimiento. Desde su fundación en 1950, la marca ha revolucionado deportes como el tenis, el esquí y el pádel, convirtiéndose en sinónimo de calidad y excelencia. En el pádel, Head ha destacado por incorporar tecnologías avanzadas como Auxetic y Extreme Spin en sus palas, ofreciendo productos que maximizan el rendimiento y la comodidad. Elegir Head significa apostar por una marca confiable que lleva décadas ayudando a atletas de élite y amateurs a alcanzar su mejor nivel.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 180.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11582-head-speed-one-x-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1628,
     "slug": "adidas-match-black-3-4-2025-11579",
     "name": "Adidas Match Black 3.4 2025",
     "brand": "Adidas Padel",
@@ -19807,7 +22472,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1645,
+    "id": 1629,
+    "slug": "adidas-cross-it-light-3-4-2025-11568",
+    "name": "Adidas Cross It Light 3.4 2025",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 194.96,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21717-large_default/adidas-cross-it-light-34-2025.jpg",
+    "ean": "8435739402887",
+    "productGTIN": "8435739402887",
+    "mpn": "11568",
+    "source": "zona-de-padel",
+    "sourceProductId": "11568",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Llega la nueva pala de Martita Ortega: la Adidas Cross It Light 3.4 2025, diseñada para jugadoras que buscan combinar ligereza, potencia y control en cada golpe. Con un peso de 345-360 gramos y formato redondo, esta pala destaca por su maniobrabilidad, ideal para jugadoras técnicas que valoran el control y la precisión en su juego. La Cross It Light 3.4, utilizada por Marta Ortega, incorpora tecnologías como Dynamic Air Flow y Carbono Aluminizado 24K, que aseguran una durabilidad superior y un toque más rígido para golpes potentes. Además, su goma EVA Soft Energy proporciona una salida de bola excepcional. ¡Domina la pista con la mejor combinación de innovación y ligereza! Características y tecnologías de la pala de pádel Adidas Cross It Light 3.4 2025 Dynamic Air Flow: Sistema aerodinámico que reduce la resistencia al aire para mejorar la maniobrabilidad. 11 Thirteen: Disposición de agujeros optimizada para mayor rigidez, potencia y durabilidad. Spin Blade Mold: Relieve 3D para un mejor control y mayor efecto en los golpes. Soft Energy: Goma EVA de densidad intermedia para una salida de bola cómoda y potente. Carbono Aluminizado 24K: Superficie rígida y duradera para golpes precisos y potentes. Pertenece a la colección de palas para mujer Adidas 2025. ¿Para quién es la Adidas Cross It Light 3.4 2025? La Adidas Cross It Light 3.4 es ideal para jugadoras de nivel avanzado o intermedio que buscan una pala ligera y maniobrable. Diseñada para quienes priorizan el control y la precisión, esta pala es perfecta para jugadoras técnicas que buscan un rendimiento superior. Con un peso optimizado y tecnologías avanzadas, esta pala ayuda a mejorar tanto el juego defensivo como ofensivo, adaptándose a las necesidades de jugadoras que buscan dominar cada partido con agilidad y potencia. ¿Por qué te va a gustar la pala Adidas Cross It Light 3.4 AR1CA6? Te encantará la Cross It Light 3.4 por su ligereza y maniobrabilidad excepcionales. Tecnologías como Dynamic Air Flow y Carbono Aluminizado 24K garantizan un rendimiento óptimo, combinando potencia y precisión en cada golpe. Además, su goma EVA Soft Energy asegura una salida de bola espectacular, mientras que el relieve Spin Blade Mold potencia el control y el efecto en los golpes. Es una pala diseñada para destacar en cada partido, combinando diseño y tecnología de alto nivel. Adidas es reconocida mundialmente por su dedicación a la innovación y la excelencia en el deporte. Fundada en 1949, la marca ha revolucionado el equipamiento deportivo al combinar las últimas tecnologías con diseños funcionales y atractivos. A lo largo de los años, ha patrocinado a atletas de élite y ha estado presente en los eventos deportivos más importantes del mundo. En el ámbito del pádel, Adidas ha sabido posicionarse como un referente, ofreciendo productos de alto rendimiento diseñados para satisfacer las necesidades de jugadores de todos los niveles. Comprar una pala Adidas no solo significa adquirir un producto de calidad, sino también confiar en una marca comprometida con el desarrollo y éxito de sus usuarios.",
+    "specs": {
+      "peso": "360g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 194.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/11568-adidas-cross-it-light-34-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1630,
     "slug": "adidas-cross-it-3-4-2025-11565",
     "name": "Adidas Cross It 3.4 2025",
     "brand": "Adidas Padel",
@@ -19848,12 +22554,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1647,
+    "id": 1631,
+    "slug": "adidas-adipower-carbon-light-2025-11563",
+    "name": "Adidas Adipower Carbon Light 2025",
+    "brand": "Adidas Padel",
+    "category": "raquetes",
+    "price": 162.01,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21705-large_default/adidas-adipower-carbon-light-2025.jpg",
+    "ean": "8435739402849",
+    "productGTIN": "8435739402849",
+    "mpn": "11563",
+    "source": "zona-de-padel",
+    "sourceProductId": "11563",
+    "sourceCategory": "Palas de padel > Palas de padel Adidas",
+    "description": "Para las deportistas exigentes presentamos la Adidas Adipower Carbon Light 2025, la pala de pádel perfecta para jugadoras que buscan agilidad y control en cada jugada. Con un peso ligero, entre 345 y 360 gramos, esta pala ofrece una maniobrabilidad excepcional, ideal para quienes priorizan movimientos rápidos y precisos. Su diseño redondo proporciona un equilibrio perfecto, colocando más peso cerca del grip para un control superior en golpes defensivos. La Adipower Carbon Light incorpora tecnologías de vanguardia como Spin Blade Mold y Smart Holes Curve, que mejoran el efecto en cada golpe. Además, su estructura reforzada con Dual Exoskeleton y Power Embossed Ridge garantiza una mayor rigidez y durabilidad. Fabricada con carbono 3K y goma EVA Soft Performance, asegura una salida de bola cómoda y potente. ¡Una pala versátil y ligera para dominar la pista con estilo! Características y tecnologías de la pala de pádel Adidas Adipower Carbon Light 2025 Nervios de carbono Dual Exoskeletonque aumentan la rigidez y resistencia torsional. Power Embossed Ridge: Refuerzo estructural externo para golpes más potentes. El Relieve 3D Spin Blade Moldgenera más contacto, efecto y control en los golpes. Disposición de agujeros Smart Holes Curve que favorece efectos precisos. Soft Performance: Goma EVA de baja densidad para comodidad y salida explosiva de bola. Pertenece a la colección de palas alto rendimiento Adidas 2025. ¿Para quién es la Adidas Adipower Carbon Light 2025? La Adidas Adipower Carbon Light está diseñada para mujeres que buscan una pala ligera y fácil de manejar. Es ideal para jugadoras de nivel intermedio o avanzado que valoran la agilidad y el control sin sacrificar potencia en sus golpes ofensivos. Gracias a su peso reducido y tecnologías avanzadas, esta pala permite realizar movimientos rápidos y precisos, ofreciendo un rendimiento superior tanto en defensa como en ataque. Perfecta para dominar la pista con comodidad y estilo. ¿Por qué te va a gustar la pala Adidas Adipower Carbon Light AR1CA4? Te encantará la Adipower Carbon Light por su equilibrio entre ligereza y rendimiento. Su diseño redondo y su peso ligero garantizan maniobrabilidad excepcional, mientras que las tecnologías Spin Blade Mold y Smart Holes Curve potencian el efecto y la precisión en cada golpe. Además, la combinación de carbono 3K y goma EVA Soft Performance asegura una salida de bola cómoda, durabilidad y potencia explosiva. Esta pala es ideal para jugadoras que buscan destacar en la pista con una herramienta versátil y de alto rendimiento. Adidas es una marca líder en innovación y diseño deportivo, reconocida globalmente por su calidad y compromiso con los atletas. Con décadas de experiencia, Adidas ha desarrollado productos que combinan tecnología avanzada y estilo, ofreciendo soluciones confiables y de alto rendimiento. Elegir Adidas es apostar por lo mejor en el mundo del deporte.",
+    "specs": {
+      "peso": "360g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 162.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/adidas-padel/11563-adidas-adipower-carbon-light-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1632,
     "slug": "paletero-bullpadel-bpp-25015-tour-azul-marino-2025-11550",
     "name": "Saco Bullpadel BPP-25015 Tour azul marino 2025",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 34.96,
+    "price": 43.95,
     "oldPrice": 48,
     "rating": null,
     "badge": null,
@@ -19882,19 +22629,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 34.96,
+        "price": 43.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/11550-paletero-bullpadel-bpp-25015-tour-azul-marino-2025.html"
       }
     ]
   },
   {
-    "id": 1648,
+    "id": 1633,
     "slug": "paletero-nox-at10-team-blanco-2025-11533",
     "name": "Saco Nox AT10 Team blanco 2025",
     "brand": "Nox",
     "category": "sacos",
-    "price": 44.96,
+    "price": 48.95,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -19923,19 +22670,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.96,
+        "price": 48.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/11533-paletero-nox-at10-team-blanco-2025.html"
       }
     ]
   },
   {
-    "id": 1649,
+    "id": 1634,
     "slug": "cajon-pelotas-tecnifibre-padel-team-24x3-11529",
     "name": "Cajón pelotas Tecnifibre Padel Team 24x3",
     "brand": "Tecnifibre",
     "category": "acessorios",
-    "price": 94.91,
+    "price": 79.96,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -19964,14 +22711,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 94.91,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/tecnifibre/11529-cajon-pelotas-tecnifibre-padel-team-24x3.html"
       }
     ]
   },
   {
-    "id": 1650,
+    "id": 1635,
     "slug": "pack-3-botes-pelotas-tecnifibre-padel-team-11528",
     "name": "Pack 3 botes pelotas Tecnifibre Padel Team",
     "brand": "Tecnifibre",
@@ -20012,7 +22759,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1651,
+    "id": 1636,
     "slug": "bote-pelotas-tecnifibre-padel-team-11527",
     "name": "Bote pelotas Tecnifibre Padel Team",
     "brand": "Tecnifibre",
@@ -20053,12 +22800,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1652,
+    "id": 1637,
     "slug": "paletero-bullpadel-bpp-25022-xplo-rojo-2025-11523",
     "name": "Saco Bullpadel BPP-25022 XPLO rojo 2025",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 48.8,
+    "price": 51.96,
     "oldPrice": 95,
     "rating": null,
     "badge": null,
@@ -20087,14 +22834,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 48.8,
+        "price": 51.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/11523-paletero-bullpadel-bpp-25022-xplo-rojo-2025.html"
       }
     ]
   },
   {
-    "id": 1695,
+    "id": 1679,
     "slug": "pack-3-botes-pelotas-dunlop-fort-padel-11378",
     "name": "Pack 3 botes pelotas Dunlop Fort Padel",
     "brand": "Dunlop Padel",
@@ -20135,7 +22882,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1696,
+    "id": 1680,
     "slug": "bote-pelotas-dunlop-fort-padel-11377",
     "name": "Bote pelotas Dunlop Fort Padel",
     "brand": "Dunlop Padel",
@@ -20176,7 +22923,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1705,
+    "id": 1689,
     "slug": "mochila-head-pro-x-backpack-gris-negra-2024-11345",
     "name": "Mochila Head Pro X Backpack gris negra 2024",
     "brand": "Head Padel",
@@ -20217,12 +22964,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1707,
+    "id": 1691,
     "slug": "cajon-pelotas-head-padel-pro-24x3-11335",
     "name": "Cajon pelotas Head Padel Pro+ 24X3",
     "brand": "Head Padel",
     "category": "acessorios",
-    "price": 109.95,
+    "price": 102.61,
     "oldPrice": 171,
     "rating": null,
     "badge": null,
@@ -20251,14 +22998,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.95,
+        "price": 102.61,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11335-cajon-pelotas-head-padel-pro.html"
       }
     ]
   },
   {
-    "id": 1708,
+    "id": 1692,
     "slug": "pack-3-botes-pelotas-head-padel-pro-11334",
     "name": "Pack 3 botes pelotas Head Padel Pro+",
     "brand": "Head Padel",
@@ -20299,7 +23046,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1709,
+    "id": 1693,
     "slug": "bote-pelotas-head-padel-pro-11333",
     "name": "Bote pelotas Head Padel Pro+",
     "brand": "Head Padel",
@@ -20340,12 +23087,94 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1726,
+    "id": 1707,
+    "slug": "head-one-ultralight-black-2025-11262",
+    "name": "Head One Ultralight black 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 179.96,
+    "oldPrice": 200,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21018-large_default/head-one-ultralight-black-2025.jpg",
+    "ean": "724794750483",
+    "productGTIN": "724794750483",
+    "mpn": "11262",
+    "source": "zona-de-padel",
+    "sourceProductId": "11262",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La pala de pádel Head One Ultralight Black 2025 es perfecta para jugadores que buscan la combinación ideal entre potencia, control y ligereza. Con un diseño innovador y una estructura optimizada, esta pala ofrece un equilibrio único que eleva el rendimiento en la pista. Además presenta textura rugosa, con lo que mejora notablemente los efectos sobre la bola. Fabricada con materiales de alta calidad como el carbono en su estructura y el núcleo Power FOAM, la Head One Ultralight Black garantiza golpes potentes, una excelente absorción de impactos y comodidad en cada golpe. Su peso ligero de 345 gramos la hace fácil de manejar, ideal para jugadores intermedios y avanzados que buscan agilidad y precisión. Características y tecnologías de la Pala de Pádel Head One Ultralight negra Estructura de carbono que mejora la durabilidad y estabilidad en el juego. Núcleo Power FOAM para una mayor absorción de impactos, permitiendo golpes potentes con menor esfuerzo. Grip ergonómico que reduce la fatiga, ofreciendo un confort superior en juegos prolongados. Superficie rugosa que facilita el control de los efectos, mejorando la precisión en cada golpe. Diseño ultraligero de 345 gramos para máxima maniobrabilidad y velocidad en cada jugada. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head One Ultralight Black 25? La pala Head One Ultralight Black 2025 está dirigida a jugadores intermedios y avanzados que buscan mejorar su juego con una pala que combine ligereza, control y maniobrabilidad. Ideal para aquellos que valoran la innovación tecnológica en su equipo de pádel. Su diseño avanzado y materiales de última generación la hacen ideal para jugadores que buscan velocidad en los golpes y precisión en cada movimiento. ¿Por qué te va a gustar la pala Head One Ultralight Black 225014? Te encantará la pala Head One Ultralight Black 2025 por su rendimiento excepcional en la pista. Con su estructura de carbono y núcleo Power FOAM, ofrece una potencia impresionante sin sacrificar la comodidad ni el control en cada golpe. Además, su diseño ultraligero te permitirá dominar la pista con velocidad y agilidad, mientras que las tecnologías avanzadas como su superficie rugosa mejoran el control de los efectos, permitiéndote tomar el control del partido. Fundada en 1950, Head es sinónimo de innovación y rendimiento en el mundo de los deportes. Con más de 70 años de historia, ha revolucionado el mercado del pádel y otros deportes con sus productos de alta tecnología, diseñados para mejorar el rendimiento de los atletas en todo el mundo. Gracias a su compromiso con la calidad y el desarrollo de tecnologías punteras, Head sigue siendo la opción preferida de muchos deportistas de élite. Su línea de palas de pádel, incluidas las de la colección 2025, incorpora las últimas innovaciones para garantizar la máxima durabilidad, control y potencia en cada golpe.",
+    "specs": {
+      "peso": "345g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 179.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11262-head-one-ultralight-black-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1708,
+    "slug": "head-one-ultralight-white-2025-11261",
+    "name": "Head One Ultralight white 2025",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 120.01,
+    "oldPrice": 200,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21016-large_default/head-one-ultralight-white-2025.jpg",
+    "ean": "724794750476",
+    "productGTIN": "724794750476",
+    "mpn": "11261",
+    "source": "zona-de-padel",
+    "sourceProductId": "11261",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "La Head One Ultralight White 2025 es una pala de pádel diseñada para los jugadores más exigentes que buscan una combinación perfecta de potencia, control y ligereza. Con un peso de aproximadamente 345 gramos, esta pala destaca por su maniobrabilidad excepcional. Fabricada con una estructura de carbono de alta calidad, la Head One Ultralight White garantiza durabilidad y resistencia en los golpes más intensos. La tecnología avanzada de su núcleo Power FOAM proporciona una absorción de impactos superior, permitiendo realizar golpes potentes sin comprometer la comodidad. También incorpora una superficie rugosa para mejorar el control y facilitar la aplicación de efectos en los golpes, lo que proporciona una ventaja estratégica en la pista. Gracias a su grip ergonómico, la fatiga en las sesiones largas de juego se reduce significativamente, lo que te permite rendir al máximo durante más tiempo. Características y tecnologías de la Pala de Pádel Head One Ultralight Blanca 2025 Estructura de carbono que asegura resistencia y durabilidad, garantizando un rendimiento sólido y prolongado en la pista. Núcleo Power FOAM que maximiza la absorción de impactos, proporcionando mayor potencia sin sacrificar la comodidad. Superficie rugosa para mejorar el agarre de la pelota y permitir la aplicación de efectos precisos en cada golpe. Forma más redonda que favorece un balance centrado, optimizando los golpes defensivos. Grip ergonómico que reduce la fatiga y proporciona mayor confort durante las sesiones largas de juego. Pertenece a la colección de palas Head 2025. ¿Para quién es la Head One Ultralight White 25? La Head One Ultralight White es ideal para jugadores de nivel intermedio o avanzado que buscan una pala ligera y controlable. Su estructura equilibrada y tecnologías avanzadas la convierten en la opción perfecta para aquellos que desean maximizar su rendimiento en cada partido, sin perder control ni precisión. ¿Por qué te va a gustar la pala Head One Ultralight White 225014? Te encantará esta pala por su ligereza, su capacidad para proporcionar golpes poderosos y su manejo ergonómico. Con su estructura de carbono y núcleo Power FOAM, esta pala ofrece una sensación única en cada golpe, combinando potencia y precisión sin sacrificar la comodidad. Además te encantará su manejabilidad, con un peso alrededor de los 345 gramos ofrece unas sensaciones excepcionales y permite realizar movimientos rápidos. Head es una marca reconocida a nivel mundial por su innovación y excelencia en la fabricación de equipamiento deportivo. Fundada en 1950, Head ha liderado el desarrollo de nuevas tecnologías que mejoran el rendimiento de los jugadores en diversas disciplinas deportivas. En el mundo del pádel, la marca ha revolucionado el mercado con palas diseñadas para maximizar la potencia y el control. Con décadas de experiencia en la fabricación de equipos deportivos de alto rendimiento, Head sigue marcando la diferencia en el mercado global. Su compromiso con la calidad, la tecnología avanzada y el diseño innovador han ganado la confianza de atletas profesionales en todo el mundo.",
+    "specs": {
+      "peso": "345g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 120.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/11261-head-one-ultralight-white-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1710,
     "slug": "nox-at10-genius-18k-alum-agustin-tapia-2025-11231",
     "name": "Nox AT10 Genius 18K Alum Agustin Tapia 2025",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 180,
+    "price": 169.95,
     "oldPrice": 360,
     "rating": null,
     "badge": null,
@@ -20374,14 +23203,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 180,
+        "price": 169.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/11231-nox-at10-genius-18k-alum-agustin-tapia-2025.html"
       }
     ]
   },
   {
-    "id": 1727,
+    "id": 1711,
     "slug": "pack-3-botes-pelotas-head-padel-pro-s-11219",
     "name": "Pack 3 botes pelotas Head Padel Pro S+",
     "brand": "Head Padel",
@@ -20422,7 +23251,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1728,
+    "id": 1712,
     "slug": "bote-pelotas-head-padel-pro-s-11218",
     "name": "Bote pelotas Head Padel Pro S+",
     "brand": "Head Padel",
@@ -20463,7 +23292,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1731,
+    "id": 1715,
     "slug": "mochila-bullpadel-bpm25021-pearl-blanco-2024-11186",
     "name": "Mochila Bullpadel BPM25021 Pearl blanco 2024",
     "brand": "Bullpadel",
@@ -20504,30 +23333,30 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1746,
-    "slug": "bote-pelotas-siux-neo-x-3-11087",
-    "name": "Bote pelotas Siux Neo x 3",
-    "brand": "Siux",
-    "category": "acessorios",
-    "price": 4.96,
-    "oldPrice": 6,
+    "id": 1735,
+    "slug": "bullpadel-xplo-2025-11061",
+    "name": "Bullpadel XPlo 2025",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 129.6,
+    "oldPrice": 340,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/32012-large_default/bote-pelotas-siux-neo-x-3.jpg",
-    "ean": "8436625200822",
-    "productGTIN": "8436625200822",
-    "mpn": "11087",
+    "image": "https://www.zonadepadel.es/20371-large_default/bullpadel-xplo-2025.jpg",
+    "ean": "8445402691906",
+    "productGTIN": "8445402691906",
+    "mpn": "11061",
     "source": "zona-de-padel",
-    "sourceProductId": "11087",
-    "sourceCategory": "Complementos padel > Pelotas de padel",
-    "description": "Explora la excelencia en el juego con el bote de pelotas Siux Neo x 3, diseñado para enfrentar los desafíos de las altas temperaturas en la pista. Perfecto para partidos intensos, este conjunto de pelotas garantiza un rendimiento constante y una durabilidad excepcional, lo que te permite concentrarte en cada golpe sin distracciones por desgaste. Con una formulación específica que optimiza el rebote y la velocidad, las pelotas Siux Neo son la elección ideal para jugadores que buscan mantener la intensidad en juegos prolongados bajo el sol. Su composición avanzada resiste la pérdida de presión y asegura una jugabilidad superior en condiciones extremas. Características Bote pelotas Siux Neo x 3 amarillo Diseñadas para adaptarse a las condiciones de alta temperatura, manteniendo un rendimiento óptimo. Fabricadas con un núcleo que proporciona gran rebote y resistencia a la compresión. Superficie de gran dureza para un juego más rápido y ágil. Resistentes a la pérdida de presión, ideales para uso continuado. Bote de 3 unidades. Pertenece a la colección de accesorios Siux 2024, ofreciendo lo último en tecnología para el pádel. ¿A quién va dirigido? Este bote de pelotas Siux está dirigido a jugadores de pádel de todos los niveles que enfrentan condiciones de juego calurosas y desean mantener un alto nivel de juego con pelotas diseñadas para el máximo rendimiento. ¿Por qué te va a gustar? Te encantarán estas pelotas porque están diseñadas para ofrecerte durabilidad y consistencia en el juego, permitiéndote disfrutar de partidos largos y exigentes sin preocuparte por el desgaste de las pelotas. De esta forma, no tendrás que cambiar de pelotas tan a menudo. Descubre más sobre la marca Siux Siux se ha establecido como un líder en el mercado de pádel, ofreciendo productos que integran innovaciones técnicas para mejorar la experiencia del jugador. Desde su fundación, Siux ha priorizado la calidad y el rendimiento, colaborando estrechamente con profesionales del deporte para desarrollar equipos que satisfacen las demandas de jugadores en todos los niveles de habilidad. Comprometidos con la innovación y la calidad, Siux continúa expandiendo su gama de productos, asegurando que cada artículo cumpla con los más altos estándares de excelencia y satisfaga las necesidades específicas de los jugadores de pádel modernos.",
+    "sourceProductId": "11061",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "Explora la superioridad en el juego con la pala de pádel Bullpadel XPlo 2025, el nuevo modelo endosado por Martín Di Nenno. Esta pala es de potencia y tacto semi duro, así que está diseñada para transformar tu rendimiento en la pista. Presenta sistema Custom Weight para modificar el balance así como grip hesacore que mejora el agarre. Integrando el innovador X-Tend Carbon 12K en el plano externo, esta pala no solo optimiza la robustez sino que mejora el manejo, fusionando una resistencia excepcional con una manejabilidad sin precedentes. Su núcleo MultiEva complementa este diseño, ofreciendo un rebote diferencial que adapta la respuesta dependiendo de la fuerza del golpe, mientras que su superficie rugosa maximiza el efecto en cada impacto. Características avanzadas de la Bullpadel XPlo roja 2025 Innovación Geoshape que amplifica la potencia y proporciona un balance adelantado. La tecnología Air Power mejora la aerodinámica, lo que permite movimientos más rápidos y ligeros. Flexibilidad revolucionaria con el sistema Wave, diseñado para optimizar la dispersión de la energía a lo largo del marco,. Configuración personalizada del balance y optimización del punto dulce gracias a la tecnología Smart Holes. Estructura de carbono 12k que no solo refuerza el marco sino que añade una estética premium a la pala. Forma parte de la exclusiva línea 2025 de Bullpadel, garantizando lo último en innovación y rendimiento. ¿A quién va dirigido? Diseñada para competidores serios, la Bullpadel XPlo de Di Nenno es ideal para aquellos que buscan un instrumento de precisión que ofrezca tanto golpes poderosos cerca, ya que por su forma y tacto es perfecta para dominar la red y no dar opciones a tus rivales. ¿Por qué te va a gustar? Te enamorarás de ella por su diseño de vanguardia y sus materiales de alta calidad, que aseguran un rendimiento superior sin sacrificar el estilo o la comodidad. Representando a Di Nenno, esta pala promete elevar tu habilidad y estilo en la pista con su acabado en carbono visto y rojo. Descubre más sobre Bullpadel Reconocida por su innovación constante y calidad superior, Bullpadel se ha establecido como una fuerza líder en el mundo del pádel. Innovando continuamente para adaptarse y adelantarse a las necesidades de los jugadores de todos los niveles, Bullpadel ofrece productos que marcan la diferencia en el juego, respaldados por años de investigación y desarrollo. Comprometidos con la excelencia, Bullpadel sigue innovando para ofrecer las mejores palas, combinando tecnología avanzada y materiales de primera para asegurar la satisfacción y el éxito de cada jugador.",
     "specs": {
       "peso": null,
       "forma": null,
       "equilibrio": null,
       "nivel": null,
-      "material": null,
-      "estilo": null,
+      "material": "Carbono",
+      "estilo": "Potência",
       "sola": null,
       "genero": null,
       "cor": null,
@@ -20538,19 +23367,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 4.96,
+        "price": 129.6,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/siux/11087-bote-pelotas-siux-neo-x-3.html"
+        "url": "https://www.zonadepadel.es/bullpadel/11061-bullpadel-xplo-2025.html"
       }
     ]
   },
   {
-    "id": 1766,
+    "id": 1747,
     "slug": "head-gravity-team-light-2025-11032",
     "name": "Head Gravity Team Light 2025",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 109.96,
+    "price": 128.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -20579,14 +23408,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 128.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/11032-head-gravity-team-light-2025.html"
       }
     ]
   },
   {
-    "id": 1767,
+    "id": 1748,
     "slug": "head-gravity-team-2025-11031",
     "name": "Head Gravity Team 2025",
     "brand": "Head Padel",
@@ -20627,7 +23456,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1768,
+    "id": 1749,
     "slug": "head-gravity-motion-2025-11030",
     "name": "Head Gravity Motion 2025",
     "brand": "Head Padel",
@@ -20668,7 +23497,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1769,
+    "id": 1750,
     "slug": "head-gravity-pro-2025-11029",
     "name": "Head Gravity Pro 2025",
     "brand": "Head Padel",
@@ -20709,7 +23538,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1772,
+    "id": 1752,
+    "slug": "star-vie-brava-soft-15k-2025-11017",
+    "name": "Star Vie Brava Soft 15k 2025",
+    "brand": "Star Vie",
+    "category": "raquetes",
+    "price": 162.01,
+    "oldPrice": 270,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/20889-large_default/star-vie-brava-soft-15k-2025.jpg",
+    "ean": "8436612940595",
+    "productGTIN": "8436612940595",
+    "mpn": "11017",
+    "source": "zona-de-padel",
+    "sourceProductId": "11017",
+    "sourceCategory": "Palas de padel > Palas de padel Star Vie",
+    "description": "La Pala Star Vie Brava Soft 15k 2025 es la elección perfecta para jugadores avanzados que buscan una pala que combine control, potencia y confort. Con su forma de lágrima y balance ajustado, esta pala garantiza una excelente manejabilidad en la pista, permitiendo realizar golpes precisos y con gran potencia sin comprometer la comodidad. Su diseño avanzado proporciona una respuesta táctil excelente en cada golpe. Está construida con carbono 15k para una mayor durabilidad y flexibilidad. Incorpora la goma EVA Soft 30, que mejora la suavidad del impacto y el confort durante el juego, reduciendo las vibraciones al mínimo gracias al grip Noene Inside. Su textura de estrella en el plano optimiza los efectos, permitiendo controlar la pelota con precisión. Características y tecnologías de la pala de pádel Star Vie Brava Soft 15k 2025 Fibra de carbono 15k: Aumenta la flexibilidad y la resistencia, garantizando un rendimiento óptimo en cada partido. Goma EVA Soft 30: Ofrece una suavidad superior, lo que mejora la salida de la bola y proporciona un golpeo más cómodo. Textura de estrella: La rugosidad en el plano mejora el control de los efectos para mayor precisión. Pieza Core Brava: Optimiza el balance hacia el puño, mejorando la rapidez y manejabilidad en el juego. Noene Inside: Sistema avanzado de absorción de vibraciones que minimiza hasta el 96% de las mismas, brindando mayor confort. Pertenece a la colección de palas Star Vie 2025. ¿Para quién es la Star Vie Brava Soft 15k 2025? La Brava Soft está diseñada para jugadores de nivel avanzado que buscan una pala que ofrezca una excelente adaptabilidad en la pista. Ideal para aquellos que valoran tanto el control como la potencia, sin renunciar al confort que ofrece la goma EVA Soft 30. ¿Por qué te va a gustar la Pala Star Vie Brava Soft 15k 2025? Te encantará porque combina flexibilidad, control y potencia en una pala versátil. Ofrece una experiencia de juego superior gracias a su construcción avanzada en carbono 15k y su goma EVA Soft 30, proporcionando confort y precisión en cada golpe. Con la Star Vie Brava Soft 15k, obtendrás el equilibrio perfecto entre potencia y confort, haciendo que cada partido sea una demostración de tu técnica y estilo de juego. Star Vie es una marca referente en el mundo del pádel, destacada por su compromiso con la calidad y la innovación. Con más de dos décadas en el mercado, cada una de sus palas es el resultado de un riguroso proceso de diseño y fabricación en España, ofreciendo productos de alto rendimiento que se adaptan a las exigencias de los jugadores profesionales y aficionados. La Star Vie Brava Soft 15k 2025 es una muestra del esfuerzo constante de la marca por ofrecer palas que maximizan el rendimiento en la pista, combinando la última tecnología con materiales de primera calidad.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 162.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/star-vie/11017-star-vie-brava-soft-15k-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1753,
     "slug": "star-vie-brava-pro-15k-2025-11016",
     "name": "Star Vie Brava Pro 15k 2025",
     "brand": "Star Vie",
@@ -20750,7 +23620,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1823,
+    "id": 1803,
     "slug": "mochila-lok-maxx-blanca-2024-10883",
     "name": "Mochila Lok Maxx blanca 2024",
     "brand": "Lok",
@@ -20791,7 +23661,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1824,
+    "id": 1804,
     "slug": "mochila-lok-maxx-negra-2024-10882",
     "name": "Mochila Lok Maxx negra 2024",
     "brand": "Lok",
@@ -20832,7 +23702,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1825,
+    "id": 1805,
     "slug": "mochila-lok-adventure-azul-2024-10880",
     "name": "Mochila Lok Adventure azul 2024",
     "brand": "Lok",
@@ -20873,7 +23743,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1826,
+    "id": 1806,
     "slug": "joma-slam-pro-a1-blanco-oro-2024-10874",
     "name": "Joma Slam Pro A1 blanco oro 2024",
     "brand": "Joma",
@@ -20914,29 +23784,29 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1827,
-    "slug": "bullpadel-xplo-comfort-2025-10856",
-    "name": "Bullpadel XPlo Comfort 2025",
+    "id": 1807,
+    "slug": "bullpadel-hack-04-2025-10855",
+    "name": "Bullpadel Hack 04 2025",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 127.06,
-    "oldPrice": 250,
+    "price": 154.96,
+    "oldPrice": 330,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/20437-large_default/bullpadel-xplo-comfort-2025.jpg",
-    "ean": "8445402755639",
-    "productGTIN": "8445402755639",
-    "mpn": "10856",
+    "image": "https://www.zonadepadel.es/20446-large_default/bullpadel-hack-04-2025.jpg",
+    "ean": "8445402691838",
+    "productGTIN": "8445402691838",
+    "mpn": "10855",
     "source": "zona-de-padel",
-    "sourceProductId": "10856",
+    "sourceProductId": "10855",
     "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
-    "description": "Seguimos con las novedades de Bullpadel con la pala de pádel Bullpadel XPlo Comfort 2025, una pala diseñada para revolucionar tu juego con su avanzada tecnología y materiales premium. Este modelo se convierte en la nueva pala de Martín Di Nenno, así que no solo garantiza una potencia dinámica superior, sino que también asegura confort y precisión en cada golpe, ideal para los jugadores que buscan mejorar su técnica en la pista. Con la incorporación de la fibra Fibrix en el núcleo exterior, la Bullpadel XPlo Comfort 2025 eleva la experiencia de juego, ofreciendo un equilibrio perfecto entre control y fuerza. Su diseño también dispone de núcleo multieva así como un ligero acabado rugoso. En definitiva todas las innovaciones facilitan una transferencia eficaz de la energía cinética, permitiendo golpes más fuertes y precisos sin esfuerzo adicional. Características de la pala Bullpadel XPlo Comfort 2025 Geoshape para una potencia explosiva y un balance hacia la punta que mejora el swing y la precisión. Tecnología Air Power que aumenta la aerodinámica, reduciendo la resistencia del aire en un 50% para golpes más rápidos y ligeros. Sistema Wave para una flexibilidad mejorada del marco, lo que facilita una transferencia de energía más suave y eficaz. Smart Holes con diseño mejorado para un punto dulce ampliado, aumentando la rigidez donde es necesario para un mejor control del golpe. Nuevo marco geométrico junto con una construcción en fibrix de la superficie. Pertenece a la colección de palas Bullpadel 2025, asegurando lo último en innovación y calidad. ¿A quién va dirigido? Está diseñada para jugadores avanzados que requieren una pala con la que puedan ejecutar golpes potentes cerca de la red, así como ofrecer un control preciso para defensas y globos profundos. Ideal para aquellos que buscan mejorar su juego con una pala de alto rendimiento. ¿Por qué te va a gustar? Vas a preferir la Bullpadel XPlo Comfort por su excepcional combinación de tecnología vanguardista y materiales de calidad que ofrecen un juego sin compromisos. Además se convierte en la pala de Di Nenno, con lo que presenta un acabado excepcional y de alta calidad para que puedas demostrar tus habilidades. Descubre más sobre la marca Bullpadel Bullpadel es líder en la industria del pádel, conocida por su dedicación a la innovación y la calidad. Desde sus inicios, la marca ha sido pionera en desarrollar productos que empoderan a los jugadores de todos los niveles, desde amateurs hasta profesionales, ayudándolos a alcanzar su máximo potencial en la pista. Comprometidos con la excelencia, Bullpadel sigue innovando para ofrecer las mejores palas, combinando tecnología avanzada y materiales de primera para asegurar la satisfacción y el éxito de cada jugador.",
+    "description": "La Hack 04 es la pala elegida por Paquito Navarro, diseñada para jugadores que buscan potencia y precisión en cada golpe. Con su forma diamante y un balance optimizado, la Bullpadel Hack 04 2025 te permitirá dominar cada punto con una velocidad impresionante y control absoluto. Gracias a su estructura de carbono TriCarbon 18K y las tecnologías avanzadas como Total Channel y Air React Channel, esta pala está pensada para jugadores de ataque que buscan llevar su juego al siguiente nivel. ¡La Hack 04 es tu mejor aliada si te gusta jugar rápido y con potencia! Características y tecnologías de la Pala Bullpadel Hack 04 Total Channel: Mejora la aerodinámica de la pala, aumentando la velocidad y estabilidad en cada golpe. Tricore: Refuerza el corazón de la pala, reduciendo vibraciones y mejorando la potencia. Air React Channel: Tecnología que optimiza el flujo de aire, brindando una mayor aceleración y maniobrabilidad. Smart Holes: Distribución de agujeros que maximiza la salida de bola y amplía el punto dulce. 3D Grain: Superficie rugosa que facilita el control y el efecto en cada golpe. Pertenece a la colección de palas Bullpadel 2025. ¿Para quién es la Bullpadel Hack 04 25? La Hack 04 está diseñada para jugadores de ataque que buscan potencia y precisión en cada punto. Ideal para quienes disfrutan controlando el ritmo del juego desde la red y ejecutando golpes potentes y decisivos. Con la Bullpadel Hack 04 2025, experimentarás un control total sobre cada movimiento, gracias a su combinación de tecnologías como Air React Channel y Tricore, que brindan una mayor aceleración y estabilidad. ¿Por qué te va a gustar la Pala Bullpadel Hack 04 CN62000000? Te encantará la Bullpadel Hack 04 por su increíble potencia y precisión. Su forma diamante junto con la tecnología Total Channel optimizan el flujo de aire, lo que te permitirá golpear con mayor velocidad y estabilidad. Ideal para jugadores de ataque que quieren dominar cada golpe. Bullpadel es una marca líder en el desarrollo de palas de pádel de alta tecnología. Desde su fundación, ha trabajado mano a mano con jugadores profesionales como Paquito Navarro para crear productos que maximizan el rendimiento en la pista. Con más de 25 años de experiencia, Bullpadel sigue innovando y ofreciendo palas que combinan rendimiento, durabilidad y estilo, lo que la convierte en una opción preferida por jugadores de todos los niveles. Cada pala está diseñada para ofrecer una experiencia única y llevar tu juego al siguiente nivel.",
     "specs": {
-      "peso": "025g",
-      "forma": null,
+      "peso": null,
+      "forma": "Diamante",
       "equilibrio": null,
       "nivel": null,
-      "material": null,
+      "material": "Carbono",
       "estilo": "Equilibrado",
       "sola": null,
       "genero": null,
@@ -20948,19 +23818,101 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 127.06,
+        "price": 154.96,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/bullpadel/10856-bullpadel-xplo-comfort-2025.html"
+        "url": "https://www.zonadepadel.es/bullpadel/10855-bullpadel-hack-04-2025.html"
       }
     ]
   },
   {
-    "id": 1831,
+    "id": 1808,
+    "slug": "bullpadel-vertex-04-2025-10839",
+    "name": "Bullpadel Vertex 04 2025",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 159.95,
+    "oldPrice": 340,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/20443-large_default/bullpadel-vertex-04-2025.jpg",
+    "ean": "8445402691890",
+    "productGTIN": "8445402691890",
+    "mpn": "10839",
+    "source": "zona-de-padel",
+    "sourceProductId": "10839",
+    "sourceCategory": "Palas de padel > Palas de padel Bullpadel",
+    "description": "Presentamos uno de los modelos más exitosos: la pala de pádel Bullpadel Vertex 04 2025, una pala diseñada específicamente para jugadores profesionales que buscan dominar la pista con una combinación única de potencia y control. Este nuevo modelo, con su característica forma de diamante y balance alto también permite modificar su peso con las placas CustomWeight. Además la superficie rugosa Top Spin, está optimizado para realizar mejores efectos. El novedoso sistema Curvaktiv de la Vertex 04 aporta una resistencia estructural sin precedentes, optimizando la distribución de las tensiones. Combinado con el sistema Air Power, mejora la manejabilidad y reduce las vibraciones, proporcionando una jugabilidad superior y un confort excepcional. Además presenta una construcción en Xtend Carbon 12K, su núcleo interno de la nueva goma MultiEva y su marco CarbonTube de fibra de carbono 100%. Características y tecnologías de la Pala Bullpadel Vertex 04 Forma de diamante con balance hacia la cabeza para una potencia excepcional en cada golpe. Tecnología Curvaktiv que proporciona mayor rigidez y mejor distribución de tensiones. Sistema Air Power que optimiza la aerodinámica y mejora la reactividad de la pala. Superficie rugosa Top Spin para efectos mejorados y mayor control de la bola. Construcción de carbono Xtend Carbon 12K que ofrece durabilidad y una respuesta táctil mejorada. Pertenece a la colección exclusiva de palas Bullpadel del año 2025. ¿Para quién es Bullpadel Vertex 04 2025? La Bullpadel Vertex 04 2025 está dirigida a jugadores de potencia que buscan maximizar su control y precisión en la pista. Perfecta para aquellos que disfrutan de un juego ofensivo y desean dominar cada partido con golpes potentes y precisos. ¿Por qué te va a gustar la Pala Bullpadel Vertex 04 CN68000000? Te encantará la Bullpadel Vertex 04 por su increíble combinación de potencia, control y maniobrabilidad. Con sus tecnologías avanzadas, lograrás mejorar tu rendimiento en cada partido. Además, su diseño ergonómico y el sistema de absorción de vibraciones la hacen cómoda de usar incluso en los golpes más exigentes. Bullpadel es una de las marcas líderes en el mundo del pádel, conocida por su compromiso con la innovación y la calidad. Sus productos están diseñados con las últimas tecnologías, ofreciendo a los jugadores una experiencia de juego superior. Fundada con el objetivo de proporcionar las mejores herramientas para jugadores de todos los niveles, Bullpadel ha crecido hasta convertirse en una referencia global. Comprar una pala Bullpadel es sinónimo de calidad, durabilidad y rendimiento excepcional.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 159.95,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/bullpadel/10839-bullpadel-vertex-04-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1809,
+    "slug": "babolat-technical-viper-juan-lebron-2025-10835",
+    "name": "Babolat Technical Viper Juan Lebron 2025",
+    "brand": "Babolat",
+    "category": "raquetes",
+    "price": 184.91,
+    "oldPrice": 380,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/21831-large_default/babolat-technical-viper-juan-lebron-2025.jpg",
+    "ean": "3324922164464",
+    "productGTIN": "3324922164464",
+    "mpn": "10835",
+    "source": "zona-de-padel",
+    "sourceProductId": "10835",
+    "sourceCategory": "Palas de padel > Palas de padel Babolat",
+    "description": "La Babolat Technical Viper Juan Lebron 2025 está diseñada para jugadores exigentes que buscan dominar la pista con golpes de potencia y precisión. Con su formato diamante y balance alto, esta pala es ideal para los amantes del juego ofensivo que destacan en voleas y remates espectaculares. Su construcción con carbono 3K asegura máxima resistencia, mientras que la goma X-eva en el núcleo proporciona una sensación firme y un golpeo preciso. Equipada con tecnología avanzada, como la rugosidad 3D Spin+ para efectos superiores y un sistema de estabilidad dinámica que elimina vibraciones, la Technical Viper Juan Lebron asegura un confort excepcional. Además, su innovador Smart Buttcap permite ajustar el cordón de seguridad fácilmente, garantizando comodidad y confianza en cada movimiento. Características y tecnologías de la pala de pádel Babolat Technical Viper Juan Lebron Carbono 3K: Construcción robusta que mejora la durabilidad y ofrece un tacto firme en cada golpe. Goma X-eva: Núcleo avanzado que proporciona una combinación única de potencia y confort. Tecnología 3D Spin+: Superficie rugosa para generar efectos espectaculares y controlar la bola con precisión. Dynamic Stability System: Reduce las vibraciones, mejorando la estabilidad y previniendo lesiones. Smart Buttcap: Innovador diseño que permite ajustes rápidos del cordón de seguridad. Pertenece a la colección de palas Babolat 2025. ¿Para quién es la Babolat Technical Viper Juan Lebron 2025? La Babolat Technical Viper Juan Lebron está orientada a jugadores agresivos de nivel avanzado o profesional que buscan potenciar su juego ofensivo. Perfecta para quienes dominan el juego aéreo y disfrutan de realizar remates con efecto, garantizando un rendimiento excepcional en la pista. ¿Por qué te va a gustar la pala Babolat Technical Viper Juan Lebron 150158? Te encantará la Babolat Technical Viper Juan Lebron por su equilibrio perfecto entre tecnología y rendimiento. Su construcción en carbono 3K y núcleo X-eva ofrece una potencia explosiva con cada golpe, mientras que el sistema anti vibraciones asegura máxima comodidad durante largos partidos. Además, su diseño audaz y la incorporación de tecnologías avanzadas, como la rugosidad 3D Spin+, te permitirán destacar con efectos inigualables. Es una pala que combina estilo, durabilidad y un control impecable, convirtiéndose en la elección ideal para jugadores exigentes. Con más de 150 años de historia, Babolat es una marca líder en el desarrollo de equipamiento deportivo de alta calidad. Fundada en Francia, ha sido pionera en integrar tecnologías avanzadas para mejorar el rendimiento de los atletas. En el mundo del pádel, Babolat ha destacado por su compromiso con la innovación, colaborando con jugadores de élite como Juan Lebron para diseñar productos que se adapten a las exigencias del juego moderno. Elegir Babolat significa optar por calidad, rendimiento y un legado de excelencia.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 184.91,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/babolat/10835-babolat-technical-viper-juan-lebron-2025.html"
+      }
+    ]
+  },
+  {
+    "id": 1810,
     "slug": "zapatillas-babolat-sensa-women-grey-white-2024-10834",
     "name": "Sapatilhas Babolat Sensa Women grey white 2024",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 58.91,
+    "price": 52.01,
     "oldPrice": 125,
     "rating": null,
     "badge": null,
@@ -20989,14 +23941,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 58.91,
+        "price": 52.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/10834-zapatillas-babolat-sensa-women-grey-white-2024.html"
       }
     ]
   },
   {
-    "id": 1870,
+    "id": 1849,
     "slug": "wilson-blade-v3-2024-10656",
     "name": "Wilson Blade V3 2024",
     "brand": "Wilson Padel",
@@ -21037,7 +23989,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1874,
+    "id": 1853,
     "slug": "paletero-nox-street-series-gris-rosa-10633",
     "name": "Saco Nox Street Series gris rosa",
     "brand": "Nox",
@@ -21078,7 +24030,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1875,
+    "id": 1854,
     "slug": "paletero-nox-street-series-azul-10632",
     "name": "Saco Nox Street Series azul",
     "brand": "Nox",
@@ -21119,12 +24071,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1876,
+    "id": 1855,
     "slug": "paletero-nox-street-series-negro-gris-10631",
     "name": "Saco Nox Street Series negro gris",
     "brand": "Nox",
     "category": "sacos",
-    "price": 44.91,
+    "price": 58.51,
     "oldPrice": 65,
     "rating": null,
     "badge": null,
@@ -21153,14 +24105,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.91,
+        "price": 58.51,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10631-paletero-nox-street-series-negro-gris.html"
       }
     ]
   },
   {
-    "id": 1878,
+    "id": 1857,
     "slug": "mochila-nox-at10-team-gris-10604",
     "name": "Mochila Nox AT10 Team gris",
     "brand": "Nox",
@@ -21201,12 +24153,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1888,
+    "id": 1867,
     "slug": "paletero-nox-at10-team-gris-naranja-2024-10576",
     "name": "Saco Nox AT10 Team gris naranja 2024",
     "brand": "Nox",
     "category": "sacos",
-    "price": 44.91,
+    "price": 48.96,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -21235,19 +24187,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.91,
+        "price": 48.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10576-paletero-nox-at10-team-gris-naranja-2024.html"
       }
     ]
   },
   {
-    "id": 1891,
+    "id": 1870,
     "slug": "paletero-nox-at10-team-gris-verde-2024-10569",
     "name": "Saco Nox AT10 Team gris verde 2024",
     "brand": "Nox",
     "category": "sacos",
-    "price": 49.91,
+    "price": 48.95,
     "oldPrice": 70,
     "rating": null,
     "badge": null,
@@ -21276,19 +24228,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 49.91,
+        "price": 48.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10569-paletero-nox-at10-team-gris-verde-2024.html"
       }
     ]
   },
   {
-    "id": 1895,
+    "id": 1874,
     "slug": "paletero-nox-ml10-competition-xl-compact-10561",
     "name": "Saco Nox ML10 Competition XL Compact",
     "brand": "Nox",
     "category": "sacos",
-    "price": 52.95,
+    "price": 54.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -21317,19 +24269,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 52.95,
+        "price": 54.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10561-paletero-nox-ml10-competition-xl-compact.html"
       }
     ]
   },
   {
-    "id": 1899,
+    "id": 1878,
     "slug": "paletero-nox-at10-competition-xl-compact-10557",
     "name": "Saco Nox AT10 Competition XL Compact",
     "brand": "Nox",
     "category": "sacos",
-    "price": 56.96,
+    "price": 71.96,
     "oldPrice": 80,
     "rating": null,
     "badge": null,
@@ -21358,14 +24310,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 56.96,
+        "price": 71.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10557-paletero-nox-at10-competition-xl-compact.html"
       }
     ]
   },
   {
-    "id": 1900,
+    "id": 1879,
     "slug": "paletero-nox-at10-xxl-negro-naranja-10555",
     "name": "Saco Nox AT10 XXL negro naranja",
     "brand": "Nox",
@@ -21406,7 +24358,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1909,
+    "id": 1888,
     "slug": "mochila-nox-luxury-open-series-negra-marron-10539",
     "name": "Mochila Nox Luxury Open Series negra marron",
     "brand": "Nox",
@@ -21447,12 +24399,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1910,
+    "id": 1889,
     "slug": "mochila-nox-luxury-open-series-roja-negra-10538",
     "name": "Mochila Nox Luxury Open Series roja negra",
     "brand": "Nox",
     "category": "sacos",
-    "price": 39.95,
+    "price": 37.95,
     "oldPrice": 60,
     "rating": null,
     "badge": null,
@@ -21481,19 +24433,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 39.95,
+        "price": 37.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10538-mochila-nox-luxury-open-series-roja-negra.html"
       }
     ]
   },
   {
-    "id": 1911,
+    "id": 1890,
     "slug": "paletero-nox-luxury-open-series-negro-marron-10534",
     "name": "Saco Nox Luxury Open Series negro marron",
     "brand": "Nox",
     "category": "sacos",
-    "price": 59.91,
+    "price": 59.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -21522,14 +24474,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 59.91,
+        "price": 59.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10534-paletero-nox-luxury-open-series-negro-marron.html"
       }
     ]
   },
   {
-    "id": 1912,
+    "id": 1891,
     "slug": "paletero-nox-luxury-open-series-negro-rojo-10533",
     "name": "Saco Nox Luxury Open Series negro rojo",
     "brand": "Nox",
@@ -21570,12 +24522,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1913,
+    "id": 1892,
     "slug": "paletero-nox-luxury-master-series-10532",
     "name": "Saco Nox Luxury Master Series",
     "brand": "Nox",
     "category": "sacos",
-    "price": 62.51,
+    "price": 71.95,
     "oldPrice": 100,
     "rating": null,
     "badge": null,
@@ -21604,14 +24556,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.51,
+        "price": 71.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/nox/10532-paletero-nox-luxury-master-series.html"
       }
     ]
   },
   {
-    "id": 1925,
+    "id": 1903,
     "slug": "zapatillas-mizuno-break-shot-cc-woman-white-mugen-blue-2024-10426",
     "name": "Sapatilhas Mizuno Break Shot CC Woman white mugen blue 2024",
     "brand": "Mizuno",
@@ -21620,7 +24572,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     "oldPrice": 85,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/19180-large_default/zapatillas-mizuno-break-shot-cc-woman-white-mugen-blue-2024.jpg",
+    "image": "https://www.zonadepadel.es/32561-large_default/zapatillas-mizuno-break-shot-cc-woman-white-mugen-blue-2024.jpg",
     "ean": "5059431840186",
     "productGTIN": "5059431840186",
     "mpn": "10426",
@@ -21652,12 +24604,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1934,
+    "id": 1912,
     "slug": "zapatillas-adidas-avaflash-clay-grey-four-2024-10364",
     "name": "Sapatilhas Adidas Avaflash Clay grey four 2024",
     "brand": "Adidas Padel",
     "category": "sapatilhas",
-    "price": 54.95,
+    "price": 54.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -21686,19 +24638,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.95,
+        "price": 54.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/adidas-padel/10364-zapatillas-adidas-avaflash-clay-grey-four-2024.html"
       }
     ]
   },
   {
-    "id": 1937,
+    "id": 1913,
+    "slug": "head-extreme-pro-ltd-2024-10346",
+    "name": "Head Extreme Pro LTD 2024",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 129.96,
+    "oldPrice": 320,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18775-large_default/head-extreme-pro-arturo-coello-2024.jpg",
+    "ean": "726423254935",
+    "productGTIN": "726423254935",
+    "mpn": "10346",
+    "source": "zona-de-padel",
+    "sourceProductId": "10346",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Experimenta la revolución en el juego de padel con la pala Head Extreme Pro Arturo Coello 2024. Esta pala es el resultado de una colaboración exclusiva con Arturo Coello y está diseñada para elevar el nivel de los jugadores profesionales. Su forma de diamante y tecnologías avanzadas proporcionan una potencia y control sin precedentes en la pista. El modelo Head Extreme Pro Arturo combina materiales innovadores y diseño ergonómico para ofrecer una respuesta táctil mejorada y un manejo excepcional. Para su construcción se ha utilizado Graphene Inside y Power Foam así que cada golpe se siente más preciso y potente, lo que te permite dominar el juego con facilidad y confianza. Características pala Head Extreme Pro Arturo Coello 2024 Nuevo diseño de molde con tecnología Auxetic, aumentando la potencia y mejorando la sensación de impacto. Tecnología Spin que intensifica el efecto en la pelota, optimizando cada golpe. Tapón blando en la base de la empuñadura que mejora la absorción de vibraciones y aumenta la comodidad. Construcción que incorpora Graphene Inside, lo que mejora notablemente sus prestaciones. Edición exclusiva diseñada para el Premier Roma, reflejando el espíritu y la energía de la competición. Pertenece a la colección de palas exclusivas Head 2024. ¿A quién va dirigido? Está dirigida a jugadores de padel avanzados y profesionales que buscan mejorar su juego de ataque con lo último en tecnología y diseño. Es ideal para aquellos que valoran la potencia en su juego, ya que la bola sale con mucha velocidad y precisión. ¿Por qué te va a gustar? Vas a adorar la pala Head Extreme Pro Arturo por su capacidad para transformar tu juego. Su innovación técnica te permite ejecutar golpes más potentes y precisos, mientras que su diseño único la convierten en una pala Head exclusiva, con muy pocas unidades a la venta ¡consigue la tuya! Descubre más sobre la marca Head Head es reconocida mundialmente por su compromiso con la calidad y la innovación en el deporte. Desde su fundación, ha sido pionera en el desarrollo de equipos deportivos que empoderan a los atletas a alcanzar su máximo potencial. Con una historia rica en avances tecnológicos, Head sigue siendo una elección preferida entre los profesionales del deporte, ofreciendo productos que combinan rendimiento excepcional con tecnología de vanguardia.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 129.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/10346-head-extreme-pro-arturo-coello-2024.html"
+      }
+    ]
+  },
+  {
+    "id": 1915,
     "slug": "cajon-pelotas-wilson-premier-padel-speed-24-x-3-10308",
     "name": "Cajon pelotas Wilson Premier Padel Speed 24 x 3",
     "brand": "Wilson Padel",
     "category": "acessorios",
-    "price": 108.96,
+    "price": 129.91,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -21727,19 +24720,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 108.96,
+        "price": 129.91,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/10308-cajon-pelotas-wilson-premier-padel-speed-24-x-3.html"
       }
     ]
   },
   {
-    "id": 1938,
+    "id": 1916,
     "slug": "cajon-pelotas-wilson-premier-padel-24-x-3-10306",
     "name": "Cajon pelotas Wilson Premier Padel 24 x 3",
     "brand": "Wilson Padel",
     "category": "acessorios",
-    "price": 108.96,
+    "price": 109.01,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -21768,14 +24761,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 108.96,
+        "price": 109.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/wilson-padel/10306-cajon-pelotas-wilson-premier-padel-24-x-3.html"
       }
     ]
   },
   {
-    "id": 1942,
+    "id": 1920,
     "slug": "zapatillas-adidas-barricade-m-ftwr-white-2024-10254",
     "name": "Sapatilhas Adidas Barricade M ftwr white 2024",
     "brand": "Adidas Padel",
@@ -21816,7 +24809,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1946,
+    "id": 1924,
     "slug": "pack-3-botes-pelotas-wilson-premier-padel-speed-x-3-10225",
     "name": "Pack 3 botes pelotas Wilson Premier Padel Speed x 3",
     "brand": "Wilson Padel",
@@ -21857,7 +24850,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1947,
+    "id": 1925,
     "slug": "pack-3-botes-pelotas-wilson-premier-padel-x-3-10224",
     "name": "Pack 3 botes pelotas Wilson Premier Padel x 3",
     "brand": "Wilson Padel",
@@ -21898,7 +24891,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1948,
+    "id": 1926,
     "slug": "bote-pelotas-wilson-premier-padel-speed-x-3-10222",
     "name": "Bote pelotas Wilson Premier Padel Speed x 3",
     "brand": "Wilson Padel",
@@ -21939,7 +24932,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1949,
+    "id": 1927,
     "slug": "bote-pelotas-wilson-premier-padel-x-3-10221",
     "name": "Bote pelotas Wilson Premier Padel x 3",
     "brand": "Wilson Padel",
@@ -21980,12 +24973,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1969,
+    "id": 1944,
+    "slug": "drop-shot-furia-control-2024-10139",
+    "name": "Drop Shot Furia Control 2024",
+    "brand": "Drop Shot",
+    "category": "raquetes",
+    "price": 129.96,
+    "oldPrice": 230,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17957-large_default/drop-shot-furia-control-2024.jpg",
+    "ean": "8435758302250",
+    "productGTIN": "8435758302250",
+    "mpn": "10139",
+    "source": "zona-de-padel",
+    "sourceProductId": "10139",
+    "sourceCategory": "Palas de padel > Palas de padel Drop Shot",
+    "description": "Descubre la excelencia en la pista de pádel con la pala de pádel Drop Shot Furia Control 2024. Esta pala de alta gama ofrece una combinación perfecta de potencia y control, gracias a su formato lágrima que sitúa el punto dulce en el centro, permitiendo dominar todos los aspectos del juego. Con tecnologías innovadoras y un diseño llamativo en color amarillo, la Furia Control es la elección ideal para jugadores exigentes que buscan destacar en la pista. Construida con materiales de primera calidad, incluyendo Carbono Plain, Hotmelt, TeXtreme y goma Eva Soft, esta pala ofrece una jugabilidad excepcional y una resistencia superior. Además, su tecnología 3D Face y Ergo Pro Protector proporcionan un máximo efecto en los golpes y protección contra posibles daños. No pierdas la oportunidad de elevar tu juego con la Drop Shot Furia Control 2024. Características pala Drop Shot Furia Control 2024 Excelente resistencia y rigidez gracias a la construcción en Carbono Plain y tecnología Hotmelt La innovadora Tecnología TeXtreme se aplica para conseguir laminados más finos y mayor resistencia. Goma Eva Soft para una sensación inmejorable al golpear y no perder potencia. Presenta unos planos rugosos gracias a la tecnología 3D Face, lo que mejora los golpes con efecto. Ergo Pro Protector para proteger contra posibles daños. Pertenece a la colección de palas Drop Shot 2024. ¿A quién va dirigido? La Drop Shot Furia Control 2024 está diseñada para jugadores que buscan un equilibrio perfecto entre potencia y control en la pista de pádel. Su formato lágrima y tecnologías avanzadas la hacen ideal para aquellos que desean dominar todos los aspectos del juego con estilo. ¿Por qué te va a gustar? Te encantará la Drop Shot Furia Control 2024 por su rendimiento excepcional y su diseño llamativo en color amarillo. Con características innovadoras y una construcción de primera calidad, esta pala te ayudará a destacar en la pista y a llevar tu juego al siguiente nivel. Descubre más sobre la marca Drop Shot Drop Shot es una marca reconocida por su compromiso con la innovación y la calidad en el mundo del pádel. Desde sus inicios, Drop Shot ha sido líder en el desarrollo de tecnologías avanzadas y materiales de alta calidad para mejorar el rendimiento de los jugadores. Con una amplia gama de productos diseñados para satisfacer las necesidades de los jugadores de todos los niveles, Drop Shot continúa siendo la elección preferida de los jugadores exigentes en todo el mundo.",
+    "specs": {
+      "peso": null,
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 129.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/drop-shot/10139-drop-shot-furia-control-2024.html"
+      }
+    ]
+  },
+  {
+    "id": 1947,
     "slug": "lok-be-hype-2024-10117",
     "name": "Lok Be Hype 2024",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 55.95,
+    "price": 54.95,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -22014,14 +25048,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 55.95,
+        "price": 54.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/10117-lok-be-hype-2024.html"
       }
     ]
   },
   {
-    "id": 1970,
+    "id": 1948,
     "slug": "lok-be-flow-2024-10116",
     "name": "Lok Be Flow 2024",
     "brand": "Lok",
@@ -22062,12 +25096,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1971,
+    "id": 1949,
     "slug": "lok-easy-flow-2024-10115",
     "name": "Lok Easy Flow 2024",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 77.91,
+    "price": 79.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -22096,14 +25130,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 77.91,
+        "price": 79.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/10115-lok-easy-flow-2024.html"
       }
     ]
   },
   {
-    "id": 1972,
+    "id": 1950,
     "slug": "lok-easy-hype-2024-10114",
     "name": "Lok Easy Hype 2024",
     "brand": "Lok",
@@ -22144,7 +25178,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1973,
+    "id": 1951,
     "slug": "lok-carbon-flow-2024-10113",
     "name": "Lok Carbon Flow 2024",
     "brand": "Lok",
@@ -22185,7 +25219,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1974,
+    "id": 1952,
     "slug": "lok-carbon-hype-2024-10112",
     "name": "Lok Carbon Hype 2024",
     "brand": "Lok",
@@ -22226,12 +25260,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 1975,
+    "id": 1953,
     "slug": "lok-maxx-flow-2024-10111",
     "name": "Lok Maxx Flow 2024",
     "brand": "Lok",
     "category": "raquetes",
-    "price": 139.96,
+    "price": 134.95,
     "oldPrice": 300,
     "rating": null,
     "badge": null,
@@ -22260,19 +25294,60 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 139.96,
+        "price": 134.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/lok/10111-lok-maxx-flow-2024.html"
       }
     ]
   },
   {
-    "id": 1977,
+    "id": 1954,
+    "slug": "lok-maxx-hype-2024-10110",
+    "name": "Lok Maxx Hype 2024",
+    "brand": "Lok",
+    "category": "raquetes",
+    "price": 119.96,
+    "oldPrice": 300,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17825-large_default/lok-maxx-hype-2024.jpg",
+    "ean": "8436548249137",
+    "productGTIN": "8436548249137",
+    "mpn": "10110",
+    "source": "zona-de-padel",
+    "sourceProductId": "10110",
+    "sourceCategory": "Palas de padel > Palas de pádel Lok",
+    "description": "Para los jugadores agresivos con una actitud valiente y un juego potente que no dudan en tomar la iniciativa y asumir responsabilidades, llega la Lok Maxx Hype 2024. Gracias a su tecnología innovadora que ajusta los ángulos de unión de las capas de fibra, esta pala combina tubular de carbono con tejido 18k en los planos, ofreciendo una flexibilidad adecuada y una excelente capacidad de memoria en su goma custom eva. Su diseño asimétrico y equilibrado del corazón de la pala, junto con características como Gradual Face, sistema 3D Spin Lines y rail insertado, hacen de esta pala una opción excepcional en la pista de pádel. Su textura rugosa permite realizar mejores efectos, mientras que su diseño de cuerda confortable garantiza un agarre cómodo durante horas de juego. Para acabar esta pala se distingue por su sistema antivibraciones, ofreciendo una experiencia de juego sin molestias. Características pala Lok Maxx Hype 2024 Forma diamante con balance hacia la cabeza para conseguir potencia en el golpeo. Tacto semi duro gracias a la goma custom eva para mejor control. Textura rugosa que permite dar más efecto a la pelota. Diseño de cuerda confortable para un agarre cómodo. Sistema anti vibraciones para jugar durante horas sin molestias Pertenece a la colección de palas alta gama Lok 2024 ¿A quién va dirigido? Esta pala está dirigida a jugadores agresivos con un juego potente que buscan dominar la pista con potencia y precisión. Es ideal para aquellos que no dudan en tomar la iniciativa y asumir responsabilidades en cada golpe. ¿Por qué te va a gustar? Te encantará la Lok Maxx Hype 2024 por su combinación de potencia, control y confort. Su diseño innovador y su tecnología avanzada garantizan un rendimiento excepcional en la pista, permitiéndote destacar en cada juego y superar tus límites. Descubre más sobre la marca Lok Lok es una marca reconocida por su compromiso con la innovación y la excelencia en el mundo del pádel. Con una historia de dedicación al deporte, Lok ha logrado posicionarse como líder en el mercado, ofreciendo productos de alta calidad que satisfacen las necesidades de los jugadores más exigentes. Su constante búsqueda de la perfección se refleja en cada detalle de sus palas, lo que las convierte en la elección ideal para aquellos que buscan destacar en la pista y alcanzar nuevos niveles de rendimiento.",
+    "specs": {
+      "peso": "024g",
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Equilibrado",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 119.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/lok/10110-lok-maxx-hype-2024.html"
+      }
+    ]
+  },
+  {
+    "id": 1955,
     "slug": "puma-nova-padel-elite-power-negro-2024-10100",
     "name": "Puma Nova Padel Elite Power negro 2024",
     "brand": "Puma",
     "category": "raquetes",
-    "price": 104.83,
+    "price": 119.95,
     "oldPrice": 220,
     "rating": null,
     "badge": null,
@@ -22301,14 +25376,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 104.83,
+        "price": 119.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/puma/10100-puma-nova-padel-elite-power-negro-2024.html"
       }
     ]
   },
   {
-    "id": 1991,
+    "id": 1969,
     "slug": "paletero-head-tour-padel-bag-l-verde-lila-2024-9963",
     "name": "Saco Head Tour Padel Bag L verde lila 2024",
     "brand": "Head Padel",
@@ -22349,7 +25424,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2003,
+    "id": 1981,
     "slug": "zapatillas-joma-smash-2304-blue-black-2024-9906",
     "name": "Sapatilhas Joma Smash 2304 blue black 2024",
     "brand": "Joma",
@@ -22390,7 +25465,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2007,
+    "id": 1985,
     "slug": "cajon-pelotas-babolat-ace-padel-x3-24-x-3-9877",
     "name": "Cajon pelotas Babolat ACE Padel X3 24 x 3",
     "brand": "Babolat",
@@ -22431,12 +25506,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2008,
+    "id": 1986,
     "slug": "pack-3-botes-pelotas-babolat-ace-padel-x3-9875",
     "name": "Pack 3 botes pelotas Babolat ACE Padel X3",
     "brand": "Babolat",
     "category": "acessorios",
-    "price": 14.95,
+    "price": 14.96,
     "oldPrice": 22.5,
     "rating": null,
     "badge": null,
@@ -22465,14 +25540,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 14.95,
+        "price": 14.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/9875-pack-3-botes-pelotas-babolat-ace-padel-x3.html"
       }
     ]
   },
   {
-    "id": 2009,
+    "id": 1987,
     "slug": "bote-pelotas-babolat-ace-padel-x3-9874",
     "name": "Bote pelotas Babolat ACE Padel X3",
     "brand": "Babolat",
@@ -22513,48 +25588,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2010,
-    "slug": "pack-3-botes-pelotas-babolat-court-x3-9857",
-    "name": "Pack 3 botes pelotas Babolat Court X3",
-    "brand": "Babolat",
-    "category": "acessorios",
-    "price": 13.51,
-    "oldPrice": 18,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/18253-large_default/pack-3-botes-pelotas-babolat-court-x3.jpg",
-    "ean": "1706704294682",
-    "productGTIN": "1706704294682",
-    "mpn": "9857",
-    "source": "zona-de-padel",
-    "sourceProductId": "9857",
-    "sourceCategory": "Complementos padel > Pelotas de padel",
-    "description": "Explora el pack 3 botes pelotas Babolat Court X3 amarillo, una solución premium para jugadores de pádel exigentes. Este conjunto, aprobado por la Federación Internacional de Pádel y seleccionado como la pelota oficial del circuito APT, ofrece una experiencia superior en juego gracias a su extraordinaria combinación de confort y durabilidad. Fabricadas con una mezcla óptima de fieltro y caucho, estas pelotas aseguran un rendimiento excepcional en todo tipo de superficies. Destacándose por su prolongada retención de características de juego, el pack de pelotas Babolat Court es perfecto tanto para sesiones de entrenamiento rigurosas como para competiciones, permitiéndote elevar tu juego a niveles sin precedentes. Características pack 3 botes pelotas Babolat Court X3 amarillo Compuesto por fieltro y caucho para garantizar durabilidad y confort excepcionales. La pelota oficial del circuito APT, reconocida por la Federación Internacional de Pádel. Optimizadas para jugadores de nivel avanzado en busca de la mejor calidad de juego. Adecuadas para cualquier tipo de pista, demostrando versatilidad y resistencia. Parte de la colección de accesorios Babolat 2023. ¿A quién va dirigido? Este pack está ideado para los apasionados del pádel de nivel avanzado que priorizan la calidad y desean maximizar su rendimiento en la pista. Ideal para aquellos que valoran la innovación y la excelencia en cada componente de su equipo deportivo. ¿Por qué te va a gustar? La elección predilecta de los profesionales en el circuito APT, estas pelotas combinan durabilidad con un nivel de juego mejorado, asegurando que cada golpe sea tan preciso como potente. Disfruta de la ventaja que solo Babolat puede proporcionar con este pack de 3. Descubre más sobre la marca Babolat Desde su fundación en 1875, Babolat se ha consolidado como un símbolo de innovación y calidad en el mundo del tenis y pádel. Ofreciendo una amplia gama de productos que satisfacen las demandas de jugadores de todos los niveles, Babolat es sinónimo de avance y excelencia deportiva. Con el pack 3 botes pelotas Babolat Court X3, te unes a una tradición de campeones, disfrutando de productos diseñados para llevar tu juego al siguiente nivel. Vive la experiencia Babolat y transforma tu manera de jugar.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 13.51,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/babolat/9857-pack-3-botes-pelotas-babolat-court-x3.html"
-      }
-    ]
-  },
-  {
-    "id": 2011,
+    "id": 1988,
     "slug": "bote-pelotas-babolat-court-x3-9856",
     "name": "Bote pelotas Babolat Court X3",
     "brand": "Babolat",
@@ -22595,12 +25629,53 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2037,
+    "id": 1998,
+    "slug": "zapatillas-head-sprint-team-3-5-clay-women-blue-stone-2024-9745",
+    "name": "Sapatilhas Head Sprint Team 3.5 Clay Women blue stone 2024",
+    "brand": "Head Padel",
+    "category": "sapatilhas",
+    "price": 66.01,
+    "oldPrice": 110,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/17268-large_default/zapatillas-head-sprint-team-35-clay-women-blue-stone-2024.jpg",
+    "ean": "726423856405",
+    "productGTIN": "726423856405",
+    "mpn": "9745",
+    "source": "zona-de-padel",
+    "sourceProductId": "9745",
+    "sourceCategory": "Zapatillas de padel > Zapatillas Head",
+    "description": "Experimenta la innovación y el estilo con las zapatillas Head Sprint Team 3.5 Clay Women blue stone 2024. Actualizadas con una nueva parte superior de malla más abierta, estas zapatillas no solo son transpirables sino también increíblemente cómodas, tanto dentro como fuera de la pista de pádel. Ideal para jugadores de todos los niveles, el modelo Sprint Team 3.5 ofrece una ligereza y comodidad excepcionales, convirtiéndose rápidamente en tu elección favorita para cada partido. Su diseño fresco y moderno te garantiza no solo rendimiento sino también estilo en cada movimiento. Características de las zapatillas Head Sprint Team 3.5 Clay Women blue stone Nueva parte superior de malla más abierta para una transpirabilidad superior. Confort ligero ideal tanto para jugar en la pista como para el uso cotidiano. Diseño fresco y atractivo con una banda de rodadura en forma de espiga para un agarre óptimo. Protección avanzada de la puntera y estabilidad mejorada para evitar torsiones del tobillo. Compuesto de caucho especial para una tracción y resistencia excepcionales. Pertenece a la colección de calzado para pádel Head 2024 ¿A quién va dirigido? Las Head Sprint Team 3.5 son perfectas para jugadoras de padel y tenis, desde principiantes hasta niveles profesionales, que buscan una mezcla perfecta de comodidad, agilidad además de excelente rendimiento en la pista. ¿Por qué te va a gustar? Te encantarán estas zapatillas por su diseño innovador, ligereza y funcionalidad. Son ideales para dominar la pista con estilo y confort, asegurando el mejor rendimiento en cada juego. Descubre más sobre la marca Head Head es una marca líder en el mundo del deporte, conocida por su innovación y calidad. Desde su creación, Head ha sido sinónimo de excelencia en equipamiento deportivo, proporcionando productos de alto rendimiento para atletas de todo el mundo. Al elegir Head, te unes a una tradición de excelencia y compromiso con el rendimiento. Las zapatillas Sprint Team 3.5 Clay Women son un ejemplo claro del compromiso continuo de Head con la innovación y la satisfacción de los deportistas.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": "Clay / Espiga",
+      "genero": "Mulher",
+      "cor": "Azul",
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 66.01,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/9745-zapatillas-head-sprint-team-35-clay-women-blue-stone-2024.html"
+      }
+    ]
+  },
+  {
+    "id": 2015,
     "slug": "mochila-head-pro-backpack-23l-negra-2024-9566",
     "name": "Mochila Head Pro Backpack 23L negra 2024",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 61.96,
+    "price": 69.96,
     "oldPrice": 90,
     "rating": null,
     "badge": null,
@@ -22629,19 +25704,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 61.96,
+        "price": 69.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9566-mochila-head-pro-backpack-23l-negra-2024.html"
       }
     ]
   },
   {
-    "id": 2038,
+    "id": 2016,
     "slug": "paletero-head-pro-padel-bag-l-azul-marino-2024-9564",
     "name": "Saco Head Pro Padel Bag L azul marino 2024",
     "brand": "Head Padel",
     "category": "sacos",
-    "price": 79.01,
+    "price": 72.01,
     "oldPrice": 120,
     "rating": null,
     "badge": null,
@@ -22670,19 +25745,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 79.01,
+        "price": 72.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9564-paletero-head-pro-padel-bag-l-azul-marino-2024.html"
       }
     ]
   },
   {
-    "id": 2040,
+    "id": 2018,
     "slug": "zapatillas-head-sprint-team-3-5-clay-dark-grey-banana-2024-9529",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay dark grey banana 2024",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 55.01,
+    "price": 54.46,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -22711,19 +25786,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 55.01,
+        "price": 54.46,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9529-zapatillas-head-sprint-team-35-clay-dark-grey-banana-2024.html"
       }
     ]
   },
   {
-    "id": 2041,
+    "id": 2019,
     "slug": "zapatillas-head-sprint-team-3-5-clay-blue-berry-white-2024-9528",
     "name": "Sapatilhas Head Sprint Team 3.5 Clay blue berry white 2024",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 54.46,
+    "price": 66.01,
     "oldPrice": 110,
     "rating": null,
     "badge": null,
@@ -22752,14 +25827,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 54.46,
+        "price": 66.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9528-zapatillas-head-sprint-team-35-clay-blue-berry-white-2024.html"
       }
     ]
   },
   {
-    "id": 2042,
+    "id": 2020,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-banana-black-2024-9520",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay banana black 2024",
     "brand": "Head Padel",
@@ -22800,12 +25875,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2043,
+    "id": 2021,
     "slug": "zapatillas-head-revolt-pro-4-5-clay-black-red-2024-9507",
     "name": "Sapatilhas Head Revolt Pro 4.5 Clay black red 2024",
     "brand": "Head Padel",
     "category": "sapatilhas",
-    "price": 89.95,
+    "price": 94.96,
     "oldPrice": 160,
     "rating": null,
     "badge": null,
@@ -22834,19 +25909,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 89.95,
+        "price": 94.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9507-head-revolt-pro-45-clay-black-red-2024.html"
       }
     ]
   },
   {
-    "id": 2044,
+    "id": 2022,
     "slug": "head-radical-motion-2024-9479",
     "name": "Head Radical Motion 2024",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 129.96,
+    "price": 124.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -22875,55 +25950,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 129.96,
+        "price": 124.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/9479-head-radical-motion-2024.html"
       }
     ]
   },
   {
-    "id": 2045,
-    "slug": "bolsa-gymsack-starvie-negro-9340",
-    "name": "Bolsa gymsack Starvie negro",
-    "brand": "Star Vie",
-    "category": "sacos",
-    "price": 4.96,
-    "oldPrice": 9.95,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/16563-large_default/bolsa-gymsack-starvie-negro.jpg",
-    "ean": "1695991767675",
-    "productGTIN": "1695991767675",
-    "mpn": "9340",
-    "source": "zona-de-padel",
-    "sourceProductId": "9340",
-    "sourceCategory": "Palas de padel > Palas de padel Star Vie",
-    "description": "¿Buscas una forma cómoda y estilizada de transportar tu pala de pádel? La Bolsa gymsack Starvie negra es la respuesta a tus necesidades. Este accesorio esencial está diseñado con una estética elegante en color negro, adornado con el logotipo blanco de Starvie, destacando así su autenticidad. Sus cuerdas ajustables no solo facilitan el transporte de tu pala, sino que también garantizan un cierre seguro para que no pierdas nada en el camino. La sostenibilidad y la calidad van de la mano con esta bolsa, gracias a sus materiales reciclados. Además, su tejido de malla transpirable en la espalda evita la acumulación de calor, proporcionando una experiencia cómoda en cada uso. Es el compañero perfecto para jugadores conscientes del medio ambiente que no desean comprometer la calidad ni la funcionalidad. Características Bolsa gymsack Starvie negra Cordones ajustables para un transporte cómodo y un cierre seguro. Fabricada con materiales reciclados, promoviendo la sostenibilidad. Tejido de malla transpirable por un lado, evita la acumulación de calor al llevarla en la espalda. Capacidad para una pala, ideal para jugadores que buscan practicidad. Esquinas reforzadas para evitar el desgaste y prolongar la durabilidad. Pertenece a la colección de accesorios Starvie 2023. ¿A quién va dirigido? Esta bolsa es la elección perfecta para jugadores o jugadoras que deseen llevar su pala y algunos otros accesorios esenciales a la pista de pádel, sin la molestia de una bolsa voluminosa. Su diseño compacto y funcional es ideal para aquellos que buscan practicidad y estilo en sus partidos y entrenamientos. ¿Por qué te va a gustar? Te encantará la Bolsa gymsack Starvie negra por su compromiso con la sostenibilidad, sin comprometer la calidad. Su tejido de malla transpirable junto con su diseño en color negro con el logotipo blanco de Starvie, no solo añade un toque de estilo, sino que también garantiza una experiencia cómoda y fresca en cada transporte. ¡Descubre la combinación perfecta de estilo, funcionalidad y sostenibilidad! Descubre más sobre la marca Starvie Starvie es una marca reconocida en el mundo del pádel por su innovación constante y su compromiso con la calidad. Desde su fundación, ha establecido un estándar alto en la industria, ofreciendo productos que satisfacen las demandas de los jugadores más exigentes. Su legado continúa con una gama de productos que no solo resaltan en la pista, sino que también promueven un estilo de vida activo y sostenible fuera de ella. ¡Descubre el mundo Starvie y siente la diferencia en cada golpe!",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 4.96,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/star-vie/9340-bolsa-gymsack-starvie-negro.html"
-      }
-    ]
-  },
-  {
-    "id": 2048,
+    "id": 2025,
     "slug": "bolsa-gymsack-nox-negra-9319",
     "name": "Bolsa gymsack Nox negra",
     "brand": "Nox",
@@ -22964,48 +25998,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2063,
-    "slug": "paletero-nox-pro-series-negro-2023-9069",
-    "name": "Saco Nox Pro Series negro 2023",
-    "brand": "Nox",
-    "category": "sacos",
-    "price": 49.91,
-    "oldPrice": 70,
-    "rating": null,
-    "badge": null,
-    "image": "https://www.zonadepadel.es/25668-large_default/paletero-nox-pro-series-negro-2023.jpg",
-    "ean": "8436603195713",
-    "productGTIN": "8436603195713",
-    "mpn": "9069",
-    "source": "zona-de-padel",
-    "sourceProductId": "9069",
-    "sourceCategory": "Paleteros de padel > Paleteros de Padel Nox",
-    "description": "Ya está disponible en nuestra tienda online la nueva colección de bolsas de pádel de Nox para este 2023. Compra el paletero Pro series 2023 en color negro, un accesorio perfecto para llevar contigo a los partidos que tiene un gran diseño y está fabricado en materiales de calidad para aumentar su durabilidad. Este paletero de la marca Nox está fabricado con un tamaño medio pero tiene espacio suficiente para llevar dos palas. Su compartimento principal es espacioso y te permite acceder de forma fácil a tu ropa deportiva o accesorios que quieras guardar y no te faltará sitio. Paletero Pro Series 2023 en color negro, características El Pro Series 2023 se ha diseñado en tamaño medio. Tiene un espacio de 38 L y unas medidas de 60x27x30 cm. Tiene un espacioso compartimento principal con doble cremallera. Incluye tecnología Termotech para proteger tus palas del calor. Puede usarse como bolsa de pádel o como mochila con sus correas que puedes quitar. Capacidad para guardar dos palas de pádel. Catálogo de paleteros de pádel Nox 2023. ¿A quién va dirigido? Va dirigido a los jugadores que quieren una bolsa duradera y resistente que les permita llevar sus palas y equipación, así como sus zapatillas. Con sus correas extraíbles podrás elegir si la quieres llevar en formato mochila o como una bolsa según tus necesidades. ¿Por qué te va a gustar? Te gustará porque tiene un diseño discreto y funcional con detales de la marca en color blanco . Cuenta con diferentes compartimentos para que puedas llevar todo tu material organizado y acceder de forma fácil a pequeños objetos como e móvil o las llaves. Descubre más sobre la marca NOX No esperes más y consigue los productos utilizados por los grandes campeones con Nox Padel y su nueva colección. Miguel Lamperti, Agustín Tapia, Elena Ramirez o Vanesa Alonso son algunos de los jugadores WPT que colaboran con la marca. Así pues podrás escoger entre palas de pádel, equipaciones, paleteros y complementos de calidad y a los mejores precios para afrontar con éxitos tus torneos. Encuentra lo que buscas y disfruta de unas sensaciones inmejorables con nox.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null,
-      "sola": null,
-      "genero": null,
-      "cor": null,
-      "uso": null,
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "zona-de-padel",
-        "name": "Zona de Padel",
-        "price": 49.91,
-        "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/nox/9069-paletero-nox-pro-series-negro-2023.html"
-      }
-    ]
-  },
-  {
-    "id": 2064,
+    "id": 2040,
     "slug": "head-extreme-elite-2024-9052",
     "name": "Head Extreme Elite 2024",
     "brand": "Head Padel",
@@ -23046,7 +26039,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2065,
+    "id": 2041,
     "slug": "head-extreme-motion-2024-9051",
     "name": "Head Extreme Motion 2024",
     "brand": "Head Padel",
@@ -23087,7 +26080,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2076,
+    "id": 2042,
+    "slug": "head-extreme-pro-2024-9050",
+    "name": "Head Extreme Pro 2024",
+    "brand": "Head Padel",
+    "category": "raquetes",
+    "price": 139.96,
+    "oldPrice": 280,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/16036-large_default/head-extreme-pro-2024.jpg",
+    "ean": "724794702253",
+    "productGTIN": "724794702253",
+    "mpn": "9050",
+    "source": "zona-de-padel",
+    "sourceProductId": "9050",
+    "sourceCategory": "Palas de padel > Palas de padel Head",
+    "description": "Descubre la potencia y sensación inigualables que ofrece la nueva PALA DE PÁDEL EXTREME PRO de Head. Diseñada especialmente para jugadores avanzados y profesionales, esta pala en forma de diamante promete llevar tu juego a un nuevo nivel. ¡No esperes más! Características Head Extreme Pro 2024 Potencia extrema para jugadores avanzados y profesionales. Nuevo molde en forma de diamante. Nueva tecnología de tapón blando en la base de la empuñadura. Tecnología Auxetic para una potencia y un tacto excepcionales. Material híbrido en la cara: mezcla de carbono y fibra de vidrio. Pertenece a la colección de palas Head 2024. ¿A quién va dirigido? Esta pala es ideal para jugadores avanzados y profesionales que buscan potencia excepcional en sus golpes. Si juegas de manera regular y buscas una pala que mejore tu rendimiento en cada partido, la Extreme Pro es la elección perfecta para ti. ¿Por qué te va a gustar? Te encantará la Extreme Pro no solo por su gran potencia de golpeo, sino también por el incomparable tacto y la sensación única al golpear la pelota. Experimenta cada partido con una herramienta de juego que realmente marca la diferencia. Descubre más sobre la marca Head Desde su fundación, Head ha sido sinónimo de innovación y calidad en el mundo del deporte. Especializada en raquetas y palas, la marca se ha establecido como una de las líderes en el mundo del pádel, gracias a su constante búsqueda de perfección y tecnología avanzada.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono",
+      "estilo": "Potência",
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 139.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/head-padel/9050-head-extreme-pro-2024.html"
+      }
+    ]
+  },
+  {
+    "id": 2052,
     "slug": "siux-trilogy-2-attack-8619",
     "name": "Siux Trilogy 2 Attack",
     "brand": "Siux",
@@ -23128,12 +26162,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2077,
+    "id": 2053,
     "slug": "bote-presurizador-pascal-box-4b-8491",
     "name": "Bote Presurizador Pascal Box 4B",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 62.95,
+    "price": 62.96,
     "oldPrice": 69.95,
     "rating": null,
     "badge": null,
@@ -23162,14 +26196,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 62.95,
+        "price": 62.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/8491-bote-presurizador-pascal-box-4b.html"
       }
     ]
   },
   {
-    "id": 2083,
+    "id": 2059,
     "slug": "pack-3-botes-pelotas-head-padel-one-8348",
     "name": "Pack 3 botes pelotas Head Padel One",
     "brand": "Head Padel",
@@ -23210,7 +26244,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2084,
+    "id": 2060,
     "slug": "bote-pelotas-head-padel-one-8346",
     "name": "Bote pelotas Head Padel One",
     "brand": "Head Padel",
@@ -23251,7 +26285,48 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2089,
+    "id": 2065,
+    "slug": "pack-3-botes-pelotas-wilson-performance-padel-8247",
+    "name": "Pack 3 botes pelotas Wilson Performance Padel",
+    "brand": "Wilson Padel",
+    "category": "acessorios",
+    "price": 13.96,
+    "oldPrice": 18,
+    "rating": null,
+    "badge": null,
+    "image": "https://www.zonadepadel.es/18246-large_default/pack-3-botes-pelotas-wilson-performance-padel.jpg",
+    "ean": "1673464051759",
+    "productGTIN": "1673464051759",
+    "mpn": "8247",
+    "source": "zona-de-padel",
+    "sourceProductId": "8247",
+    "sourceCategory": "Complementos padel > Pelotas de padel",
+    "description": "Evita tener que estar comprando pelotas continuamente con el nuevo pack de tres botes de bolas de la marca Wilson que ya esta disponible en nuestra tienda online de pádel. Descubre el modelo Performance Padel que proporcionan un bote de lo más rápido para unas sensaciones increíbles en la pista. En su diseño se ha empleado el fieltro dura-weave el cual no solo proporciona una gran velocidad si no que además ayuda a proporcionar una mayor duración frente al desgaste. Además gracias a su tapa ecológica estarás ayunado a reducir el exceso de plásticos. Pack 3 botes de bolas Wilson Perfomance Padel, características El nuevo pack de 3 botes cuenta con 9 bolas de gran calidad. Proporcionan un bote rápido para unas sensaciones increíbles. Tapón ecológico que ayuda a evitar el exceso de residuos plásticos. Se han diseñado con el fieltro dura-weave que proporciona una gran durabilidad. Para el diseño se ha empleado el color amarillo con el logotipo en negro y rojo. Catálogo de accesorios para pádel Wilson 2023. ¿A quién va dirigido? Es perfecto para aquellas personas que juegan varias veces por lo que quieren evitar estar cambiando las bolas continuamente ya que en este pack de tres botes tendrás un total de nueve pelotas con las que jugar. ¿Por qué te va a gustar? Porque para su fabricación se han empleado materiales de gran resistencia lo que ayudan a evitar el desgaste para así evitar tener que cambiarlas continuamente. Descubre más sobre la marca WILSON Todos sabemos que Wilson Sport cuenta con muchos años de experiencia en el mundo del deporte. Desde el 1914 que prepara a los mejores atletas del mundo y en el pádel también ha hecho su aportación. Descubre el variado surtido de palas de pádel, zapatillas, paleteros y otros accesorios con los que tendrás el mejor rendimiento y un acabado impecable. No lo dudes más y equípate con las novedades de esta temporada ¡te conquistarán!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": null,
+      "sola": null,
+      "genero": null,
+      "cor": null,
+      "uso": null,
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "zona-de-padel",
+        "name": "Zona de Padel",
+        "price": 13.96,
+        "stock": "Em stock",
+        "url": "https://www.zonadepadel.es/wilson-padel/8247-pack-3-botes-pelotas-wilson-performance-padel.html"
+      }
+    ]
+  },
+  {
+    "id": 2066,
     "slug": "bote-pelotas-wilson-performance-padel-8241",
     "name": "Bote Pelotas Wilson Performance Padel",
     "brand": "Wilson Padel",
@@ -23292,7 +26367,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2094,
+    "id": 2071,
     "slug": "zapatillas-bullpadel-elite-pro-ltd-23v-burdeos-8182",
     "name": "Sapatilhas Bullpadel Elite Pro LTD 23V burdeos",
     "brand": "Bullpadel",
@@ -23333,7 +26408,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2098,
+    "id": 2075,
     "slug": "star-vie-raydium-columns-8052",
     "name": "Star Vie Raydium Columns",
     "brand": "Star Vie",
@@ -23374,12 +26449,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2104,
+    "id": 2081,
     "slug": "head-speed-motion-7819",
     "name": "Head Speed Motion",
     "brand": "Head Padel",
     "category": "raquetes",
-    "price": 109.96,
+    "price": 104.01,
     "oldPrice": 260,
     "rating": null,
     "badge": null,
@@ -23408,14 +26483,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 109.96,
+        "price": 104.01,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/7819-head-speed-motion.html"
       }
     ]
   },
   {
-    "id": 2105,
+    "id": 2082,
     "slug": "head-speed-pro-7818",
     "name": "Head Speed Pro",
     "brand": "Head Padel",
@@ -23456,7 +26531,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2106,
+    "id": 2083,
     "slug": "head-speed-pro-x-7817",
     "name": "Head Speed Pro X",
     "brand": "Head Padel",
@@ -23497,12 +26572,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2107,
+    "id": 2084,
     "slug": "bote-presurizador-head-x-4-pump-7814",
     "name": "Bote presurizador Head x 4 Pump",
     "brand": "Head Padel",
     "category": "acessorios",
-    "price": 44.96,
+    "price": 39.96,
     "oldPrice": 60,
     "rating": null,
     "badge": null,
@@ -23531,19 +26606,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 44.96,
+        "price": 39.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/7814-bote-presurizador-head-x-4-pump.html"
       }
     ]
   },
   {
-    "id": 2108,
+    "id": 2085,
     "slug": "bote-presurizador-head-x-3-pump-7813",
     "name": "Bote presurizador Head x 3 Pump",
     "brand": "Head Padel",
     "category": "acessorios",
-    "price": 38.96,
+    "price": 38.95,
     "oldPrice": 52,
     "rating": null,
     "badge": null,
@@ -23572,14 +26647,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 38.96,
+        "price": 38.95,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/7813-bote-presurizador-head-x-3-pump.html"
       }
     ]
   },
   {
-    "id": 2126,
+    "id": 2103,
     "slug": "cajon-pelotas-bullpadel-fip-next-pro-24-x-3-7521",
     "name": "Cajon pelotas Bullpadel FIP Next Pro 24 x 3",
     "brand": "Bullpadel",
@@ -23620,12 +26695,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2127,
+    "id": 2104,
     "slug": "pack-3-botes-pelotas-bullpadel-fip-next-pro-7520",
     "name": "Pack 3 botes pelotas Bullpadel FIP Next Pro",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 16.95,
+    "price": 16.96,
     "oldPrice": 20.85,
     "rating": null,
     "badge": null,
@@ -23654,14 +26729,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 16.95,
+        "price": 16.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/bullpadel/7520-pack-3-botes-pelotas-bullpadel-fip-next-pro.html"
       }
     ]
   },
   {
-    "id": 2128,
+    "id": 2105,
     "slug": "bote-pelotas-bullpadel-fip-next-pro-7519",
     "name": "Bote Pelotas Bullpadel FIP Next Pro",
     "brand": "Bullpadel",
@@ -23702,12 +26777,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2130,
+    "id": 2107,
     "slug": "babolat-dyna-spirit-2023-7502",
     "name": "Babolat Dyna Spirit 2023",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 125.8,
+    "price": 129.96,
     "oldPrice": 180,
     "rating": null,
     "badge": null,
@@ -23736,19 +26811,19 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 125.8,
+        "price": 129.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/7502-babolat-dyna-spirit-2023.html"
       }
     ]
   },
   {
-    "id": 2131,
+    "id": 2108,
     "slug": "babolat-stima-energy-2023-7501",
     "name": "Babolat Stima Energy 2023",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 143.95,
+    "price": 142.96,
     "oldPrice": 240,
     "rating": null,
     "badge": null,
@@ -23777,14 +26852,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 143.95,
+        "price": 142.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/babolat/7501-babolat-stima-energy-2023.html"
       }
     ]
   },
   {
-    "id": 2132,
+    "id": 2109,
     "slug": "babolat-dyna-energy-2023-7500",
     "name": "Babolat Dyna Energy 2023",
     "brand": "Babolat",
@@ -23825,7 +26900,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2137,
+    "id": 2114,
     "slug": "cajon-pelotas-bullpadel-fip-next-7313",
     "name": "Cajon Pelotas Bullpadel FIP Next",
     "brand": "Bullpadel",
@@ -23866,7 +26941,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2138,
+    "id": 2115,
     "slug": "pack-3-botes-pelotas-bullpadel-fip-next-7309",
     "name": "Pack 3 Botes Pelotas Bullpadel FIP Next",
     "brand": "Bullpadel",
@@ -23907,7 +26982,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2139,
+    "id": 2116,
     "slug": "pack-3-botes-head-cs-4-unidades-7258",
     "name": "Pack 3 Botes Head CS 4 unidades",
     "brand": "Head Padel",
@@ -23948,12 +27023,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2140,
+    "id": 2117,
     "slug": "bote-pelotas-head-cs-4-unidades-7255",
     "name": "Bote Pelotas Head CS 4 unidades",
     "brand": "Head Padel",
     "category": "acessorios",
-    "price": 4.95,
+    "price": 4.96,
     "oldPrice": 5,
     "rating": null,
     "badge": null,
@@ -23982,14 +27057,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 4.95,
+        "price": 4.96,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/head-padel/7255-bote-pelotas-head-cs-4-unidades.html"
       }
     ]
   },
   {
-    "id": 2155,
+    "id": 2132,
     "slug": "bote-pelotas-bullpadel-fip-next-6789",
     "name": "Bote Pelotas Bullpadel FIP Next",
     "brand": "Bullpadel",
@@ -24030,7 +27105,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2168,
+    "id": 2144,
     "slug": "bote-pelotas-adidas-speed-rx-6197",
     "name": "Bote Pelotas Adidas Speed RX",
     "brand": "Adidas Padel",
@@ -24071,7 +27146,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2170,
+    "id": 2146,
     "slug": "pack-3-botes-pelotas-bullpadel-premium-6073",
     "name": "Pack 3 Botes Pelotas Bullpadel Premium",
     "brand": "Bullpadel",
@@ -24112,7 +27187,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2183,
+    "id": 2159,
     "slug": "pelotas-bullpadel-premium-5660",
     "name": "Pelotas Bullpadel Premium",
     "brand": "Bullpadel",
@@ -24153,12 +27228,12 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2184,
+    "id": 2160,
     "slug": "pelotas-dunlop-pro-padel-5571",
     "name": "Pelotas Dunlop Pro Padel",
     "brand": "Dunlop Padel",
     "category": "acessorios",
-    "price": 5.99,
+    "price": 6,
     "oldPrice": 7.5,
     "rating": null,
     "badge": null,
@@ -24187,30 +27262,30 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 5.99,
+        "price": 6,
         "stock": "Em stock",
         "url": "https://www.zonadepadel.es/dunlop-padel/5571-pelotas-dunlop-pro-padel.html"
       }
     ]
   },
   {
-    "id": 2187,
-    "slug": "bote-presurizador-pascal-box-5235",
-    "name": "Bote Presurizador Pascal Box",
-    "brand": "Bullpadel",
+    "id": 2165,
+    "slug": "cajon-pelotas-wilson-performance-padel-24-x-3-4602",
+    "name": "Cajón Pelotas Wilson Performance Padel 24 x 3",
+    "brand": "Wilson Padel",
     "category": "acessorios",
-    "price": 53.68,
-    "oldPrice": 60,
+    "price": 95.01,
+    "oldPrice": 144,
     "rating": null,
     "badge": null,
-    "image": "https://www.zonadepadel.es/31896-large_default/bote-presurizador-pascal-box.jpg",
-    "ean": "8414606874705",
-    "productGTIN": "8414606874705",
-    "mpn": "5235",
+    "image": "https://www.zonadepadel.es/14330-large_default/cajon-pelotas-wilson-performance-padel-24-x-3.jpg",
+    "ean": "1674144813421",
+    "productGTIN": "1674144813421",
+    "mpn": "4602",
     "source": "zona-de-padel",
-    "sourceProductId": "5235",
-    "sourceCategory": "Complementos padel > Pelotas de padel",
-    "description": "Recupera las bolas que has descartado con el bote presurizador Pascal Box. Se trata de un cargador de presión que permite recuperar el estado óptimo de las pelotas después de sacarlas de su envase. Así pues disfrutarás de un bote perfecto en cada partido! Su funcionamiento es sencillo: introduce las bolas en el bote presurizador, cierra la tapa e introduce aire con la bomba hasta el nivel que desees. Además sirve tanto para pelotas de pádel como de tenis y es el único que te garantiza una presión de hasta 48 PSI. Bote Pascal Box para la presión, características Disfruta de un bote perfecto con el bote presurizador pascal box. Puede mantener indefinidamente hasta 48 PSI de presión. Las pelotas recuperarán el bote que tenían el primer día que las estrenaste. Diseño sólido y compacto con cierre hermético. Incluye manómetro de precisión y válvula de seguridad. Cargador de presión válido para pelotas de pádel como de tenis. ¿A quién va dirigido? Dirigido a cualquier jugador que quiera disfrutar de un rendimiento óptimo de las pelotas durante más tiempo, ya que con el bote pascal box podrás recuperar la presión adecuada y tenerlas siempre en perfecto estado para jugar. ¿Por qué te va a gustar? Porque te ahorrarás dinero. Gracias a este sistema presurizador las pelotas se mantiene en buen estado partido tras partido, así que no tendrás que comprar botes o cajones tan a menudo. Descubre más sobre el PASCAL BOX Si eres un profesional del pádel, es decir, como club o monitor, sabrás lo importante que es jugar siempre con las pelotas en perfecto estado y con la presión óptima. El carro para profesionales ha sido desarrollado para cargar la presión y tener siempre un bote perfecto. Descubre lo que puede hacer por ti este presurizador y entrena siempre al mejor nivel. Vale tanto para pelotas de tenis o padel y según la temperatura ambiente o la superficie en la que juegues podrás decidir que presión quieres.",
+    "sourceProductId": "4602",
+    "sourceCategory": "Complementos padel > Cajones de pelotas",
+    "description": "Si quieres conseguir bolas de calidad a un precio estupendo te proponemos el cajón de pelotas Wilson Padel de 24 x 3 unidades. Actualmente se han convertido en uno de lo modelos más utilizados por los usuarios ya que van muy bien, ideales para los que buscan velocidad controlada o los jugadores que entrenan en pistas más arenosas. La firma ha trabajado con materiales resistentes al desgaste para que mantengan su buen rendimiento durante más partidos. Además, el golpeo es agradable y su presión garantiza un vuelo más uniforme reduciendo las molestas vibraciones. Cajón Wilson Performance Padel 24 x 3, características Con las pelotas del cajón de Wilson Performance Padel 24 x 3 te ahorrarás dinero. Se consigue un buen balance entre rebote y control. Disfrutarás de un vuelo casi perfecto, sin vibraciones. Son resistentes a la abrasión. Las puedes utilizar para entrenar o realizar competiciones. Catálogo de accesorios Wilson 2023. ¿A quién va dirigido? Lo recomendamos a cualquier jugador que busca pelotas de padel de calidad sin gastarse un dineral, ya que con las bolas wilson tendrás una gran durabilidad y un bote homogéneo sobre cualquier pista. ¿Por qué te va a gustar? Porque son bastante rápidas así que podrás darle más velocidad a tu juego y sorprender a tus rivales. Además se adaptan a cualquier clima, así que podrás utilizarlas durante todo el año. Descubre más sobre la marca WILSON Todos sabemos que Wilson Sport cuenta con muchos años de experiencia en el mundo del deporte. Desde el 1914 que prepara a los mejores atletas del mundo y en el pádel también ha hecho su aportación. Descubre elvariado surtido de palas de pádel, zapatillas, paleteros y otros accesorios con los que tendrás el mejor rendimiento y un acabado impecable. No lo dudes más y equípate con las novedades de esta temporada ¡te conquistarán!",
     "specs": {
       "peso": null,
       "forma": null,
@@ -24228,14 +27303,14 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
       {
         "key": "zona-de-padel",
         "name": "Zona de Padel",
-        "price": 53.68,
+        "price": 95.01,
         "stock": "Em stock",
-        "url": "https://www.zonadepadel.es/bullpadel/5235-bote-presurizador-pascal-box.html"
+        "url": "https://www.zonadepadel.es/wilson-padel/4602-cajon-pelotas-wilson-performance-padel-24-x-3.html"
       }
     ]
   },
   {
-    "id": 2196,
+    "id": 2171,
     "slug": "cajon-pelotas-bullpadel-premium-24-x-3-unidades-2177",
     "name": "Cajón Pelotas Bullpadel Premium 24 X 3 unidades",
     "brand": "Bullpadel",
@@ -24276,7 +27351,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2197,
+    "id": 2172,
     "slug": "cajon-pelotas-head-padel-24-x-3-unidades-846",
     "name": "Cajón Pelotas Head Padel 24 X 3 unidades",
     "brand": "Head Padel",
@@ -24317,7 +27392,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2198,
+    "id": 2173,
     "slug": "pack-3-botes-pelotas-head-padel-845",
     "name": "Pack 3 Botes pelotas Head Padel",
     "brand": "Head Padel",
@@ -24358,7 +27433,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2199,
+    "id": 2174,
     "slug": "pelotas-head-padel-844",
     "name": "Pelotas Head Padel",
     "brand": "Head Padel",
@@ -24399,7 +27474,7 @@ window.PADELCOST_ZONA_DE_PADEL_PRODUCTS = [
     ]
   },
   {
-    "id": 2200,
+    "id": 2175,
     "slug": "pelotas-dunlop-team-padel-3-unidades-57",
     "name": "Pelotas Dunlop Team Padel 3 Unidades",
     "brand": "Dunlop Padel",

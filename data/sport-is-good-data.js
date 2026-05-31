@@ -1,5 +1,5 @@
 // PadelCost - Sport is Good
-// Gerado em: 2026-05-19T16:17:39.136Z
+// Gerado em: 2026-05-31T19:09:39.161Z
 window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
   {
     "id": "sport-is-good-sapatilhas-de-padel-interior-para-mujeres-lotto-superrapida-100-43301545826",
@@ -77,7 +77,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Wall Master 360",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 106.72,
+    "price": 100.25,
     "oldPrice": 161.32,
     "rating": null,
     "badge": null,
@@ -101,7 +101,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 106.72,
+        "price": 100.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301589855&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -113,8 +113,8 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Pelota de padel Tecnifibre Tour (x3)",
     "brand": "Tecnifibre",
     "category": "acessorios",
-    "price": 7.73,
-    "oldPrice": 7.73,
+    "price": 7.06,
+    "oldPrice": 7.06,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F6%2F0%2F60patou243.webp&feedId=89044&k=7c76a99425bbfc6eb3de5fda0ae642202e23c098",
@@ -130,7 +130,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 7.73,
+        "price": 7.06,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301589864&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -142,7 +142,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Protector de raquete de padel Dunlop",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 5.43,
+    "price": 4.53,
     "oldPrice": 9.06,
     "rating": null,
     "badge": null,
@@ -159,7 +159,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 5.43,
+        "price": 4.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301590101&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -171,8 +171,8 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Protección de la raqueta en padel Starvie",
     "brand": "Starvie",
     "category": "acessorios",
-    "price": 7.49,
-    "oldPrice": 7.49,
+    "price": 6.4,
+    "oldPrice": 6.86,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Ft%2Fstarvie_399_vert_1.webp&feedId=89044&k=98ddfd2f9961cc842fc427be40882a307df49da8",
@@ -188,7 +188,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 7.49,
+        "price": 6.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301604871&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -200,7 +200,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 57.75,
+    "price": 51.91,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -223,9 +223,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 57.75,
+        "price": 51.91,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43642166394&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-salming-rebel-blk-caje-etd-2-44866548926",
+    "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
+    "brand": "Salming",
+    "category": "sapatilhas",
+    "price": 57.75,
+    "oldPrice": 141.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fa%2Fsa6001c2-black-a_1.webp&feedId=89044&k=ab2ef515622f4fa80e946b1e67d0467b42b9358a",
+    "ean": "7350100285115",
+    "productGTIN": null,
+    "mpn": "SA6001C2-BLACK",
+    "source": "sport-is-good",
+    "sourceProductId": "44866548926",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "ATENCIÓN: Este artículo puede ajustar pequeño. En caso de duda entre 2 tallas, elija la talla superior.Descubre las zapatillas de pádel Salming Rebel BLK Caje Etd. 2, la elección ideal para los jugadores de pádel que buscan un rendimiento superior en la cancha. Fabricadas por la marca de renombre mundial Salming, estas zapatillas ofrecen una combinación perfecta de estilo y funcionalidad. Las zapatillas Salming Rebel BLK Caje Etd. 2 están diseñadas para brindarte una adherencia excepcional en la pista, gracias a su suela exterior de goma especialmente diseñada para movimientos rápidos y detenciones bruscas. Podrás moverte rápida y confiadamente en la cancha. La parte superior de malla transpirable de estas zapatillas asegura una ventilación óptima durante el juego, lo que te permite mantenerte fresco y cómodo incluso en los partidos más intensos. La tecnología FlexFrame de Salming ofrece un soporte adicional en la parte delantera del pie, lo que te permite moverte con más agilidad y re...",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 57.75,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44866548926&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -235,7 +270,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 63.17,
+    "price": 57.75,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -258,7 +293,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 63.17,
+        "price": 57.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43991805906&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -270,7 +305,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel Camo Etd",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 63.17,
+    "price": 57.75,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -293,9 +328,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 63.17,
+        "price": 57.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301635022&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-salming-rebel-light-dazzle-44876888363",
+    "name": "Sapatilhas de padel Salming Rebel light Dazzle",
+    "brand": "Salming",
+    "category": "sapatilhas",
+    "price": 120.12,
+    "oldPrice": 144.19,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fa%2Fsalming_sa6007d0-dazzle_white-dazzle_1.webp&feedId=89044&k=e5f73d014a99833a3db2fe878ce5a8eb50440594",
+    "ean": "7350100285467",
+    "productGTIN": null,
+    "mpn": "SA6007D0-DAZZLE",
+    "source": "sport-is-good",
+    "sourceProductId": "44876888363",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Diseñada para proporcionarte velocidad y un gran rendimiento en el juego, Rebel es una zapatilla muy flexible y ligera quese mantiene estable y ofrece buena sujeción. Desarrollada para pádel con un agarre fantástico gracias a la suela de espiga transparente, la zapatilla cuenta con una entresuela ligera de EVA con una inserción patentada D30, un material de alto rendimiento que reduce los impactos y la parte superior de KPU está diseñada para ofrecer la máxima comodidad y estabilidad.Características y ventajas:Suela exterior de espiga transparente para un máximo agarre.Diseñada con el sistema de guiado TGS 62/75 de Salming para estimular los movimientos naturales del pie.Inserto D30 patentado, un material de reducción de impactos de alto rendimiento.La unidad LMS Torsion proporciona estabilidad extra para evitar torceduras de tobillo.Plantilla extraíble de EVAEl arco de seguridad te proporciona un mejor agarre en la posición de despegue.Contrafuerte del talón de TPU moldeado p......",
+    "specs": {
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 120.12,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44876888363&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -305,7 +375,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel light Dazzle",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 110.5,
+    "price": 103.54,
     "oldPrice": 144.19,
     "rating": null,
     "badge": null,
@@ -328,7 +398,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 110.5,
+        "price": 103.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43480884449&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -340,7 +410,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Pelota de padel Dunlop Eco Padel EU",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 8.62,
+    "price": 6.77,
     "oldPrice": 9.06,
     "rating": null,
     "badge": null,
@@ -357,7 +427,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 8.62,
+        "price": 6.77,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301641847&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -404,7 +474,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Tubo de 3 pelotas de padel RS-Sports Tour X",
     "brand": "RS-Sports",
     "category": "acessorios",
-    "price": 8.15,
+    "price": 7.01,
     "oldPrice": 8.97,
     "rating": null,
     "badge": null,
@@ -421,7 +491,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 8.15,
+        "price": 7.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301660142&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -433,7 +503,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Mochila Wilson Bela",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 54.45,
+    "price": 51.2,
     "oldPrice": 80.67,
     "rating": null,
     "badge": null,
@@ -450,7 +520,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 54.45,
+        "price": 51.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43886722792&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -487,11 +557,40 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
+    "id": "sport-is-good-saco-head-m-bkny-44720072326",
+    "name": "Saco Head M Bkny",
+    "brand": "Head",
+    "category": "sacos",
+    "price": 32.63,
+    "oldPrice": 50.42,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_261443.webp&feedId=89044&k=27906b4d54b7792211e4d5b8672acb73e292c5c4",
+    "ean": "724794626955",
+    "productGTIN": null,
+    "mpn": "261443",
+    "source": "sport-is-good",
+    "sourceProductId": "44720072326",
+    "sourceCategory": "Padel > Sac de raquette de padel > Adulte > Mixte",
+    "description": "La Core Padel Combi cuenta con dos compartimentos principales y un bolsillo para tus accesorios, para que puedas llevar contigo todo lo que necesites. Su original diseño no te dejará indiferente y te acompañará allá donde vayas a jugar al Padel.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 32.63,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44720072326&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "sport-is-good-raquete-de-padel-set-padel-raquettes-okami-43633528249",
     "name": "Raquete de padel Set padel raquettes Okami",
     "brand": "SET",
     "category": "raquetes",
-    "price": 193.32,
+    "price": 186.13,
     "oldPrice": 240.99,
     "rating": null,
     "badge": null,
@@ -515,7 +614,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 193.32,
+        "price": 186.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43633528249&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -527,7 +626,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 70.39,
+    "price": 63.28,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -550,7 +649,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 70.39,
+        "price": 63.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301712374&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -562,7 +661,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raquete de padel Wilson Blade Pro V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 161.33,
+    "price": 230.83,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -586,7 +685,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 161.33,
+        "price": 230.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44779796533&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -598,7 +697,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raquete de padel Head Extreme Elite",
     "brand": "Head",
     "category": "raquetes",
-    "price": 130.08,
+    "price": 114.07,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -622,7 +721,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 130.08,
+        "price": 114.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301723484&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -634,7 +733,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raquete de padel Head Extreme Pro",
     "brand": "Head",
     "category": "raquetes",
-    "price": 182.06,
+    "price": 171.11,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -658,7 +757,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 182.06,
+        "price": 171.11,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301723485&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -699,7 +798,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Tubo de 3 pelotas de padel Wilson Premier Speed Can Bi",
     "brand": "Wilson",
     "category": "acessorios",
-    "price": 14.62,
+    "price": 13.85,
     "oldPrice": 15.93,
     "rating": null,
     "badge": null,
@@ -716,7 +815,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 14.62,
+        "price": 13.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301764399&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -728,7 +827,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Icon 25V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 67.3,
+    "price": 60.5,
     "oldPrice": 93.76,
     "rating": null,
     "badge": null,
@@ -751,7 +850,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 67.3,
+        "price": 60.5,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301771244&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -763,7 +862,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Icon 25V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 67.3,
+    "price": 60.5,
     "oldPrice": 93.76,
     "rating": null,
     "badge": null,
@@ -786,7 +885,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 67.3,
+        "price": 60.5,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301771246&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -862,7 +961,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 61.29,
+    "price": 58.6,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -885,44 +984,9 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 61.29,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44540066104&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-head-motion-pro-43878217820",
-    "name": "Sapatilhas de padel para mujer Head Motion Pro",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 58.6,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274645-ns_blanc-orange_1.webp&feedId=89044&k=3c6fb00ff9fd08d41df2f7e214c622ae826dc749",
-    "ean": "726423360179",
-    "productGTIN": null,
-    "mpn": "274645",
-    "source": "sport-is-good",
-    "sourceProductId": "43878217820",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "HEAD propone un zapato especialmente diseñado para el pádel - desarrollado con jugadores profesionales de pádel de HEAD, el nuevo zapato MOTION PRO PADEL MUJERES ofrece una libertad de movimiento de 360 grados y un alto rendimiento, con un confort moderno, gran estabilidad y excelente transpirabilidad, todo sin comprometer la ligereza.Probado en cooperación con MONDO, el proveedor oficial de superficies del WPT, el modelo de suela exterior avanzada mejora la adherencia en todas las direcciones. Para asegurar una comodidad excepcional, el zapato cuenta con una construcción de ajuste completamente elástica. La suela intermedia contiene DynaFoam ligero y altamente reactivo, diseñado a base de pequeñas celdas de aire. La combinación entre la suela intermedia de TPU, la parte superior reforzada y la tecnología Lateral Control+ ofrece una gran estabilidad. Para mantener tus pies frescos, la MOTION PRO PADEL MUJERES cuenta con un tejido de malla transpirable y un sistema de refrigeración int....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
         "price": 58.6,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43878217820&a=2816502&m=65906",
+        "url": "https://www.awin1.com/pclick.php?p=44540066104&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -1033,20 +1097,20 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
-    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-43783056514",
+    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-44286912194",
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 57.76,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274655-ns_blanc-orange_1.webp&feedId=89044&k=e5d32a2794a87ad0c6a8844cbee7e053f87a9b71",
-    "ean": "726423360285",
+    "ean": "726423360278",
     "productGTIN": null,
     "mpn": "274655",
     "source": "sport-is-good",
-    "sourceProductId": "43783056514",
+    "sourceProductId": "44286912194",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
     "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y tierra batida que te darán confianza sobre todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 PADEL MUJERES te permite moverte rápidamente con un confort ultra moderno y ligero. Lucirás como si llevaras un calzado rápido gracias a su nueva espuma de media suela EVA para un retorno de energía adicional, así como su diseño muy actual y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior y el interior de la parte superior, mantiene tu pie en su lugar cuando te mueves rápidamente en la pista. Para mayor confort, incorpora un sistema de enfriamiento que mejora la transpirabilidad.• Nuevo mesh en TPU más resistente y más transpirable• Nuevos patrones de suela exterior para todo tipo de pistas y tierra batida para un mejor agarre en todas las superficies• Nueva espuma de media suela en EVA para mayor rendimiento energético• Look más......",
     "specs": {
@@ -1060,9 +1124,79 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 56.13,
+        "price": 57.76,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43783056514&a=2816502&m=65906",
+        "url": "https://www.awin1.com/pclick.php?p=44286912194&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-44866549588",
+    "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 61.29,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274655-ns_blanc-orange_1.webp&feedId=89044&k=e5d32a2794a87ad0c6a8844cbee7e053f87a9b71",
+    "ean": "726423360292",
+    "productGTIN": null,
+    "mpn": "274655",
+    "source": "sport-is-good",
+    "sourceProductId": "44866549588",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y tierra batida que te darán confianza sobre todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 PADEL MUJERES te permite moverte rápidamente con un confort ultra moderno y ligero. Lucirás como si llevaras un calzado rápido gracias a su nueva espuma de media suela EVA para un retorno de energía adicional, así como su diseño muy actual y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior y el interior de la parte superior, mantiene tu pie en su lugar cuando te mueves rápidamente en la pista. Para mayor confort, incorpora un sistema de enfriamiento que mejora la transpirabilidad.• Nuevo mesh en TPU más resistente y más transpirable• Nuevos patrones de suela exterior para todo tipo de pistas y tierra batida para un mejor agarre en todas las superficies• Nueva espuma de media suela en EVA para mayor rendimiento energético• Look más......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 61.29,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44866549588&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-44885239314",
+    "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 61.29,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274655-ns_blanc-orange_1.webp&feedId=89044&k=e5d32a2794a87ad0c6a8844cbee7e053f87a9b71",
+    "ean": "726423360308",
+    "productGTIN": null,
+    "mpn": "274655",
+    "source": "sport-is-good",
+    "sourceProductId": "44885239314",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y tierra batida que te darán confianza sobre todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 PADEL MUJERES te permite moverte rápidamente con un confort ultra moderno y ligero. Lucirás como si llevaras un calzado rápido gracias a su nueva espuma de media suela EVA para un retorno de energía adicional, así como su diseño muy actual y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior y el interior de la parte superior, mantiene tu pie en su lugar cuando te mueves rápidamente en la pista. Para mayor confort, incorpora un sistema de enfriamiento que mejora la transpirabilidad.• Nuevo mesh en TPU más resistente y más transpirable• Nuevos patrones de suela exterior para todo tipo de pistas y tierra batida para un mejor agarre en todas las superficies• Nueva espuma de media suela en EVA para mayor rendimiento energético• Look más......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 61.29,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44885239314&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -1177,7 +1311,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -1200,7 +1334,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43827511566&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1247,7 +1381,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -1270,7 +1404,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43958134497&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1527,7 +1661,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 77.35,
+    "price": 70.83,
     "oldPrice": 81.73,
     "rating": null,
     "badge": null,
@@ -1550,7 +1684,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 77.35,
+        "price": 70.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805881&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1628,116 +1762,11 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
-    "id": "sport-is-good-sapatilhas-de-padel-para-ninos-head-motion-44474123849",
-    "name": "Sapatilhas de padel para niños Head Motion",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 30.74,
-    "oldPrice": 80.67,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_275605-ns_linv_1.webp&feedId=89044&k=2d4d7461fa0d32b859295c11e3a0efa6f1929651",
-    "ean": "726423363293",
-    "productGTIN": null,
-    "mpn": "275605",
-    "source": "sport-is-good",
-    "sourceProductId": "44474123849",
-    "sourceCategory": "Padel > Chaussures de padel > Junior > Mixte",
-    "description": "Especialmente diseñada para los movimientos rápidos a 360° en una pista de pádel, la nueva zapatilla MOTION JUNIOR PADEL apoya y mejora el juego de piernas en todas las direcciones. El patrón avanzado de la suela exterior, que ha sido probado con MONDO, el proveedor oficial de superficie del World Padel Tour, ofrece una adherencia multidireccional excepcional, permitiendo a los jóvenes jugadores cambiar de dirección y moverse con confianza. En cuanto a estabilidad, esta zapatilla integra la tecnología HEAD Lateral Control y un sistema de lazado con la correa HEAD Lockdown Strap. Tu comodidad está asegurada por los materiales suaves de su parte superior y por su plantilla acolchada, mientras que la tecnología Drift Defense refuerza la zona de los dedos del pie. La MOTION JUNIOR PADEL presenta un diseño audaz y moderno que refleja su rendimiento innovador.• Patrón de la suela exterior avanzado para una adherencia multidireccional y un movimiento a 360°• Tecnología HEAD Lateral Control .....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 30.74,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44474123849&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-para-ninos-head-motion-44470973521",
-    "name": "Sapatilhas de padel para niños Head Motion",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 30.26,
-    "oldPrice": 80.67,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_275605-ns_linv_1.webp&feedId=89044&k=2d4d7461fa0d32b859295c11e3a0efa6f1929651",
-    "ean": "726423363316",
-    "productGTIN": null,
-    "mpn": "275605",
-    "source": "sport-is-good",
-    "sourceProductId": "44470973521",
-    "sourceCategory": "Padel > Chaussures de padel > Junior > Mixte",
-    "description": "Especialmente diseñada para los movimientos rápidos a 360° en una pista de pádel, la nueva zapatilla MOTION JUNIOR PADEL apoya y mejora el juego de piernas en todas las direcciones. El patrón avanzado de la suela exterior, que ha sido probado con MONDO, el proveedor oficial de superficie del World Padel Tour, ofrece una adherencia multidireccional excepcional, permitiendo a los jóvenes jugadores cambiar de dirección y moverse con confianza. En cuanto a estabilidad, esta zapatilla integra la tecnología HEAD Lateral Control y un sistema de lazado con la correa HEAD Lockdown Strap. Tu comodidad está asegurada por los materiales suaves de su parte superior y por su plantilla acolchada, mientras que la tecnología Drift Defense refuerza la zona de los dedos del pie. La MOTION JUNIOR PADEL presenta un diseño audaz y moderno que refleja su rendimiento innovador.• Patrón de la suela exterior avanzado para una adherencia multidireccional y un movimiento a 360°• Tecnología HEAD Lateral Control .....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 30.26,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44470973521&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-head-motion-pro-44720072487",
-    "name": "Sapatilhas de padel Head Motion Pro",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 61.29,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273645-ns_blanc_1.webp&feedId=89044&k=4f26c24b5e9f574cd143e7dc4c19bc2af306c51c",
-    "ean": "726423354499",
-    "productGTIN": null,
-    "mpn": "273645",
-    "source": "sport-is-good",
-    "sourceProductId": "44720072487",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "HEAD propone un zapato especialmente diseñado para el pádel - desarrollado con jugadores profesionales de pádel de HEAD, el nuevo zapato MOTION PRO PADEL HOMBRE ofrece una libertad de movimiento de 360 grados y altas prestaciones, con una comodidad moderna, gran estabilidad y excelente transpirabilidad, todo sin comprometer la ligereza.Probado en cooperación con MONDO, el proveedor oficial de superficies del WPT, el modelo de suela exterior avanzada mejora la adherencia en todas las direcciones. Para asegurar un confort excepcional, el zapato cuenta con una construcción de calzado completamente elástica. La plantilla intermedia contiene DynaFoam ligero y altamente reactivo, diseñado a base de pequeñas células de aire. La combinación entre la plantilla intermedia de TPU, el empeine reforzado y la tecnología Lateral Control+ ofrece una gran estabilidad. Para mantener tus pies frescos, el MOTION PRO PADEL HOMBRE cuenta con un tejido de malla transpirable y un sistema de enfriamiento inte....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 61.29,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44720072487&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "sport-is-good-sapatilhas-de-padel-head-motion-pro-44073830754",
     "name": "Sapatilhas de padel Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 76.04,
+    "price": 73.02,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -1760,9 +1789,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 76.04,
+        "price": 73.02,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44073830754&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-head-sprint-pro-4-0-43486583288",
+    "name": "Sapatilhas de padel Head Sprint Pro 4.0",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 71.13,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273665-ns_blanc-noir_1.webp&feedId=89044&k=6ca429b588eb5d042bc3c06b80015c789bb9051c",
+    "ean": "726423355199",
+    "productGTIN": null,
+    "mpn": "273665",
+    "source": "sport-is-good",
+    "sourceProductId": "43486583288",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Con sus nuevos diseños de suela exterior en todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 PADEL HOMBRE te permite moverte rápidamente con un confort ultramoderno y ligero. Tendrás el aspecto de un zapato rápido gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño a la moda y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior de la caña, mantiene tu pie en su lugar cuando te mueves rápidamente por la cancha. Para mayor confort, integra un sistema de enfriamiento que mejora la transpirabilidad.• Nuevo mesh en TPU más resistente y transpirable• Nuevos diseños de suela exterior en todo tipo de canchas y tierra batida para un mejor agarre en todas las superficies• Nueva espuma de suela intermedia en EVA para mayor eficiencia energética• Apariencia más rápida y eleg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Homem",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 71.13,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43486583288&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -1772,7 +1836,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -1795,7 +1859,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805889&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1838,11 +1902,46 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
+    "id": "sport-is-good-sapatilhas-de-padel-head-sprint-pro-4-0-clay-44799013896",
+    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 61.29,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273175-ns_blanc-marron_1.webp&feedId=89044&k=1240b7d003d145d9803fbdcd969a465f8d516c3d",
+    "ean": "726423351467",
+    "productGTIN": null,
+    "mpn": "273175",
+    "source": "sport-is-good",
+    "sourceProductId": "44799013896",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con un confort ultra-moderna y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño totalmente actual, y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior del empeine, mantiene tu pie en su lugar cuando te mueves rápidamente en la cancha. Para más comodidad, incluye un sistema de enfriamiento que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de canchas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético·......",
+    "specs": {
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 61.29,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44799013896&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "sport-is-good-sapatilhas-de-padel-k-swiss-tura-team-43301805893",
     "name": "Sapatilhas de padel K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 77.35,
+    "price": 70.83,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -1865,7 +1964,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 77.35,
+        "price": 70.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805893&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1877,7 +1976,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 115.71,
+    "price": 106.2,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -1900,7 +1999,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 115.71,
+        "price": 106.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805895&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1912,7 +2011,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 106.2,
+    "price": 95.51,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -1935,7 +2034,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 106.2,
+        "price": 95.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805896&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1947,7 +2046,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 106.2,
+    "price": 95.51,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -1970,7 +2069,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 106.2,
+        "price": 95.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301805898&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -1982,8 +2081,8 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Pelota de padel Dunlop Team (x3)",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 7.18,
-    "oldPrice": 7.18,
+    "price": 6.68,
+    "oldPrice": 7.05,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_601553_jaune_1.webp&feedId=89044&k=e7ea8cbaa94a5a6ee00f531a9304db7deaa334c2",
@@ -1999,7 +2098,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 7.18,
+        "price": 6.68,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301813815&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2047,7 +2146,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Wilson Defy Pro V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 262.65,
+    "price": 246.9,
     "oldPrice": 332.75,
     "rating": null,
     "badge": null,
@@ -2071,7 +2170,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 262.65,
+        "price": 246.9,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43765905435&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2083,7 +2182,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Wilson Defy V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 197.51,
+    "price": 185.63,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -2107,7 +2206,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 197.51,
+        "price": 185.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301828752&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2155,7 +2254,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Special Invictus 2025",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 188.22,
+    "price": 169.4,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -2179,7 +2278,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 188.22,
+        "price": 169.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301854135&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2191,7 +2290,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Win Carbon 2025",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 131.2,
+    "price": 121,
     "oldPrice": 181.5,
     "rating": null,
     "badge": null,
@@ -2215,9 +2314,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 131.2,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301854136&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-wilson-hurakn-lite-44788024393",
+    "name": "Sapatilhas de padel Wilson Hurakn Lite",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 65.05,
+    "oldPrice": 100.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wrs333920__black_1.webp&feedId=89044&k=8c236de0f8216969e27d1daf7a8c26a0e83154a4",
+    "ean": "97512862004",
+    "productGTIN": null,
+    "mpn": "WRS333920",
+    "source": "sport-is-good",
+    "sourceProductId": "44788024393",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Wilson Hurakn Lite representan una alianza perfecta entre rendimiento y confort, diseñadas especialmente para satisfacer las intensas exigencias del pádel. Este par es ideal para los jugadores que buscan optimizar sus movimientos en la cancha mientras disfrutan de un soporte óptimo y una excelente ligereza. gracias a un diseño innovador, las Wilson Hurakn Lite aseguran una excelente adherencia en todas las superficies de pádel, permitiendo cambios de dirección rápidos y precisos. Su suela externa ofrece una tracción máxima mientras reduce el desgaste, garantizando así una durabilidad notable incluso en uso intensivo.Su estructura ligera permite una gran reactividad, facilitando las aceleraciones y los saltos indispensables para un juego dinámico. Además, estas zapatillas incorporan un sistema de soporte lateral reforzado para proteger los tobillos contra torceduras, al tiempo que ofrecen un confort duradero durante los partidos.Diseñadas teniendo en cuenta......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 65.05,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44788024393&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -2299,7 +2433,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Wilson Bela V3",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 236.09,
+    "price": 229.95,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -2323,7 +2457,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 236.09,
+        "price": 229.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44260730707&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2335,7 +2469,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 66.42,
+    "price": 60.74,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -2358,44 +2492,9 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 66.42,
+        "price": 60.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866822&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-mizuno-wave-enforce-court-43301866825",
-    "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 70.12,
-    "oldPrice": 110.92,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fi%2Fmizuno_61gb243745_vibrantyellow-black-blacksand_1.webp&feedId=89044&k=d052f57143d2f00a8b272f85b5f42ff1d77e1273",
-    "ean": "5059882573848",
-    "productGTIN": null,
-    "mpn": "61GB243745",
-    "source": "sport-is-good",
-    "sourceProductId": "43301866825",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Toma el control de la cancha con esta zapatilla amortiguada que cuenta con características excepcionales a un precio inmejorable. La combinación de la MIZUNO ENERZY y de la FOAM WAVE ofrecen un excelente nivel de amortiguación, confort y retorno de energía. La suela plana y el estabilizador mejoran la estabilidad, mientras que la suela exterior de goma X10 mejora significativamente la durabilidad. Este modelo inspirado en la WAVE ENFORCE TOUR retoma el diseño de esta última a un precio más asequible. [Modelo extremadamente amortiguado a un precio accesible] - MIZUNO ENERZY × FOAM WAVE: La excelente amortiguación y el retorno de energía de la combinación MIZUNO ENERZY y FOAM WAVE mejoran el confort de la pisada. Suela plana x estabilizador: La amplia superficie en contacto con el suelo mejora la estabilidad del pie. - Goma X10: suela exterior excepcionalmente resistente. 4) Diseño inspirado en el modelo ENFORCE TOUR: la hermana gemela del ENFORCE TOUR con una suela y una parte superior ...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 70.12,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43301866825&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -2405,7 +2504,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2428,7 +2527,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866828&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2440,7 +2539,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2463,7 +2562,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866829&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2475,7 +2574,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2498,7 +2597,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866830&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2510,7 +2609,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2533,7 +2632,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866833&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2545,7 +2644,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2568,7 +2667,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866834&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2580,7 +2679,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 79.54,
+    "price": 74.42,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -2603,7 +2702,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 79.54,
+        "price": 74.42,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866835&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2615,7 +2714,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 90.35,
+    "price": 82.8,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -2638,7 +2737,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 90.35,
+        "price": 82.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301866838&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2713,6 +2812,41 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
         "price": 63.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44470974015&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-nox-at10-44885240208",
+    "name": "Sapatilhas de padel Nox AT10",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 58.27,
+    "oldPrice": 141.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calatluxstbb39_pierre-bleu_1.webp&feedId=89044&k=123bd105b6563d6b90e2e97c55470eba100bbf11",
+    "ean": "8436603198295",
+    "productGTIN": null,
+    "mpn": "CALATLUXSTBB40",
+    "source": "sport-is-good",
+    "sourceProductId": "44885240208",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "¡Prepárate para una revolución en las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 LUX PEDRA/BONNIE BLUE edición 2024! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo mejoran tu rendimiento en la cancha, sino que también cuidan tu salud con cada movimiento.Tecnología de punta en zapatillas de pádel para un rendimiento óptimoElegidas por los profesionales: Las Nox AT10 LUX 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Las utiliza tanto para el entrenamiento como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y una comodidad máxima en todo momento.Zapatillas oficiales Premier Padel España 2024Las zapatillas de pádel Nox AT10 LUX 2024 han sido galardonadas con el título de \"Mejor Zapatilla de Padel en Potencia\" por Testea Padel en los Best Padel Awards 2024.Aprobada clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, consultora en el Centro de ......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 58.27,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44885240208&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -2828,7 +2962,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Mochila Nox AT10 Team",
     "brand": "Nox",
     "category": "sacos",
-    "price": 55.21,
+    "price": 53.19,
     "oldPrice": 70.53,
     "rating": null,
     "badge": null,
@@ -2845,7 +2979,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 55.21,
+        "price": 53.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44024506726&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -2886,7 +3020,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Curva Team",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 112.54,
+    "price": 105.72,
     "oldPrice": 171.41,
     "rating": null,
     "badge": null,
@@ -2910,7 +3044,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 112.54,
+        "price": 105.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301915625&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3186,41 +3320,6 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
-    "id": "sport-is-good-sapatilhas-de-padel-head-motion-pro-1-5-boa-44779797585",
-    "name": "Sapatilhas de padel Head Motion Pro 1.5 BOA",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 177.47,
-    "oldPrice": 221.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-273626-white-black-69cd45948b6bc-1.webp&feedId=89044&k=7067ebcc0dd7a99db5f7c97437f3257a57be93c6",
-    "ean": "198772060022",
-    "productGTIN": null,
-    "mpn": "273626",
-    "source": "sport-is-good",
-    "sourceProductId": "44779797585",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "Descubre un nuevo nivel de comodidad con la MOTION PRO BOA PADEL, que es el primer zapato de pádel equipado con el sistema Dual BOA® Fit, que ofrece un ajuste microajustable de precisión. Desarrollado con jugadores profesionales de pádel de HEAD, este zapato permite movimientos en 360 grados y un alto rendimiento gracias a una comodidad, estabilidad y transpirabilidad excepcionales. Un patrón de suela innovador - que ha sido probado en cooperación con el proveedor oficial de césped Premier Padel, MONDO - mejora la adherencia en todas direcciones. Para un confort excepcional, la MOTION PRO BOA PADEL cuenta con una media interior completamente elástica y una suela OrthoLite, mientras que la entresuela contiene DynaFoam, creada con pequeñas celdas de aire, que es ligera y muy reactiva. La estabilidad proviene de la combinación de la parte superior de TPU en el medio del pie, la parte superior reforzada y la tecnología Lateral Control+. Para ayudar a mantener el pie fresco, hay una rejilla...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 177.47,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44779797585&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "sport-is-good-raqueta-de-padel-head-extreme-one-2025-43574015455",
     "name": "Raqueta de padel Head Extreme One 2025",
     "brand": "Head",
@@ -3297,7 +3396,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Pro 2025",
     "brand": "Head",
     "category": "raquetes",
-    "price": 182.06,
+    "price": 175.28,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -3321,7 +3420,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 182.06,
+        "price": 175.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43999036730&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3333,7 +3432,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Team 2025",
     "brand": "Head",
     "category": "raquetes",
-    "price": 130.08,
+    "price": 122.22,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -3357,7 +3456,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 130.08,
+        "price": 122.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301920928&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3369,7 +3468,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 18K Alum par Agustín Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 393.24,
+    "price": 334.25,
     "oldPrice": 393.24,
     "rating": null,
     "badge": null,
@@ -3393,7 +3492,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 393.24,
+        "price": 334.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44257303302&a=2816502&m=65906",
         "deliveryCost": 0
@@ -3405,7 +3504,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Nox EA10 Ventus Attack 12K Xtrem par Edu Alonso",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 268.31,
+    "price": 258.38,
     "oldPrice": 342.82,
     "rating": null,
     "badge": null,
@@ -3429,7 +3528,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 268.31,
+        "price": 258.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43301934188&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3441,7 +3540,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 82.02,
+    "price": 76.74,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -3464,7 +3563,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 82.02,
+        "price": 76.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033931140&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3511,7 +3610,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 82.02,
+    "price": 76.74,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -3534,9 +3633,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 82.02,
+        "price": 76.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033931142&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-bullpadel-ionic-26v-44002962807",
+    "name": "Sapatilhas de padel Bullpadel Ionic 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 97.05,
+    "oldPrice": 126.03,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc94001000.webp&feedId=89044&k=6f3716ec3801a6f861eda8de011bd64b01ee93a8",
+    "ean": "8445402954018",
+    "productGTIN": null,
+    "mpn": "DC94001000",
+    "source": "sport-is-good",
+    "sourceProductId": "44002962807",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Bullpadel Ionic 26V están diseñadas para los aficionados a este deporte dinámico, ofreciendo un equilibrio perfecto entre rendimiento y comodidad. Como marca reconocida en el universo del pádel, Bullpadel se compromete a proporcionar productos de calidad excepcional que cumplen con las exigencias de jugadores de todos los niveles.Estas zapatillas integran tecnologías avanzadas para garantizar una experiencia de juego óptima. Con una suela especialmente diseñada para el pádel, ofrecen una adherencia notable en diferentes tipos de superficies, permitiéndote realizar desplazamientos rápidos y ágiles sin comprometer tu seguridad.El diseño ergonómico de la Bullpadel Ionic 26V permite un excelente soporte del pie, promoviendo así un mejor impulso en los golpes. La ligereza de los materiales utilizados también contribuye a reducir la fatiga, permitiéndote mantener la concentración en tu juego durante tus entrenamientos y competiciones.En términos de comodidad, es......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 97.05,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44002962807&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -3546,7 +3680,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -3569,7 +3703,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002962808&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3581,7 +3715,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -3604,7 +3738,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002962809&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3616,7 +3750,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -3639,7 +3773,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002962810&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3651,7 +3785,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -3674,9 +3808,44 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002962811&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-bullpadel-neuron-26v-44212513579",
+    "name": "Sapatilhas de padel Bullpadel Neuron 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 119.04,
+    "oldPrice": 141.16,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc93004000.webp&feedId=89044&k=0c01916fd25cc76477208c0c18dc9435be1870ec",
+    "ean": "8445402953585",
+    "productGTIN": null,
+    "mpn": "DC93004000",
+    "source": "sport-is-good",
+    "sourceProductId": "44212513579",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Los zapatos de pádel Bullpadel Neuron 26V están especialmente diseñados para ofrecer un rendimiento óptimo en la cancha de pádel. Este modelo combina confort, adherencia y soporte, lo que lo convierte en una opción perfecta para jugadores de todos los niveles.Diseñados por Bullpadel, una marca reconocida en el mundo del pádel, estos zapatos son ideales para aquellos que buscan un par confiable para sus sesiones de entrenamiento o competiciones. Gracias a materiales innovadores y a un diseño pensado, garantizan una excelente transpirabilidad y un ajuste perfecto.Las características clave de los zapatos de pádel Bullpadel Neuron 26V incluyen: Amortiguación eficaz: La tecnología de amortiguación integrada asegura el máximo confort en cada paso, reduciendo así la fatiga durante las largas sesiones de juego. Adherencia óptima: La suela exterior está diseñada para ofrecer una tracción excepcional en diferentes tipos de superficies de juego, permitiéndote moverte rápidamente y con seg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 119.04,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44212513579&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -3826,7 +3995,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 135.77,
+    "price": 127.3,
     "oldPrice": 166.36,
     "rating": null,
     "badge": null,
@@ -3849,7 +4018,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 135.77,
+        "price": 127.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033931143&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3861,7 +4030,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 135.77,
+    "price": 127.3,
     "oldPrice": 166.36,
     "rating": null,
     "badge": null,
@@ -3884,7 +4053,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 135.77,
+        "price": 127.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033931145&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3968,7 +4137,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Saco Bullpadel Bpp26001 Vertex",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 86.32,
+    "price": 80.79,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -3985,7 +4154,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 86.32,
+        "price": 80.79,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43654350663&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -3997,7 +4166,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Saco Bullpadel Bpp26005 Ionic",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 74.59,
+    "price": 72.54,
     "oldPrice": 85.7,
     "rating": null,
     "badge": null,
@@ -4014,7 +4183,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 74.59,
+        "price": 72.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43954107088&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -4026,7 +4195,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Mochila Head Coello Tour Padel",
     "brand": "Head",
     "category": "sacos",
-    "price": 78.77,
+    "price": 74.08,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -4043,44 +4212,9 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 78.77,
+        "price": 74.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43359638229&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-mizuno-wave-enforce-tour-2-43946268873",
-    "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 104.33,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fi%2Fmizuno-61gb260535-black-foliage-green-glowing-apple-2.webp&feedId=89044&k=403006c317d9c65146e8b3c8343c5258a0cd4ac3",
-    "ean": "5059882832976",
-    "productGTIN": null,
-    "mpn": "61GB260535",
-    "source": "sport-is-good",
-    "sourceProductId": "43946268873",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las Zapatillas de pádel Mizuno Wave Enforce Tour 2 son la elección ideal para los apasionados de este deporte dinámico. Diseñadas con una atención especial a los detalles, combinan rendimiento y confort, permitiéndote dar lo mejor de ti en la cancha.Las tecnologías avanzadas integradas en estas zapatillas garantizan un soporte óptimo del pie durante tus movimientos rápidos y laterales. La suela exterior de goma ofrece una excelente adherencia, permitiendo cambios de dirección rápidos sin comprometer tu equilibrio. Ya seas un jugador principiante o experimentado, estas zapatillas te ayudarán a mejorar tu juego.Entre las características clave de las Zapatillas de pádel Mizuno Wave Enforce Tour 2, se encuentran: Amortiguación dinámica: La tecnología Wave ofrece una amortiguación excepcional, reduciendo el impacto de cada zancada y proporcionando comodidad prolongada durante los partidos. Soporte lateral: Gracias a su diseño ergonómico, estas zapatillas garantizan un soporte lateral......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 104.33,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43946268873&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -4156,41 +4290,6 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     ]
   },
   {
-    "id": "sport-is-good-sapatilhas-de-padel-mizuno-wave-enforce-tour-2-43946268880",
-    "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 104.33,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fi%2Fmizuno-61gb260535-black-foliage-green-glowing-apple-2.webp&feedId=89044&k=403006c317d9c65146e8b3c8343c5258a0cd4ac3",
-    "ean": "5059882833034",
-    "productGTIN": null,
-    "mpn": "61GB260535",
-    "source": "sport-is-good",
-    "sourceProductId": "43946268880",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las Zapatillas de pádel Mizuno Wave Enforce Tour 2 son la elección ideal para los apasionados de este deporte dinámico. Diseñadas con una atención especial a los detalles, combinan rendimiento y confort, permitiéndote dar lo mejor de ti en la cancha.Las tecnologías avanzadas integradas en estas zapatillas garantizan un soporte óptimo del pie durante tus movimientos rápidos y laterales. La suela exterior de goma ofrece una excelente adherencia, permitiendo cambios de dirección rápidos sin comprometer tu equilibrio. Ya seas un jugador principiante o experimentado, estas zapatillas te ayudarán a mejorar tu juego.Entre las características clave de las Zapatillas de pádel Mizuno Wave Enforce Tour 2, se encuentran: Amortiguación dinámica: La tecnología Wave ofrece una amortiguación excepcional, reduciendo el impacto de cada zancada y proporcionando comodidad prolongada durante los partidos. Soporte lateral: Gracias a su diseño ergonómico, estas zapatillas garantizan un soporte lateral......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 104.33,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43946268880&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "sport-is-good-sapatilhas-de-padel-mizuno-wave-exceed-court-44044198171",
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
@@ -4230,7 +4329,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 86.62,
+    "price": 82.94,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -4253,7 +4352,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 86.62,
+        "price": 82.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44540067098&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -4476,7 +4575,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel adidas Cross IT Carbon Ctrl 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 222.7,
+    "price": 213.66,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -4500,7 +4599,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 222.7,
+        "price": 213.66,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44487548983&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -4512,7 +4611,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel adidas Drive 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 64.12,
+    "price": 60.45,
     "oldPrice": 80.67,
     "rating": null,
     "badge": null,
@@ -4536,7 +4635,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 64.12,
+        "price": 60.45,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44354618414&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -4656,7 +4755,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raquete de padel Siux Astra Control",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 130.38,
+    "price": 126.91,
     "oldPrice": 150.24,
     "rating": null,
     "badge": null,
@@ -4680,7 +4779,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 130.38,
+        "price": 126.91,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43757960219&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5045,7 +5144,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5068,7 +5167,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43771755006&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5080,7 +5179,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5103,7 +5202,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43930899898&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5115,7 +5214,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5138,7 +5237,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43930899899&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5150,7 +5249,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5173,7 +5272,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43930899900&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5185,7 +5284,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5208,7 +5307,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43771755008&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5220,7 +5319,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5243,7 +5342,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43771755009&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5255,7 +5354,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5278,7 +5377,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43771755010&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5290,7 +5389,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -5313,7 +5412,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43771755011&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5468,7 +5567,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Head Radical Pro 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 169.42,
+    "price": 160.27,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -5492,7 +5591,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 169.42,
+        "price": 160.27,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43868820818&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5504,7 +5603,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Saco Head Tour Geor",
     "brand": "Head",
     "category": "sacos",
-    "price": 65.16,
+    "price": 63.34,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -5521,7 +5620,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 65.16,
+        "price": 63.34,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43878223844&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5605,7 +5704,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Wilson Optix V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 90.75,
+    "price": 80.67,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -5629,7 +5728,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 90.75,
+        "price": 80.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44573221523&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5641,7 +5740,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Wilson Optix V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 117.98,
+    "price": 104.87,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -5665,7 +5764,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 117.98,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44190125317&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -5677,7 +5776,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Mochila Wilson Defy V1",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 62.24,
+    "price": 58.66,
     "oldPrice": 95.79,
     "rating": null,
     "badge": null,
@@ -5694,44 +5793,9 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 62.24,
+        "price": 58.66,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44541571028&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-sapatilhas-de-padel-adidas-crazyquick-44190125351",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 96.8,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=89044&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912665",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "sport-is-good",
-    "sourceProductId": "44190125351",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 96.8,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44190125351&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -5742,7 +5806,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "brand": "Head",
     "category": "raquetes",
     "price": 94.58,
-    "oldPrice": 102.85,
+    "oldPrice": 201.67,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-228035-rouge-2.webp&feedId=89044&k=f489dc9e66ae0c8b0c1e5bd291a5e96ed515fff9",
@@ -5778,7 +5842,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "brand": "Head",
     "category": "raquetes",
     "price": 74.94,
-    "oldPrice": 181.5,
+    "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-228865-noir-jaune-1.webp&feedId=89044&k=db203d88bcb87d0ac112506296d44519eb7b9ce1",
@@ -5950,7 +6014,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel para niños Head Coello 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 110.92,
+    "price": 94.28,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -5974,7 +6038,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 110.92,
+        "price": 94.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44292842242&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -6022,7 +6086,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Head Coello Pro 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 317.63,
+    "price": 282.33,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -6046,7 +6110,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 317.63,
+        "price": 282.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44079314896&a=2816502&m=65906",
         "deliveryCost": 0
@@ -6058,7 +6122,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Raqueta de padel Head Coello Vibe 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 141.17,
+    "price": 119.99,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -6082,7 +6146,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 141.17,
+        "price": 119.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44079314898&a=2816502&m=65906",
         "deliveryCost": 7.99
@@ -6094,7 +6158,7 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
     "name": "Saco Head Coello Tour",
     "brand": "Head",
     "category": "sacos",
-    "price": 110.92,
+    "price": 94.28,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -6111,45 +6175,9 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
       {
         "key": "sport-is-good",
         "name": "Sport is Good",
-        "price": 110.92,
+        "price": 94.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44079314905&a=2816502&m=65906",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "sport-is-good-raqueta-de-padel-tecnifibre-bomba-lite-44106825843",
-    "name": "Raqueta de padel Tecnifibre Bomba Lite",
-    "brand": "Tecnifibre",
-    "category": "raquetes",
-    "price": 137.12,
-    "oldPrice": 171.41,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Ft%2Fe%2Ftecnifibre-16bombali6-noir-69dfba803cb29-1.webp&feedId=89044&k=325b0aa6781dda90a631e8126d876d333853e72a",
-    "ean": "3490150243179",
-    "productGTIN": null,
-    "mpn": "16BOMBALI6",
-    "source": "sport-is-good",
-    "sourceProductId": "44106825843",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Bomba Lite – La potencia con total ligereza La Bomba Lite es la raqueta más accesible de la gama. Facilita el juego ofensivo mientras ofrece un máximo de tolerancia. Su peso y maniobrabilidad la convierten en una opción ideal para jugadores, jugadoras y juniors que buscan comodidad y facilidad de juego. Potencia explosiva Su forma de diamante permite generar fácilmente potencia, mientras que la zona de impacto ampliada de 7 cm² en comparación con la Curva Soft aumenta la tolerancia en los golpes descentrados. El núcleo reforzado favorece una deformación controlada de la cara, ofreciendo una restitución de energía fluida y progresiva. El núcleo reforzado favorece la deformación de la cara, mientras que su peso de 345 g permite un agarre rápido y una excelente maniobrabilidad. Su cara está hecha de fibra de vidrio, un material conocido por sus propiedades de flexibilidad y comodidad. Más flexible que el carbono, la fibra de vidrio permite una deformación más progresiva de la cara al impa...",
-    "specs": {
-      "peso": "345g",
-      "forma": "Diamante",
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "sport-is-good",
-        "name": "Sport is Good",
-        "price": 137.12,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44106825843&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]
@@ -6222,6 +6250,41 @@ window.PADELCOST_SPORT_IS_GOOD_PRODUCTS = [
         "price": 193.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44106825845&a=2816502&m=65906",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "sport-is-good-sapatilhas-de-padel-para-mujer-wilson-hurakn-lite-44788024946",
+    "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 66.22,
+    "oldPrice": 100.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson-wrs338470-white-white-69ccf2eda1aa2-1.webp&feedId=89044&k=d93f87c9dd63717725d8efda195673cc24eb75f1",
+    "ean": "97512994972",
+    "productGTIN": null,
+    "mpn": "WRS338470",
+    "source": "sport-is-good",
+    "sourceProductId": "44788024946",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "ADAPTACIÓN: Ligeras, Transpirables y CómodasLa parte superior de malla está diseñada para permitir la máxima circulación de aire, ofreciendo un ajuste ligero y transpirable. Esto garantiza comodidad incluso en juegos intensos, manteniendo los pies frescos y secos.SENSACIÓN: Reactiva y AmortiguadaEquipadas con la espuma Fused 8 y una plantilla Ortholite, la Hurakn Lite ofrece una media suela reactiva con una excelente amortiguación. La zapatilla se adapta a la forma de tu pie, proporcionando comodidad y soporte durante largos partidos.FUNCIÓN: Padel - Versatilidad en la CanchaLa suela exterior diseñada biomecánicamente con patrones de vórtice en la parte delantera y en el talón mejora la adherencia y la libertad de rotación, garantizando pivotes rápidos y agilidad en todo tipo de superficies de cancha.Pro Torque Chassis LightEste chasis utiliza tecnología de arco diseñada para la velocidad, proporcionando una estabilidad y flexibilidad extremas.Soporte Específico para MujeresEst......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "sport-is-good",
+        "name": "Sport is Good",
+        "price": 66.22,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44788024946&a=2816502&m=65906",
         "deliveryCost": 7.99
       }
     ]

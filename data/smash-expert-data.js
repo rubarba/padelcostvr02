@@ -1,12 +1,12 @@
 // PadelCost - Smash Expert
-// Gerado em: 2026-05-19T16:32:46.501Z
+// Gerado em: 2026-05-31T19:10:16.258Z
 window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
   {
     "id": "smash-expert-marco-de-proteccion-de-la-raqueta-bullpadel-41259882608",
     "name": "Marco de protección de la raqueta BullPadel",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 92.77,
+    "price": 89.74,
     "oldPrice": 99.83,
     "rating": null,
     "badge": null,
@@ -23,7 +23,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 92.77,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41259882608&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -151,8 +151,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mango de la pala BullPadel",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 21.18,
-    "oldPrice": 21.18,
+    "price": 20.17,
+    "oldPrice": 20.17,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2FT%2F9%2FT942012000.webp&feedId=93547&k=7034dea4d929ac7846ea7c0aaad08c4ae3b11358",
@@ -168,7 +168,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 21.18,
+        "price": 20.17,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104797483&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -470,7 +470,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Agarre Dunlop pdl tour pro",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 6.43,
+    "price": 5.41,
     "oldPrice": 8.06,
     "rating": null,
     "badge": null,
@@ -487,38 +487,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 6.43,
+        "price": 5.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771555983&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-agarre-dunlop-pdl-tour-pro-39903361090",
-    "name": "Agarre Dunlop pdl tour pro",
-    "brand": "Dunlop",
-    "category": "acessorios",
-    "price": 8.06,
-    "oldPrice": 8.06,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F6%2F2%2F623802_1.webp&feedId=93547&k=3adbf6266dd98947052eebc7143b821c21e34ade",
-    "ean": "45566300577",
-    "productGTIN": null,
-    "mpn": "623802",
-    "source": "smash-expert",
-    "sourceProductId": "39903361090",
-    "sourceCategory": "Padel > Grip de padel > Adulte > Mixte",
-    "description": "Agarre Dunlop pdl tour proRaquetas de pádel Overgrip dunlop tour pro 3 unidades.Tecnología Tour Pro para un máximo tacto y rendimiento. Alta durabilidad.sobregrips disponibles en diferentes colores, ampollas y cubetas / 60.",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 8.06,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=39903361090&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -617,12 +588,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sobregrip-joma-dry-competition-44855776087",
+    "name": "Sobregrip Joma DRY COMPETITION",
+    "brand": "Joma",
+    "category": "acessorios",
+    "price": 116.58,
+    "oldPrice": 141.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F4%2F0%2F400801.200_0.webp&feedId=93547&k=f2b07ffc9606f87e146d6c6e07d0801799949a75",
+    "ean": "8424309884888",
+    "productGTIN": null,
+    "mpn": "400801.200",
+    "source": "smash-expert",
+    "sourceProductId": "44855776087",
+    "sourceCategory": "Padel > Surgrip de padel > Adulte > Mixte",
+    "description": "Paquete de 60 tiras de sobregrip para raquetas de tenis y pádel. Fácil de colocar en el mango de la raqueta. Excelente absorción del sudor para un juego cómodo y preciso.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 116.58,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44855776087&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sobregrip-joma-dry-competition-44432386002",
     "name": "Sobregrip Joma DRY COMPETITION",
     "brand": "Joma",
     "category": "acessorios",
-    "price": 16.13,
-    "oldPrice": 16.13,
+    "price": 14.26,
+    "oldPrice": 14.62,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F4%2F0%2F400746.200_1.webp&feedId=93547&k=791015b9224e860dcb9b4ec7818fa6b8fc56799c",
@@ -638,7 +638,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 16.13,
+        "price": 14.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386002&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -679,8 +679,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sobregrip Joma OGRIP CLUB CUHSION",
     "brand": "Joma",
     "category": "acessorios",
-    "price": 16.13,
-    "oldPrice": 16.13,
+    "price": 13.16,
+    "oldPrice": 13.61,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F4%2F0%2F400748.050_0.webp&feedId=93547&k=46981bb0dbde801972a0b33acf7d4211b04e1417",
@@ -696,7 +696,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 16.13,
+        "price": 13.16,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528414771&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -708,7 +708,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa de raquetas Bidi Badu collypy padel",
     "brand": "BIDI BADU",
     "category": "sacos",
-    "price": 57.48,
+    "price": 55.46,
     "oldPrice": 69.58,
     "rating": null,
     "badge": null,
@@ -725,7 +725,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 57.48,
+        "price": 55.46,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386057&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -764,6 +764,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 141.17,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528485233&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-dunlop-speed-attack-nh-44890818670",
+    "name": "Raqueta de padel Dunlop Speed attack NH",
+    "brand": "Dunlop",
+    "category": "raquetes",
+    "price": 151.25,
+    "oldPrice": 151.25,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_10325871_0.webp&feedId=93547&k=e5b2bc3591f62baeedb800d68f57d7b3a66400e7",
+    "ean": "45566303936",
+    "productGTIN": null,
+    "mpn": "10325871",
+    "source": "smash-expert",
+    "sourceProductId": "44890818670",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Grafito ultra fina capa de grafito puro con una increíble relación resistencia-peso para un rendimiento superior en todos los golpes. PRO EVA EVA de densidad mediapara potencia, control y confort. Extra GripConsigue un impulso más penetrante con un acabado texturizado en la superficie de la raqueta para más efecto.V-Holes Dunlop El patrón de agujeros único en forma de \"V\" está diseñado para proporcionar un agarre máximo de la pelota en todos los golpes ofensivos para conseguir ganadores más penetrantes y un mejor control de la pelota.Aero Marco Geometría aerodinámica del marco enLa base del bate genera una mayor velocidad de swing en los tiros ofensivos y permite un tiempo de reacción más rápido rapide en los tiros defensivos. Sistema de protección del marco Dunlop (DFPS)Banda protectora incorporada en el bate para protegerlo de los impactos con las paredes y el suelo del bate para una mayor durabilidad.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 151.25,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890818670&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -860,7 +896,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel FZ Forza Brace Power",
     "brand": "FZ Forza",
     "category": "raquetes",
-    "price": 147.22,
+    "price": 139.15,
     "oldPrice": 210.74,
     "rating": null,
     "badge": null,
@@ -884,7 +920,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 147.22,
+        "price": 139.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776397233&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -896,7 +932,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel FZ Forza Brace Spin",
     "brand": "FZ Forza",
     "category": "raquetes",
-    "price": 161.33,
+    "price": 139.15,
     "oldPrice": 230.91,
     "rating": null,
     "badge": null,
@@ -920,7 +956,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 161.33,
+        "price": 139.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776397234&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -932,7 +968,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel FZ Forza X-Power",
     "brand": "FZ Forza",
     "category": "raquetes",
-    "price": 126.04,
+    "price": 124.03,
     "oldPrice": 180.49,
     "rating": null,
     "badge": null,
@@ -956,7 +992,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 126.04,
+        "price": 124.03,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104802666&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -968,8 +1004,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Agarre de pala para mujeres Bullpadel Hesacore 018",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 21.18,
-    "oldPrice": 21.18,
+    "price": 22.18,
+    "oldPrice": 22.18,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel_au85018000_1.webp&feedId=93547&k=6504fe3a2c5398c599076797b6ce5589f450f1fd",
@@ -985,7 +1021,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 21.18,
+        "price": 22.18,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104803122&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1022,11 +1058,40 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-tubo-recogepelotas-bullpadel-005-44216707236",
+    "name": "Tubo recogepelotas Bullpadel 005",
+    "brand": "Bullpadel",
+    "category": "acessorios",
+    "price": 24.2,
+    "oldPrice": 24.2,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel_w386000000_1.webp&feedId=93547&k=20452fee8ed32506aaea26a00681be79253a22b6",
+    "ean": "8434417848832",
+    "productGTIN": null,
+    "mpn": "W386000000",
+    "source": "smash-expert",
+    "sourceProductId": "44216707236",
+    "sourceCategory": "Padel > Ramasse-balle > Adulte > Mixte",
+    "description": "Tubo de recogida de balones BullpadelEl tubo de recogida de balones Bullpadel ha sido desarrollado para ayudar a recoger los balones del campo de forma rápida y sencilla. Tiene una capacidad de 15 bolas debido a su tamaño de 96 cm.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 24.2,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44216707236&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-zapatos-de-padel-asics-solution-swift-ff-43890330753",
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1049,9 +1114,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43890330753&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-zapatos-de-padel-asics-solution-swift-ff-44873043745",
+    "name": "Zapatos de padel Asics Solution swift FF",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 95.35,
+    "oldPrice": 131.08,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a314_400_000.webp&feedId=93547&k=edbaed530b74c0260ee8d84d810d1dd528d7760a",
+    "ean": "4550455741875",
+    "productGTIN": null,
+    "mpn": "1041A314 - 400",
+    "source": "smash-expert",
+    "sourceProductId": "44873043745",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "El zapato SOLUTION SWIFT™ FF PADEL está diseñado para jugadores de toda la cancha que cubren la red y la línea de fondo. Presenta un diseño de suela flexible, funcional para el movimiento multidireccional. La entresuela de esta zapatilla está formada por amortiguación FLYTEFOAM™. Se trata de una espuma ligera y duradera que aumenta la absorción de impactos. Mientras tanto, la unidad de tecnología TWISTRUSS™ de apoyo en el mediopié te ayuda a experimentar cortes rápidos y seguros en el campo. Style #: 1041A314.400",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 95.35,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44873043745&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -1061,7 +1161,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1084,7 +1184,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43934978631&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1096,7 +1196,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 91.32,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1119,7 +1219,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 91.32,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43945153960&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1131,7 +1231,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1154,7 +1254,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44686637568&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1201,7 +1301,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1224,7 +1324,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43934978633&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1236,7 +1336,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1259,7 +1359,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44686637569&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1271,7 +1371,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Asics Solution swift FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -1294,7 +1394,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44686637570&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1332,41 +1432,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 110.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44212437399&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-zapatos-de-mujer-padel-asics-gel-challenger-13-44223810066",
-    "name": "Zapatos de mujer padel Asics Gel-challenger 13",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 110.92,
-    "oldPrice": 110.92,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a205_400_000.webp&feedId=93547&k=ce7ffe5d37c7b7e70510b18c5fd071c9d9462425",
-    "ean": "4550455658425",
-    "productGTIN": null,
-    "mpn": "1042A205 - 400",
-    "source": "smash-expert",
-    "sourceProductId": "44223810066",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "ASICS GEL CHALLENGER 13 BLANCO AZUL PARA MUJERES, COMODIDAD Las zapatillas de pádel para mujer Asics Gel Challenger 13 te proporcionarán una increíble estabilidad con una excelente amortiguación, manteniendo tus pisadas más cómodas y seguras en la pista, a la vez que disfrutas de un gran tacto que garantiza una total comodidad.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 110.92,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44223810066&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -1861,7 +1926,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Joma Yukon",
     "brand": "Joma",
     "category": "raquetes",
-    "price": 191.58,
+    "price": 190.58,
     "oldPrice": 191.58,
     "rating": null,
     "badge": null,
@@ -1885,7 +1950,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 191.58,
+        "price": 190.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104804625&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -1897,7 +1962,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Joma Open",
     "brand": "Joma",
     "category": "sacos",
-    "price": 52.43,
+    "price": 51.43,
     "oldPrice": 70.58,
     "rating": null,
     "badge": null,
@@ -1914,7 +1979,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 52.43,
+        "price": 51.43,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386320&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -2377,47 +2442,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raqueta-de-padel-bullpadel-hack-03-22-41104804712",
-    "name": "Raqueta de padel Bullpadel Hack 03 22",
-    "brand": "Bullpadel",
-    "category": "raquetes",
-    "price": 137.13,
-    "oldPrice": 326.7,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel_au40000000_noir-gris_1.webp&feedId=93547&k=01f2ee9e2b62682efa80bed721548a86392c6fba",
-    "ean": "8445402124879",
-    "productGTIN": null,
-    "mpn": "AU40000000",
-    "source": "smash-expert",
-    "sourceProductId": "41104804712",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "a Hack 03 es una raqueta con forma de diamante, con máxima potencia y alto rendimiento sin pérdida de control.Peso: 365-375 grs.Perfil: 38 mm.Equilibrio: AltoForma: DiamanteNúcleo exterior: TricarbonNúcleo interior: MultievaProtector: Aluminio CWJugador: Adulto expertoPotencia/Control: 100/90Tecnologías:Multieva / Tricarbon / Hack / Vibradrive / Air React Channel / Custom Weight / Carbon Tube / Hesacore / Metalshield / Nerve / Adaptia",
-    "specs": {
-      "peso": "365-375g",
-      "forma": "Diamante",
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 137.13,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=41104804712&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raqueta-de-padel-bullpadel-vertex-03-22-41104804714",
     "name": "Raqueta de padel Bullpadel Vertex 03 22",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 138.14,
+    "price": 139.15,
     "oldPrice": 326.7,
     "rating": null,
     "badge": null,
@@ -2441,7 +2470,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 138.14,
+        "price": 139.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104804714&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -2453,7 +2482,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Vertex 03 Comfort 22",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 124.03,
+    "price": 117.98,
     "oldPrice": 225.87,
     "rating": null,
     "badge": null,
@@ -2477,7 +2506,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 124.03,
+        "price": 117.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104804715&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -2524,7 +2553,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Comfort Pro 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 126.04,
+    "price": 119.99,
     "oldPrice": 145.2,
     "rating": null,
     "badge": null,
@@ -2547,7 +2576,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 126.04,
+        "price": 119.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528580825&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -2559,7 +2588,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Comfort Pro 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 78.65,
     "oldPrice": 145.2,
     "rating": null,
     "badge": null,
@@ -2582,81 +2611,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 78.65,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528580826&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raquete-de-padel-bullpadel-ionic-control-23-next-44702295975",
-    "name": "Raquete de padel Bullpadel Ionic Control 23 Next",
-    "brand": "Bullpadel",
-    "category": "raquetes",
-    "price": 170.41,
-    "oldPrice": 220.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fr%2Fa%2Fraquette-bullpadel-ionic-control-23_4_.webp&feedId=93547&k=8e131183db0978987f88bf4365f84b51a27cea96",
-    "ean": "8445402248544",
-    "productGTIN": null,
-    "mpn": "BL29000000",
-    "source": "smash-expert",
-    "sourceProductId": "44702295975",
-    "sourceCategory": "Padel > Raquette de padel",
-    "description": "IONIC CONTROL es una raqueta muy maniobrable y eficaz con una forma redonda y un equilibrio bajo con el nuevo sistema XForce.Está diseñado para jugadores de nivel intermedio a avanzado.El núcleo exterior está hecho de una mezcla de fibra de carbono y fibra de vidrio.El núcleo interior es de multieva y el cuadro es de CarbonTube 100% fibra de carbono.",
-    "specs": {
-      "peso": null,
-      "forma": "Redonda",
-      "equilibrio": "Baixo",
-      "nivel": "Avançado",
-      "material": "Carbono",
-      "estilo": "Controlo"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 170.41,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44702295975&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raquete-de-padel-bullpadel-ionic-power-23-next-44697822257",
-    "name": "Raquete de padel Bullpadel Ionic Power 23 Next",
-    "brand": "Bullpadel",
-    "category": "raquetes",
-    "price": 170.41,
-    "oldPrice": 220.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fr%2Fa%2Fraquette-bullpadel-ionic-power-23.webp&feedId=93547&k=85109a2b4449ee2a258b8b58b8fd2af6969ad2c3",
-    "ean": "8445402248537",
-    "productGTIN": null,
-    "mpn": "BL28000000",
-    "source": "smash-expert",
-    "sourceProductId": "44697822257",
-    "sourceCategory": "Padel > Raquette de padel",
-    "description": "IONIC POWER es una raqueta con forma de diamante muy maniobrable y eficaz, con un equilibrio medio y el nuevo sistema XForce.Está diseñado para jugadores de nivel intermedio a avanzado.El núcleo exterior está hecho de una mezcla de fibra de carbono y fibra de vidrio.El núcleo interior es de Multieva y el armazón de CarbonTube 100% fibra de carbono.",
-    "specs": {
-      "peso": null,
-      "forma": "Diamante",
-      "equilibrio": "Médio",
-      "nivel": "Avançado",
-      "material": "Carbono",
-      "estilo": "Potência"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 170.41,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44697822257&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -3046,6 +3003,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-femenina-padel-enebe-vibor-a-king-cobra-44797404161",
+    "name": "Raqueta femenina padel Enebe Vibor-A King Cobra",
+    "brand": "Enebe",
+    "category": "raquetes",
+    "price": 99.83,
+    "oldPrice": 226.88,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fe%2Fn%2Fenebe_0013821_1.webp&feedId=93547&k=192904a5a0e917b77ab5447135333cac5615e22f",
+    "ean": "8445090062071",
+    "productGTIN": null,
+    "mpn": "0013821",
+    "source": "smash-expert",
+    "sourceProductId": "44797404161",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Femme",
+    "description": "La pala de pádel mujer Enebe Vibor-A King Cobra es la herramienta ideal para todas las apasionadas de este deporte dinámico y cautivador. Diseñada especialmente para mujeres, combina rendimiento, comodidad y estilo en la cancha. Gracias a su fabricación de alta calidad, esta pala permite disfrutar de una excelente potencia y un control óptimo durante tus intercambios.Cada detalle de la pala ha sido pensado para responder a las necesidades de las jugadoras de pádel, ya sean principiantes o experimentadas. La tecnología integrada aumenta la restitución de energía durante los golpes, permitiéndote realizar tiros poderosos y precisos, al mismo tiempo que maximiza tu confort de juego. Rendimiento mejorado: Esta pala ofrece una excelente potencia y un buen control, para intercambios de alta intensidad. Diseño ergonómico: Su forma y peso están adaptados a la morfología femenina, asegurando un agarre cómodo. Durabilidad: Fabricada con materiales resistentes, la pala está diseñada para r......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 99.83,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44797404161&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-raqueta-de-padel-softee-k3-tour-7-0-42528594512",
     "name": "Raqueta de padel Softee K3 Tour 7.0",
     "brand": "Softee",
@@ -3226,6 +3219,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-de-padel-vibora-vibor-a-yarara-44884642656",
+    "name": "Raqueta de padel Vibora Vibor-A Yarara",
+    "brand": "Vibora",
+    "category": "raquetes",
+    "price": 103.86,
+    "oldPrice": 252.08,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F0%2F0%2F0013835.webp&feedId=93547&k=b57acb962bea899afc9ff52f7b0638b5aaf52201",
+    "ean": "8445090062293",
+    "productGTIN": null,
+    "mpn": "0013835",
+    "source": "smash-expert",
+    "sourceProductId": "44884642656",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "padel Vibora Yarara Classic Edition | Gana más potencia en tu juego con esta padel Vibora raqueta, un modelo bien equilibrado que te ofrece un extra de pegada para tus golpes ganadoresLa Vibora Yarara Classic Edition se adapta a todos los estilos de juego gracias a su forma oversize y a su equilibrio medio-alto.Excelente sensación de la pelota con goma eva suave en el interior.Mejora tu rendimiento en cualquier zona de la pista.Construcción con materiales de calidad para una estructura sólida.Raqueta versátil que destaca por su potencia extra cerca de la red.Refuerzos en la estructura que la hacen más resistente y evitan que se tuerza.Disponible en la colección de raquetas padel Vibor-a 2022.",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": "Médio",
+      "nivel": null,
+      "material": null,
+      "estilo": "Potência"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 103.86,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44884642656&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-bolsa-de-padel-softee-car-42528594568",
     "name": "Bolsa de padel Softee Car",
     "brand": "Softee",
@@ -3346,8 +3375,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raquete de padel Rox Mauna Plus",
     "brand": "Rox",
     "category": "sacos",
-    "price": 27.23,
-    "oldPrice": 27.23,
+    "price": 27.99,
+    "oldPrice": 28.13,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F8%2F0%2F80712.011.1.webp&feedId=93547&k=c3831be102c54cd2207217626ce344eea7e89d5f",
@@ -3363,7 +3392,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 27.23,
+        "price": 27.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386359&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3375,8 +3404,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raquete de padel Rox Mauna Plus",
     "brand": "Rox",
     "category": "sacos",
-    "price": 27.23,
-    "oldPrice": 27.23,
+    "price": 28.13,
+    "oldPrice": 28.13,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F8%2F0%2F80712.004.1.webp&feedId=93547&k=cd15f3d292a4d45e22c4b9610a096858def9caf5",
@@ -3392,7 +3421,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 27.23,
+        "price": 28.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386360&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3404,7 +3433,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raqueta de padel Softee Extra Cool Plus 2.0",
     "brand": "Softee",
     "category": "sacos",
-    "price": 29.24,
+    "price": 28.23,
     "oldPrice": 51.43,
     "rating": null,
     "badge": null,
@@ -3421,7 +3450,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 29.24,
+        "price": 28.23,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386361&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3549,7 +3578,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sobregrips de padel adidas (x3)",
     "brand": "Adidas",
     "category": "acessorios",
-    "price": 7.77,
+    "price": 6.67,
     "oldPrice": 8.57,
     "rating": null,
     "badge": null,
@@ -3566,7 +3595,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 7.77,
+        "price": 6.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771607595&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3578,7 +3607,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sobregrips de padel adidas (x3)",
     "brand": "Adidas",
     "category": "acessorios",
-    "price": 7.77,
+    "price": 6.67,
     "oldPrice": 8.57,
     "rating": null,
     "badge": null,
@@ -3595,9 +3624,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 7.77,
+        "price": 6.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771607597&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raquete-de-padel-adidas-adipower-3-2-44790740372",
+    "name": "Raquete de padel adidas Adipower 3.2",
+    "brand": "Adidas",
+    "category": "raquetes",
+    "price": 240.99,
+    "oldPrice": 352.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas_rk1ac9u21_1.webp&feedId=93547&k=5f5014be7230e83192230e42620d931f811e0b52",
+    "ean": "8436548247645",
+    "productGTIN": null,
+    "mpn": "RK1AC9U21",
+    "source": "smash-expert",
+    "sourceProductId": "44790740372",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta Adidas Adipower 3.2 2023 es la evolución del mítico modelo utilizado por Seba Nerone.Aunque este año Adidas incorpora el modelo Multiweight, con un sistema de peso personalizable, sigue conservando el molde de años anteriores.Esta es una raqueta para el jugador avanzado o profesional. Con forma de diamante y gran equilibrio, esta Adipower ofrece la máxima potencia en los golpes de ataque sin sacrificar el control. Está fabricada con carbono aluminizado 15K y goma High Memory Eva, lo que la convierte en una raqueta muy dura.Además, el marco de carbono reforzado con las tecnologías Dual Exoskeleton y Power Embossed Ridge aumenta la resistencia y la rigidez de la raqueta. Para mejorar el efecto en los golpes cortados, incorpora la superficie rugosa del molde con tecnología Spin Blade.El diseño Smart Holes Curve también favorece estos efectos y aumenta el punto dulce. Una raqueta competitiva para jugadores que quieren darlo todo en ataque.",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Profissional",
+      "material": "Carbono",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 240.99,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790740372&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -3643,7 +3708,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Air V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 104.87,
+    "price": 102.85,
     "oldPrice": 119.99,
     "rating": null,
     "badge": null,
@@ -3667,7 +3732,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 104.87,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528602354&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3679,7 +3744,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Harrier V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 107.89,
+    "price": 104.87,
     "oldPrice": 119.99,
     "rating": null,
     "badge": null,
@@ -3703,7 +3768,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.89,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104805781&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3715,7 +3780,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Prince Jet V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 258.13,
+    "price": 235.95,
     "oldPrice": 301.49,
     "rating": null,
     "badge": null,
@@ -3739,7 +3804,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 258.13,
+        "price": 235.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39751366250&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3751,7 +3816,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Phantom V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 232.93,
+    "price": 225.87,
     "oldPrice": 271.24,
     "rating": null,
     "badge": null,
@@ -3775,7 +3840,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 232.93,
+        "price": 225.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528602355&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3787,7 +3852,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Premier V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 232.93,
+    "price": 225.87,
     "oldPrice": 271.24,
     "rating": null,
     "badge": null,
@@ -3811,7 +3876,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 232.93,
+        "price": 225.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528602356&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3823,7 +3888,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Raptor V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 101.84,
+    "price": 99.83,
     "oldPrice": 119.99,
     "rating": null,
     "badge": null,
@@ -3847,7 +3912,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528602357&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3859,7 +3924,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Rocket",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 165.37,
+    "price": 152.26,
     "oldPrice": 190.58,
     "rating": null,
     "badge": null,
@@ -3883,7 +3948,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 152.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528602358&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3895,7 +3960,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Light Padel",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 110.92,
+    "price": 111.93,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -3918,7 +3983,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.92,
+        "price": 111.93,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104805840&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3930,7 +3995,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos de padel Nox ML10 Hexa",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 137.13,
+    "price": 138.14,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -3953,7 +4018,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 137.13,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528619938&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -3965,7 +4030,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT Geniun Attack 18K By Agustin Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 326.7,
+    "price": 277.29,
     "oldPrice": 326.7,
     "rating": null,
     "badge": null,
@@ -3989,7 +4054,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 326.7,
+        "price": 277.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104806094&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4037,7 +4102,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox ML10 Limited Edition 23",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 214.78,
+    "price": 186.54,
     "oldPrice": 393.25,
     "rating": null,
     "badge": null,
@@ -4061,7 +4126,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 214.78,
+        "price": 186.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528619948&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4102,7 +4167,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Wall Master 360",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 106.72,
+    "price": 100.25,
     "oldPrice": 161.32,
     "rating": null,
     "badge": null,
@@ -4126,9 +4191,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.72,
+        "price": 100.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38481223119&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-tecnifibre-wall-breaker-360-44044597192",
+    "name": "Raqueta de padel Tecnifibre Wall Breaker 360",
+    "brand": "Tecnifibre",
+    "category": "raquetes",
+    "price": 89.74,
+    "oldPrice": 160.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Ft%2Fe%2Ftecnifibre_16wabr3602_0.webp&feedId=93547&k=b4fe8665784c32460540a07b5ef2033628b24d45",
+    "ean": "3490150200165",
+    "productGTIN": null,
+    "mpn": "16WABR3602",
+    "source": "smash-expert",
+    "sourceProductId": "44044597192",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta WALL BREAKER 360, dedicada a los jugadores regulares, ha sido diseñada en forma de gota para ofrecer un máximo de potencia sin sacrificar el control. Un peso de 360 g para optimizar la maniobrabilidad y una composición en grafito para un juego de calidad. El tamiz está recubierto de un relieve \"Spin Skin 3D\" para una agarre de efectos máxima. Plan de perforación PHD con orificios de 3 diámetros diferentes que permiten maximizar la precisión en el centro y la tolerancia a los golpes descentrados en los extremos. Rendimiento accesible.",
+    "specs": {
+      "peso": "360g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 89.74,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44044597192&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -4138,7 +4239,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raqueta de padel Tecnifibre Tour Endurance saco",
     "brand": "Tecnifibre",
     "category": "sacos",
-    "price": 70.58,
+    "price": 68.57,
     "oldPrice": 79.66,
     "rating": null,
     "badge": null,
@@ -4155,9 +4256,38 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 68.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432386439&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-pelota-de-padel-tecnifibre-team-x3-44159977011",
+    "name": "Pelota de padel Tecnifibre Team (x3)",
+    "brand": "Tecnifibre",
+    "category": "acessorios",
+    "price": 7.74,
+    "oldPrice": 7.74,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F6%2F0%2F60patea243.webp&feedId=93547&k=493701c6d3f6a85bde85dc58d4d4cfa5cbd019bc",
+    "ean": "3490150149440",
+    "productGTIN": null,
+    "mpn": "60PATEA243",
+    "source": "smash-expert",
+    "sourceProductId": "44159977011",
+    "sourceCategory": "Padel > Balle de padel > Adulte > Mixte",
+    "description": "El balón padel Tecnifibre Padel Team es un modelo de gama alta de la marca francesa.Puede ser utilizada por jugadores de todos los niveles y es muy resistente al rozamiento y a la humedad.Además, está homologada por la Federación Española de padel, lo que garantiza su calidad.Tubo de 3 pelotas",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 7.74,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44159977011&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -4167,8 +4297,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Pelota de padel Tecnifibre Tour (x3)",
     "brand": "Tecnifibre",
     "category": "acessorios",
-    "price": 7.23,
-    "oldPrice": 7.23,
+    "price": 6.73,
+    "oldPrice": 7.06,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F6%2F0%2F60patou243.webp&feedId=93547&k=7c76a99425bbfc6eb3de5fda0ae642202e23c098",
@@ -4184,7 +4314,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 7.23,
+        "price": 6.73,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771611214&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4225,7 +4355,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Protector de raquete de padel Dunlop",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 5.43,
+    "price": 4.53,
     "oldPrice": 9.06,
     "rating": null,
     "badge": null,
@@ -4242,7 +4372,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 5.43,
+        "price": 4.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40782193966&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4254,7 +4384,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Dunlop Galactica",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 162.34,
+    "price": 158.31,
     "oldPrice": 281.33,
     "rating": null,
     "badge": null,
@@ -4278,7 +4408,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 162.34,
+        "price": 158.31,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44645277607&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4290,7 +4420,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Dunlop Galactica Pro",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 173.43,
+    "price": 168.39,
     "oldPrice": 281.33,
     "rating": null,
     "badge": null,
@@ -4314,7 +4444,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 173.43,
+        "price": 168.39,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528624213&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4326,7 +4456,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop Pdl Boost Attack",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 108.9,
+    "price": 104.87,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -4350,7 +4480,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 108.9,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104806245&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4362,7 +4492,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raquete de padel Dunlop saco Elite",
     "brand": "Dunlop",
     "category": "sacos",
-    "price": 85.71,
+    "price": 83.69,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -4379,7 +4509,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 85.71,
+        "price": 83.69,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38913189224&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4420,7 +4550,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Bullpadel Axym DB",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 111.93,
+    "price": 108.9,
     "oldPrice": 200.66,
     "rating": null,
     "badge": null,
@@ -4444,7 +4574,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 111.93,
+        "price": 108.9,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44301898009&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4488,41 +4618,12 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-bolsa-de-deporte-bullpadel-bpb-23221-44322982402",
-    "name": "Bolsa de deporte Bullpadel BPB-23221",
-    "brand": "Bullpadel",
-    "category": "sacos",
-    "price": 23.19,
-    "oldPrice": 23.19,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel_bl56555000.webp&feedId=93547&k=43e063b2dfc05b13ed256258ede2821c2138537b",
-    "ean": "8445402248988",
-    "productGTIN": null,
-    "mpn": "BL56555000",
-    "source": "smash-expert",
-    "sourceProductId": "44322982402",
-    "sourceCategory": "Padel > Sac de sport > Adulte > Homme",
-    "description": "Esta bolsa de deporte ofrece un peso muy ligero con un diseño minimalista, se puede empaquetar para guardarla fácilmente.Medidas: 40X45 cms.Composición: Nylon Ripstop.",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 23.19,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44322982402&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-proteccion-de-la-raqueta-en-padel-starvie-38518213994",
     "name": "Protección de la raqueta en padel Starvie",
     "brand": "Starvie",
     "category": "acessorios",
-    "price": 7.02,
-    "oldPrice": 7.02,
+    "price": 5.96,
+    "oldPrice": 6.86,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Ft%2Fstarvie_399_vert_1.webp&feedId=93547&k=98ddfd2f9961cc842fc427be40882a307df49da8",
@@ -4538,7 +4639,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 7.02,
+        "price": 5.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38518213994&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4550,7 +4651,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Royal Padel R Control X",
     "brand": "Royal Padel",
     "category": "raquetes",
-    "price": 287.38,
+    "price": 278.3,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -4574,7 +4675,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 287.38,
+        "price": 278.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44702296187&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4658,7 +4759,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Aerox Pro Carbon",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 155.28,
+    "price": 150.24,
     "oldPrice": 250.07,
     "rating": null,
     "badge": null,
@@ -4682,7 +4783,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 155.28,
+        "price": 150.24,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44708246841&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4694,7 +4795,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Arrow 23",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 80.67,
+    "price": 76.63,
     "oldPrice": 92.77,
     "rating": null,
     "badge": null,
@@ -4718,7 +4819,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.67,
+        "price": 76.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44697822939&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4766,7 +4867,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe RS 9.1",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 74.62,
+    "price": 89.74,
     "oldPrice": 179.48,
     "rating": null,
     "badge": null,
@@ -4790,7 +4891,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 74.62,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528705349&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4802,7 +4903,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe RS 9.1",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 73.61,
+    "price": 69.58,
     "oldPrice": 179.48,
     "rating": null,
     "badge": null,
@@ -4826,7 +4927,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 73.61,
+        "price": 69.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528705350&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4838,7 +4939,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Spitfire",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 200.66,
+    "price": 190.58,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -4862,7 +4963,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 200.66,
+        "price": 190.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44708246843&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -4874,7 +4975,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Supra",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 191.58,
+    "price": 185.53,
     "oldPrice": 261.16,
     "rating": null,
     "badge": null,
@@ -4898,9 +4999,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 191.58,
+        "price": 185.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528705351&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-hbl-starter-42528705353",
+    "name": "Raqueta de padel HBL Starter",
+    "brand": "HBL",
+    "category": "raquetes",
+    "price": 34.28,
+    "oldPrice": 34.28,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fb%2Fhbl_13932_noir-gris-blanc_1.webp&feedId=93547&k=17ce47e413d335ba33c75bc3e0e66a7418fc178d",
+    "ean": "8445090056599",
+    "productGTIN": null,
+    "mpn": "13932",
+    "source": "smash-expert",
+    "sourceProductId": "42528705353",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Pala fabricada en material termoplástico resistente a los impactos. Fácil de manejar para jugadores que empiezan en el pádel (iniciación). Peso: 335 - 350 grs. Artículos del paquete: Uno Recogida: Hasta fin de existencias Composición/material: Policarbonato Termoplástico Embalaje : Bolsa Forma : Redonda Longitud: Senior Nivel : Principiante Núcleo : EVA Soft Perfil : 38mm Deporte : Padel Structure Una pieza Acabado Liso brillante Tipo de juego : Control Tipo de producto: Raqueta Uso : Individual",
+    "specs": {
+      "peso": "335-350g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Controlo"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 34.28,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42528705353&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -4942,47 +5079,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raqueta-de-padel-rox-r-sparky-xtreme-3d-44126444005",
-    "name": "Raqueta de padel Rox R-Sparky Xtreme 3D",
-    "brand": "Rox",
-    "category": "raquetes",
-    "price": 76.63,
-    "oldPrice": 118.98,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fr%2Fo%2Frox_532182_noir-rouge-gris_1.webp&feedId=93547&k=efb3d48825e8f7be39db3742bb361d99d04abeef",
-    "ean": "8445090053918",
-    "productGTIN": null,
-    "mpn": "532182",
-    "source": "smash-expert",
-    "sourceProductId": "44126444005",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Peso: 355 - 375 grs Perfil: 38mm Composición del núcleo: Eva Hitech Soft Composición del marco: Carbono 3K Twill Composición de la superficie de golpeo: Fibras entretejidas Equilibrio: Medio Forma de la cabeza: Híbrida (Round-Wire) Acabado: Relieve Glossy-3D Nivel de juego: Avanzado Contenido del paquete: Uno Marco: carbono Composición/Material: Carbono Embalaje: Bolsa Equilibrio: medio Cara: Carbono 3K Forma: Lágrima/redonda Longitud: Senior Nivel: Avanzado Núcleo: EVA Perfil: 38mm Deportivo: Padel Structure Una pieza Acabado : Brillo 3D Tipo de juego : Versátil Tipo de producto: Raqueta Uso : Individual",
-    "specs": {
-      "peso": "355-375g",
-      "forma": "Redonda",
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": "Carbono 3K",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 76.63,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44126444005&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raqueta-de-padel-softee-ranger-42528705358",
     "name": "Raqueta de padel Softee Ranger",
     "brand": "Softee",
     "category": "raquetes",
-    "price": 68.57,
+    "price": 67.56,
     "oldPrice": 84.7,
     "rating": null,
     "badge": null,
@@ -5006,45 +5107,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 68.57,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528705358&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-softee-summit-3-0-44519145138",
-    "name": "Raqueta de padel Softee Summit 3.0",
-    "brand": "Softee",
-    "category": "raquetes",
-    "price": 91.76,
-    "oldPrice": 242,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_11804_noir-jaune-gris_1.webp&feedId=93547&k=6518cc0f4bce32d9cc701c0782ab0d33411cc35d",
-    "ean": "8445090062644",
-    "productGTIN": null,
-    "mpn": "11804",
-    "source": "smash-expert",
-    "sourceProductId": "44519145138",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La colección Summit se renueva un año más con dos versiones de una de las raquetas más codiciadas de nuestra marca. Esta raqueta está diseñada para el jugador de alto nivel o profesional que busca un modelo versátil que se adapte a las diferentes sensaciones en la pista. La raqueta Summit está diseñada en forma híbrida con un acabado de carbono 3K, brillante con un relieve 3D que proporciona mayor efecto durante el juego. Está diseñada con un núcleo de goma SOFT S9 EVA de alta recuperación, una goma blanda que ayuda a reducir la vibración durante el juego. Elementos del paquete: Uno Marco: carbono Composición/material: Carbono Embalaje: Bolsa Equilibrio: Medio Cara: Carbono 3K Forma: Lágrima Longitud: Senior Nivel: Avanzado Núcleo: EVA Perfil: 38mm Deportivo: Padel Structure Una pieza Acabado : Brillo 3D Tipo de juego : Versátil Tipo de producto: Raqueta Uso : Individual",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": "Profissional",
-      "material": "Carbono 3K",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 91.76,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44519145138&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -5054,7 +5119,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Enebe",
     "brand": "Enebe",
     "category": "sacos",
-    "price": 19.16,
+    "price": 18.15,
     "oldPrice": 19.16,
     "rating": null,
     "badge": null,
@@ -5071,7 +5136,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 19.16,
+        "price": 18.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44481074826&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5083,7 +5148,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Enebe",
     "brand": "Enebe",
     "category": "sacos",
-    "price": 19.16,
+    "price": 18.15,
     "oldPrice": 19.16,
     "rating": null,
     "badge": null,
@@ -5100,7 +5165,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 19.16,
+        "price": 18.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44481074827&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5141,7 +5206,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Enebe",
     "brand": "Enebe",
     "category": "sacos",
-    "price": 19.16,
+    "price": 18.15,
     "oldPrice": 19.16,
     "rating": null,
     "badge": null,
@@ -5158,7 +5223,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 19.16,
+        "price": 18.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44481074829&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5228,8 +5293,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop 23 Aerostar",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 202.06,
-    "oldPrice": 272.24,
+    "price": 183.52,
+    "oldPrice": 271.24,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_10335746_0.webp&feedId=93547&k=fb975fc536a64374c4a7c7c82bf3a6ad51b0553d",
@@ -5252,7 +5317,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 202.06,
+        "price": 183.52,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528720098&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5264,8 +5329,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop 23 Aerostar Lite",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 179.69,
-    "oldPrice": 241.99,
+    "price": 126.04,
+    "oldPrice": 240.99,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_10335747_0.webp&feedId=93547&k=f20cee964eb8114aa4de8a3c85cbd06dee5dfb64",
@@ -5288,7 +5353,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 179.69,
+        "price": 126.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528720099&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5300,8 +5365,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop 23 Aerostar Pro",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 224.43,
-    "oldPrice": 302.49,
+    "price": 142.18,
+    "oldPrice": 301.49,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_10335745_0.webp&feedId=93547&k=bd9b45615bc82e3fb53ce4f25aca7a0cc8397e7d",
@@ -5324,7 +5389,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 224.43,
+        "price": 142.18,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528720100&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5336,8 +5401,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop 23 Aerostar Team",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 127.47,
-    "oldPrice": 171.41,
+    "price": 135.12,
+    "oldPrice": 170.41,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fu%2Fdunlop_10335748_0.webp&feedId=93547&k=59a4d64be156d3c209fe5cd45813d3c4c11d9d7e",
@@ -5360,7 +5425,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 127.47,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40502617737&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5372,7 +5437,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop Blitz Attack 2.0",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 123.02,
+    "price": 118.98,
     "oldPrice": 176.46,
     "rating": null,
     "badge": null,
@@ -5396,7 +5461,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 123.02,
+        "price": 118.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44697822949&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5408,7 +5473,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop Boost Attack 2.0",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 99.83,
+    "price": 96.8,
     "oldPrice": 155.28,
     "rating": null,
     "badge": null,
@@ -5432,7 +5497,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44708246952&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5444,7 +5509,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop Inferno Carbon Extreme Nh",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 169.4,
+    "price": 163.35,
     "oldPrice": 200.66,
     "rating": null,
     "badge": null,
@@ -5468,7 +5533,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 169.4,
+        "price": 163.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40588812668&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5480,7 +5545,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dunlop Speed Attack 2.0",
     "brand": "Dunlop",
     "category": "raquetes",
-    "price": 110.92,
+    "price": 107.89,
     "oldPrice": 156.29,
     "rating": null,
     "badge": null,
@@ -5504,9 +5569,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.92,
+        "price": 107.89,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44686639116&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raquete-de-padel-femenina-siux-padel-optimus-pro-v-2023-44702296225",
+    "name": "Raquete de padel femenina Siux Padel Optimus Pro V 2023",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 72.6,
+    "oldPrice": 90.75,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fi%2Fsiux-padel_28783_1.webp&feedId=93547&k=324469d70a798ccf035940fbaa8d85c00dfda3c8",
+    "ean": "8435536752314",
+    "productGTIN": null,
+    "mpn": "28783",
+    "source": "smash-expert",
+    "sourceProductId": "44702296225",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Femme",
+    "description": "La pala de pádel Siux Padel Optimus Pro V 2023 está especialmente diseñada para mujeres que buscan rendimiento en la pista. Combinando tecnología avanzada y un diseño ergonómico, esta pala es una opción ideal para las jugadoras que quieren elevar su nivel de juego.Con una estructura cuidadosamente pensada, ofrece un excelente equilibrio entre potencia y control, permitiendo así realizar golpes precisos mientras se mantiene una óptima reactividad. La tecnología utilizada en esta pala favorece la absorción de vibraciones, lo que ayuda a reducir la fatiga del brazo durante los partidos prolongados.Las características notables de la Siux Padel Optimus Pro V 2023 incluyen:Materiales de alta calidad: Diseñada con materiales duraderos y de rendimiento para una mayor longevidad.Diseño moderno: Su estética elegante capta la atención manteniéndose funcional.Peso equilibrado: Ideal para jugadoras que buscan desarrollar su juego sin comprometer la comodidad.Tecnología de vanguardia: Int......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 72.6,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44702296225&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -5516,7 +5617,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Siux Padel Evoque 3 2023",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 82.68,
+    "price": 78.65,
     "oldPrice": 200.66,
     "rating": null,
     "badge": null,
@@ -5540,9 +5641,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 82.68,
+        "price": 78.65,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43780350418&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raquete-de-padel-siux-padel-invicta-2023-44702296226",
+    "name": "Raquete de padel Siux Padel Invicta 2023",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 125.03,
+    "oldPrice": 221.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fi%2Fsiux-padel_28777_1.webp&feedId=93547&k=c2a55d68d586ca1f9c1e439a1bce0613f753a697",
+    "ean": "8435536752253",
+    "productGTIN": null,
+    "mpn": "28777",
+    "source": "smash-expert",
+    "sourceProductId": "44702296226",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Siux presentaInvicta, una raqueta con forma de diamante diseñada para jugadores de nivel avanzado.Una raqueta ideal para los amantes del smash, esta potencia se debe principalmente a la forma de la raqueta. Su forma de diamante le confiere una cabeza equilibrada que favorece la bandeja y autres los golpes potentes.Pero la fuerza deInvicta reside en el material utilizado en el marco. Fabricado en fibra de carbono 3K, te beneficiarás de una excelente respuesta de la fuerza, así como de una mayor solidez.La espuma es EVA Soft. Esta goma de baja densidad aporta comodidad a tus golpes.En colaboración con Shockout, la raqueta Siux dispone de un sistema antivibración que limita la transmisión de vibraciones al codo.Reforzado en el borde con carbono,Invicta absorbe los choques contra el cristal.El núcleo de la raqueta tiene un structure que limita el peso en la cabeza de la raqueta, ofreciendo una mayor libertad de movimientos.TECNOLOGÍAS INTEGRADAS EN LA RAQUETA PADEL INVICTA:EVA ULTRA......",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono 3K",
+      "estilo": "Potência"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 125.03,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44702296226&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -5552,7 +5689,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Siux Padel Optimus Pro V 2023",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 57.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -5576,9 +5713,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 57.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771624011&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raquete-de-padel-siux-padel-tsunami-revolution-2023-44708246953",
+    "name": "Raquete de padel Siux Padel Tsunami Revolution 2023",
+    "brand": "Siux",
+    "category": "raquetes",
+    "price": 119.99,
+    "oldPrice": 240.99,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fi%2Fsiux_28765_1-nw040424.webp&feedId=93547&k=4686e2fed1e180bf6bd89fe6cd24099b56c14113",
+    "ean": "8435536752239",
+    "productGTIN": null,
+    "mpn": "28765",
+    "source": "smash-expert",
+    "sourceProductId": "44708246953",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta de pádel Siux Padel Tsunami Revolution 2023 es la opción perfecta para los jugadores que buscan rendimiento y tecnología de vanguardia. Diseñada con materiales de alta calidad, esta raqueta combina robustez y ligereza, lo que te permite mejorar tu juego mientras mantienes un excelente control.Con una estructura de carbono 3K, la Siux Padel Tsunami Revolution ofrece una durabilidad excepcional sin sacrificar una impresionante reactividad. Su forma híbrida está especialmente pensada para maximizar tanto la potencia como la precisión, permitiéndote variar tu juego según tus necesidades en la pista.Las características de la raqueta incluyen:Materiales de fabricación: Diseñada a partir de carbono 3K para una mejor resistencia y un peso optimizado.Forma híbrida: Combina las ventajas de las raquetas de forma redonda y de forma de gota, ofreciendo así un equilibrio perfecto entre potencia y maniobrabilidad.Tecnología avanzada: Integra tecnologías modernas destinadas a mejor......",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono 3K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 119.99,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44708246953&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -5620,40 +5793,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-parches-adhesivos-4on-total-grip-41104807257",
-    "name": "Parches adhesivos 4On Total Grip",
-    "brand": "4On",
-    "category": "acessorios",
-    "price": 25.21,
-    "oldPrice": 25.21,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F4%2Fo%2F4on_30_gris-noir_1.webp&feedId=93547&k=92d22845d5dfac50338e5a51d1737553b89448e9",
-    "ean": "7300009078592",
-    "productGTIN": null,
-    "mpn": "30",
-    "source": "smash-expert",
-    "sourceProductId": "41104807257",
-    "sourceCategory": "Padel > Pâte collante > Adulte > Mixte",
-    "description": "TotalGrip es una pasta antideslizante perfecta para quienes necesitan estabilizar el agarre y reducir la transpiración de las manos. Las propiedades únicas de TotalGrip repelen el agua, evitan la transpiración y dejan el máximo agarre y fricción en condiciones de humedad, sudor y calor. TotalGrip te proporciona un agarre superior y el máximo control para que puedas rendir al máximo. Uso recomendadoAplicar una pequeña cantidad en la punta de los dedos y lubricar la palma de la mano deseada. Información sobre el producto",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 25.21,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=41104807257&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raquete-de-padel-tecnifibre-wall-master-355-37771625108",
     "name": "Raquete de padel Tecnifibre Wall master 355",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 98.82,
+    "price": 99.83,
     "oldPrice": 130.08,
     "rating": null,
     "badge": null,
@@ -5677,7 +5821,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771625108&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5718,7 +5862,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Tatoo",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 132.09,
+    "price": 138.14,
     "oldPrice": 200.66,
     "rating": null,
     "badge": null,
@@ -5742,7 +5886,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 132.09,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44322983978&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5754,7 +5898,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa de accesorios adidas",
     "brand": "Adidas",
     "category": "acessorios",
-    "price": 12.81,
+    "price": 14.4,
     "oldPrice": 15.13,
     "rating": null,
     "badge": null,
@@ -5771,7 +5915,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 12.81,
+        "price": 14.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43260739917&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5861,6 +6005,35 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 53.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771626473&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-mochila-adidas-multigame-44322983979",
+    "name": "Mochila adidas Multigame",
+    "brand": "Adidas",
+    "category": "sacos",
+    "price": 53.44,
+    "oldPrice": 64.53,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas_bg1mb5u31_2.webp&feedId=93547&k=06194a659e272b423ed850d09047f800f5727ffc",
+    "ean": "8436548246914",
+    "productGTIN": null,
+    "mpn": "BG1MB5U31",
+    "source": "smash-expert",
+    "sourceProductId": "44322983979",
+    "sourceCategory": "Padel > Sac à dos > Adulte > Mixte",
+    "description": "La mochila Multigame 2.0 está diseñada para los jugadores de pádel más exigentes. Es el accesorio ideal, con un compartimento principal para tus raquetas y un pequeño compartimento central para tus objetos personales.Este innovador modelo está fabricado con materiales ligeros de alta calidad.Color: Negro/AzulDimensiones: 29x15.5x47cmCapacidad: 3 raquetas",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 53.44,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44322983979&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -5957,7 +6130,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos Osaka Ido MK1",
     "brand": "Osaka",
     "category": "sapatilhas",
-    "price": 149.23,
+    "price": 138.14,
     "oldPrice": 166.38,
     "rating": null,
     "badge": null,
@@ -5980,7 +6153,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42103250311&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -5992,7 +6165,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos Osaka Ido MK1",
     "brand": "Osaka",
     "category": "sapatilhas",
-    "price": 147.22,
+    "price": 138.14,
     "oldPrice": 171.42,
     "rating": null,
     "badge": null,
@@ -6015,7 +6188,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 147.22,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42586734792&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6027,7 +6200,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Zapatos Osaka Ido MK1",
     "brand": "Osaka",
     "category": "sapatilhas",
-    "price": 149.23,
+    "price": 138.14,
     "oldPrice": 171.42,
     "rating": null,
     "badge": null,
@@ -6050,7 +6223,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42586734793&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6126,7 +6299,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 57.75,
+    "price": 51.91,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -6149,7 +6322,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 57.75,
+        "price": 51.91,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104807752&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6301,7 +6474,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 71.65,
+    "price": 57.75,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -6324,7 +6497,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 71.65,
+        "price": 57.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104807756&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6336,7 +6509,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel BLK Caje Etd. 2",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 63.17,
+    "price": 57.75,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -6359,7 +6532,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 63.17,
+        "price": 57.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104807757&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6476,7 +6649,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel Camo Etd",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 63.17,
+    "price": 57.75,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -6499,7 +6672,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 63.17,
+        "price": 57.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39149106853&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6791,7 +6964,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel light Dazzle",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 110.5,
+    "price": 103.54,
     "oldPrice": 144.19,
     "rating": null,
     "badge": null,
@@ -6814,7 +6987,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.5,
+        "price": 103.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43184143343&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -6896,7 +7069,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Mizuno Wave Exceed Light",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 122.01,
+    "price": 118.98,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -6919,7 +7092,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 122.01,
+        "price": 118.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104807834&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -7001,7 +7174,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Joma Open",
     "brand": "Joma",
     "category": "sacos",
-    "price": 31.26,
+    "price": 32.27,
     "oldPrice": 33.28,
     "rating": null,
     "badge": null,
@@ -7018,9 +7191,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 31.26,
+        "price": 32.27,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528759079&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-joma-t-spin-2309-44873044523",
+    "name": "Sapatilhas de padel Joma T.Spin 2309",
+    "brand": "Joma",
+    "category": "sapatilhas",
+    "price": 87.73,
+    "oldPrice": 87.73,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fo%2Fjoma_tspins2309p_0.webp&feedId=93547&k=7c905d67e5a60307182202b186b37f0a021bb332",
+    "ean": "8445757129109",
+    "productGTIN": null,
+    "mpn": "TSPINS2309P",
+    "source": "smash-expert",
+    "sourceProductId": "44873044523",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Zapatillas de pádel para hombre, diseñadas con la ayuda de jugadores profesionales de pádel para que sean unas zapatillas verdaderamente profesionales. Aptas para entrenamiento medio y competición, son ideales para jugadores de peso medio-alto. También tienen una horma ancha para mayor comodidad.La parte superior está hecha de una combinación de diferentes materiales, cada uno estratégicamente colocado para optimizar la comodidad. Por un lado, está confeccionada con un textil ligero, flexible y transpirable perforado con el sistema VTS, una tecnología que evacua el sudor para mantener el pie fresco durante el partido. Por otro, este material está protegido por la tecnología FLEXSHIELD, que incluye una inserción sintética sin costuras para mantener la ligereza, optimizar el ajuste y garantizar la estabilidad.Los cordones y la lengüeta elástica garantizan un ajuste perfecto.La entresuela incorpora la tecnología de doble amortiguación FULL DUAL PULSOR: en la parte superior, el phylon e......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Homem",
+      "cor": null,
+      "uso": "Competição",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 87.73,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44873044523&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -7258,6 +7466,35 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-proteccion-dental-softee-40340560245",
+    "name": "Protección dental Softee",
+    "brand": "Softee",
+    "category": "acessorios",
+    "price": 8.04,
+    "oldPrice": 8.04,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_0014062.webp&feedId=93547&k=3b633944b888438aaae785c0e40c55bc5bb6a324",
+    "ean": "8445090072810",
+    "productGTIN": null,
+    "mpn": "0014062",
+    "source": "smash-expert",
+    "sourceProductId": "40340560245",
+    "sourceCategory": "Padel > Protection raquette > Adulte > Mixte",
+    "description": "La protección dentada Softee es un accesorio esencial para los apasionados del pádel que desean preservar su pala de los imprevistos del juego. Diseñado por la reconocida marca Softee, este producto se destaca por su durabilidad excepcional y su óptima adherencia.La pala de pádel está constantemente sometida a impactos y fricciones, especialmente durante los intercambios intensos. Con la protección dentada Softee, tu equipo contará con una barrera eficaz contra los golpes, garantizando así una mayor longevidad. Su diseño específico permite cubrir la parte superior de la pala, zona particularmente vulnerable a rasguños y daños.Entre las características notables de esta protección, se encuentran:Resistencia reforzada: Fabricada con materiales de alta calidad, resiste las condiciones de juego más exigentes.Adherencia óptima: Su diseño se adhiere perfectamente a la superficie de la pala, asegurando una aplicación sencilla y eficaz.Facilidad de mantenimiento: La protección se puede......",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 8.04,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=40340560245&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-proteccion-softee-1t-41353939210",
     "name": "Protección Softee 1T",
     "brand": "Softee",
@@ -7374,37 +7611,37 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raqueta-de-padel-femenina-softee-speed-3-0-power-42528778999",
-    "name": "Raqueta de padel femenina Softee Speed 3.0 Power",
-    "brand": "Softee",
+    "id": "smash-expert-raqueta-de-padel-para-ninos-enebe-rs-9-1-41104808078",
+    "name": "Raqueta de padel para niños Enebe RS 9.1",
+    "brand": "Enebe",
     "category": "raquetes",
-    "price": 96.8,
-    "oldPrice": 231.92,
+    "price": 72.6,
+    "oldPrice": 179.48,
     "rating": null,
     "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_0011807_1.webp&feedId=93547&k=93649406757eff40ae3ccc209f8662304e7b878b",
-    "ean": "8445090062668",
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fe%2Fn%2Fenebe_0011802_1.webp&feedId=93547&k=3c89f6ed8455f6ab683e6f246532ce73f3dbb273",
+    "ean": "8445090062620",
     "productGTIN": null,
-    "mpn": "0011807",
+    "mpn": "0011802",
     "source": "smash-expert",
-    "sourceProductId": "42528778999",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Femme",
-    "description": "Otra colección que aporta nuevos diseños es la colección Speed. Sin duda, una gama de raquetas de alto nivel que nuestra marca ha incorporado a su identidad en las últimas temporadas y que sigue atrayendo a los jugadores más exigentes. Todas las raquetas de la colección Speed tienen un diseño moderno y con potencial que te hará destacar en la pista. Para 2023, apostamos por Speed en azul, amarillo y naranja. Se trata de una raqueta potente, para jugadores que buscan el máximo impulso de la pelota cuando juegan. Su acabado hexagonal en relieve permite una mayor precisión al golpear la pelota. Las raquetas Speed son raquetas ligeras y fáciles de manejar que se adaptan a las necesidades de cada jugador. Tienen un balance medio y un marco fabricado 100% en carbono de alta calidad.",
+    "sourceProductId": "41104808078",
+    "sourceCategory": "Padel > Raquette de padel > Junior > Mixte",
+    "description": "Enebe Padel vuelve a apostar por la raqueta RS con su versión 9.1. La RS 9.1 es una raqueta híbrida que ofrece un equilibrio perfecto entre potencia y control. Fabricada en fibra de vidrio para jugadores de nivel principiante-intermedio.",
     "specs": {
       "peso": null,
-      "forma": null,
-      "equilibrio": "Médio",
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Potência"
+      "forma": "Híbrida",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": "Fibra de vidro",
+      "estilo": "Equilibrado"
     },
     "stores": [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.8,
+        "price": 72.6,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42528778999&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=41104808078&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -7441,42 +7678,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 175.18,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528779000&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-softee-speed-3-0-power-42528779001",
-    "name": "Raqueta de padel Softee Speed 3.0 Power",
-    "brand": "Softee",
-    "category": "raquetes",
-    "price": 74.62,
-    "oldPrice": 231.92,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_0011809_1.webp&feedId=93547&k=62ada87400a6172cd3beeaa0a94210681efe8c19",
-    "ean": "8445090062682",
-    "productGTIN": null,
-    "mpn": "0011809",
-    "source": "smash-expert",
-    "sourceProductId": "42528779001",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Otra colección que aporta nuevos diseños es la colección Speed. Sin duda, una gama de raquetas de alto nivel que nuestra marca ha incorporado a su identidad en las últimas temporadas y que sigue atrayendo a los jugadores más exigentes. Todas las raquetas de la colección Speed tienen un diseño moderno y con potencial que te hará destacar en la pista. Para 2023, apostamos por Speed en azul, amarillo y naranja. Se trata de una raqueta potente, para jugadores que buscan el máximo impulso de la pelota cuando juegan. Su acabado hexagonal en relieve permite una mayor precisión al golpear la pelota. Las raquetas Speed son raquetas ligeras y fáciles de manejar que se adaptan a las necesidades de cada jugador. Tienen un balance medio y un marco fabricado 100% en carbono de alta calidad.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": "Médio",
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Potência"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 74.62,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42528779001&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -7522,7 +7723,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Softee Valhalla 2023",
     "brand": "Softee",
     "category": "raquetes",
-    "price": 148.23,
+    "price": 144.19,
     "oldPrice": 260.15,
     "rating": null,
     "badge": null,
@@ -7546,7 +7747,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 148.23,
+        "price": 144.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528779004&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -7674,7 +7875,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Pelota de padel Dunlop Eco Padel EU",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 8.12,
+    "price": 6.32,
     "oldPrice": 9.06,
     "rating": null,
     "badge": null,
@@ -7691,7 +7892,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 8.12,
+        "price": 6.32,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528779097&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -7802,7 +8003,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer K-Swiss Express Light 3 HB",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 107.89,
     "oldPrice": 130.08,
     "rating": null,
     "badge": null,
@@ -7825,7 +8026,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 107.89,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37932486535&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8000,7 +8201,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa para raqueta de padel Wilson Tour",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 101.84,
+    "price": 98.82,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8017,7 +8218,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 98.82,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784436&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8029,7 +8230,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 55.46,
+    "price": 56.47,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8052,7 +8253,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 55.46,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44449143697&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8064,7 +8265,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 99.83,
+    "price": 96.8,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8087,7 +8288,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784548&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8134,7 +8335,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 81.68,
+    "price": 76.63,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8157,9 +8358,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 81.68,
+        "price": 76.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43654161334&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-wilson-hurakn-2-0-42528784554",
+    "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 67.56,
+    "oldPrice": 110.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wrs331180_wh-biscay-g_1.webp&feedId=93547&k=1f5d25dc32b69fb71974ef38c5a7875b37e5b175",
+    "ean": "97512681605",
+    "productGTIN": null,
+    "mpn": "WRS331180",
+    "source": "smash-expert",
+    "sourceProductId": "42528784554",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "structure La ligereza de Hurakn 2.0 y las tecnologías específicas para pádel mejoran la agilidad y la rapidez para realizar movimientos rápidos en court.La rapidez de reflejos te llevará lejos en la pista de pádel court. Las zapatillas Hurakn 2.0 de Wilson te ayudan a llegar a cada pelota con agilidad y velocidad. Estas zapatillas ultra ligeras y transpirables tienen una suela diseñada específicamente para los movimientos en la pista de pádel court. Equipadas con la tecnología Pro Torque Chassis, la entresuela ofrece una estabilidad extra al esprintar de lado a lado court. Tus pies apreciarán la talonera de TPU, especialmente diseñada para proporcionar estabilidad extra, sujeción del arco y comodidad. Además de la comodidad y la estabilidad que proporcionan, estas zapatillas están fabricadas con materiales de fibra de plástico reciclado, lo que te proporciona una capacidad de respuesta superior cuando estás en movimiento en court y, al mismo tiempo, ayudas al planeta.Suela biomecánic.....",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 67.56,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42528784554&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8169,7 +8405,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8192,7 +8428,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784561&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8204,7 +8440,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 57.48,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8227,7 +8463,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 57.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784562&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8239,7 +8475,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8262,7 +8498,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784563&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8274,7 +8510,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 57.48,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8297,7 +8533,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 57.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784564&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8309,7 +8545,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 57.48,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8332,7 +8568,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 57.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784565&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8344,7 +8580,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 57.48,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8367,7 +8603,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 57.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784566&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8379,7 +8615,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8402,7 +8638,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784567&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8414,7 +8650,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8437,9 +8673,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784568&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-wilson-hurakn-team-44783093369",
+    "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 56.47,
+    "oldPrice": 90.75,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wrs329740_0_hurakn_team_womens_lovepotion_white_bluefog.webp&feedId=93547&k=a144c067721684f45140495adcb0b3344de83eb7",
+    "ean": "97512568203",
+    "productGTIN": null,
+    "mpn": "WRS329740",
+    "source": "smash-expert",
+    "sourceProductId": "44783093369",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cálzate con confianza unas zapatillas de pádel fiables y cómodas con las Hurakn Team. Fabricadas con una suela exterior de Duralast para una máxima resistencia a la abrasión y un agarre óptimo en la pista de pádel, los usuarios pueden moverse con convicción entre golpe y golpe. Las Hurakn Team presentan una inclinación talón-punta de 12 mm y una entresuela de EVA R-DST+ para una excelente combinación de amortiguación y rebond. Una opción fiable para los jugadores de pádel recreativos, la Hurakn Team combina un rendimiento cómodo con un diseño nítido y brillante para una look memorable.La sujeción adicional en el mediopié estabiliza el movimiento lateral y proporciona un confort adicional.El corte OrthoLite Die Cut de structure garantiza una excelente combinación de sujeción y comodidad.Esta inclinación talón-puntera (9 mm) ofrece el mejor compromiso entre comodidad y rendimiento.Compuesto exclusivo de caucho duradero de alta densidad para una excelente resistencia a la abrasión y u......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 56.47,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44783093369&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8449,7 +8720,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8472,7 +8743,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784571&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8484,7 +8755,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8507,7 +8778,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784572&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8519,7 +8790,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8542,7 +8813,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104808237&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8554,7 +8825,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 59.49,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8577,7 +8848,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 59.49,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784573&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8589,7 +8860,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 58.48,
+    "price": 56.47,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8612,7 +8883,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.48,
+        "price": 56.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784575&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8624,7 +8895,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Team",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 54.45,
+    "price": 55.46,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -8647,7 +8918,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 54.45,
+        "price": 55.46,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784576&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8694,7 +8965,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 99.99,
+    "price": 97.1,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8717,9 +8988,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.99,
+        "price": 97.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784585&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-wilson-hurakn-2-0-44783093370",
+    "name": "Sapatilhas de padel Wilson Hurakn 2.0",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 67.56,
+    "oldPrice": 110.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wrs330520_wh-oldgold-cor_1.webp&feedId=93547&k=2a81cb2e0846546d3a1e6ee90fc1c3a2579e10a3",
+    "ean": "97512676618",
+    "productGTIN": null,
+    "mpn": "WRS330520",
+    "source": "smash-expert",
+    "sourceProductId": "44783093370",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "structure La ligereza de Hurakn 2.0 y las tecnologías específicas para pádel mejoran la agilidad y la rapidez para realizar movimientos rápidos en court.La rapidez de reflejos te llevará lejos en la pista de pádel court. Las zapatillas Hurakn 2.0 de Wilson te ayudan a llegar a cada pelota con agilidad y velocidad. Estas zapatillas ultra ligeras y transpirables tienen una suela diseñada específicamente para los movimientos en la pista de pádel court. Equipadas con la tecnología Pro Torque Chassis, la entresuela ofrece una estabilidad extra al esprintar de lado a lado court. Tus pies apreciarán la talonera de TPU, especialmente diseñada para proporcionar estabilidad extra, sujeción del arco y comodidad. Además de la comodidad y la estabilidad que proporcionan, estas zapatillas están fabricadas con materiales de fibra de plástico reciclado, lo que te proporciona una capacidad de respuesta superior cuando estás en movimiento en court y, al mismo tiempo, ayudas al planeta.Suela biomecánic.....",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 67.56,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44783093370&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8729,7 +9035,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 69.58,
+    "price": 67.56,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8752,9 +9058,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 69.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528784595&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-wilson-hurakn-2-0-42528784596",
+    "name": "Sapatilhas de padel Wilson Hurakn 2.0",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 67.56,
+    "oldPrice": 110.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wrs330520_wh-oldgold-cor_1.webp&feedId=93547&k=2a81cb2e0846546d3a1e6ee90fc1c3a2579e10a3",
+    "ean": "97512676632",
+    "productGTIN": null,
+    "mpn": "WRS330520",
+    "source": "smash-expert",
+    "sourceProductId": "42528784596",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "structure La ligereza de Hurakn 2.0 y las tecnologías específicas para pádel mejoran la agilidad y la rapidez para realizar movimientos rápidos en court.La rapidez de reflejos te llevará lejos en la pista de pádel court. Las zapatillas Hurakn 2.0 de Wilson te ayudan a llegar a cada pelota con agilidad y velocidad. Estas zapatillas ultra ligeras y transpirables tienen una suela diseñada específicamente para los movimientos en la pista de pádel court. Equipadas con la tecnología Pro Torque Chassis, la entresuela ofrece una estabilidad extra al esprintar de lado a lado court. Tus pies apreciarán la talonera de TPU, especialmente diseñada para proporcionar estabilidad extra, sujeción del arco y comodidad. Además de la comodidad y la estabilidad que proporcionan, estas zapatillas están fabricadas con materiales de fibra de plástico reciclado, lo que te proporciona una capacidad de respuesta superior cuando estás en movimiento en court y, al mismo tiempo, ayudas al planeta.Suela biomecánic.....",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 67.56,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42528784596&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8764,7 +9105,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 69.58,
+    "price": 67.56,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -8787,9 +9128,67 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 69.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44449143698&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-bolsa-con-ruedas-adidas-padel-stage-tour-44783093375",
+    "name": "Bolsa con ruedas adidas Padel Stage Tour",
+    "brand": "Adidas",
+    "category": "sacos",
+    "price": 142.18,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2FB%2FG%2FBG4RA1U10.webp&feedId=93547&k=291fac93bc555a1a79930e8c5a89c35b21395950",
+    "ean": "8436548245252",
+    "productGTIN": null,
+    "mpn": "BG4RA1U10",
+    "source": "smash-expert",
+    "sourceProductId": "44783093375",
+    "sourceCategory": "Padel > Sac à roulettes > Adulte > Mixte",
+    "description": "¿Eres de los que siempre viajan con sus raquetas de nieve? Entonces el Stage Tour Trolley de 40L es para ti.Es la bolsa de viaje ideal, con bolsillos y múltiples asas para viajar cómodamente. Con asa extensible y bolsillo reforzado para el portátil.Color: NegroDimensiones: 60x34 x27cmCapacidad: 40 litros",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 142.18,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44783093375&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-presurizador-para-pelotas-de-tenis-y-padel-tuboplus-head-x4-44855776780",
+    "name": "Presurizador para pelotas de tenis y padel TuboPlus Head - X4",
+    "brand": "TuboPlus",
+    "category": "acessorios",
+    "price": 28.23,
+    "oldPrice": 28.23,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Ft%2Fu%2Ftuboplus_638097883284_negro_1.webp&feedId=93547&k=547cd3c6fabffb0b06f6c95089000478d96691e2",
+    "ean": "638097883284",
+    "productGTIN": null,
+    "mpn": "638097883284",
+    "source": "smash-expert",
+    "sourceProductId": "44855776780",
+    "sourceCategory": "Tennis > Préssurisateur de balles > Adulte > Mixte",
+    "description": "SOPORTE TÉCNICO - Antes de publicar una mala crítica, consulte a la marca. TuboX3 Negro cuenta con el apoyo técnico de TuboPlus para responder a cualquier pregunta operativa.PRODUCTO ORIGINAL - Presurizador de bola original Head. Cuidado con las copias de este producto. 100% fabricado en Saragosse (Espagne).MANTIENE LA PRESIÓN DESDEORIGINE - Las pelotas de tenis y pádel se venden en botes presurizados. TuboX3 Black mantiene su presión enorigine entre partido y partido.ECONÓMICO Y FÁCIL DE USAR - TuboX3 Black es el presurizador más económico, pequeño, ligero y fácil de usar del mercado.NO NECESITA BOMBA DE AIRE - TuboX3 Black no necesita bomba de aire para funcionar, lo que lo hace más cómodo de usar y más ligero de transportar.CAPACIDAD PARA TRES PELOTAS - TuboX3 Black tiene capacidad para mantener la presión deorigine tres pelotas de tenis o pádel.SENCILLO DE USAR - Introduce tres pelotas de tenis o pádel en el interior del TuboX3 Black al final del partido y enrosca la tapa para crea...",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 28.23,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44855776780&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8799,7 +9198,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Vertex Grip 23V",
     "brand": "Bullpadel",
     "category": "acessorios",
-    "price": 106.88,
+    "price": 101.84,
     "oldPrice": 129.07,
     "rating": null,
     "badge": null,
@@ -8816,7 +9215,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 101.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789461&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8828,7 +9227,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -8851,7 +9250,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789465&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8863,7 +9262,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -8886,7 +9285,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789466&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8898,7 +9297,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -8921,7 +9320,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789467&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -8933,7 +9332,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -8956,9 +9355,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789468&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-bullpadel-flow-hybrid-fly-23v-42528789470",
+    "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 68.57,
+    "oldPrice": 134.11,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel_bm01006000_gris-oscuro_1.webp&feedId=93547&k=2c7dc61b6c95896793043ef231fbbc6978f3c696",
+    "ean": "8445402354849",
+    "productGTIN": null,
+    "mpn": "BM01006000",
+    "source": "smash-expert",
+    "sourceProductId": "42528789470",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "La favorita de nuestra jugadora AlejandraSalazar. Este modelo es perfecto para jugadores profesionales o avanzados que busquen una zapatilla ligera que favorezca una reacción rapide a la vez que garantice estabilidad y tracción.Este modelo es perfecto para jugadores profesionales o avanzados que buscan una zapatilla ligera que favorezca una reacción rapide a la vez que garantice estabilidad y tracción.El diseño incorpora un tejido especial de \"punto\" ligero que es altamente transpirable y flexible, y una puntera de goma con una pieza de refuerzo cosida o inyectada en la parte superior que es altamente resistente a la abrasión. La suela incorpora canales transversales para favorecer la flexión natural del pie durante el juego, un disco de rotación para facilitar los giros rápidos y un estabilizador central de TPU, que mejora el equilibrio y refuerza el arco central structure.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 68.57,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42528789470&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -8968,7 +9402,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -8991,7 +9425,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104808398&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9003,7 +9437,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -9026,7 +9460,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789471&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9038,7 +9472,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Flow Hybrid Fly 23V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 134.11,
     "rating": null,
     "badge": null,
@@ -9061,9 +9495,38 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528789472&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-juego-de-60-sobregrips-de-padel-wilson-pro-44873044664",
+    "name": "Juego de 60 sobregrips de padel Wilson Pro",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 107.89,
+    "oldPrice": 123.02,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_a000457_1.webp&feedId=93547&k=5cc899fdae3c63af14997476e6daa9744b401fb2",
+    "ean": "97512716482",
+    "productGTIN": null,
+    "mpn": "A000457",
+    "source": "smash-expert",
+    "sourceProductId": "44873044664",
+    "sourceCategory": "Padel > Surgrip de padel > Adulte > Mixte",
+    "description": "Juego de 60 sobregrips de padel Wilson Pro",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 107.89,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44873044664&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -9143,7 +9606,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Munich Sports X-Faith",
     "brand": "Munich",
     "category": "raquetes",
-    "price": 87.73,
+    "price": 84.7,
     "oldPrice": 113.94,
     "rating": null,
     "badge": null,
@@ -9167,7 +9630,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 87.73,
+        "price": 84.7,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44716087220&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9179,7 +9642,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Munich Sports X-Heal",
     "brand": "Munich",
     "category": "raquetes",
-    "price": 128.06,
+    "price": 161.33,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -9203,7 +9666,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 128.06,
+        "price": 161.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104808444&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9251,7 +9714,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Tubo de 3 pelotas de padel RS-Sports Tour X",
     "brand": "RS-Sports",
     "category": "acessorios",
-    "price": 7.67,
+    "price": 6.56,
     "oldPrice": 8.97,
     "rating": null,
     "badge": null,
@@ -9268,7 +9731,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 7.67,
+        "price": 6.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=37771634792&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9280,7 +9743,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Neuron 24",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 204.69,
+    "price": 205.7,
     "oldPrice": 271.24,
     "rating": null,
     "badge": null,
@@ -9304,7 +9767,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 204.69,
+        "price": 205.7,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44069711706&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9316,7 +9779,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Bullpadel Vertex 04 24",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 222.84,
+    "price": 224.86,
     "oldPrice": 301.49,
     "rating": null,
     "badge": null,
@@ -9340,7 +9803,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 222.84,
+        "price": 224.86,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002218642&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9668,7 +10131,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Speedtrac",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 121,
+    "price": 116.97,
     "oldPrice": 190.58,
     "rating": null,
     "badge": null,
@@ -9691,7 +10154,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 121,
+        "price": 116.97,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528792127&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9703,7 +10166,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Speedtrac",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 163.35,
+    "price": 162.34,
     "oldPrice": 190.58,
     "rating": null,
     "badge": null,
@@ -9726,7 +10189,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 163.35,
+        "price": 162.34,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43510980268&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9843,7 +10306,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Speedtrac",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 121,
+    "price": 116.97,
     "oldPrice": 190.58,
     "rating": null,
     "badge": null,
@@ -9866,7 +10329,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 121,
+        "price": 116.97,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528792130&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9878,7 +10341,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Speedtrac",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 121,
+    "price": 116.97,
     "oldPrice": 190.58,
     "rating": null,
     "badge": null,
@@ -9901,7 +10364,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 121,
+        "price": 116.97,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528792131&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -9979,6 +10442,151 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-munequeras-de-doble-trenzado-wilson-44432387347",
+    "name": "Muñequeras de doble trenzado Wilson",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 20.17,
+    "oldPrice": 20.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8905001_0.webp&feedId=93547&k=87adfd944be6a26ca0ff68903c8677bf92b1e6d5",
+    "ean": "97512698207",
+    "productGTIN": null,
+    "mpn": "WR8905001",
+    "source": "smash-expert",
+    "sourceProductId": "44432387347",
+    "sourceCategory": "Padel > Dragonnes > Adulte > Mixte",
+    "description": "Muñequera de doble trenzadoLas muñequeras son ahora desmontables y pueden sustituirse en cualquier momento. Los jugadores pueden combinar la correa con su indumentaria, o cambiarla cuando esté empapada de sudor. La correa de doble trenzado ofrece una mayor sujeción y durabilidad, y puede apretarse o aflojarse según sea necesario.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 20.17,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44432387347&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-munequeras-de-doble-trenzado-wilson-44432387348",
+    "name": "Muñequeras de doble trenzado Wilson",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 20.17,
+    "oldPrice": 20.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8905004_0.webp&feedId=93547&k=f056d53e94432fd59b489072da60f4f0b1e6bf19",
+    "ean": "97512698191",
+    "productGTIN": null,
+    "mpn": "WR8905004",
+    "source": "smash-expert",
+    "sourceProductId": "44432387348",
+    "sourceCategory": "Padel > Dragonnes > Adulte > Mixte",
+    "description": "Muñequera de doble trenzadoLas muñequeras son ahora desmontables y pueden sustituirse en cualquier momento. Los jugadores pueden combinar la correa con su indumentaria, o cambiarla cuando esté empapada de sudor. La correa de doble trenzado ofrece una mayor sujeción y durabilidad, y puede apretarse o aflojarse según sea necesario.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 20.17,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44432387348&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-munequeras-de-doble-trenzado-wilson-44432387349",
+    "name": "Muñequeras de doble trenzado Wilson",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 20.17,
+    "oldPrice": 20.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8905002_0.webp&feedId=93547&k=a4a90d913f0b48b8b626158668735a12f7f9eff3",
+    "ean": "97512698047",
+    "productGTIN": null,
+    "mpn": "WR8905002",
+    "source": "smash-expert",
+    "sourceProductId": "44432387349",
+    "sourceCategory": "Padel > Dragonnes > Adulte > Mixte",
+    "description": "Muñequera de doble trenzadoLas muñequeras son ahora desmontables y pueden sustituirse en cualquier momento. Los jugadores pueden combinar la correa con su indumentaria, o cambiarla cuando esté empapada de sudor. La correa de doble trenzado ofrece una mayor sujeción y durabilidad, y puede apretarse o aflojarse según sea necesario.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 20.17,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44432387349&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-correas-wilson-comfort-cuff-44432387350",
+    "name": "Correas Wilson Comfort Cuff",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 23.19,
+    "oldPrice": 23.19,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8905101_0.webp&feedId=93547&k=570d03288655f8e13d6c0b03c3aa9b0c7feb0d11",
+    "ean": "97512698153",
+    "productGTIN": null,
+    "mpn": "WR8905101",
+    "source": "smash-expert",
+    "sourceProductId": "44432387350",
+    "sourceCategory": "Padel > Dragonnes > Adulte > Mixte",
+    "description": "Correa de mano Comfort CuffPor fin puedes sustituir tus correas sudadas. Las últimas versiones de raquetas de pádel incluyen una correa extraíble, y la correa Comfort Cuff ofrece la mejor comodidad de las tres disponibles, gracias a su anchura y material. La elección ideal cuando tu correa necesita ser reemplazada antes de un partido o sesión de entrenamiento.Correa de muñeca extraíble con correa de retención más gruesa, fácil de sustituir en cualquier momento.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 23.19,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44432387350&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-correas-wilson-comfort-cuff-44432387351",
+    "name": "Correas Wilson Comfort Cuff",
+    "brand": "Wilson",
+    "category": "acessorios",
+    "price": 23.19,
+    "oldPrice": 23.19,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8905104_0.webp&feedId=93547&k=4c0647213d1d3080c69d4cc4f15eb4f719a37f1a",
+    "ean": "97512698184",
+    "productGTIN": null,
+    "mpn": "WR8905104",
+    "source": "smash-expert",
+    "sourceProductId": "44432387351",
+    "sourceCategory": "Padel > Dragonnes > Adulte > Mixte",
+    "description": "Correa de mano Comfort CuffPor fin puedes sustituir tus correas sudadas. Las últimas versiones de raquetas de pádel incluyen una correa extraíble, y la correa Comfort Cuff ofrece la mejor comodidad de las tres disponibles, gracias a su anchura y material. La elección ideal cuando tu correa necesita ser reemplazada antes de un partido o sesión de entrenamiento.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 23.19,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44432387351&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-empunadura-de-pala-wilson-schok-shield-hybrid-38613231978",
     "name": "Empuñadura de pala Wilson Schok Shield Hybrid",
     "brand": "Wilson",
@@ -10012,7 +10620,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Accent",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 138.14,
+    "price": 133.1,
     "oldPrice": 191.58,
     "rating": null,
     "badge": null,
@@ -10036,7 +10644,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 138.14,
+        "price": 133.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528810365&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10048,7 +10656,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Wilson Accent LT",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 149.23,
+    "price": 144.19,
     "oldPrice": 231.92,
     "rating": null,
     "badge": null,
@@ -10072,81 +10680,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 144.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528810366&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-wilson-carbon-force-44245729769",
-    "name": "Raqueta de padel Wilson Carbon Force",
-    "brand": "Wilson",
-    "category": "raquetes",
-    "price": 126.04,
-    "oldPrice": 131.08,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr134511u_0.webp&feedId=93547&k=926eeeab23e119a44e1b1d5f603a2d773e446981",
-    "ean": "97512727341",
-    "productGTIN": null,
-    "mpn": "WR134511U",
-    "source": "smash-expert",
-    "sourceProductId": "44245729769",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Raqueta de pádel Carbon ForceDesarrolla tus habilidades en court. La Carbon Force es una raqueta de pádel con forma de diamante que ofrece potencia, jugabilidad y comodidad. Diseñada para el jugador ofensivo deesprit, cuenta con un marco compuesto de fibra de carbono duradero y un núcleo de espuma EVA suave que te permite sentir cada golpe. La amplia zona de impacto point la hace más permisiva, y la cara texturizada potencia los efectos.La raqueta de pádel preferida por los jugadores ocasionales que buscan la combinación perfecta de potencia y control en una raqueta icónica.",
-    "specs": {
-      "peso": null,
-      "forma": "Diamante",
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 126.04,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44245729769&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raquete-de-padel-wilson-pro-staff-lt-44719192184",
-    "name": "Raquete de padel Wilson Pro Staff LT",
-    "brand": "Wilson",
-    "category": "raquetes",
-    "price": 189.57,
-    "oldPrice": 292.42,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr111911u_0.webp&feedId=93547&k=d93f03c8deb653b40b61ae20c16930a34801ead4",
-    "ean": "97512622479",
-    "productGTIN": null,
-    "mpn": "WR111911U",
-    "source": "smash-expert",
-    "sourceProductId": "44719192184",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Pro Staff LT Raqueta de Padel V2Conocida en los círculos del tenis por su estatus de icono en manos de muchas leyendas, la Pro Staff continúa su tradición de precisión suprema y control definitivo en court. Con una construcción de superficie sólida y una forma redonda más pequeña, el punto dulce es increíblemente limpio para una colocación precisa de la pelota en las curvas más cerradas.La Pro Staff LT V2 es la pala más ligera de la gama Pro Staff V2 para la mezcla definitiva de comodidad y precisión. Construida con espuma suave y una superficie ligeramente texturizada para mejorar la jugabilidad del brazo, esta raqueta de pádel está dirigida a una amplia gama de jugadores: juniors en transición, jugadores mayores y cualquiera que sufra molestias en el codo o el hombro. Su mango alargado se adapta a los entusiastas del agarre con las dos manos, mientras que un patrón de agujeros especializado se combina con una forma redonda para un control óptimo. Viene con una muñequera unida a la .....",
-    "specs": {
-      "peso": null,
-      "forma": "Redonda",
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": "Controlo"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 189.57,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719192184&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -10156,7 +10692,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Wilson Bela",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 54.45,
+    "price": 51.2,
     "oldPrice": 80.67,
     "rating": null,
     "badge": null,
@@ -10173,7 +10709,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 54.45,
+        "price": 51.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528810378&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10185,7 +10721,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Wilson Bela Super Tour",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 98.82,
+    "price": 95.79,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -10202,7 +10738,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 95.79,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528810380&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10214,7 +10750,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Metalbone 3.3",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 285.36,
+    "price": 286.37,
     "oldPrice": 383.17,
     "rating": null,
     "badge": null,
@@ -10238,7 +10774,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 285.36,
+        "price": 286.37,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44671987315&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10250,7 +10786,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Metalbone Carbon 3.3",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 163.35,
+    "price": 159.32,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -10274,9 +10810,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 163.35,
+        "price": 159.32,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44544706631&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-adidas-metalbone-carbon-ctrl-3-3-43935002105",
+    "name": "Raqueta de padel adidas Metalbone Carbon CTRL 3.3",
+    "brand": "Adidas",
+    "category": "raquetes",
+    "price": 159.32,
+    "oldPrice": 262.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas_adrk1ca4u_black_1.webp&feedId=93547&k=f4483ad8a0075b080878a6bf414ae985381a5f0b",
+    "ean": "8436548248949",
+    "productGTIN": null,
+    "mpn": "ADRK1CA4U",
+    "source": "smash-expert",
+    "sourceProductId": "43935002105",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "El METALBONE CARBON CTRL ofrece movimientos controlados. Sin embargo, sus cualidades le permiten brillar en todas las situaciones. El jugador profesional Adidas Pol Hernández ha elegido confiar en esta raqueta. Una prueba, por si hiciera falta alguna, de su increíble rendimiento. Las tecnologías Octagonal Structure y Structural Reinforcement en el marco la hacen extremadamente rígida. La forma redondeada de la cabeza y la goma Eva Soft Performance, menos rígida, centran el punto dulce y proporcionan una mayor liberación de la pelota. Se generan efectos fácilmente gracias a las tecnologías Spin Blade Decal y Smart Holes Curve. La superficie de la raqueta está fabricada con fibra de carbono 6K, un material rígido que soporta todo tipo de impactos.DETALLES Nivel: Avanzado Tipo de juego: Control Formato: Redonda Equilibrio: Parejo (265 mm) Peso: 360-375gr Superficie: 485 cm2 Longitud: 455 mm Espesor: 38 mm Protección: Cinta protectora Metalbone Cinta: Eva Soft Performance Fibra: Carbono 6k...",
+    "specs": {
+      "peso": "360-375g",
+      "forma": "Redonda",
+      "equilibrio": null,
+      "nivel": "Profissional",
+      "material": "Carbono",
+      "estilo": "Controlo"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 159.32,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43935002105&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -10286,7 +10858,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 125.03,
+    "price": 121,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -10309,7 +10881,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 125.03,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39052422856&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10321,7 +10893,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 136.13,
+    "price": 135.12,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -10344,7 +10916,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 136.13,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39052422857&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10352,20 +10924,20 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-head-motion-pro-44565969096",
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-head-motion-pro-44809628421",
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 86.72,
+    "price": 85.71,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274613_0.webp&feedId=93547&k=013b8184f0f5c5e1cb9d89b672c3357891a60577",
-    "ean": "724794644065",
+    "ean": "724794644072",
     "productGTIN": null,
     "mpn": "274613",
     "source": "smash-expert",
-    "sourceProductId": "44565969096",
+    "sourceProductId": "44809628421",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
     "description": "HEAD Por primera vez, ofrecemos una zapatilla especialmente diseñada para el pádel. Desarrollada con pro jugadores de pádel de HEAD, la nueva zapatilla MOTION PRO WOMEN'S PADEL ofrece una libertad de movimiento de 360 grados y un alto rendimiento, con un moderno confort, estabilidad y transpirabilidad, todo ello sin renunciar a la ligereza.Probada en colaboración con MONDO, el proveedor oficial de suelos del WPT, el avanzado diseño de la suela exterior mejora el agarre en todas las direcciones. Para garantizar un confort excepcional, la zapatilla cuenta con una construcción de plantilla totalmente elástica. La entresuela contiene DynaFoam, ligera y de gran capacidad de respuesta, diseñada con pequeñas celdas de aire. La combinación de la entresuela de TPU, la parte superior reforzada y la tecnología Lateral Control+ ofrece una gran estabilidad. Para mantener los pies frescos, las MOTION PRO WOMEN'S PADEL cuentan con un tejido de malla transpirable y un sistema de ventilación en el medi...",
     "specs": {
@@ -10379,9 +10951,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.72,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44565969096&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44809628421&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -10391,7 +10963,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 88.73,
+    "price": 85.71,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -10414,7 +10986,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.73,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38487175921&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10426,7 +10998,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 133.1,
+    "price": 107.89,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -10449,7 +11021,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 133.1,
+        "price": 107.89,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44099591558&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10461,7 +11033,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 86.72,
+    "price": 85.71,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -10484,7 +11056,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.72,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38487175924&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10531,8 +11103,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Empuñaduras de pala Head Pro (x60)",
     "brand": "Head",
     "category": "acessorios",
-    "price": 96.54,
-    "oldPrice": 96.54,
+    "price": 103.51,
+    "oldPrice": 110.92,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_285121-bl_blue_1.webp&feedId=93547&k=a6a215b9540ea8bf312fb6ee0bbbb27e3d33baef",
@@ -10548,7 +11120,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.54,
+        "price": 103.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44212440554&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10560,8 +11132,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Empuñaduras de pala Head Pro (x60)",
     "brand": "Head",
     "category": "acessorios",
-    "price": 96.54,
-    "oldPrice": 96.54,
+    "price": 103.51,
+    "oldPrice": 110.92,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_285121-mi_mint_1.webp&feedId=93547&k=443fada35b7fb36526a5680fe994b548439d101b",
@@ -10577,7 +11149,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.54,
+        "price": 103.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528837456&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10589,8 +11161,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Empuñaduras de pala Head Pro (x60)",
     "brand": "Head",
     "category": "acessorios",
-    "price": 96.54,
-    "oldPrice": 96.54,
+    "price": 103.51,
+    "oldPrice": 110.92,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_285121-yw_yellow_1.webp&feedId=93547&k=2d6b8a34d7b97101a821590835f81a61d2f2b946",
@@ -10606,7 +11178,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.54,
+        "price": 103.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528837457&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10618,7 +11190,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Speed Motion 2023",
     "brand": "Head",
     "category": "raquetes",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -10642,7 +11214,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104809655&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10654,7 +11226,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Speed Pro 2023",
     "brand": "Head",
     "category": "raquetes",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 322.67,
     "rating": null,
     "badge": null,
@@ -10678,7 +11250,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104809656&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -10690,7 +11262,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Speed Pro X 2023",
     "brand": "Head",
     "category": "raquetes",
-    "price": 149.23,
+    "price": 141.56,
     "oldPrice": 383.17,
     "rating": null,
     "badge": null,
@@ -10714,7 +11286,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 141.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104809657&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11101,7 +11673,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Set padel raquettes Okami",
     "brand": "SET",
     "category": "raquetes",
-    "price": 193.32,
+    "price": 186.13,
     "oldPrice": 240.99,
     "rating": null,
     "badge": null,
@@ -11125,7 +11697,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 193.32,
+        "price": 186.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41654512696&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11238,7 +11810,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Tecnifibre Wall Master 370",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 174.44,
+    "price": 168.39,
     "oldPrice": 281.33,
     "rating": null,
     "badge": null,
@@ -11262,7 +11834,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 174.44,
+        "price": 168.39,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39810082973&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11274,7 +11846,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 104.87,
+    "price": 99.83,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11297,7 +11869,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 104.87,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40698123845&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11309,7 +11881,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 70.39,
+    "price": 63.28,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11332,7 +11904,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.39,
+        "price": 63.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38875599046&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11344,7 +11916,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 75.63,
+    "price": 73.61,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11367,7 +11939,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41543168588&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11379,7 +11951,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 102.85,
+    "price": 99.83,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11402,7 +11974,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 102.85,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528865979&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11449,7 +12021,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 102.85,
+    "price": 121,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11472,7 +12044,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 102.85,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528865984&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11519,7 +12091,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 102.85,
+    "price": 99.83,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11542,7 +12114,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 102.85,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528865987&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11624,7 +12196,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 89.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11647,7 +12219,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44380249499&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11694,7 +12266,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 102.85,
+    "price": 98.82,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -11717,7 +12289,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 102.85,
+        "price": 98.82,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528865991&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11764,7 +12336,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Bela Tour",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 100.39,
+    "price": 101.86,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -11787,7 +12359,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.39,
+        "price": 101.86,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528866028&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11799,7 +12371,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Wilson Blade Pro V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 161.33,
+    "price": 230.83,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -11823,7 +12395,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 161.33,
+        "price": 230.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104810902&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11835,7 +12407,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Wilson Pro Staff V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 175.45,
+    "price": 202.68,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -11859,7 +12431,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 175.45,
+        "price": 202.68,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104810903&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11871,7 +12443,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Pro Staff V2 Tour",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 226.88,
+    "price": 218.81,
     "oldPrice": 322.67,
     "rating": null,
     "badge": null,
@@ -11895,7 +12467,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 226.88,
+        "price": 218.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104810904&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -11907,7 +12479,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Pro Staff V2 Alt 2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 195.62,
+    "price": 194.61,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -11931,9 +12503,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 195.62,
+        "price": 194.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528868232&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-k-swiss-herren-44322988678",
+    "name": "Sapatilhas de padel K-Swiss Herren",
+    "brand": "K-SWISS",
+    "category": "sapatilhas",
+    "price": 164.36,
+    "oldPrice": 180.49,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2F-%2Fk-swiss_08912940m_white-b_1.webp&feedId=93547&k=25a0a3924282aae2ecdbf7aebf5163e8a5cdf5c0",
+    "ean": "196483476071",
+    "productGTIN": null,
+    "mpn": "08912940M",
+    "source": "smash-expert",
+    "sourceProductId": "44322988678",
+    "sourceCategory": "Padel > Chaussures indoor > Adulte > Homme",
+    "description": "Las zapatillas de pádel K-Swiss Herren son la elección perfecta para los jugadores de pádel que buscan comodidad, estabilidad y rendimiento. Fabricadas por la famosa marca K-Swiss, estas zapatillas están especialmente diseñadas para el pádel, ofreciendo un agarre excepcional en court y una gran durabilidad.Con su diseño elegante y moderno, estas zapatillas son una verdadera ventaja en la pista. Su parte superior de piel sintética y malla ofrece la mezcla perfecta de flexibilidad y sujeción, mientras que la suela de goma duradera proporciona una excelente tracción en superficies tous.Las zapatillas de pádel K-Swiss Herren también están equipadas con la tecnología Flow Cool, que proporciona una ventilación óptima para mantener los pies frescos y secos durante los partidos más intensos. Además, la tecnología DragGuard protege los dedos de los pies de la fricción y los impactos, lo que las convierte en la opción ideal para los jugadores a los que les gusta moverse con rapidez por la pi......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 164.36,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44322988678&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -12004,6 +12611,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 164.36,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44322988680&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-k-swiss-herren-44322988681",
+    "name": "Sapatilhas de padel K-Swiss Herren",
+    "brand": "K-SWISS",
+    "category": "sapatilhas",
+    "price": 164.36,
+    "oldPrice": 180.49,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2F-%2Fk-swiss_08912940m_white-b_1.webp&feedId=93547&k=25a0a3924282aae2ecdbf7aebf5163e8a5cdf5c0",
+    "ean": "196483476002",
+    "productGTIN": null,
+    "mpn": "08912940M",
+    "source": "smash-expert",
+    "sourceProductId": "44322988681",
+    "sourceCategory": "Padel > Chaussures indoor > Adulte > Homme",
+    "description": "Las zapatillas de pádel K-Swiss Herren son la elección perfecta para los jugadores de pádel que buscan comodidad, estabilidad y rendimiento. Fabricadas por la famosa marca K-Swiss, estas zapatillas están especialmente diseñadas para el pádel, ofreciendo un agarre excepcional en court y una gran durabilidad.Con su diseño elegante y moderno, estas zapatillas son una verdadera ventaja en la pista. Su parte superior de piel sintética y malla ofrece la mezcla perfecta de flexibilidad y sujeción, mientras que la suela de goma duradera proporciona una excelente tracción en superficies tous.Las zapatillas de pádel K-Swiss Herren también están equipadas con la tecnología Flow Cool, que proporciona una ventilación óptima para mantener los pies frescos y secos durante los partidos más intensos. Además, la tecnología DragGuard protege los dedos de los pies de la fricción y los impactos, lo que las convierte en la opción ideal para los jugadores a los que les gusta moverse con rapidez por la pi......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 164.36,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44322988681&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -12188,7 +12830,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 76.63,
+    "price": 77.64,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -12211,7 +12853,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 77.64,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43839281949&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12223,7 +12865,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 76.63,
+    "price": 77.64,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -12246,7 +12888,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 77.64,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43839281950&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12258,7 +12900,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 76.63,
+    "price": 77.64,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -12281,44 +12923,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 77.64,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43839281951&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-43839281952",
-    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 101.84,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas_jp9588_ftwr-white-silver-met-lucid-pink_1.webp&feedId=93547&k=a4eb75e0882cb78749cb940a88dda6902d4c04df",
-    "ean": "4067904247197",
-    "productGTIN": null,
-    "mpn": "JP9588",
-    "source": "smash-expert",
-    "sourceProductId": "43839281952",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Las zapatillas de pádel para mujer adidas Crazyquick Boost son la opción ideal para las jugadoras de pádel que buscan rendimiento y comodidad. Diseñadas por la reconocida marca adidas, estas zapatillas combinan tecnología de vanguardia y diseño elegante para ofrecer una experiencia de juego inigualable.La exclusiva tecnología Boost deadidas proporciona una amortiguación óptima a cada paso, permitiéndote moverte con rapidez y confianza por la pista. La suela de goma adiwear proporciona un agarre excepcional en superficies de pádel, permitiéndote cambiar de dirección con fluidez y mantener el equilibrio durante los movimientos rápidos.La parte superior de malla transpirable proporciona una ventilación óptima para mantener los pies frescos y secos, incluso durante los partidos más intensos. Además, el sistema de lazada asimétrica ofrece un ajuste personalizado para una sujeción perfecta y una comodidad duradera.Diseñadas específicamente para la mujer, estas zapatillas de pádel adida......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 101.84,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43839281952&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -12328,7 +12935,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 102.85,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12351,7 +12958,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43852270073&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12363,7 +12970,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 102.85,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12386,7 +12993,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43839281953&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12398,7 +13005,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 102.85,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12421,7 +13028,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43852270074&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12433,7 +13040,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 102.85,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12456,7 +13063,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43852270075&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12503,7 +13110,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 99.83,
+    "price": 96.8,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12526,7 +13133,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41576606560&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12538,7 +13145,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 98.82,
+    "price": 96.8,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12561,7 +13168,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38454254933&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12573,7 +13180,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 98.82,
+    "price": 97.81,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12596,7 +13203,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 97.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41576606561&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12608,7 +13215,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 99.83,
+    "price": 96.8,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12631,7 +13238,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44702297497&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12643,7 +13250,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 99.83,
+    "price": 97.81,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -12666,7 +13273,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 97.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38454254936&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12678,7 +13285,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Extreme Elite",
     "brand": "Head",
     "category": "raquetes",
-    "price": 130.08,
+    "price": 114.07,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -12702,7 +13309,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.08,
+        "price": 114.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=38247445095&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12714,7 +13321,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Extreme One",
     "brand": "Head",
     "category": "raquetes",
-    "price": 185.53,
+    "price": 180.49,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -12738,7 +13345,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 185.53,
+        "price": 180.49,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528900135&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12750,7 +13357,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Extreme Pro",
     "brand": "Head",
     "category": "raquetes",
-    "price": 182.06,
+    "price": 171.11,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -12774,7 +13381,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 182.06,
+        "price": 171.11,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528900136&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12786,7 +13393,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Radical",
     "brand": "Head",
     "category": "raquetes",
-    "price": 174.44,
+    "price": 169.4,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -12810,7 +13417,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 174.44,
+        "price": 169.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44159995370&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12822,7 +13429,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Motion",
     "brand": "Head",
     "category": "raquetes",
-    "price": 169.42,
+    "price": 145.2,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -12846,7 +13453,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 169.42,
+        "price": 145.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528900137&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12858,7 +13465,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Head Radical Elite",
     "brand": "Head",
     "category": "raquetes",
-    "price": 166.38,
+    "price": 162.34,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -12882,7 +13489,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 166.38,
+        "price": 162.34,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528900138&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -12955,6 +13562,35 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-saco-head-m-chyu-44679046206",
+    "name": "Saco Head M Chyu",
+    "brand": "Head",
+    "category": "sacos",
+    "price": 50.42,
+    "oldPrice": 50.42,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_261503_chamomile-corduroy-white_1.webp&feedId=93547&k=3cd675ed9278a309dc809ddaa09cb8b7e1216a44",
+    "ean": "724794702918",
+    "productGTIN": null,
+    "mpn": "261503",
+    "source": "smash-expert",
+    "sourceProductId": "44679046206",
+    "sourceCategory": "Tennis > Sac de raquette de padel > Adulte > Mixte",
+    "description": "El Core Padel Combi cuenta con dos compartimentos principales y un bolsillo para tus accesorios, lo que te permite llevar lo necesario contigo. Su diseño original no te dejará indiferente y te acompañará a donde quiera que vayas a jugar al Padel.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 50.42,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44679046206&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-saco-head-pro-42528900253",
     "name": "Saco Head Pro",
     "brand": "Head",
@@ -12988,7 +13624,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Pro L NV",
     "brand": "Head",
     "category": "sacos",
-    "price": 98.82,
+    "price": 96.8,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -13005,7 +13641,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42095553575&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13046,7 +13682,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Tour Team",
     "brand": "Head",
     "category": "sacos",
-    "price": 76.63,
+    "price": 74.62,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -13063,7 +13699,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 74.62,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528900255&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13075,7 +13711,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Asics Gel-Game 9 GS",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 52.9,
+    "price": 51.29,
     "oldPrice": 70.58,
     "rating": null,
     "badge": null,
@@ -13098,79 +13734,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 52.9,
+        "price": 51.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43448918440&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-game-9-44729495590",
-    "name": "Sapatilhas de padel Asics Gel-Game 9",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 65.52,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a336_800_sr_rt_glb.webp&feedId=93547&k=70d6f72577945142317b7ceabfa76c1b1da30f79",
-    "ean": "4550457666183",
-    "productGTIN": null,
-    "mpn": "1041A336 - 800",
-    "source": "smash-expert",
-    "sourceProductId": "44729495590",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "A la vez duraderas y cómodas, las zapatillas GEL-GAME™ 9 Padel son versátiles para el deportista recreativo que juega varias veces a la semana. Conservando sus excelentes propiedades de sujeción, esta temporada nos hemos centrado en mejorar la ventilación y la flexibilidad de la zapatilla. Con un diseño de malla abierta en la parte superior para mejorar el flujo de aire y mantener los pies frescos, esta zapatilla se completa con superposiciones de piel sintética y una lámina de PU (poliuretano) que ofrece mayor estabilidad en las transiciones bruscas. court La tecnología TRUSSTIC™ en la entresuela genera mayor estabilidad en las .Al mismo tiempo, el nuevo utillaje combina la espuma EVA de la entresuela con la amortiguación con tecnología GEL™ en el antepié para aumentar la absorción de impactos. Además, la suela exterior mejorada ofrece mayor flexibilidad y un diseño más duradero. tous Una zapatilla de pádel versátil para pistas, ligera y flexible.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 65.52,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44729495590&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-game-9-44729495591",
-    "name": "Sapatilhas de padel Asics Gel-Game 9",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 65.52,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a336_800_sr_rt_glb.webp&feedId=93547&k=70d6f72577945142317b7ceabfa76c1b1da30f79",
-    "ean": "4550457666206",
-    "productGTIN": null,
-    "mpn": "1041A336 - 800",
-    "source": "smash-expert",
-    "sourceProductId": "44729495591",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "A la vez duraderas y cómodas, las zapatillas GEL-GAME™ 9 Padel son versátiles para el deportista recreativo que juega varias veces a la semana. Conservando sus excelentes propiedades de sujeción, esta temporada nos hemos centrado en mejorar la ventilación y la flexibilidad de la zapatilla. Con un diseño de malla abierta en la parte superior para mejorar el flujo de aire y mantener los pies frescos, esta zapatilla se completa con superposiciones de piel sintética y una lámina de PU (poliuretano) que ofrece mayor estabilidad en las transiciones bruscas. court La tecnología TRUSSTIC™ en la entresuela genera mayor estabilidad en las .Al mismo tiempo, el nuevo utillaje combina la espuma EVA de la entresuela con la amortiguación con tecnología GEL™ en el antepié para aumentar la absorción de impactos. Además, la suela exterior mejorada ofrece mayor flexibilidad y un diseño más duradero. tous Una zapatilla de pádel versátil para pistas, ligera y flexible.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 65.52,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44729495591&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -13211,116 +13777,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-game-9-44432388002",
-    "name": "Sapatilhas de padel Asics Gel-Game 9",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 65.52,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a336_800_sr_rt_glb.webp&feedId=93547&k=70d6f72577945142317b7ceabfa76c1b1da30f79",
-    "ean": "4550457666220",
-    "productGTIN": null,
-    "mpn": "1041A336 - 800",
-    "source": "smash-expert",
-    "sourceProductId": "44432388002",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "A la vez duraderas y cómodas, las zapatillas GEL-GAME™ 9 Padel son versátiles para el deportista recreativo que juega varias veces a la semana. Conservando sus excelentes propiedades de sujeción, esta temporada nos hemos centrado en mejorar la ventilación y la flexibilidad de la zapatilla. Con un diseño de malla abierta en la parte superior para mejorar el flujo de aire y mantener los pies frescos, esta zapatilla se completa con superposiciones de piel sintética y una lámina de PU (poliuretano) que ofrece mayor estabilidad en las transiciones bruscas. court La tecnología TRUSSTIC™ en la entresuela genera mayor estabilidad en las .Al mismo tiempo, el nuevo utillaje combina la espuma EVA de la entresuela con la amortiguación con tecnología GEL™ en el antepié para aumentar la absorción de impactos. Además, la suela exterior mejorada ofrece mayor flexibilidad y un diseño más duradero. tous Una zapatilla de pádel versátil para pistas, ligera y flexible.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 65.52,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44432388002&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-solution-swift-ff-43945189783",
-    "name": "Sapatilhas de padel Asics Solution Swift FF",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 88.14,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a314_402_sr_rt_glb.webp&feedId=93547&k=d86758c6764b6192c49eab5739d861218d1bb187",
-    "ean": "4550457144940",
-    "productGTIN": null,
-    "mpn": "1041A314 - 402",
-    "source": "smash-expert",
-    "sourceProductId": "43945189783",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "SWIFT Elle El zapato SOLUTION ™ FF PADEL está diseñado para jugadores de toda la cancha que cubren la red y la línea de fondo. cuenta con una suela flexible funcional para el movimiento multidireccional. La entresuela de este zapato está formado con FLYTEFOAM™ amortiguación. Se trata de una espuma ligera y duradera que aumenta la absorción de impactos. Mientras tanto, la unidad de soporte con tecnología TWISTRUSS™ en el mediopié te ayuda a experimentar cortes rápidos y seguros en la pista.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 88.14,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43945189783&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-solution-swift-ff-43935010204",
-    "name": "Sapatilhas de padel Asics Solution Swift FF",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 88.14,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a314_402_sr_rt_glb.webp&feedId=93547&k=d86758c6764b6192c49eab5739d861218d1bb187",
-    "ean": "4550457144995",
-    "productGTIN": null,
-    "mpn": "1041A314 - 402",
-    "source": "smash-expert",
-    "sourceProductId": "43935010204",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "SWIFT Elle El zapato SOLUTION ™ FF PADEL está diseñado para jugadores de toda la cancha que cubren la red y la línea de fondo. cuenta con una suela flexible funcional para el movimiento multidireccional. La entresuela de este zapato está formado con FLYTEFOAM™ amortiguación. Se trata de una espuma ligera y duradera que aumenta la absorción de impactos. Mientras tanto, la unidad de soporte con tecnología TWISTRUSS™ en el mediopié te ayuda a experimentar cortes rápidos y seguros en la pista.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 88.14,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43935010204&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-14-43406652340",
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 14",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 84.4,
+    "price": 83.22,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -13343,7 +13804,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 84.4,
+        "price": 83.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43406652340&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13355,7 +13816,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 14",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 77.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -13378,114 +13839,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 77.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43890333860&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-game-9-44729495592",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Game 9",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 66.51,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a210_300_sr_rt_glb.webp&feedId=93547&k=fc33a981c975ff2c463819b1e9d19a087d34b643",
-    "ean": "4550457144186",
-    "productGTIN": null,
-    "mpn": "1042A210 - 300",
-    "source": "smash-expert",
-    "sourceProductId": "44729495592",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "A la vez duraderas y cómodas, las zapatillas GEL-GAME™ 9 Padel son versátiles para el deportista recreativo que juega varias veces a la semana. Conservando sus excelentes propiedades de sujeción, esta temporada nos hemos centrado en mejorar la ventilación y la flexibilidad de la zapatilla. Con un diseño de malla abierta en la parte superior para mejorar el flujo de aire y mantener los pies frescos, esta zapatilla se completa con superposiciones de piel sintética y una lámina de PU (poliuretano) que ofrece mayor estabilidad en las transiciones bruscas. court La tecnología TRUSSTIC™ en la entresuela genera mayor estabilidad en las .Al mismo tiempo, el nuevo utillaje combina la espuma EVA de la entresuela con la amortiguación con tecnología GEL™ en el antepié para aumentar la absorción de impactos. Además, la suela exterior mejorada ofrece mayor flexibilidad y un diseño más duradero. tous Una zapatilla de pádel versátil para pistas, ligera y flexible.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 66.51,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44729495592&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-game-9-44761052583",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Game 9",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 66.51,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a210_300_sr_rt_glb.webp&feedId=93547&k=fc33a981c975ff2c463819b1e9d19a087d34b643",
-    "ean": "4550457144247",
-    "productGTIN": null,
-    "mpn": "1042A210 - 300",
-    "source": "smash-expert",
-    "sourceProductId": "44761052583",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "A la vez duraderas y cómodas, las zapatillas GEL-GAME™ 9 Padel son versátiles para el deportista recreativo que juega varias veces a la semana. Conservando sus excelentes propiedades de sujeción, esta temporada nos hemos centrado en mejorar la ventilación y la flexibilidad de la zapatilla. Con un diseño de malla abierta en la parte superior para mejorar el flujo de aire y mantener los pies frescos, esta zapatilla se completa con superposiciones de piel sintética y una lámina de PU (poliuretano) que ofrece mayor estabilidad en las transiciones bruscas. court La tecnología TRUSSTIC™ en la entresuela genera mayor estabilidad en las .Al mismo tiempo, el nuevo utillaje combina la espuma EVA de la entresuela con la amortiguación con tecnología GEL™ en el antepié para aumentar la absorción de impactos. Además, la suela exterior mejorada ofrece mayor flexibilidad y un diseño más duradero. tous Una zapatilla de pádel versátil para pistas, ligera y flexible.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 66.51,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44761052583&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-mizuno-wave-exceed-43656329133",
-    "name": "Sapatilhas de padel Mizuno Wave Exceed",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 151.25,
-    "oldPrice": 151.25,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fh%2Fsh_61gb248006_00_1_.webp&feedId=93547&k=38b7d1ebe24907dbbbf9094d02887cb38a80fc92",
-    "ean": "5059431831047",
-    "productGTIN": null,
-    "mpn": "61GB248006",
-    "source": "smash-expert",
-    "sourceProductId": "43656329133",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Los jugadores experimentados pueden contar con esta zapatilla que mejora la velocidad para superar a la competencia. elle Especialmente ligera, tiene características que mejorarán tus arrancadas y harán que tus movimientos y rotaciones sean más suaves. MIZUNO NXT MIZUNO Entre ellas se incluyen ENERZY y ENERZY INSOLE en la bola del pie para arranques y giros rápidos, así como la nueva WAVE PLATE que convierte la potencia en velocidad. La zapatilla también ha sido mejorada para un mayor confort, gracias en particular al diseño de la lengüeta, que es suave con el pie, y al Dyna-Eyelet Wrap, que envuelve el pie perfectamente. premier rapide MIZUNO NXT MIZUNO [1) Al adoptar el nuevo material funcional ENERZY en el antepié y la plantilla ENERZY, esta zapatilla favorece las rotaciones y arrancadas rápidas. 2) Gracias a la nueva placa WAVE PLATE (extensión del antepié sólo en la parte exterior y adaptación del diseño de la ranura D-Flex), esta zapatilla ofrece una excelente sensación de rigide...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 151.25,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43656329133&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -13495,7 +13851,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel 60073",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 75.63,
+    "price": 73.61,
     "oldPrice": 81.68,
     "rating": null,
     "badge": null,
@@ -13518,7 +13874,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41526090249&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13530,7 +13886,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel 60073",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 75.63,
+    "price": 73.61,
     "oldPrice": 81.68,
     "rating": null,
     "badge": null,
@@ -13553,7 +13909,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41526090250&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13565,7 +13921,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel 60073",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 75.63,
+    "price": 73.61,
     "oldPrice": 81.68,
     "rating": null,
     "badge": null,
@@ -13588,7 +13944,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41526090252&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13600,7 +13956,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Salming Rebel 60073",
     "brand": "Salming",
     "category": "sapatilhas",
-    "price": 75.63,
+    "price": 73.61,
     "oldPrice": 81.68,
     "rating": null,
     "badge": null,
@@ -13623,7 +13979,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41526090253&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13664,7 +14020,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Mustang",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 128.06,
+    "price": 123.02,
     "oldPrice": 340.82,
     "rating": null,
     "badge": null,
@@ -13688,7 +14044,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 128.06,
+        "price": 123.02,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918698&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13700,7 +14056,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Enebe Response 24K",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 155.28,
+    "price": 150.24,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -13724,7 +14080,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 155.28,
+        "price": 150.24,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918699&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13736,7 +14092,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Enebe Response 3K",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 212.76,
+    "price": 215.78,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -13760,7 +14116,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 212.76,
+        "price": 215.78,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918700&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13772,7 +14128,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe RSX 7.1 Carbon Reloaded",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 149.23,
+    "price": 144.19,
     "oldPrice": 199.65,
     "rating": null,
     "badge": null,
@@ -13796,7 +14152,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 144.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918701&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13808,7 +14164,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Enebe SpitFire 12K",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 128.06,
+    "price": 123.02,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -13832,7 +14188,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 128.06,
+        "price": 123.02,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918702&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -13844,7 +14200,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Enebe Supra 3K",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 146.21,
+    "price": 140.16,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -13868,7 +14224,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 146.21,
+        "price": 140.16,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918703&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14020,47 +14376,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raquete-de-padel-hybrid-padel-ross-42553049199",
-    "name": "Raquete de padel Hybrid Padel Ross",
-    "brand": "Hybrid Padel",
-    "category": "raquetes",
-    "price": 75.63,
-    "oldPrice": 151.25,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fy%2Fhybrid-padel_16974_rouge-noir_1.webp&feedId=93547&k=7d126d22b3475fdc9619b44d86f90512e073b13c",
-    "ean": "8445090083670",
-    "productGTIN": null,
-    "mpn": "16974",
-    "source": "smash-expert",
-    "sourceProductId": "42553049199",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Ross a Hybrid es una raqueta versátil diseñada para jugadores de nivel avanzado e intermedio. Además, es una raqueta muy versátil con un equilibrio medio y una forma híbrida que facilita su manejo. autres El marco 100% carbono ofrece mayor resistencia que los modelos de la gama. El núcleo es de goma EVA de alto rendimiento. Además, sus caras han sido fabricadas con uno de los mejores carbones del mercado, con una magnífica resistencia y un tacto muy suave.",
-    "specs": {
-      "peso": null,
-      "forma": "Híbrida",
-      "equilibrio": "Médio",
-      "nivel": "Avançado",
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 75.63,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42553049199&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raquete-de-padel-j-hayber-dominator-d3k-42528918705",
     "name": "Raquete de padel J'hayber Dominator D3K",
     "brand": "J'hayber",
     "category": "raquetes",
-    "price": 122.01,
+    "price": 117.98,
     "oldPrice": 150.24,
     "rating": null,
     "badge": null,
@@ -14084,7 +14404,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 122.01,
+        "price": 117.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918705&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14096,7 +14416,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Di Legend",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 121,
+    "price": 117.98,
     "oldPrice": 147.22,
     "rating": null,
     "badge": null,
@@ -14120,7 +14440,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 121,
+        "price": 117.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918708&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14132,7 +14452,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Softee Bloquer",
     "brand": "Softee",
     "category": "raquetes",
-    "price": 76.63,
+    "price": 88.73,
     "oldPrice": 118.98,
     "rating": null,
     "badge": null,
@@ -14156,7 +14476,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 88.73,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918712&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14204,7 +14524,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Softee Runa",
     "brand": "Softee",
     "category": "raquetes",
-    "price": 168.39,
+    "price": 163.35,
     "oldPrice": 199.65,
     "rating": null,
     "badge": null,
@@ -14228,45 +14548,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 168.39,
+        "price": 163.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918715&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raquete-de-padel-softee-speed-power-41515020186",
-    "name": "Raquete de padel Softee Speed Power",
-    "brand": "Softee",
-    "category": "raquetes",
-    "price": 122.01,
-    "oldPrice": 231.92,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_0016964_orange-carbone_1.webp&feedId=93547&k=5b130d6bb92e93bd8d6aa678dfdbd5901793f8d3",
-    "ean": "8445090057084",
-    "productGTIN": null,
-    "mpn": "0016964",
-    "source": "smash-expert",
-    "sourceProductId": "41515020186",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Equilibre Peso: 355-375gr / Perfil: 38mm / Forma: Lágrima / Núcleo: Goma Eva Soft S8 / Lados: Carbono 3K / Nivel: Alta-competición / : Medio / Acabado: Brillante-rubí 3d Logo S / Dureza: Media-dura",
-    "specs": {
-      "peso": "355-375g",
-      "forma": "Híbrida",
-      "equilibrio": null,
-      "nivel": "Profissional",
-      "material": "Carbono 3K",
-      "estilo": "Potência"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 122.01,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=41515020186&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -14312,7 +14596,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Vibora Diva Elite 3k",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 176.46,
+    "price": 175.45,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -14336,7 +14620,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 176.46,
+        "price": 175.45,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918717&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14348,7 +14632,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora King Cobra Elite 24k",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 163.35,
+    "price": 158.31,
     "oldPrice": 300.48,
     "rating": null,
     "badge": null,
@@ -14372,7 +14656,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 163.35,
+        "price": 158.31,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44654245096&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14384,7 +14668,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Prince Quartz V2",
     "brand": "Prince",
     "category": "raquetes",
-    "price": 137.13,
+    "price": 133.1,
     "oldPrice": 158.31,
     "rating": null,
     "badge": null,
@@ -14408,7 +14692,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 137.13,
+        "price": 133.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44702297597&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14449,7 +14733,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Softee Car",
     "brand": "Softee",
     "category": "sacos",
-    "price": 41.34,
+    "price": 39.33,
     "oldPrice": 45.38,
     "rating": null,
     "badge": null,
@@ -14466,7 +14750,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 41.34,
+        "price": 39.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432388030&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14619,35 +14903,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-pulverizador-multifuncion-dry-grip-estuchado-44432388032",
-    "name": "Pulverizador multifunción Dry Grip Estuchado",
-    "brand": "Dry Grip",
-    "category": "acessorios",
-    "price": 19.16,
-    "oldPrice": 19.16,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fr%2Fdry-grip_a001803_noir_1.webp&feedId=93547&k=6dcccac1d2ff5c1252ba174f78c7414334fb3eeb",
-    "ean": "8435536746115",
-    "productGTIN": null,
-    "mpn": "A001803",
-    "source": "smash-expert",
-    "sourceProductId": "44432388032",
-    "sourceCategory": "Padel > Spray multifonction > Adulte > Mixte",
-    "description": "Dry GripEl spray tiene un mando giratorio que se mueve al aplicarlo y se puede cerrar para llevarlo cómodamente donde se necesite. Está compuesto por alcohol y más del 70% de etanol, por lo que es un producto hidroalcohólico. Desinfecta la superficie de la piel.ozoneEs un producto natural y no afecta a la capa. Se aplica en la palma de la mano a una distancia de 10 centímetros.",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 19.16,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44432388032&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-tubo-de-12-pelotas-de-tenis-padel-softee-38704284871",
     "name": "Tubo de 12 pelotas de tenis/padel Softee",
     "brand": "Softee",
@@ -14710,7 +14965,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Kappa Loop",
     "brand": "Kappa",
     "category": "sapatilhas",
-    "price": 63.53,
+    "price": 61.51,
     "oldPrice": 85.71,
     "rating": null,
     "badge": null,
@@ -14733,44 +14988,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 63.53,
+        "price": 61.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528918815&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-14-43810676487",
-    "name": "Sapatilhas de padel para mujer Asics Gel-challenger 14",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 80.94,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a232_003_sr_rt_glb.webp&feedId=93547&k=860aee86f4f36b4db350609d8eff4cd5e5c47e09",
-    "ean": "4550457146616",
-    "productGTIN": null,
-    "mpn": "1042A232 - 003",
-    "source": "smash-expert",
-    "sourceProductId": "43810676487",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "esprit pointLa zapatilla GEL-CHALLENGER™ 14 PADEL crea la estabilidad que necesitas cuando cubres la línea de fondo, para que puedas concentrarte en controlar . El cambrillón de sujeción de la zapatilla mantiene los pies fijos en la plataforma de la zapatilla.Esto crea una sensación mejorada durante las voleas o cuando te dejas caer hacia atrás para seguir tiros de globo profundos. La tecnología DYNAWING™ se coloca en el lateral para mejorar la estabilidad durante los movimientos laterales.Esta característica proporciona una buena sujeción, para que puedas entrar en el golpe y golpear la pelota con más velocidad. La suela exterior también cuenta con una construcción separada en el talón para ayudarte a disfrutar de una mejor estabilidad durante los aterrizajes duros.Una zapatilla de pádel con una parte superior de sujeción para mejorar las sensaciones.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 80.94,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43810676487&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -14780,7 +15000,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Team",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 57.97,
+    "price": 57.09,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -14803,7 +15023,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 57.97,
+        "price": 57.09,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40910742151&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14815,7 +15035,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Gravity Team 2024",
     "brand": "Head",
     "category": "raquetes",
-    "price": 172.43,
+    "price": 173.43,
     "oldPrice": 181.5,
     "rating": null,
     "badge": null,
@@ -14839,7 +15059,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.43,
+        "price": 173.43,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332617714&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14851,7 +15071,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Gravity Team Light 2024",
     "brand": "Head",
     "category": "raquetes",
-    "price": 144.19,
+    "price": 147.22,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -14875,7 +15095,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 144.19,
+        "price": 147.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43787683641&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14923,7 +15143,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn 2.0",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 96.8,
+    "price": 92.77,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -14946,7 +15166,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.8,
+        "price": 92.77,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43877202312&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14958,7 +15178,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn Pro",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 114.95,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -14981,7 +15201,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 114.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528959897&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -14993,7 +15213,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn Pro",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 109.91,
+    "price": 106.88,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -15016,7 +15236,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 109.91,
+        "price": 106.88,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528959900&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15028,7 +15248,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Wilson Bela Pro V2.5",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 205.7,
+    "price": 199.65,
     "oldPrice": 342.83,
     "rating": null,
     "badge": null,
@@ -15052,7 +15272,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 205.7,
+        "price": 199.65,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528959965&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15064,7 +15284,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Wilson Blade LS V3",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 149.23,
+    "price": 144.19,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -15088,7 +15308,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 144.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42528959966&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15129,7 +15349,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Tubo de 3 pelotas de padel Wilson Premier Speed Can Bi",
     "brand": "Wilson",
     "category": "acessorios",
-    "price": 14.12,
+    "price": 13.36,
     "oldPrice": 15.93,
     "rating": null,
     "badge": null,
@@ -15146,7 +15366,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 14.12,
+        "price": 13.36,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39251910743&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15158,7 +15378,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Icon 25V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 67.3,
+    "price": 60.5,
     "oldPrice": 93.76,
     "rating": null,
     "badge": null,
@@ -15181,7 +15401,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 67.3,
+        "price": 60.5,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40317079812&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15193,7 +15413,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Icon 25V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 67.3,
+    "price": 60.5,
     "oldPrice": 93.76,
     "rating": null,
     "badge": null,
@@ -15216,7 +15436,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 67.3,
+        "price": 60.5,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40317079815&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15228,7 +15448,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Hack 04 25",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 217.8,
+    "price": 189.57,
     "oldPrice": 331.74,
     "rating": null,
     "badge": null,
@@ -15252,7 +15472,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 217.8,
+        "price": 189.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104816116&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15264,7 +15484,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Icon 25",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 157.3,
+    "price": 149.23,
     "oldPrice": 301.49,
     "rating": null,
     "badge": null,
@@ -15288,7 +15508,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 157.3,
+        "price": 149.23,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40497332076&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15300,7 +15520,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Bullpadel Vertex 005",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 70.58,
+    "price": 67.56,
     "oldPrice": 104.87,
     "rating": null,
     "badge": null,
@@ -15317,7 +15537,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 67.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432388354&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15395,55 +15615,20 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-dedicate-8-44697824097",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Dedicate 8",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 55.68,
-    "oldPrice": 75.63,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a241_501_sr_rt_glb.webp&feedId=93547&k=72c7cb78d939ed41f1e0c0c85b3f0b28b7973686",
-    "ean": "4570158182218",
-    "productGTIN": null,
-    "mpn": "1042A241 - 501",
-    "source": "smash-expert",
-    "sourceProductId": "44697824097",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla GEL-DEDICATE™ 8 PADEL ofrece buena estabilidad y una sensación de flexibilidad para mantener su mente centrada durante el partido.La parte superior de esta zapatilla está construida con superposiciones de cuero sintético para mejorar el soporte. Mantienen sus pies seguros cuando cambia de dirección y persigue tiros difíciles.Una unidad de soporte TRUSSTIC™ y una suela exterior envolvente mejoran la estabilidad mientras permiten que sus pies se muevan libremente. Esto le permite cambiar de dirección con más confianza, especialmente si se mueve de un lado a otro. Un zapato de padel básico para el jugador de nivel inicial.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 55.68,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44697824097&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-solution-swift-ff-2-42528980064",
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-solution-swift-ff-2-44873045734",
     "name": "Sapatilhas de padel para mujer Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a264_700_sr_rt_glb.webp&feedId=93547&k=16bb432f400eb7d0f4a9689e485cc7c5014eea09",
-    "ean": "4570158182331",
+    "ean": "4570158182386",
     "productGTIN": null,
     "mpn": "1042A264 - 700",
     "source": "smash-expert",
-    "sourceProductId": "42528980064",
+    "sourceProductId": "44873045734",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
     "description": "La zapatilla de tenis SOLUTION SWIFT FF™ 2 ha sido diseñada para la velocidad y ofrece una flexibilidad óptima para un juego ultra-dinámico en tierra batida. Es ideal para los jugadores de tenis ofensivos que buscan una zapatilla rápida y flexible. La tecnología SPEEDTRUSS™ es ligera y acelera los desplazamientos hacia adelante. Nuestra nueva suela exterior PRECISION-SOLE™ de dos piezas ofrece más flexibilidad y ligereza. También hemos integrado nuestra espuma FLYTEFOAM™ ligera para mejorar tu juego de pies. ¿Cómo asegura la SOLUTION SWIFT FF™ 2 una flexibilidad máxima para moverse rápidamente? La tecnología SPEEDTRUSS™ es ligera y acelera los desplazamientos hacia adelante. La nueva suela exterior PRECISION-SOLE™ ofrece la combinación perfecta entre adherencia y flexibilidad, para facilitar los movimientos en la cancha. La tecnología FLYTEFOAM™ de la suela intermedia permite que la zapatilla se mantenga ligera y facilite los desplazamientos rápidos. ¿Por qué la SOLUTION SWIFT FF™ 2 es...",
     "specs": {
@@ -15457,9 +15642,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42528980064&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44873045734&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -15469,7 +15654,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Game FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 87.73,
+    "price": 88.73,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -15492,9 +15677,81 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 87.73,
+        "price": 88.73,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=39783203891&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-givova-attaco-44332623373",
+    "name": "Raqueta de padel Givova Attaco",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 195.62,
+    "oldPrice": 195.62,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova_rk01-0219_azzurro-giallo-fluo_1.webp&feedId=93547&k=f7836668badcf5b6cac8d836e97c19ebacb00023",
+    "ean": "8056002006191",
+    "productGTIN": null,
+    "mpn": "RK01-0219",
+    "source": "smash-expert",
+    "sourceProductId": "44332623373",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Excelente equilibrio entre potencia y control para un juego equilibrado. Tiros explosivos pero controlados. Detalles: Fibra de carbono 3K Núcleo en EVA 28 negro Acabado mate. Grosor: 38 mm Peso: 360-370 gr Acabado: liso Superficie: grafito Nivel del jugador: avanzado",
+    "specs": {
+      "peso": "360-370g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono 3K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 195.62,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332623373&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-givova-edition-lucida-44332623374",
+    "name": "Raqueta de padel Givova Edition Lucida",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 128.06,
+    "oldPrice": 130.08,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova_rk09-0906_grigio-fuxia_1.webp&feedId=93547&k=18be3526638f2cdbc15c7578b1cf2916421dc28e",
+    "ean": "8056002128602",
+    "productGTIN": null,
+    "mpn": "RK09-0906",
+    "source": "smash-expert",
+    "sourceProductId": "44332623374",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Excelente equilibrio entre potencia y control para un juego equilibrado. Tiros explosivos pero controlados. Detalles: Fibra de carbono 3K Núcleo en EVA 28 negro Acabado mate. Grosor: 38 mm Peso: 360-370 gr Acabado: liso Superficie: grafito Nivel del jugador: avanzado",
+    "specs": {
+      "peso": "360-370g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": "Carbono 3K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 128.06,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332623374&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -15568,7 +15825,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Game FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 89.74,
+    "price": 90.75,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -15591,7 +15848,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 89.74,
+        "price": 90.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104817472&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15603,7 +15860,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Game FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 89.74,
+    "price": 90.75,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -15626,7 +15883,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 89.74,
+        "price": 90.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41104817473&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15673,7 +15930,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Game FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 89.74,
+    "price": 90.75,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -15696,44 +15953,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 89.74,
+        "price": 90.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40990549463&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-44301898763",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Resolution X",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 110.56,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a285---500_purple-oxide-rose-gold_1.webp&feedId=93547&k=bcabbaf36da1368cb95d799fb901ed91a9ac948f",
-    "ean": "4570158189453",
-    "productGTIN": null,
-    "mpn": "1042A285 - 500",
-    "source": "smash-expert",
-    "sourceProductId": "44301898763",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Las zapatillas de pádel para mujer Asics Gel-Resolution X son la elección ideal para las jugadoras de pádel apasionadas que buscan una mezcla perfecta de comodidad, soporte y rendimiento. Diseñadas por la famosa marca Asics, estas zapatillas están especialmente creadas para satisfacer las necesidades de las mujeres que practican el pádel.El pádel es un deporte dinámico que requiere muchos movimientos laterales y cambios de dirección rápidos. Por eso, las zapatillas de pádel Asics Gel-Resolution X cuentan con la tecnología Gel de Asics, que ofrece una amortiguación óptima para reducir los impactos y los golpes en tus pies. Así podrás disfrutar plenamente de tu partido sin temer a las lesiones.Además de su comodidad y protección, estas zapatillas son también muy ligeras y ofrecen una gran flexibilidad, lo que te permitirá moverte fácilmente en la cancha y realizar todos los movimientos necesarios para estar en la cima de tu juego. Su suela exterior de goma asegura una adherencia excepc.....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 110.56,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44301898763&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -15743,7 +15965,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Banda protectora Wilson",
     "brand": "Wilson",
     "category": "acessorios",
-    "price": 4.98,
+    "price": 4.56,
     "oldPrice": 5.04,
     "rating": null,
     "badge": null,
@@ -15760,7 +15982,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 4.98,
+        "price": 4.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42494842798&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15772,7 +15994,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Bela LT V2.5",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 172.43,
+    "price": 166.38,
     "oldPrice": 272.25,
     "rating": null,
     "badge": null,
@@ -15796,7 +16018,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.43,
+        "price": 166.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43101786736&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15808,7 +16030,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Blade Pro V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 184.53,
+    "price": 177.47,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -15832,7 +16054,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 184.53,
+        "price": 177.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43083659910&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15844,7 +16066,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Blade V3",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 184.53,
+    "price": 177.47,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -15868,7 +16090,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 184.53,
+        "price": 177.47,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529050947&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15909,7 +16131,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Volt Padel 800 V4",
     "brand": "Volt Padel",
     "category": "raquetes",
-    "price": 244.02,
+    "price": 240.99,
     "oldPrice": 277.29,
     "rating": null,
     "badge": null,
@@ -15933,7 +16155,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 244.02,
+        "price": 240.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072824&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15945,7 +16167,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Volt Padel 900 V4",
     "brand": "Volt Padel",
     "category": "raquetes",
-    "price": 240.99,
+    "price": 238.98,
     "oldPrice": 277.29,
     "rating": null,
     "badge": null,
@@ -15969,7 +16191,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 240.99,
+        "price": 238.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40497332335&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -15981,7 +16203,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Volt Padel 950 V4",
     "brand": "Volt Padel",
     "category": "raquetes",
-    "price": 254.1,
+    "price": 251.08,
     "oldPrice": 297.46,
     "rating": null,
     "badge": null,
@@ -16005,7 +16227,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 254.1,
+        "price": 251.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072825&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16122,7 +16344,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 62.22,
+    "price": 58.6,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16145,7 +16367,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 62.22,
+        "price": 58.6,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072972&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16227,7 +16449,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 58.6,
+    "price": 130.08,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16250,7 +16472,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.6,
+        "price": 130.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072975&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16577,7 +16799,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 60.37,
+    "price": 57.76,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16600,7 +16822,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 60.37,
+        "price": 57.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072984&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16612,7 +16834,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 61.29,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16635,7 +16857,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 56.13,
+        "price": 61.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072985&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16682,7 +16904,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 60.37,
+    "price": 62.22,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16705,7 +16927,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 60.37,
+        "price": 62.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529072987&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -16962,7 +17184,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -16985,7 +17207,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073000&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -17067,7 +17289,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -17090,7 +17312,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073007&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -17198,6 +17420,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 136.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073011&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-clay-42529073012",
+    "name": "Sapatilhas de padel para mujer Head Sprint PRo 4.0 Clay",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 136.13,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274115-ns_noir-violet_1.webp&feedId=93547&k=b56dd4aa90c21241e408db29c6b64c5696708977",
+    "ean": "726424127139",
+    "productGTIN": null,
+    "mpn": "274115",
+    "source": "smash-expert",
+    "sourceProductId": "42529073012",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y en tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY MUJERES te permite moverte rápidamente con un confort ultra-moderno y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño completamente actual, y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora tiene bandas en la parte exterior e interior de la caña, mantiene tu pie en su lugar cuando te mueves rápidamente en la pista. Para más confort, integra un sistema de refrigeración que mejora la transpirabilidad.· Nuevo mesh en TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de pistas y en tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para un mejor rendimiento ene......",
+    "specs": {
+      "sola": "Clay / Espiga",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 136.13,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529073012&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -17662,7 +17919,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 40",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 133.1,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -17685,7 +17942,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 133.1,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073030&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -17763,20 +18020,20 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-head-sprint-pro-40-42529073036",
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-head-sprint-pro-40-44855777095",
     "name": "Sapatilhas de padel para mujer Head Sprint Pro 40",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 60.37,
+    "price": 148.23,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274185-ns_blanc-vert_1.webp&feedId=93547&k=142ead15125e1ee3e1a27fe88f4647105389204d",
-    "ean": "726423356967",
+    "ean": "726423356950",
     "productGTIN": null,
     "mpn": "274185",
     "source": "smash-expert",
-    "sourceProductId": "42529073036",
+    "sourceProductId": "44855777095",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
     "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 40 MUJERES te permite moverte rápidamente con una comodidad ultramoderna y ligera. Tendrás el aspecto de un zapato rápido gracias a su nueva espuma de suela intermedia EVA que proporciona un retorno de energía adicional, así como a su diseño actual y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en la parte exterior e interior de la caña, mantiene tu pie en su lugar cuando te mueves rápidamente en la pista. Para mayor comodidad, integra un sistema de refrigeración que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de pistas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético· Asp......",
     "specs": {
@@ -17790,9 +18047,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 60.37,
+        "price": 148.23,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529073036&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44855777095&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -17837,7 +18094,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 77.35,
+    "price": 70.83,
     "oldPrice": 81.73,
     "rating": null,
     "badge": null,
@@ -17860,7 +18117,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 77.35,
+        "price": 70.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031837&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -17898,6 +18155,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 81.68,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44200037737&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-k-swiss-tura-team-44200037738",
+    "name": "Sapatilhas de padel para mujer K-Swiss Tura Team",
+    "brand": "K-SWISS",
+    "category": "sapatilhas",
+    "price": 81.68,
+    "oldPrice": 81.68,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2F-%2Fk-swiss_94435-966-m_white-lilas-pastelturquoise_1.webp&feedId=93547&k=954014f229088bb4342d3d36a094a59f612c1fe1",
+    "ean": "196483709872",
+    "productGTIN": null,
+    "mpn": "94435-966-M",
+    "source": "smash-expert",
+    "sourceProductId": "44200037738",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Aquí está la K-Swiss Tura Team Padel: fusión entre zapatilla deportiva de alto rendimiento y sneaker de estilo urbano. Su plantilla elevada ofrece un buen amortiguamiento para un confort óptimo dentro y fuera de la pista. La suela exterior duradera específica para Padel garantiza un buen soporte para la conexión en la pista y una adherencia perfecta, mientras que el upper transpirable y ligero refuerza la estabilidad para movimientos ágiles. Con la protección DuraWrap en los dedos, está diseñada para ser duradera y estable en las pistas de Padel. Descubre la mezcla de la estética de la sneaker urbana y la tecnología de alto rendimiento con la Tura Team.Upper de cueroForro de textil en el cuelloSuela exterior de gomaMidsole IMEVASuela moldeada de EVACierre con cordones",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 81.68,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44200037738&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -18008,116 +18300,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-ninos-head-motion-42529073048",
-    "name": "Sapatilhas de padel para niños Head Motion",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 30.74,
-    "oldPrice": 80.67,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_275605-ns_linv_1.webp&feedId=93547&k=2d4d7461fa0d32b859295c11e3a0efa6f1929651",
-    "ean": "726423363293",
-    "productGTIN": null,
-    "mpn": "275605",
-    "source": "smash-expert",
-    "sourceProductId": "42529073048",
-    "sourceCategory": "Padel > Chaussures de padel > Junior > Mixte",
-    "description": "Especialmente diseñada para los movimientos rápidos a 360° en una pista de pádel, la nueva zapatilla MOTION JUNIOR PADEL apoya y mejora el juego de piernas en todas las direcciones. El patrón avanzado de la suela exterior, que ha sido probado con MONDO, el proveedor oficial de superficie del World Padel Tour, ofrece una adherencia multidireccional excepcional, permitiendo a los jóvenes jugadores cambiar de dirección y moverse con confianza. En cuanto a estabilidad, esta zapatilla integra la tecnología HEAD Lateral Control y un sistema de lazado con la correa HEAD Lockdown Strap. Tu comodidad está asegurada por los materiales suaves de su parte superior y por su plantilla acolchada, mientras que la tecnología Drift Defense refuerza la zona de los dedos del pie. La MOTION JUNIOR PADEL presenta un diseño audaz y moderno que refleja su rendimiento innovador.• Patrón de la suela exterior avanzado para una adherencia multidireccional y un movimiento a 360°• Tecnología HEAD Lateral Control .....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 30.74,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529073048&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-ninos-head-motion-42529073050",
-    "name": "Sapatilhas de padel para niños Head Motion",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 30.26,
-    "oldPrice": 80.67,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_275605-ns_linv_1.webp&feedId=93547&k=2d4d7461fa0d32b859295c11e3a0efa6f1929651",
-    "ean": "726423363316",
-    "productGTIN": null,
-    "mpn": "275605",
-    "source": "smash-expert",
-    "sourceProductId": "42529073050",
-    "sourceCategory": "Padel > Chaussures de padel > Junior > Mixte",
-    "description": "Especialmente diseñada para los movimientos rápidos a 360° en una pista de pádel, la nueva zapatilla MOTION JUNIOR PADEL apoya y mejora el juego de piernas en todas las direcciones. El patrón avanzado de la suela exterior, que ha sido probado con MONDO, el proveedor oficial de superficie del World Padel Tour, ofrece una adherencia multidireccional excepcional, permitiendo a los jóvenes jugadores cambiar de dirección y moverse con confianza. En cuanto a estabilidad, esta zapatilla integra la tecnología HEAD Lateral Control y un sistema de lazado con la correa HEAD Lockdown Strap. Tu comodidad está asegurada por los materiales suaves de su parte superior y por su plantilla acolchada, mientras que la tecnología Drift Defense refuerza la zona de los dedos del pie. La MOTION JUNIOR PADEL presenta un diseño audaz y moderno que refleja su rendimiento innovador.• Patrón de la suela exterior avanzado para una adherencia multidireccional y un movimiento a 360°• Tecnología HEAD Lateral Control .....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 30.26,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529073050&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-head-motion-pro-44432388859",
-    "name": "Sapatilhas de padel Head Motion Pro",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 62.22,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273645-ns_blanc_1.webp&feedId=93547&k=4f26c24b5e9f574cd143e7dc4c19bc2af306c51c",
-    "ean": "726423354499",
-    "productGTIN": null,
-    "mpn": "273645",
-    "source": "smash-expert",
-    "sourceProductId": "44432388859",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "HEAD propone un zapato especialmente diseñado para el pádel - desarrollado con jugadores profesionales de pádel de HEAD, el nuevo zapato MOTION PRO PADEL HOMBRE ofrece una libertad de movimiento de 360 grados y altas prestaciones, con una comodidad moderna, gran estabilidad y excelente transpirabilidad, todo sin comprometer la ligereza.Probado en cooperación con MONDO, el proveedor oficial de superficies del WPT, el modelo de suela exterior avanzada mejora la adherencia en todas las direcciones. Para asegurar un confort excepcional, el zapato cuenta con una construcción de calzado completamente elástica. La plantilla intermedia contiene DynaFoam ligero y altamente reactivo, diseñado a base de pequeñas células de aire. La combinación entre la plantilla intermedia de TPU, el empeine reforzado y la tecnología Lateral Control+ ofrece una gran estabilidad. Para mantener tus pies frescos, el MOTION PRO PADEL HOMBRE cuenta con un tejido de malla transpirable y un sistema de enfriamiento inte....",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Homem",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 62.22,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44432388859&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-head-motion-pro-40920806702",
     "name": "Sapatilhas de padel Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 146.21,
+    "price": 137.13,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18140,7 +18327,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 146.21,
+        "price": 137.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40920806702&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18152,7 +18339,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 76.04,
+    "price": 73.02,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18175,7 +18362,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.04,
+        "price": 73.02,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40920806703&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18187,7 +18374,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 149.23,
+    "price": 148.23,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18210,7 +18397,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 148.23,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719193774&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18222,7 +18409,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 136.13,
+    "price": 137.13,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18245,7 +18432,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 136.13,
+        "price": 137.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40920806709&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18292,7 +18479,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro Boa",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 177.47,
+    "price": 174.44,
     "oldPrice": 221.83,
     "rating": null,
     "badge": null,
@@ -18315,7 +18502,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 177.47,
+        "price": 174.44,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332629797&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18432,7 +18619,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro Boa",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 151.76,
+    "price": 149.63,
     "oldPrice": 221.83,
     "rating": null,
     "badge": null,
@@ -18455,7 +18642,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 151.76,
+        "price": 149.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432388865&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18467,7 +18654,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Team",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 93.78,
+    "price": 91.76,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -18490,7 +18677,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.78,
+        "price": 91.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073062&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18502,7 +18689,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Team",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 81.68,
+    "price": 80.67,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -18525,7 +18712,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 81.68,
+        "price": 80.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073064&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18537,7 +18724,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 156.29,
+    "price": 135.12,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18560,9 +18747,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 156.29,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073081&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-42529073084",
+    "name": "Sapatilhas de padel Head Sprint Pro 4.0",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 71.13,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273665-ns_blanc-noir_1.webp&feedId=93547&k=6ca429b588eb5d042bc3c06b80015c789bb9051c",
+    "ean": "726423355199",
+    "productGTIN": null,
+    "mpn": "273665",
+    "source": "smash-expert",
+    "sourceProductId": "42529073084",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Con sus nuevos diseños de suela exterior en todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 PADEL HOMBRE te permite moverte rápidamente con un confort ultramoderno y ligero. Tendrás el aspecto de un zapato rápido gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño a la moda y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior de la caña, mantiene tu pie en su lugar cuando te mueves rápidamente por la cancha. Para mayor confort, integra un sistema de enfriamiento que mejora la transpirabilidad.• Nuevo mesh en TPU más resistente y transpirable• Nuevos diseños de suela exterior en todo tipo de canchas y tierra batida para un mejor agarre en todas las superficies• Nueva espuma de suela intermedia en EVA para mayor eficiencia energética• Apariencia más rápida y eleg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Homem",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 71.13,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529073084&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -18607,7 +18829,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 119.99,
+    "price": 115.96,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18630,7 +18852,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 119.99,
+        "price": 115.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073091&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18642,7 +18864,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 115.96,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18665,7 +18887,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 115.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073092&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18677,7 +18899,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 115.96,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18700,7 +18922,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 115.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073093&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18712,7 +18934,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 149.23,
+    "price": 148.23,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18735,7 +18957,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.23,
+        "price": 148.23,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432388868&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18747,7 +18969,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 115.96,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18770,7 +18992,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 115.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073096&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18782,7 +19004,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 118.98,
+    "price": 115.96,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18805,7 +19027,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 118.98,
+        "price": 115.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073097&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18817,7 +19039,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 81.62,
+    "price": 113.94,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18840,7 +19062,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 81.62,
+        "price": 113.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073098&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18852,7 +19074,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 56.13,
+    "price": 52.4,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -18875,7 +19097,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 56.13,
+        "price": 52.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073104&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -18918,41 +19140,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073106",
-    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 61.29,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273175-ns_blanc-marron_1.webp&feedId=93547&k=1240b7d003d145d9803fbdcd969a465f8d516c3d",
-    "ean": "726423351351",
-    "productGTIN": null,
-    "mpn": "273175",
-    "source": "smash-expert",
-    "sourceProductId": "42529073106",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Con sus nuevos patrones de suela exterior para todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con un confort ultra-moderna y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño totalmente actual, y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior del empeine, mantiene tu pie en su lugar cuando te mueves rápidamente en la cancha. Para más comodidad, incluye un sistema de enfriamiento que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de canchas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético·......",
-    "specs": {
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 61.29,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529073106&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073111",
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
@@ -18983,41 +19170,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 60.37,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073111&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073113",
-    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 123.02,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273175-ns_blanc-marron_1.webp&feedId=93547&k=1240b7d003d145d9803fbdcd969a465f8d516c3d",
-    "ean": "726423351429",
-    "productGTIN": null,
-    "mpn": "273175",
-    "source": "smash-expert",
-    "sourceProductId": "42529073113",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Con sus nuevos patrones de suela exterior para todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con un confort ultra-moderna y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño totalmente actual, y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior del empeine, mantiene tu pie en su lugar cuando te mueves rápidamente en la cancha. Para más comodidad, incluye un sistema de enfriamiento que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de canchas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético·......",
-    "specs": {
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 123.02,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529073113&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -19058,11 +19210,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073117",
+    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 60.37,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273175-ns_blanc-marron_1.webp&feedId=93547&k=1240b7d003d145d9803fbdcd969a465f8d516c3d",
+    "ean": "726423351467",
+    "productGTIN": null,
+    "mpn": "273175",
+    "source": "smash-expert",
+    "sourceProductId": "42529073117",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con un confort ultra-moderna y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño totalmente actual, y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior del empeine, mantiene tu pie en su lugar cuando te mueves rápidamente en la cancha. Para más comodidad, incluye un sistema de enfriamiento que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de canchas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético·......",
+    "specs": {
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 60.37,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529073117&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073121",
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 123.02,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -19085,9 +19272,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 123.02,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073121&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529073123",
+    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
+    "brand": "Head",
+    "category": "sapatilhas",
+    "price": 123.02,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273135-ns_bleu-rouge_1.webp&feedId=93547&k=19bf190f7de536deb275be6031810483447be218",
+    "ean": "726423350750",
+    "productGTIN": null,
+    "mpn": "273135",
+    "source": "smash-expert",
+    "sourceProductId": "42529073123",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y en tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más resistente y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con una comodidad ultramoderna y ligera. Tendrás el aspecto de un zapato rápido gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño muy actual y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior y en el interior del empeine, mantiene tu pie en su lugar cuando te mueves rápido en la pista. Para mayor comodidad, integra un sistema de enfriamiento que mejora la transpirabilidad.Nuevo mesh de TPU más resistente y más transpirableNuevos patrones de suela exterior para todo tipo de pistas y en tierra batida para una mejor adherencia en todas las superficiesNueva espuma de suela intermedia en EVA para mayor eficiencia energéticaLook m......",
+    "specs": {
+      "sola": "Clay / Espiga",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 123.02,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529073123&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -19167,7 +19389,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 124.03,
+    "price": 118.98,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -19190,44 +19412,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 124.03,
+        "price": 118.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073127&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-44432388871",
-    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 61.29,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273135-ns_bleu-rouge_1.webp&feedId=93547&k=19bf190f7de536deb275be6031810483447be218",
-    "ean": "726423350828",
-    "productGTIN": null,
-    "mpn": "273135",
-    "source": "smash-expert",
-    "sourceProductId": "44432388871",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Con sus nuevos patrones de suela exterior para todo tipo de pistas y en tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más resistente y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con una comodidad ultramoderna y ligera. Tendrás el aspecto de un zapato rápido gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño muy actual y a su marca HEAD en ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior y en el interior del empeine, mantiene tu pie en su lugar cuando te mueves rápido en la pista. Para mayor comodidad, integra un sistema de enfriamiento que mejora la transpirabilidad.Nuevo mesh de TPU más resistente y más transpirableNuevos patrones de suela exterior para todo tipo de pistas y en tierra batida para una mejor adherencia en todas las superficiesNueva espuma de suela intermedia en EVA para mayor eficiencia energéticaLook m......",
-    "specs": {
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 61.29,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44432388871&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -19272,7 +19459,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 111.93,
+    "price": 108.9,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -19295,7 +19482,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 111.93,
+        "price": 108.9,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529073133&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19377,7 +19564,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 111.93,
+    "price": 108.9,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -19400,7 +19587,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 111.93,
+        "price": 108.9,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529075529&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19438,41 +19625,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529075531&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-head-sprint-pro-4-0-clay-42529075532",
-    "name": "Sapatilhas de padel Head Sprint PRo 4.0 Clay",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 60.37,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273155-ns_vert-noir_1.webp&feedId=93547&k=a0b173e50bafc6b1986b4191e2eb0254b45725d4",
-    "ean": "726423351122",
-    "productGTIN": null,
-    "mpn": "273155",
-    "source": "smash-expert",
-    "sourceProductId": "42529075532",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Con sus nuevos patrones de suela exterior para todo tipo de canchas y tierra batida que te darán confianza en todas las superficies, y su nuevo mesh más fuerte y transpirable, la SPRINT PRO 4.0 CLAY HOMBRES te permite moverte rápidamente con un confort ultra-moderna y ligero. Tendrás el aspecto de una zapatilla rápida gracias a su nueva espuma de suela intermedia EVA para un retorno de energía adicional, así como a su diseño totalmente actual, y a su marca HEAD a ambos lados. La última tecnología Delta Strap, que ahora cuenta con bandas en el exterior e interior del empeine, mantiene tu pie en su lugar cuando te mueves rápidamente en la cancha. Para más comodidad, incluye un sistema de enfriamiento que mejora la transpirabilidad.· Nuevo mesh de TPU más resistente y más transpirable· Nuevos patrones de suela exterior para todo tipo de canchas y tierra batida para una mejor adherencia en todas las superficies· Nueva espuma de suela intermedia en EVA para mayor rendimiento energético·......",
-    "specs": {
-      "sola": "Clay / Espiga",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 60.37,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529075532&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -19517,7 +19669,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 98.82,
+    "price": 89.74,
     "oldPrice": 99.83,
     "rating": null,
     "badge": null,
@@ -19540,7 +19692,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031840&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19552,7 +19704,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 77.35,
+    "price": 70.83,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -19575,7 +19727,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 77.35,
+        "price": 70.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031841&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19622,7 +19774,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Tura Team",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 80.67,
+    "price": 78.65,
     "oldPrice": 99.83,
     "rating": null,
     "badge": null,
@@ -19645,7 +19797,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.67,
+        "price": 78.65,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031843&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19727,7 +19879,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 115.71,
+    "price": 106.2,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -19750,7 +19902,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 115.71,
+        "price": 106.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031846&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19762,7 +19914,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 106.2,
+    "price": 95.51,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -19785,7 +19937,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.2,
+        "price": 95.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031847&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19797,7 +19949,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 131.08,
+    "price": 138.14,
     "oldPrice": 150.24,
     "rating": null,
     "badge": null,
@@ -19820,7 +19972,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 131.08,
+        "price": 138.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031848&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19832,7 +19984,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel K-Swiss Ultra Court",
     "brand": "K-SWISS",
     "category": "sapatilhas",
-    "price": 106.2,
+    "price": 95.51,
     "oldPrice": 151.24,
     "rating": null,
     "badge": null,
@@ -19855,7 +20007,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.2,
+        "price": 95.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40349031849&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -19903,7 +20055,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Pro Arturo Coello 2024",
     "brand": "Head",
     "category": "raquetes",
-    "price": 188.56,
+    "price": 182.51,
     "oldPrice": 322.67,
     "rating": null,
     "badge": null,
@@ -19927,7 +20079,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 188.56,
+        "price": 182.51,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44322998668&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20047,7 +20199,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Tour",
     "brand": "Head",
     "category": "sacos",
-    "price": 88.73,
+    "price": 85.71,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -20064,7 +20216,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.73,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529091506&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20076,7 +20228,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Tour",
     "brand": "Head",
     "category": "sacos",
-    "price": 86.72,
+    "price": 85.71,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -20093,7 +20245,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.72,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529091507&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20105,7 +20257,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Pelota de padel Dunlop Team (x3)",
     "brand": "Dunlop",
     "category": "acessorios",
-    "price": 6.68,
+    "price": 6.19,
     "oldPrice": 7.05,
     "rating": null,
     "badge": null,
@@ -20122,7 +20274,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 6.68,
+        "price": 6.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529100034&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20196,6 +20348,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033343898&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-head-coello-motion-2025-44332631937",
+    "name": "Raqueta de padel Head Coello Motion 2025",
+    "brand": "Head",
+    "category": "raquetes",
+    "price": 274.27,
+    "oldPrice": 352.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_225025_noir_1.webp&feedId=93547&k=56770d5fdfd0c5114246b367f6cbd5fcd08a7c9c",
+    "ean": "198772015749",
+    "productGTIN": null,
+    "mpn": "225025",
+    "source": "smash-expert",
+    "sourceProductId": "44332631937",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La COELLO MOTION 2025 PADEL RACQUET de la colección exclusiva de Arturo Coello ofrece potencia y maniobrabilidad para jugadores avanzados y de torneos.\"Siente la potencia como 'King Arturo' con el modelo que es más fácil de maniobrar. Diseñado y desarrollado en colaboración con el número uno del mundo Arturo Coello, la COELLO MOTION 2025 PADEL RACQUET es la versión más ligera del modelo PRO de la colección exclusiva de Arturo Coello. Con un diseño de alta gama y elegante adornado con toques personales, incluyendo el logo de corona de Coello y su firma, este marco en forma de diamante ofrece una combinación perfecta de potencia y maniobrabilidad para jugadores avanzados y de torneos.El marco soporta golpes de ataque como el smash, la vibora, el X3 y voleas agresivas, con un equilibrio medio-alto ideal para golpes aéreos. La tecnología Auxetic 2.0 de vanguardia proporciona un toque, una sensación y un golpe de potencia incomparables, mientras que el Power Foam mejorado y más reactivo o.....",
+    "specs": {
+      "peso": null,
+      "forma": "Diamante",
+      "equilibrio": "Médio",
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Potência"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 274.27,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332631937&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -20486,7 +20674,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 12K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 285.36,
+    "price": 278.3,
     "oldPrice": 341.83,
     "rating": null,
     "badge": null,
@@ -20510,7 +20698,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 285.36,
+        "price": 278.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40955525815&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20522,7 +20710,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 18K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 251.08,
+    "price": 256.12,
     "oldPrice": 361.99,
     "rating": null,
     "badge": null,
@@ -20546,7 +20734,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 251.08,
+        "price": 256.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40955525816&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20558,8 +20746,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius ATTACK 12K par Agustín TAPIA",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 342.82,
-    "oldPrice": 342.82,
+    "price": 290.4,
+    "oldPrice": 341.83,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_8436603199933_1.webp&feedId=93547&k=b41d2c2b5c94a4724383ba64c0dada65ad20a86a",
@@ -20582,10 +20770,10 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 342.82,
+        "price": 290.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=40955525817&a=2816502&m=80889",
-        "deliveryCost": 0
+        "deliveryCost": 7.99
       }
     ]
   },
@@ -20630,7 +20818,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Defy Pro V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 262.65,
+    "price": 246.9,
     "oldPrice": 332.75,
     "rating": null,
     "badge": null,
@@ -20654,7 +20842,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 262.65,
+        "price": 246.9,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41023086454&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20666,7 +20854,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Defy V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 197.51,
+    "price": 185.63,
     "oldPrice": 292.42,
     "rating": null,
     "badge": null,
@@ -20690,7 +20878,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 197.51,
+        "price": 185.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41023086455&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20731,7 +20919,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Padel Cross IT Carbon",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 243.01,
+    "price": 235.95,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -20755,7 +20943,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 243.01,
+        "price": 235.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44374009699&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20871,47 +21059,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raqueta-de-padel-tecnifibre-wall-breaker-360-2024-41981190471",
-    "name": "Raqueta de padel Tecnifibre Wall Breaker 360 2024",
-    "brand": "Tecnifibre",
-    "category": "raquetes",
-    "price": 109.91,
-    "oldPrice": 170.41,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Ft%2Fe%2Ftecnifibre_16wabr3604_blanc_1.webp&feedId=93547&k=23ec4fcbfa67bdc888b5bf2789f22d3d64f40b16",
-    "ean": "3490150216388",
-    "productGTIN": null,
-    "mpn": "16WABR3604",
-    "source": "smash-expert",
-    "sourceProductId": "41981190471",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La raqueta WALL BREAKER 360 W ha sido especialmente diseñada para las jugadoras regulares, ofreciendo un equilibrio perfecto entre potencia y control. Recupera las características de la WALL BREAKER 360, con una forma de gota de agua que optimiza la potencia garantizando una excelente maniobrabilidad.Con un peso de 360g, esta raqueta permite mantener una buena reactividad sin sacrificar la precisión. Su composición en grafito asegura un juego fluido y de alta calidad, mientras que su superficie está cubierta con el recubrimiento \"Spin Skin 3D\", ideal para maximizar el agarre de los efectos.El plan de perforación PHD, con sus agujeros de tres diámetros diferentes, permite concentrar la precisión en el centro de la superficie y ofrece una tolerancia aumentada en los golpes descentrados, especialmente en los extremos.Lo que distingue a la WALL BREAKER 360 W es su espuma más suave, que ofrece una mejor absorción de impactos y un confort de juego óptimo, particularmente adaptado a las......",
-    "specs": {
-      "peso": "360g",
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 109.91,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=41981190471&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raqueta-de-padel-tecnifibre-wall-breaker-360w-2024-43820354826",
     "name": "Raqueta de padel Tecnifibre Wall Breaker 360W 2024",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 165.37,
+    "price": 133.1,
     "oldPrice": 170.41,
     "rating": null,
     "badge": null,
@@ -20935,7 +21087,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 133.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43820354826&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -20947,7 +21099,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Wall Breaker 365 2024",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 174.44,
+    "price": 168.39,
     "oldPrice": 251.08,
     "rating": null,
     "badge": null,
@@ -20971,7 +21123,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 174.44,
+        "price": 168.39,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529182819&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21113,7 +21265,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Massive",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 88.73,
+    "price": 90.75,
     "oldPrice": 117.98,
     "rating": null,
     "badge": null,
@@ -21137,7 +21289,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.73,
+        "price": 90.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183119&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21149,7 +21301,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Response",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 116.97,
+    "price": 111.93,
     "oldPrice": 226.88,
     "rating": null,
     "badge": null,
@@ -21173,7 +21325,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 116.97,
+        "price": 111.93,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183120&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21185,7 +21337,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Response",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 116.97,
+    "price": 111.93,
     "oldPrice": 226.88,
     "rating": null,
     "badge": null,
@@ -21209,45 +21361,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 116.97,
+        "price": 111.93,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183121&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-enebe-response-42529183122",
-    "name": "Raqueta de padel Enebe Response",
-    "brand": "Enebe",
-    "category": "raquetes",
-    "price": 92.77,
-    "oldPrice": 99.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fe%2Fn%2Fenebe_a003664_orange_1.webp&feedId=93547&k=2241bec06e99bbb7a771f5d56b9d396b8a918900",
-    "ean": "8445090135034",
-    "productGTIN": null,
-    "mpn": "A003664",
-    "source": "smash-expert",
-    "sourceProductId": "42529183122",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La Response fibra naranja sigue la línea del acabado irisado que atrae la atención. Al variar los colores principales, obtenemos un brillo anaranjado que simula el color del sol y que te hará notar en el campo. Las características técnicas permanecen iguales a las del modelo anterior.",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": null,
-      "estilo": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 92.77,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529183122&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -21293,7 +21409,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Space",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 116.97,
+    "price": 111.93,
     "oldPrice": 263.18,
     "rating": null,
     "badge": null,
@@ -21317,7 +21433,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 116.97,
+        "price": 111.93,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183124&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21329,7 +21445,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Supra",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 103.86,
+    "price": 99.83,
     "oldPrice": 226.88,
     "rating": null,
     "badge": null,
@@ -21353,7 +21469,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.86,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44552643274&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21509,7 +21625,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora King Cobra Élite 24K 2.0",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 138.14,
+    "price": 134.11,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -21533,7 +21649,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 138.14,
+        "price": 134.11,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183127&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21617,7 +21733,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Mamba Pro",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 161.33,
+    "price": 156.29,
     "oldPrice": 360.98,
     "rating": null,
     "badge": null,
@@ -21641,7 +21757,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 161.33,
+        "price": 156.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183129&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21653,7 +21769,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Mamba Radical 12K 2.0",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 195.62,
+    "price": 189.57,
     "oldPrice": 324.68,
     "rating": null,
     "badge": null,
@@ -21677,7 +21793,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 195.62,
+        "price": 189.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183130&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21725,7 +21841,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Titán Limited Edition",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 282.33,
+    "price": 275.28,
     "oldPrice": 494.08,
     "rating": null,
     "badge": null,
@@ -21749,7 +21865,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 282.33,
+        "price": 275.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432389281&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21761,7 +21877,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Yarara Elite 24K 2.0",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 172.43,
+    "price": 167.38,
     "oldPrice": 252.08,
     "rating": null,
     "badge": null,
@@ -21785,7 +21901,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.43,
+        "price": 167.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43247397390&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21797,7 +21913,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Yarara Pro",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 195.62,
+    "price": 189.57,
     "oldPrice": 360.98,
     "rating": null,
     "badge": null,
@@ -21821,7 +21937,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 195.62,
+        "price": 189.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183133&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21833,7 +21949,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Vibora Yarara Radical 12K 2.0",
     "brand": "Vibora",
     "category": "raquetes",
-    "price": 195.62,
+    "price": 189.57,
     "oldPrice": 324.68,
     "rating": null,
     "badge": null,
@@ -21857,7 +21973,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 195.62,
+        "price": 189.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183134&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21898,8 +22014,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Enebe competition pro",
     "brand": "Enebe",
     "category": "sacos",
-    "price": 53.44,
-    "oldPrice": 53.44,
+    "price": 50.15,
+    "oldPrice": 54.37,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fe%2Fn%2Fenebe_a003481.a71.1_negro-naranja_1.webp&feedId=93547&k=8ebc0a65b8d79df69d2886c21e5cb1e70d4742e0",
@@ -21915,7 +22031,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 53.44,
+        "price": 50.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529183182&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21956,7 +22072,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Enebe Pro",
     "brand": "Enebe",
     "category": "sacos",
-    "price": 68.57,
+    "price": 64.53,
     "oldPrice": 77.64,
     "rating": null,
     "badge": null,
@@ -21973,7 +22089,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 68.57,
+        "price": 64.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432389282&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -21985,7 +22101,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Vibora Radical",
     "brand": "Vibora",
     "category": "sacos",
-    "price": 76.63,
+    "price": 73.61,
     "oldPrice": 79.66,
     "rating": null,
     "badge": null,
@@ -22002,7 +22118,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.63,
+        "price": 73.61,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432389284&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22133,6 +22249,35 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-tubo-de-3-pelotas-de-padel-nexus-open-44862591532",
+    "name": "Tubo de 3 pelotas de padel Nexus Open",
+    "brand": "Nexus",
+    "category": "acessorios",
+    "price": 6.68,
+    "oldPrice": 6.68,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fe%2Fnexus_0013983_blanc_1.webp&feedId=93547&k=6b5d704cadb1f0cf23bcc4d2755d86cfd38b33e0",
+    "ean": "8445090055196",
+    "productGTIN": null,
+    "mpn": "0013983",
+    "source": "smash-expert",
+    "sourceProductId": "44862591532",
+    "sourceCategory": "Padel > Tube balles de padel > Adulte > Mixte",
+    "description": "Descubre el juego de pádel con el tubo de 3 pelotas Nexus Open. Diseñado por la renombrada marca Nexus, este tubo de pelotas es ideal para jugadores de todos los niveles. Ya seas un jugador principiante o avanzado, estas pelotas te ofrecerán una experiencia de juego óptima.El pádel es un deporte dinámico y en plena expansión, y las pelotas Nexus Open están especialmente diseñadas para satisfacer las exigencias de este juego. Con una construcción de goma de alta calidad, estas pelotas garantizan una reactividad y estabilidad óptimas durante los golpes. Así podrás disfrutar de un control preciso de la pelota y de una mayor potencia en tus golpes.Su color vivo y su diseño elegante también lo convierten en una opción estética para tus partidos de pádel. Además, su durabilidad te permitirá utilizarlas durante numerosas horas de juego sin necesidad de reemplazarlas.Ya sea que juegues en competición o simplemente por diversión, las pelotas Nexus Open te acompañarán en todas tus partidas......",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 6.68,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44862591532&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-tubo-de-3-pelotas-de-padel-siux-match-pro-44592074683",
     "name": "Tubo de 3 pelotas de padel Siux Match Pro",
     "brand": "Siux",
@@ -22166,7 +22311,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Huricane Pro 3.0",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 220.83,
+    "price": 221.83,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -22190,7 +22335,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 220.83,
+        "price": 221.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529196425&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22202,7 +22347,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Patron Gold",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 194.61,
+    "price": 189.57,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -22226,7 +22371,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 194.61,
+        "price": 189.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43139486616&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22238,7 +22383,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Patron Xtreme 2025",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 172.43,
+    "price": 167.38,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -22262,7 +22407,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.43,
+        "price": 167.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41380346319&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22274,7 +22419,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Piton 13",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 172.43,
+    "price": 167.38,
     "oldPrice": 231.92,
     "rating": null,
     "badge": null,
@@ -22298,7 +22443,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.43,
+        "price": 167.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529196427&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22310,7 +22455,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Piton Epic Energy",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 267.21,
+    "price": 259.14,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -22334,7 +22479,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 267.21,
+        "price": 259.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44702298041&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22346,7 +22491,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Special Invictus 2025",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 188.22,
+    "price": 169.4,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -22370,7 +22515,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 188.22,
+        "price": 169.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41380346320&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22382,7 +22527,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Special Magic",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 228.89,
+    "price": 222.84,
     "oldPrice": 322.67,
     "rating": null,
     "badge": null,
@@ -22406,7 +22551,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 228.89,
+        "price": 222.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529196428&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22418,7 +22563,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Win Carbon 2025",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 131.2,
+    "price": 121,
     "oldPrice": 181.5,
     "rating": null,
     "badge": null,
@@ -22442,9 +22587,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 131.2,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41395331210&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-black-crown-win-ultra-light-2025-44323000976",
+    "name": "Raqueta de padel Black Crown Win Ultra Light 2025",
+    "brand": "Black Crown",
+    "category": "raquetes",
+    "price": 156.29,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fl%2Fblack-crown_8445090135959_black-red_1.webp&feedId=93547&k=0c419a4cbcefbc582f6f7ccf871197a7c8dd4992",
+    "ean": "8445090135959",
+    "productGTIN": null,
+    "mpn": "8445090135959",
+    "source": "smash-expert",
+    "sourceProductId": "44323000976",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La Raqueta de pádel Black Crown Win Ultra Light 2025 está diseñada para jugadores que buscan un equilibrio perfecto entre ligereza, maniobrabilidad y rendimiento en la pista. Proveniente de la reconocida marca Black Crown, esta raqueta de pádel combina tecnología avanzada y un diseño innovador para ofrecer una experiencia de juego óptima.Su peso ultra ligero permite movimientos rápidos y fluidos, esenciales para intercambios dinámicos y reacciones rápidas durante partidos intensos. Gracias a su equilibrio bien pensado, facilita el control y la precisión de los golpes, mientras que aporta suficiente potencia para dominar los puntos clave.Los materiales de alta calidad utilizados en su fabricación garantizan una durabilidad excepcional así como una excelente absorción de las vibraciones, ayudando a reducir la fatiga del brazo y a mejorar el confort de juego. La estructura reforzada asegura también una robustez que satisface las exigencias de los jugadores más dedicados.Esta raqueta......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 156.29,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44323000976&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -22512,7 +22693,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Black Crown Raptor Epic Energy",
     "brand": "Black Crown",
     "category": "sacos",
-    "price": 50.42,
+    "price": 40.33,
     "oldPrice": 50.42,
     "rating": null,
     "badge": null,
@@ -22529,7 +22710,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.42,
+        "price": 40.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529196431&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22537,141 +22718,30 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-44755407847",
-    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 108.9,
-    "oldPrice": 121,
+    "id": "smash-expert-sobregrip-de-padel-black-crown-x60-44323000977",
+    "name": "Sobregrip de padel Black Crown (x60)",
+    "brand": "Black Crown",
+    "category": "acessorios",
+    "price": 79.66,
+    "oldPrice": 79.66,
     "rating": null,
     "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---100_white-vivid-coral_1.webp&feedId=93547&k=e782ba6d3bd5acc79ae9d46c8bb21d64a57f4853",
-    "ean": "4570158842372",
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fl%2Fblack-crown_8445090111212_multicolor_1.webp&feedId=93547&k=52b3562c1375943e4360c99cf12c91fb7267c10c",
+    "ean": "8445090111212",
     "productGTIN": null,
-    "mpn": "1041A511 - 100",
+    "mpn": "8445090111212",
     "source": "smash-expert",
-    "sourceProductId": "44755407847",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Gel-Challenger 15 están diseñadas especialmente para ofrecer un rendimiento óptimo durante tus partidos de pádel. Con un diseño innovador y tecnologías avanzadas, estas zapatillas cumplen con los requisitos específicos de este deporte dinámico que exige agilidad, rapidez y estabilidad.Gracias a la tecnología GEL integrada, estas zapatillas aseguran una excelente absorción de impactos, protegiendo así tus pies y tus articulaciones durante los movimientos rápidos y los saltos. Esta característica es esencial para minimizar la fatiga y prevenir lesiones, permitiéndote jugar más tiempo con el máximo confort.La suela exterior está elaborada para garantizar una adherencia perfecta en las superficies de pádel, ofreciendo una tracción eficaz que mejora tus movimientos laterales y cambios de dirección bruscos. Esto se traduce en una mejor estabilidad y un control aumentado durante cada intercambio.La parte superior está diseñada con materiales transpirables q......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
+    "sourceProductId": "44323000977",
+    "sourceCategory": "Padel > Surgrip de padel > Adulte > Mixte",
+    "description": "El overgrip de pádel Black Crown es un accesorio imprescindible para todos los apasionados de este deporte dinámico. Diseñado para ofrecer un rendimiento óptimo, garantiza un mejor agarre y gran comodidad durante el juego.Fabricado con materiales de alta calidad, este overgrip se distingue por su durabilidad y su excelente adherencia. Cada detalle ha sido pensado para satisfacer las exigencias de los jugadores, ya sean aficionados o profesionales. Gracias a su textura, permite absorber el sudor, ofreciendo así una sensación de frescura incluso durante los partidos intensos.El paquete contiene 60 unidades, ideal para los jugadores que siempre desean tener overgrips nuevos a mano. Ya sea que estés entrenando solo o participando en un torneo, podrás cambiar de overgrip rápidamente para maximizar tu comodidad y rendimiento. Marca : Black Crown Tipo : Overgrip de pádel Cantidad : 60 unidades por paquete Elemento esencial : Mejora el agarre de la raqueta Comodidad : Absorción del ......",
+    "specs": {},
     "stores": [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 108.9,
+        "price": 79.66,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755407847&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-44672016591",
-    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 108.9,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---100_white-vivid-coral_1.webp&feedId=93547&k=e782ba6d3bd5acc79ae9d46c8bb21d64a57f4853",
-    "ean": "4570158842358",
-    "productGTIN": null,
-    "mpn": "1041A511 - 100",
-    "source": "smash-expert",
-    "sourceProductId": "44672016591",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Gel-Challenger 15 están diseñadas especialmente para ofrecer un rendimiento óptimo durante tus partidos de pádel. Con un diseño innovador y tecnologías avanzadas, estas zapatillas cumplen con los requisitos específicos de este deporte dinámico que exige agilidad, rapidez y estabilidad.Gracias a la tecnología GEL integrada, estas zapatillas aseguran una excelente absorción de impactos, protegiendo así tus pies y tus articulaciones durante los movimientos rápidos y los saltos. Esta característica es esencial para minimizar la fatiga y prevenir lesiones, permitiéndote jugar más tiempo con el máximo confort.La suela exterior está elaborada para garantizar una adherencia perfecta en las superficies de pádel, ofreciendo una tracción eficaz que mejora tus movimientos laterales y cambios de dirección bruscos. Esto se traduce en una mejor estabilidad y un control aumentado durante cada intercambio.La parte superior está diseñada con materiales transpirables q......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 108.9,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44672016591&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-44755407848",
-    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 108.9,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---100_white-vivid-coral_1.webp&feedId=93547&k=e782ba6d3bd5acc79ae9d46c8bb21d64a57f4853",
-    "ean": "4570158842327",
-    "productGTIN": null,
-    "mpn": "1041A511 - 100",
-    "source": "smash-expert",
-    "sourceProductId": "44755407848",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Gel-Challenger 15 están diseñadas especialmente para ofrecer un rendimiento óptimo durante tus partidos de pádel. Con un diseño innovador y tecnologías avanzadas, estas zapatillas cumplen con los requisitos específicos de este deporte dinámico que exige agilidad, rapidez y estabilidad.Gracias a la tecnología GEL integrada, estas zapatillas aseguran una excelente absorción de impactos, protegiendo así tus pies y tus articulaciones durante los movimientos rápidos y los saltos. Esta característica es esencial para minimizar la fatiga y prevenir lesiones, permitiéndote jugar más tiempo con el máximo confort.La suela exterior está elaborada para garantizar una adherencia perfecta en las superficies de pádel, ofreciendo una tracción eficaz que mejora tus movimientos laterales y cambios de dirección bruscos. Esto se traduce en una mejor estabilidad y un control aumentado durante cada intercambio.La parte superior está diseñada con materiales transpirables q......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 108.9,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755407848&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-44672016592",
-    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 108.9,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---100_white-vivid-coral_1.webp&feedId=93547&k=e782ba6d3bd5acc79ae9d46c8bb21d64a57f4853",
-    "ean": "4570158842334",
-    "productGTIN": null,
-    "mpn": "1041A511 - 100",
-    "source": "smash-expert",
-    "sourceProductId": "44672016592",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Gel-Challenger 15 están diseñadas especialmente para ofrecer un rendimiento óptimo durante tus partidos de pádel. Con un diseño innovador y tecnologías avanzadas, estas zapatillas cumplen con los requisitos específicos de este deporte dinámico que exige agilidad, rapidez y estabilidad.Gracias a la tecnología GEL integrada, estas zapatillas aseguran una excelente absorción de impactos, protegiendo así tus pies y tus articulaciones durante los movimientos rápidos y los saltos. Esta característica es esencial para minimizar la fatiga y prevenir lesiones, permitiéndote jugar más tiempo con el máximo confort.La suela exterior está elaborada para garantizar una adherencia perfecta en las superficies de pádel, ofreciendo una tracción eficaz que mejora tus movimientos laterales y cambios de dirección bruscos. Esto se traduce en una mejor estabilidad y un control aumentado durante cada intercambio.La parte superior está diseñada con materiales transpirables q......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 108.9,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44672016592&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44323000977&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -22681,7 +22751,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 86.86,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -22704,7 +22774,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.86,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41789709594&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22716,7 +22786,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 76.72,
+    "price": 70.25,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -22739,7 +22809,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 76.72,
+        "price": 70.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41789709595&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22786,7 +22856,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 77.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -22809,7 +22879,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 77.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41789709597&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22891,7 +22961,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 86.86,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -22914,7 +22984,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.86,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41789709600&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -22926,7 +22996,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 88.14,
+    "price": 121,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -22949,79 +23019,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.14,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41789709601&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-44126448209",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Resolution X",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 116.98,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a285---400_stone-wash-orange-glow_1.webp&feedId=93547&k=6ab232c2f42c08552a505966af9c720189ce4a0b",
-    "ean": "4570158706681",
-    "productGTIN": null,
-    "mpn": "1042A285 - 400",
-    "source": "smash-expert",
-    "sourceProductId": "44126448209",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La GEL-RESOLUTION X PADEL ofrece una estabilidad y un amortiguamiento máximos a los jugadores que les gusta controlar el juego desde la línea de fondo de la cancha.El sistema de cordones DYNALACING ha sido diseñado para aumentar el soporte del pie cuando es necesario. Permite mantener el pie firmemente en su lugar durante transiciones rápidas. La mediasuela de dos partes estabiliza el pie en el momento en que aterriza en la cancha.La tecnología DYNAWALL en la mediasuela ahora se extiende hasta el talón para una estabilidad máxima durante los desplazamientos laterales. Es un elemento que permite correr de manera efectiva de un lado a otro para cubrir toda la línea de fondo de la cancha.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 116.98,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44126448209&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-44126448211",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Resolution X",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 115.3,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a285---400_stone-wash-orange-glow_1.webp&feedId=93547&k=6ab232c2f42c08552a505966af9c720189ce4a0b",
-    "ean": "4570158706629",
-    "productGTIN": null,
-    "mpn": "1042A285 - 400",
-    "source": "smash-expert",
-    "sourceProductId": "44126448211",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La GEL-RESOLUTION X PADEL ofrece una estabilidad y un amortiguamiento máximos a los jugadores que les gusta controlar el juego desde la línea de fondo de la cancha.El sistema de cordones DYNALACING ha sido diseñado para aumentar el soporte del pie cuando es necesario. Permite mantener el pie firmemente en su lugar durante transiciones rápidas. La mediasuela de dos partes estabiliza el pie en el momento en que aterriza en la cancha.La tecnología DYNAWALL en la mediasuela ahora se extiende hasta el talón para una estabilidad máxima durante los desplazamientos laterales. Es un elemento que permite correr de manera efectiva de un lado a otro para cubrir toda la línea de fondo de la cancha.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 115.3,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44126448211&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -23031,7 +23031,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 102.09,
+    "price": 93.64,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -23054,7 +23054,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 102.09,
+        "price": 93.64,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42177802118&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23277,7 +23277,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 91.76,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -23300,7 +23300,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 91.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332636474&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23347,7 +23347,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 91.76,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -23370,7 +23370,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 91.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332636476&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23417,7 +23417,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox ML10 Quantum 3K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 248.05,
+    "price": 247.04,
     "oldPrice": 341.83,
     "rating": null,
     "badge": null,
@@ -23441,7 +23441,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 248.05,
+        "price": 247.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41435130291&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23525,7 +23525,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Bela V3",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 236.09,
+    "price": 229.95,
     "oldPrice": 262.17,
     "rating": null,
     "badge": null,
@@ -23549,7 +23549,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 236.09,
+        "price": 229.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42007711588&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23587,41 +23587,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 96.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44572497089&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-joma-slam-world-tour-2022-42257430308",
-    "name": "Sapatilhas de padel Joma Slam World Tour 2022",
-    "brand": "Joma",
-    "category": "sapatilhas",
-    "price": 96.83,
-    "oldPrice": 99.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fo%2Fjoma_twpts2231p40_black-gold_1.webp&feedId=93547&k=8dc305fc1c90fcaea02f5f4619fc4e36622af15e",
-    "ean": "8445456446873",
-    "productGTIN": null,
-    "mpn": "TWPTS2231P41",
-    "source": "smash-expert",
-    "sourceProductId": "42257430308",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "La estabilidad se refuerza con el uso del sistema STABILIS, una pieza de inyección que va del puente al metatarso y estabiliza la transición de la banda de rodadura. Gracias a esta pieza, el calzado mantiene su forma durante el juego, no se flexiona y evita las torsiones incorrectas.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 96.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42257430308&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -23666,7 +23631,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 66.42,
+    "price": 60.74,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -23689,7 +23654,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 66.42,
+        "price": 60.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42302493784&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23736,7 +23701,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 70.12,
+    "price": 85.71,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -23759,7 +23724,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.12,
+        "price": 85.71,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42280861321&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23771,7 +23736,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 100.83,
+    "price": 97.81,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -23794,7 +23759,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.83,
+        "price": 97.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43970780512&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23806,7 +23771,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 89.74,
+    "price": 86.72,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -23829,7 +23794,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 89.74,
+        "price": 86.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42287715557&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23841,7 +23806,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -23864,7 +23829,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42287715558&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23876,7 +23841,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -23899,7 +23864,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42280861323&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23911,7 +23876,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -23934,7 +23899,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42287715559&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23946,7 +23911,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 109.91,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -23969,7 +23934,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 109.91,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43970780513&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -23981,7 +23946,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 85.36,
+    "price": 98.82,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -24004,7 +23969,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 85.36,
+        "price": 98.82,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42287715561&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24051,7 +24016,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -24074,7 +24039,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42280861325&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24086,7 +24051,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.38,
+    "price": 69.01,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -24109,7 +24074,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.38,
+        "price": 69.01,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42280861326&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24121,7 +24086,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 79.54,
+    "price": 74.42,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -24144,7 +24109,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 79.54,
+        "price": 74.42,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42280861327&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24191,7 +24156,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 130.08,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24214,7 +24179,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 130.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944662&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24226,7 +24191,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 90.35,
+    "price": 82.8,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24249,7 +24214,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.35,
+        "price": 82.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944663&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24296,7 +24261,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 132.09,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24319,7 +24284,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 132.09,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944665&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24331,7 +24296,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 132.09,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24354,7 +24319,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 132.09,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944666&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24366,7 +24331,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24389,7 +24354,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944667&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24401,7 +24366,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24424,7 +24389,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944668&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24471,7 +24436,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Tour",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24494,7 +24459,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42370944670&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24712,11 +24677,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-asics-game-ff-44519146275",
+    "name": "Sapatilhas de padel Asics Game FF",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 85.71,
+    "oldPrice": 90.75,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a493---100_white-vivid-coral_1.webp&feedId=93547&k=66d0c51bcef1d27189054bd560abb2ff80b1eb09",
+    "ean": "4570158704731",
+    "productGTIN": null,
+    "mpn": "1041A493 - 100",
+    "source": "smash-expert",
+    "sourceProductId": "44519146275",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Ligera y flexible, la zapatilla GEL-GAME FF PADEL es versátil para jugadores en todas las superficies de juego. Nuestro objetivo esta temporada fue mejorar la ventilación y la flexibilidad de la zapatilla mientras manteníamos sus excelentes propiedades de sujeción. Con un diseño de malla abierta en la parte superior para mejorar la circulación del aire y mantener los pies frescos, esta zapatilla se complementa con paneles de cuero sintético y una película de PU (poliuretano) que ofrece mejor estabilidad durante las transiciones bruscas. La tecnología TRUSSTIC de la mediasuela garantiza una mejor estabilidad en la pista. Al mismo tiempo, la tecnología FLYTEFOAM integrada en la mediasuela ofrece una amortiguación ligera.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 85.71,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44519146275&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-asics-solution-speed-ff-3-42415936603",
     "name": "Sapatilhas de padel Asics Solution Speed FF 3",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 136.13,
+    "price": 133.1,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24739,7 +24739,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 136.13,
+        "price": 133.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42415936603&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24751,7 +24751,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Speed FF 3",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 136.13,
+    "price": 133.1,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24774,44 +24774,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 136.13,
+        "price": 133.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42415936604&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-solution-speed-ff-3-42415936606",
-    "name": "Sapatilhas de padel Asics Solution Speed FF 3",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 108.19,
-    "oldPrice": 151.25,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a496---001_black-vivid-coral_8.webp&feedId=93547&k=5160cf68d2e240f206920d7e66cb933695952289",
-    "ean": "4570158708562",
-    "productGTIN": null,
-    "mpn": "1041A496 - 001",
-    "source": "smash-expert",
-    "sourceProductId": "42415936606",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "La SOLUTION SPEED FF 3 PADEL es ideal para jugadores de pádel con un juego ofensivo que buscan un zapato reactivo y ligero diseñado para la velocidad. Dotada de la tecnología SPEEDTRUSS, este zapato mejora tu movilidad en la cancha. También permite acelerar rápidamente cuando te lanzas hacia adelante. Además, la parte superior de malla y film de TPU es ligera y muy flexible, lo que te permite aumentar tu velocidad.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 108.19,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42415936606&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -24821,7 +24786,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Speed FF 3",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 100.93,
+    "price": 94.53,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -24844,7 +24809,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.93,
+        "price": 94.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42415936610&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24856,7 +24821,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 106.88,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -24879,7 +24844,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529222103&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24891,7 +24856,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 106.88,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -24914,7 +24879,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529222110&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24926,7 +24891,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 106.88,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -24949,7 +24914,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529222111&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24961,7 +24926,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 106.88,
+    "price": 103.86,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -24984,7 +24949,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 103.86,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43654168483&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -24996,7 +24961,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Solution Swift FF 2",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 106.88,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -25019,7 +24984,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 106.88,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529222112&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -25171,7 +25136,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 86.86,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -25194,7 +25159,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.86,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529223817&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -25307,6 +25272,76 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-44686647123",
+    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 88.14,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---400_stone-wash-orange-glow_1.webp&feedId=93547&k=c242a8537c276a9590427595a4a63b2e7966148b",
+    "ean": "4570158842730",
+    "productGTIN": null,
+    "mpn": "1042A296 - 400",
+    "source": "smash-expert",
+    "sourceProductId": "44686647123",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Las zapatillas de pádel para mujer Asics Gel-Challenger 15 están diseñadas para ofrecer a las jugadoras un rendimiento óptimo en la cancha. Combinando tecnología avanzada y comodidad, cumplen con las exigencias específicas del pádel gracias a un diseño cuidado y materiales de alta calidad.Equipadas con la famosa tecnología Gel en la parte delantera y en el talón, garantizan una absorción eficaz de los impactos en cada movimiento, reduciendo así la fatiga y el riesgo de lesiones. Esta característica proporciona una mejor protección durante los cambios rápidos de dirección y los impactos repetidos durante el juego.La suela exterior de goma ofrece una excelente adherencia en las superficies típicas de las canchas de pádel, permitiendo una estabilidad reforzada y una tracción óptima para desplazamientos rápidos y seguros. La estructura de la suela también está diseñada para favorecer el equilibrio y evitar deslizamientos inesperados.El soporte del pie está asegurado gracias a un uppe......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 88.14,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44686647123&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-dedicate-8-44783096214",
+    "name": "Sapatilhas de padel para mujer Asics Gel-Dedicate 8",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 71.59,
+    "oldPrice": 75.63,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a241---401_stone-wash-cream_3.webp&feedId=93547&k=5d91a96071f81acf20e8da1c838353a89c1c531a",
+    "ean": "4570158707855",
+    "productGTIN": null,
+    "mpn": "1042A241 - 401",
+    "source": "smash-expert",
+    "sourceProductId": "44783096214",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "La zapatilla de pádel GEL-DEDICATE 8 PADEL ofrece una buena estabilidad y una sensación de flexibilidad para que mantengas tu concentración durante el partido. Esta parte superior está compuesta de superposiciones en cuero sintético para mejorar la comodidad. Permiten que tus pies se mantengan estables cuando te mueves y atrapas las bolas difíciles. Una unidad de soporte TRUSSTIC y una suela exterior envolvente mejoran la estabilidad mientras permiten que tus pies se muevan libremente. Esto te permite cambiar de dirección con confianza, especialmente si te mueves lateralmente.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 71.59,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44783096214&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-game-ff-43994216142",
     "name": "Sapatilhas de padel para mujer Asics GEL-Game FF",
     "brand": "ASICS",
@@ -25342,41 +25377,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-game-ff-42529223847",
-    "name": "Sapatilhas de padel para mujer Asics GEL-Game FF",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 66.51,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a286---400_stone-wash-orange-glow_3.webp&feedId=93547&k=c4b61bbd34100e5d935f35d898c3673fa665b82f",
-    "ean": "4570158700917",
-    "productGTIN": null,
-    "mpn": "1042A286 - 400",
-    "source": "smash-expert",
-    "sourceProductId": "42529223847",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "A la vez ligera y flexible, la shoe GEL-GAME FF PADEL es versátil para los jugadores en todas las superficies de juego. Nuestro objetivo esta temporada era mejorar la ventilación y la flexibilidad de la zapatilla mientras preservamos sus excelentes propiedades de soporte. Dotada de un diseño de malla abierta en la parte superior para mejorar la circulación del aire y mantener los pies frescos, esta zapatilla se completa con paneles de cuero sintético y una película de PU (poliuretano) que ofrece una mejor estabilidad durante las transiciones bruscas. La tecnología TRUSSTIC de la entresuela garantiza una mejor estabilidad en la pista. Al mismo tiempo, la tecnología FLYTEFOAM integrada en la entresuela ofrece una amortiguación ligera.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 66.51,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529223847&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-solution-swift-ff-2-42529223862",
     "name": "Sapatilhas de padel para mujer Asics Solution Swift Ff 2",
     "brand": "ASICS",
@@ -25407,6 +25407,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529223862&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-solution-swift-ff-2-44873046820",
+    "name": "Sapatilhas de padel para mujer Asics Solution Swift Ff 2",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 88.14,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a264---800_orange-glow-cream_2.webp&feedId=93547&k=882bba2d2a5d69441c8238ed40722fe958c3986c",
+    "ean": "4570158709941",
+    "productGTIN": null,
+    "mpn": "1042A264 - 800",
+    "source": "smash-expert",
+    "sourceProductId": "44873046820",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Concebidas específicamente para las jugadoras de pádel, las zapatillas de pádel mujer Asics Solution Swift FF 2 combinan rendimiento, confort y durabilidad. Estas zapatillas ofrecen un apoyo óptimo durante los rápidos y laterales movimientos característicos de este deporte intenso. Su diseño integra tecnologías avanzadas que mejoran la estabilidad y la reactividad en la pista.Su cumplimiento con las exigencias del pádel permite una excelente adherencia en las diferentes superficies de juego, reduciendo así los riesgos de deslizamientos y favoreciendo movimientos fluidos y precisos. Esta zapatilla está diseñada para acompañar a la jugadora en todas las fases del juego, desde el sprint hasta los cambios de dirección repentinos, manteniendo un confort notable durante las largas sesiones de entrenamiento o los partidos competitivos.Los materiales utilizados son cuidadosamente seleccionados para garantizar tanto ligereza como robustez. La parte superior está compuesta a menudo de textil......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 88.14,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44873046820&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -26242,7 +26277,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sobregrip de padel Enebe Response (x30)",
     "brand": "Enebe",
     "category": "acessorios",
-    "price": 34.28,
+    "price": 31.85,
     "oldPrice": 38.12,
     "rating": null,
     "badge": null,
@@ -26259,7 +26294,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 34.28,
+        "price": 31.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529306967&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -26419,12 +26454,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sobregrip-de-padel-head-pro-x3-44790744354",
+    "name": "Sobregrip de padel Head Pro (x3)",
+    "brand": "Head",
+    "category": "acessorios",
+    "price": 8.78,
+    "oldPrice": 8.78,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_285111w_white_1.webp&feedId=93547&k=1283f715b3656e69e316520d6df49fe344c7f77e",
+    "ean": "724794133521",
+    "productGTIN": null,
+    "mpn": "285111W",
+    "source": "smash-expert",
+    "sourceProductId": "44790744354",
+    "sourceCategory": "Padel > Surgrip de padel > Adulte > Mixte",
+    "description": "El nuevo Surgrip de padel Pro ofrece una combinación perfecta de comodidad y adherencia para una sensación ideal.Paquete de 3.",
+    "specs": {},
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 8.78,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790744354&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sobregrip-de-padel-softee-adhere-x60-42529311187",
     "name": "Sobregrip de padel Softee Adhere (x60)",
     "brand": "Softee",
     "category": "acessorios",
-    "price": 42.35,
-    "oldPrice": 42.35,
+    "price": 40.33,
+    "oldPrice": 40.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fo%2Fsoftee_a000518_blanc_1.webp&feedId=93547&k=7b310482d3abedf2dc817b127435296fdba2703c",
@@ -26440,7 +26504,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 42.35,
+        "price": 40.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529311187&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -26697,7 +26761,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Mizuno Wave Exceed Wos",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 89.74,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -26720,7 +26784,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44510398403&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -26732,7 +26796,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Mizuno Wave Exceed Wos",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 90.75,
+    "price": 89.74,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -26755,44 +26819,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 89.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44510398404&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-mizuno-wave-exceed-wos-44510398406",
-    "name": "Sapatilhas de padel para mujer Mizuno Wave Exceed Wos",
-    "brand": "Mizuno",
-    "category": "sapatilhas",
-    "price": 90.75,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fi%2Fmizuno_61gc252166_strik-coral-white-barelypink_1.webp&feedId=93547&k=011efdbe6608cc8f9b4cd83a18839e80d00ff26d",
-    "ean": "5059882576719",
-    "productGTIN": null,
-    "mpn": "61GC252166",
-    "source": "smash-expert",
-    "sourceProductId": "44510398406",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Las zapatillas de pádel para mujer Mizuno Wave Exceed Wos están especialmente diseñadas para ofrecer rendimiento, comodidad y estabilidad en la pista de pádel. Combinando tecnología avanzada y un diseño cuidado, responden a las exigencias de las jugadoras apasionadas que desean mejorar su juego y sentirse cómodas en cada movimiento.Diseñadas por la marca Mizuno, reconocida por su experiencia en el campo de las zapatillas deportivas, estas zapatillas incorporan innovaciones técnicas para maximizar el soporte, la reactividad y la durabilidad. Comodidad óptima: Gracias a una plantilla especialmente estudiada, estas zapatillas garantizan una amortiguación eficaz y un soporte del pie adaptado a los movimientos rápidos del pádel. Tecnología Wave: La estructura Wave de Mizuno asegura una excelente absorción de impactos y una estabilidad lateral aumentada, esencial para los desplazamientos laterales frecuentes en este deporte. Adherencia superior: La suela exterior está diseñada para of......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 90.75,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44510398406&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -26837,7 +26866,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2 Padel",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 143.18,
+    "price": 137.13,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -26860,9 +26889,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 143.18,
+        "price": 137.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41987570696&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-mizuno-wave-enforce-tour-2-padel-41987570697",
+    "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2 Padel",
+    "brand": "Mizuno",
+    "category": "sapatilhas",
+    "price": 127.05,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fi%2Fmizuno_61gb250645_vibrantyellow-white-blacksand_2.webp&feedId=93547&k=445174bbd4a06740514853c9f6ef845084e73f29",
+    "ean": "5059882574302",
+    "productGTIN": null,
+    "mpn": "61GB250645",
+    "source": "smash-expert",
+    "sourceProductId": "41987570697",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las calcetas de padel Mizuno Wave Enforce Tour 2 Padel están diseñadas para los apasionados de este deporte dinámico, combinando rendimiento, comodidad y tecnología avanzada. Cada detalle está pensado para optimizar tu experiencia en la cancha, ya seas aficionado o competidor experimentado.Estas zapatillas integran la tecnología Wave, característica emblemática de Mizuno, que favorece un excelente amortiguamiento mientras garantiza una estabilidad óptima durante los movimientos laterales frecuentes en padel. Así, cada paso es ligero y seguro, permitiéndote concentrarte en tu juego.El diseño de la Wave Enforce Tour 2 también se centra en la adherencia. La suela exterior está hecha de un caucho especialmente diseñado para ofrecer una tracción excepcional en las superficies de juego. Así podrás cambiar de dirección rápidamente sin miedo a resbalar.La comodidad es otro aspecto fundamental de este modelo. El acolchado interior y el diseño ergonómico aseguran un ajuste perfecto, reduci......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 127.05,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=41987570697&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -26872,7 +26936,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2 Padel",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 135.12,
+    "price": 127.05,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -26895,7 +26959,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 135.12,
+        "price": 127.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41987570698&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -26907,7 +26971,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2 Padel",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 135.12,
+    "price": 131.08,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -26930,7 +26994,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 135.12,
+        "price": 131.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41987570700&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -26942,7 +27006,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2 Padel",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 135.12,
+    "price": 131.08,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -26965,7 +27029,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 135.12,
+        "price": 131.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=41987570701&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -27012,7 +27076,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 98.82,
+    "price": 100.83,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -27035,7 +27099,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 100.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529341672&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -27117,7 +27181,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 64.08,
+    "price": 86.72,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -27140,7 +27204,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.08,
+        "price": 86.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44697825360&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -27152,7 +27216,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 64.08,
+    "price": 91.76,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -27175,7 +27239,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.08,
+        "price": 91.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44697825361&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -27187,7 +27251,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 64.08,
+    "price": 86.72,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -27210,44 +27274,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.08,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42209884796&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-wilson-hurakn-lite-42209884797",
-    "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
-    "brand": "Wilson",
-    "category": "sapatilhas",
-    "price": 86.72,
-    "oldPrice": 100.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fr%2Fwrs334970.webp&feedId=93547&k=5eed2551d684f8b14244c225e055bedb1b782654",
-    "ean": "97512861083",
-    "productGTIN": null,
-    "mpn": "WRS334970",
-    "source": "smash-expert",
-    "sourceProductId": "42209884797",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Las zapatillas de pádel mujer Wilson Hurakn Lite son el aliado ideal para las apasionadas de este deporte dinámico. Diseñadas específicamente para satisfacer las exigencias del juego, estas zapatillas ofrecen tanto comodidad como rendimiento en la pista.La marca Wilson, reconocida por su experiencia en el ámbito de los equipos deportivos, garantiza una calidad excepcional. Las zapatillas Hurakn Lite están elaboradas con materiales cuidadosamente seleccionados, asegurando una durabilidad óptima mientras permanecen ligeras. Esto permite a las jugadoras moverse con facilidad y precisión, mejorando así su rendimiento durante los partidos.Entre las características destacadas de estas zapatillas, encontramos: Amortiguación efectiva: El sistema de amortiguación integrado absorbe los impactos, ofreciendo la máxima comodidad durante los intercambios. Adherencia superior: La suela está diseñada para garantizar una excelente tracción en diferentes superficies, asegurando así estabilidad y ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
         "price": 86.72,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42209884797&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=42209884796&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -27988,11 +28017,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-wilson-bela-tour-44884649844",
+    "name": "Sapatilhas de padel Wilson Bela Tour",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 101.63,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fr%2Fwrs335330.webp&feedId=93547&k=b4c07c03e2e9364a240ee8c82fff0b0ad108d556",
+    "ean": "97512846578",
+    "productGTIN": null,
+    "mpn": "WRS335330",
+    "source": "smash-expert",
+    "sourceProductId": "44884649844",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Zapato clásico: Ofrece una combinación definitiva de soporte, estabilidad, durabilidad y amortiguación en cada paso.Chasis de soporte 4D: Proporciona una estabilidad superior para ayudar a controlar los movimientos de pivote.Composición: Las tecnologías específicas para pádel y la estructura de materiales reciclados ofrecen una agilidad explosiva y un soporte óptimo.Superficie de juego ideal: Canchas de pádel.Zapatos de pádel Bela TourDiseñados e inspirados por la leyenda Fernando Belasteguin, los zapatos de pádel Bela Tour son perfectos para jugadores de pádel experimentados que buscan llevar su juego al siguiente nivel. Las mejoras tecnológicas, incluido un chasis de torsión 4D hecho de una sola pieza y una suela exterior de 360° específica para pádel, hacen que estos zapatos sean aún más cómodos y estables durante los sprints y giros en la cancha de pádel. Además, la malla es 100 % reciclada, la plantilla es reciclada en un 50 % y la película de TPU es reciclada en un 55 %......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 101.63,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44884649844&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-wilson-hurakn-lite-42529341710",
     "name": "Sapatilhas de padel Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 100.83,
+    "price": 96.8,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -28015,7 +28079,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529341710&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28062,7 +28126,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Hurakn Lite",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 98.82,
+    "price": 95.79,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -28085,7 +28149,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 98.82,
+        "price": 95.79,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529341712&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28093,30 +28157,72 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-saco-wilson-43755716479",
-    "name": "Saco Wilson",
+    "id": "smash-expert-sapatilhas-de-padel-wilson-hurakn-lite-44033346686",
+    "name": "Sapatilhas de padel Wilson Hurakn Lite",
     "brand": "Wilson",
-    "category": "sacos",
-    "price": 75.63,
-    "oldPrice": 75.63,
+    "category": "sapatilhas",
+    "price": 80.67,
+    "oldPrice": 100.83,
     "rating": null,
     "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8908701_black_1.webp&feedId=93547&k=65e96f5203a0d53ee605646126e0285b204606bc",
-    "ean": "97512887731",
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fr%2Fwrs334630.webp&feedId=93547&k=4751677557a52273f954107c20bbcdfb00dfb95b",
+    "ean": "97512861908",
     "productGTIN": null,
-    "mpn": "WR8908701",
+    "mpn": "WRS334630",
     "source": "smash-expert",
-    "sourceProductId": "43755716479",
-    "sourceCategory": "Padel > Sac de raquette de padel > Adulte > Mixte",
-    "description": "Bolsa de Pádel EquipoInspirada en el legado legendario de Wilson y con colores emblemáticos, la Bolsa de Pádel Equipo ofrece mucho espacio para transportar el equipo esencial hacia y desde las canchas. Dos compartimentos principales pueden contener hasta cuatro raquetas, así como ropa y zapatos, y hay dos bolsillos auxiliares para objetos personales y de valor. Ajusta las correas acolchadas para un ajuste perfecto.Bolsa de equipo moderna con espacio para lo esencial, inspirada en los colores y el diseño emblemáticos de Wilson.",
-    "specs": {},
+    "sourceProductId": "44033346686",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Wilson Hurakn Lite son la elección ideal para los amantes del pádel que desean combinar rendimiento y confort en la cancha. Fabricadas por la marca de confianza Wilson, estas zapatillas están diseñadas especialmente para satisfacer las exigencias de los jugadores, ya sean principiantes o más experimentados.Con un diseño moderno y dinámico, las Wilson Hurakn Lite ofrecen un excelente soporte y una gran estabilidad durante tus movimientos rápidos. Su construcción ligera minimiza la fatiga, garantizando al mismo tiempo una gran agilidad en la pista. Cada detalle ha sido pensado para favorecer una experiencia de juego óptima.Una de las características destacadas de estas zapatillas es su suela, diseñada para ofrecer una tracción excepcional. Esto te permitirá deslizarte y girar con confianza, reduciendo el riesgo de caídas. Este agarre es esencial durante los intensos intercambios, permitiéndote concentrarte plenamente en tu juego.El confort también está en el......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
     "stores": [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.63,
+        "price": 80.67,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43755716479&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44033346686&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-wilson-optix-xp-44212448949",
+    "name": "Raqueta de padel Wilson Optix XP",
+    "brand": "Wilson",
+    "category": "raquetes",
+    "price": 87.77,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fr%2Fwr202110u.webp&feedId=93547&k=46245da45ebdbda05519f69f78f0739e361b7d76",
+    "ean": "97512970990",
+    "productGTIN": null,
+    "mpn": "WR202110U",
+    "source": "smash-expert",
+    "sourceProductId": "44212448949",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta de pádel Wilson Optix XP está diseñada para los apasionados de este deporte dinámico, combinando rendimiento y comodidad. Wilson, una marca reconocida en el mundo del deporte, ha puesto todo su saber hacer para crear un equipo que satisfaga las necesidades de los jugadores de todos los niveles.Con un diseño limpio y moderno, esta raqueta no solo es estética, sino también funcional. Su construcción refinada garantiza una excelente maniobrabilidad, permitiéndote alcanzar la bola con precisión y potencia.Aquí hay algunas características clave de la raqueta de pádel Wilson Optix XP: Estructura reforçada: Fabricada con materiales de alta calidad, esta raqueta ofrece una durabilidad aumentada para resistir las exigencias del juego. Confort ergonómico: Diseñada para un confort óptimo, el mango permite un agarre firme, reduciendo el riesgo de deslizamiento durante los intercambios intensos. Tecnología de control: Integrando innovaciones técnicas, mejora la precisión de tus ......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 87.77,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44212448949&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -28191,7 +28297,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dropshot Canyon Pro Attack 1.0",
     "brand": "Dropshot",
     "category": "raquetes",
-    "price": 242,
+    "price": 261.16,
     "oldPrice": 342.83,
     "rating": null,
     "badge": null,
@@ -28215,7 +28321,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 242,
+        "price": 261.16,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342800&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28227,7 +28333,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dropshot Canyon Pro Comfort 1.0",
     "brand": "Dropshot",
     "category": "raquetes",
-    "price": 178.48,
+    "price": 162.34,
     "oldPrice": 221.83,
     "rating": null,
     "badge": null,
@@ -28251,7 +28357,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 178.48,
+        "price": 162.34,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342801&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28263,7 +28369,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dropshot Canyon Pro Control 1.0 2025",
     "brand": "Dropshot",
     "category": "raquetes",
-    "price": 185.53,
+    "price": 180.49,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -28287,7 +28393,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 185.53,
+        "price": 180.49,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342802&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28299,7 +28405,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Dropshot Conqueror Attack 1.0",
     "brand": "Dropshot",
     "category": "raquetes",
-    "price": 230.91,
+    "price": 224.86,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -28323,7 +28429,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 230.91,
+        "price": 224.86,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342803&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28335,7 +28441,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel J'hayber Veneno 12K",
     "brand": "J'hayber",
     "category": "raquetes",
-    "price": 275.28,
+    "price": 279.31,
     "oldPrice": 327.71,
     "rating": null,
     "badge": null,
@@ -28359,9 +28465,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 275.28,
+        "price": 279.31,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42424164642&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-kelme-jaguar-44323006382",
+    "name": "Raqueta de padel Kelme Jaguar",
+    "brand": "Kelme",
+    "category": "raquetes",
+    "price": 114.95,
+    "oldPrice": 282.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2Fe%2Fkelme_683489992396_noir_1.webp&feedId=93547&k=476ec452ee7b5ab2f0bf6f1c673f4a2d9eccc64c",
+    "ean": "683489992396",
+    "productGTIN": null,
+    "mpn": "683489992396",
+    "source": "smash-expert",
+    "sourceProductId": "44323006382",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Descubre la raqueta Kelme Jaguar 2022, una opción perfecta para los amantes de los deportes de raqueta. Con un diseño moderno y dinámico, esta raqueta se destaca por su comodidad y ligereza, permitiendo movimientos rápidos y precisos en la cancha. Su fabricación de alta calidad garantiza una durabilidad impresionante, asegurándote un rendimiento óptimo en cada uso.La Kelme Jaguar 2022 está diseñada para ofrecer un excelente control y un agarre agradable, ayudándote a mejorar tu juego mientras minimizas la fatiga. Ya seas principiante o jugador avanzado, esta raqueta te acompañará en tus sesiones de entrenamiento y partidos. Con sus características técnicas, satisface las necesidades de los jugadores que desean superarse mientras disfrutan de un equipo cómodo y estiloso. ¡Haz la elección de la calidad con la Kelme Jaguar 2022 y eleva tu experiencia de juego a un nivel superior!",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Controlo"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 114.95,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44323006382&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -28371,7 +28513,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Kelme Mastin",
     "brand": "Kelme",
     "category": "raquetes",
-    "price": 77.64,
+    "price": 74.62,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -28395,7 +28537,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 77.64,
+        "price": 74.62,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342805&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28407,7 +28549,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Kelme Shark",
     "brand": "Kelme",
     "category": "raquetes",
-    "price": 174.44,
+    "price": 175.45,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -28431,7 +28573,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 174.44,
+        "price": 175.45,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42646126067&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28443,7 +28585,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Be Flow 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 74.62,
+    "price": 72.6,
     "oldPrice": 109.91,
     "rating": null,
     "badge": null,
@@ -28467,7 +28609,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 74.62,
+        "price": 72.6,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342806&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28479,7 +28621,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Be Hype 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 70.58,
+    "price": 68.57,
     "oldPrice": 109.91,
     "rating": null,
     "badge": null,
@@ -28503,7 +28645,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 70.58,
+        "price": 68.57,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342807&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28515,7 +28657,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Carb-on Flow 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 141.17,
+    "price": 137.13,
     "oldPrice": 251.08,
     "rating": null,
     "badge": null,
@@ -28539,7 +28681,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 141.17,
+        "price": 137.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342808&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28551,7 +28693,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Carb-On Hype 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 134.11,
+    "price": 131.08,
     "oldPrice": 251.08,
     "rating": null,
     "badge": null,
@@ -28575,7 +28717,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 134.11,
+        "price": 131.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342809&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28587,7 +28729,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Easy Flow 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 100.83,
+    "price": 96.8,
     "oldPrice": 180.49,
     "rating": null,
     "badge": null,
@@ -28611,7 +28753,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342810&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28623,7 +28765,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Lok Padel Easy Hype 2024",
     "brand": "Lok Padel",
     "category": "raquetes",
-    "price": 100.83,
+    "price": 96.8,
     "oldPrice": 180.49,
     "rating": null,
     "badge": null,
@@ -28647,7 +28789,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 100.83,
+        "price": 96.8,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342811&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28695,7 +28837,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Royal Padel 35 Aniversario Poly",
     "brand": "Royal Padel",
     "category": "raquetes",
-    "price": 275.28,
+    "price": 267.21,
     "oldPrice": 321.66,
     "rating": null,
     "badge": null,
@@ -28719,7 +28861,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 275.28,
+        "price": 267.21,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342815&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28731,7 +28873,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Royal Padel 779 Whip Poly",
     "brand": "Royal Padel",
     "category": "raquetes",
-    "price": 323.68,
+    "price": 277.29,
     "oldPrice": 351.91,
     "rating": null,
     "badge": null,
@@ -28755,45 +28897,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 323.68,
+        "price": 277.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42761959931&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-royal-padel-779-whip-poly-44702298214",
-    "name": "Raqueta de padel Royal Padel 779 Whip Poly",
-    "brand": "Royal Padel",
-    "category": "raquetes",
-    "price": 252.08,
-    "oldPrice": 261.16,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fr%2Fo%2Froyal-padel_8436614013013_vert_1.webp&feedId=93547&k=ccff43c8f892961d73cf2ac933be3fb5eadde7cc",
-    "ean": "8436614013013",
-    "productGTIN": null,
-    "mpn": "8436614013013",
-    "source": "smash-expert",
-    "sourceProductId": "44702298214",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "Descubre la pala Royal Whip Polietileno 2025, una elección imprescindible para todos los aficionados a los deportes de raqueta. Fabricada en poliestireno de alta calidad, esta pala combina ligereza y robustez. Diseñada para ofrecer un excelente agarre, garantiza una comodidad óptima durante tus sesiones de juego. Ya seas principiante o jugador avanzado, su diseño ergonómico te permitirá jugar con total facilidad.Con su peso ligero y sus dimensiones ideales (371-375 mm), la Whip Polietileno 2025 no solo te ofrece rendimiento, sino también maniobrabilidad. Podrás así mejorar tu técnica y rapidez en la cancha. Este producto es perfecto para quienes desean unir estilo y funcionalidad, disfrutando al mismo tiempo de una durabilidad a largo plazo. ¡No dejes pasar esta oportunidad de perfeccionar tu juego con una pala que cumple con tus expectativas!",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": null,
-      "estilo": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 252.08,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44702298214&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -28839,7 +28945,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Starvie Astrum",
     "brand": "Starvie",
     "category": "raquetes",
-    "price": 171.42,
+    "price": 166.38,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -28863,7 +28969,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 171.42,
+        "price": 166.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44686649052&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28875,7 +28981,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Starvie Astrum Pro",
     "brand": "Starvie",
     "category": "raquetes",
-    "price": 171.42,
+    "price": 166.38,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -28899,7 +29005,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 171.42,
+        "price": 166.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44606833071&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28911,7 +29017,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Starvie Brava",
     "brand": "Starvie",
     "category": "raquetes",
-    "price": 171.42,
+    "price": 166.38,
     "oldPrice": 272.25,
     "rating": null,
     "badge": null,
@@ -28935,7 +29041,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 171.42,
+        "price": 166.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342824&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -28947,7 +29053,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Wall Breaker 370 24",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 171.42,
+    "price": 168.39,
     "oldPrice": 281.33,
     "rating": null,
     "badge": null,
@@ -28971,7 +29077,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 171.42,
+        "price": 168.39,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529342827&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -29077,7 +29183,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head",
     "brand": "Head",
     "category": "sacos",
-    "price": 46.38,
+    "price": 45.38,
     "oldPrice": 50.42,
     "rating": null,
     "badge": null,
@@ -29094,7 +29200,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 46.38,
+        "price": 45.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43397377094&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -29195,41 +29301,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-nox-at10-42529358491",
-    "name": "Sapatilhas de padel Nox AT10",
-    "brand": "Nox",
-    "category": "sapatilhas",
-    "price": 141.17,
-    "oldPrice": 141.17,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calat10ltdd39_blanc_1.webp&feedId=93547&k=510bcda8420bf88874718ec6a09995619b8fb751",
-    "ean": "8436603198462",
-    "productGTIN": null,
-    "mpn": "CALAT10LTDD47",
-    "source": "smash-expert",
-    "sourceProductId": "42529358491",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "Las nuevas zapatillas de pádel NOX AT10 LIMITED EDITION 2024 son el resultado de la tecnología más avanzada aplicada a las zapatillas deportivas, especialmente diseñadas para mejorar tu rendimiento y proteger tu salud en cada partido.Unidades limitadas: Solo 100 zapatillas disponibles por talla.Elección de los profesionales: Las zapatillas de pádel NOX LTD 2024, así como las gamas AT10 LUX, AT10 PRO y ML10 HEXA, han sido elegidas por los mejores jugadores, incluyendo a Agustin Tapia y Miguel Lamperti.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 141.17,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529358491&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-nox-at10-42529358499",
     "name": "Sapatilhas de padel Nox AT10",
     "brand": "Nox",
@@ -29295,6 +29366,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 60.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358500&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-nox-at10-42529358501",
+    "name": "Sapatilhas de padel Nox AT10",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 58.27,
+    "oldPrice": 141.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calatluxstbb39_pierre-bleu_1.webp&feedId=93547&k=123bd105b6563d6b90e2e97c55470eba100bbf11",
+    "ean": "8436603198295",
+    "productGTIN": null,
+    "mpn": "CALATLUXSTBB40",
+    "source": "smash-expert",
+    "sourceProductId": "42529358501",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "¡Prepárate para una revolución en las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 LUX PEDRA/BONNIE BLUE edición 2024! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo mejoran tu rendimiento en la cancha, sino que también cuidan tu salud con cada movimiento.Tecnología de punta en zapatillas de pádel para un rendimiento óptimoElegidas por los profesionales: Las Nox AT10 LUX 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Las utiliza tanto para el entrenamiento como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y una comodidad máxima en todo momento.Zapatillas oficiales Premier Padel España 2024Las zapatillas de pádel Nox AT10 LUX 2024 han sido galardonadas con el título de \"Mejor Zapatilla de Padel en Potencia\" por Testea Padel en los Best Padel Awards 2024.Aprobada clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, consultora en el Centro de ......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 58.27,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529358501&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -29759,7 +29865,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Nerbo",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 89.74,
+    "price": 87.73,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -29782,7 +29888,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 89.74,
+        "price": 87.73,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358520&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -29934,7 +30040,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Nerbo",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 88.73,
+    "price": 86.72,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -29957,7 +30063,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.73,
+        "price": 86.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358525&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -29995,6 +30101,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 51.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358527&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-44855777323",
+    "name": "Sapatilhas de padel Nox AT10 Pro",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 105.88,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calat10gati36_beige-rose_1.webp&feedId=93547&k=c6ca62a365a7102bf6de154f24abab7bd6b53b76",
+    "ean": "8436603199179",
+    "productGTIN": null,
+    "mpn": "CALAT10GATI37",
+    "source": "smash-expert",
+    "sourceProductId": "44855777323",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "¡Prepárate para una revolución en las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 PRO Gardenia/Titan Edición 2024! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo elevan tu rendimiento en la cancha, sino que también cuidan de tu salud en cada movimiento.Tecnología de vanguardia para las zapatillas de pádel para el mejor rendimientoElegidas por los profesionales: Las Nox AT10 PRO 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Las utiliza tanto para entrenar como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y una comodidad máxima en todo momento.Zapatillas oficiales de Premier Padel España 2024Aprobadas clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, asesora del Centro de Alto Rendimiento Deportivo de Sant Cugat (España) y de cientos de atletas de élite.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 105.88,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44855777323&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -30074,7 +30215,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 107.89,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -30097,7 +30238,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.89,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358532&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30109,7 +30250,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 107.89,
+    "price": 104.87,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -30132,7 +30273,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.89,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358533&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30175,41 +30316,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-44776402986",
-    "name": "Sapatilhas de padel Nox AT10 Pro",
-    "brand": "Nox",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calat10white36_blanc_1.webp&feedId=93547&k=899b085b108adc9a414a4a323dcb891f62252f55",
-    "ean": "8436603198905",
-    "productGTIN": null,
-    "mpn": "CALAT10WHITE40",
-    "source": "smash-expert",
-    "sourceProductId": "44776402986",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "¡Prepárate para una revolución en las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 PRO White Edición 2024! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo elevan tu rendimiento en la cancha, sino que también cuidan de tu salud en cada movimiento.Tecnología de vanguardia para las zapatillas de pádel para el mejor rendimientoElegidas por los profesionales: Las Nox AT10 PRO 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Las utiliza tanto para entrenar como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y un máximo confort en todo momento.Zapatillas oficiales de Premier Padel España 2024Aprobadas clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, consejera del Centro de Alto Rendimiento Deportivo de Sant Cugat (España) y de cientos de atletas de élite.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44776402986&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-42274701464",
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
@@ -30245,11 +30351,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-42529358543",
+    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-44873047325",
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
     "category": "sapatilhas",
     "price": 51.12,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calat10blgo39_noir-or_1.webp&feedId=93547&k=fe7e95d95401f880037eab3eee26eba571d7e162",
+    "ean": "8436603199025",
+    "productGTIN": null,
+    "mpn": "CALAT10BLGO43",
+    "source": "smash-expert",
+    "sourceProductId": "44873047325",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "¡Prepárate para una revolución en las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 PRO Black/Gold 2024 Edition! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo elevan tu rendimiento en la cancha, sino que también cuidan de tu salud en cada movimiento.Tecnología de punta en zapatillas de pádel para un rendimiento óptimoElegidas por los profesionales: Las Nox AT10 PRO 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Él las utiliza tanto para entrenar como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y un máximo confort en todo momento.Zapatillas oficiales Premier Padel España 2024Aprobadas clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, asesora del Centro de Alto Rendimiento Deportivo de Sant Cugat (España) y de cientos de atletas de élite.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 51.12,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44873047325&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-42529358543",
+    "name": "Sapatilhas de padel Nox AT10 Pro",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 50.35,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -30272,7 +30413,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 51.12,
+        "price": 50.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358543&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30284,7 +30425,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 82.68,
+    "price": 80.67,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -30307,7 +30448,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 82.68,
+        "price": 80.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358544&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30420,41 +30561,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-43952507316",
-    "name": "Sapatilhas de padel Nox AT10 Pro",
-    "brand": "Nox",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calat10blre39_noir-rouge_1.webp&feedId=93547&k=99a5a08250cee24d7d2bfa46ba4b93f845c059a4",
-    "ean": "8436603199124",
-    "productGTIN": null,
-    "mpn": "CALAT10BLRE44",
-    "source": "smash-expert",
-    "sourceProductId": "43952507316",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "¡Prepárate para una revolución en el mundo de las zapatillas de pádel con las nuevas zapatillas de pádel Nox AT10 PRO Black/Red 2024 Edition! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo mejoran tu rendimiento en la pista, sino que también cuidan de tu salud en cada movimiento.La tecnología última en zapatillas de pádel para el mejor rendimientoElegidas por los profesionales: Las Nox AT10 PRO 2024 son las zapatillas favoritas del jugador número 1 de Premier Padel, Agustin Tapia. Las utiliza tanto para entrenar como para sus partidos oficiales, asegurándole un rendimiento óptimo y la máxima comodidad en todo momento.Zapatillas oficiales de Premier Padel España 2024Aprobadas clínicamente por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, asesora del Centro de Alto Rendimiento Deportivo de Sant Cugat (España) y de cientos de atletas de élite.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43952507316&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-nox-at10-pro-43952507317",
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
@@ -30529,7 +30635,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox AT10 Pro",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 51.12,
+    "price": 50.35,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -30552,9 +30658,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 51.12,
+        "price": 50.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358551&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-nox-ml10-42529358552",
+    "name": "Sapatilhas de padel Nox ML10",
+    "brand": "Nox",
+    "category": "sapatilhas",
+    "price": 99.83,
+    "oldPrice": 131.08,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_calmlhexwhap39_blanc-abricot_1.webp&feedId=93547&k=113c4c48155c367379258b1025826682fe20701e",
+    "ean": "8436603198578",
+    "productGTIN": null,
+    "mpn": "CALMLHEXWHAP39",
+    "source": "smash-expert",
+    "sourceProductId": "42529358552",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "¡Prepárate para una revolución en el calzado de pádel con las nuevas zapatillas de pádel Nox ML10 HEXA White/Albaricoque 2024 Edition! Estas zapatillas, diseñadas con la tecnología más avanzada, no solo elevan tu rendimiento en la cancha, sino que también cuidan de tu salud en cada movimiento.Tecnología de punta para las zapatillas de pádel para el mejor rendimientoElegidas por los profesionales: Las Nox ML10 HEXA 2024 son las zapatillas favoritas del jugador más carismático del circuito de pádel, Miguel Lamperti. Las utiliza tanto para el entrenamiento como para sus partidos oficiales, lo que le asegura un rendimiento óptimo y una máxima comodidad en todo momento.Zapatillas oficiales de Premier Padel España 2024Clínicamente aprobadas por Marta Rueda, podóloga en el Centro de Estudios del Pie Martín Rueda, consejera del Centro de Alto Rendimiento Deportivo de Sant Cugat (España) y de cientos de atletas de élite.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 99.83,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=42529358552&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -30564,7 +30705,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox ML10",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 99.83,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -30587,7 +30728,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358553&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30599,7 +30740,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox ML10",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 130.08,
+    "price": 97.81,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -30622,7 +30763,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.08,
+        "price": 97.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358554&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30704,7 +30845,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox ML10",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 99.83,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -30727,7 +30868,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358558&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30739,7 +30880,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox ML10",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 99.83,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -30762,7 +30903,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358559&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30774,7 +30915,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Nox ML10",
     "brand": "Nox",
     "category": "sapatilhas",
-    "price": 101.84,
+    "price": 99.83,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -30797,7 +30938,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.84,
+        "price": 99.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529358560&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30809,8 +30950,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Cesto plegable para pelotas de padel Nox",
     "brand": "Nox",
     "category": "acessorios",
-    "price": 99.83,
-    "oldPrice": 99.83,
+    "price": 104.04,
+    "oldPrice": 104.04,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_cestoplero_rouge_1.webp&feedId=93547&k=0e922a1d683496ebc880916fa2306e7aa793c48f",
@@ -30826,7 +30967,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 104.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365123&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30838,7 +30979,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 18K - Buenos Aires Exclusive Edition",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 308.55,
+    "price": 312.58,
     "oldPrice": 402.33,
     "rating": null,
     "badge": null,
@@ -30862,45 +31003,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 308.55,
+        "price": 312.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43165020586&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-nox-at10-genius-18k-alum-2024-par-agustin-tapia-44353664377",
-    "name": "Raqueta de padel Nox AT10 Genius 18K Alum 2024 Par Agustin Tapia",
-    "brand": "Nox",
-    "category": "raquetes",
-    "price": 273.26,
-    "oldPrice": 326.7,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_8436603195836_blanc_1.webp&feedId=93547&k=f88b13b06dbf92a983c6ee630c1f323ec5dd8850",
-    "ean": "8436603195836",
-    "productGTIN": null,
-    "mpn": "8436603195836",
-    "source": "smash-expert",
-    "sourceProductId": "44353664377",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La nueva pala de pádel de Agustín Tapia para la temporada 2024 representa una revolución tecnológica total. Nuevo molde, nuevos materiales y nuevas tecnologías para que puedas sentir desde hoy el pádel del futuro.Más equilibrio, más velocidadLos bordes de los perfiles han sido moldeados para aumentar la aerodinámica, el grip ha sido alargado para facilitar el agarre, pero lo que más se destaca es la incorporación de la tecnología EOS Flap, perforaciones laterales diseñadas para aumentar la maniobrabilidad de la pala y distribuir el peso para que tengas entre las manos una pala rápida y letal.Cómoda, sólida y fiableLa nueva combinación de materiales, con la fibra de carbono aluminada 18K Alum en comunión con el núcleo multicapa MLD Black Eva, le confiere una sensación muy cómoda a la vez que preserva una sensación de solidez y dureza media.Además, las propiedades de la fibra de carbono aluminada la hacen más resistente a los cambios de temperatura, reduciendo así los cambios e......",
-    "specs": {
-      "peso": "10g",
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 273.26,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44353664377&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -30946,8 +31051,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox Future Attack 12K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 231.15,
-    "oldPrice": 272.24,
+    "price": 161.33,
+    "oldPrice": 271.24,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_pfutatt25_alum_1.webp&feedId=93547&k=802faf6c9a6e9220114abddeed245bc304710048",
@@ -30970,7 +31075,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 231.15,
+        "price": 161.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365305&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -30982,7 +31087,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox Future Control 12K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 197.63,
+    "price": 173.43,
     "oldPrice": 271.24,
     "rating": null,
     "badge": null,
@@ -31006,7 +31111,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 197.63,
+        "price": 173.43,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365306&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31054,7 +31159,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox ML10 Pro Cup Coorp Miguel Lamperti",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 148.23,
+    "price": 147.22,
     "oldPrice": 150.24,
     "rating": null,
     "badge": null,
@@ -31078,45 +31183,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 148.23,
+        "price": 147.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365308&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-nox-nextgen-pro-attack-3k-nfa-series-42529365311",
-    "name": "Raqueta de padel Nox NextGen Pro Attack 3K NFA Series",
-    "brand": "Nox",
-    "category": "raquetes",
-    "price": 173.43,
-    "oldPrice": 200.66,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_pnfangatt_argente_1.webp&feedId=93547&k=6b8649e5ece3b7188ed563e1f3cd28e94bccdf83",
-    "ean": "8435778900597",
-    "productGTIN": null,
-    "mpn": "PNFANGATT",
-    "source": "smash-expert",
-    "sourceProductId": "42529365311",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "NextGen PRO Attack 3K - La pala de las jóvenes promesas del pádelDiseñada para las futuras estrellas de la Nox Future Academy (NFA), la NextGen PRO Attack 3K es la elección perfecta para los jugadores que buscan potencia, precisión y alto rendimiento.Este modelo ha sido elegido por jóvenes talentos que ya han comenzado a destacar en el circuito Premier Padel, como Rama Valenzuela, Dylan Cuello y Facu Dehnike, quienes se han hecho un nombre en sus respectivos países.Potencia y tecnología para los jugadores ofensivosLa NextGen PRO Attack 3K pertenece a la serie NFA, diseñada para jugadores con un estilo de juego agresivo y ofensivo. Su construcción y tecnologías avanzadas la convierten en la mejor aliada para aquellos que buscan dominar la red y terminar con autoridad.Materiales de alta calidad para un rendimiento máximoMarco de carbono para la solidez y durabilidad.Núcleo HR3 Black Eva para una salida de bola explosiva y control.Superficie rugosa para más efectosAcabado ......",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": "Carbono",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 173.43,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529365311&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -31162,7 +31231,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox Quantum 12K",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 233.93,
+    "price": 222.84,
     "oldPrice": 341.83,
     "rating": null,
     "badge": null,
@@ -31186,7 +31255,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 233.93,
+        "price": 222.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365314&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31234,7 +31303,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox VK10 Quantum 3K Aranzazu Osoro",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 194.61,
+    "price": 186.54,
     "oldPrice": 341.83,
     "rating": null,
     "badge": null,
@@ -31258,7 +31327,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 194.61,
+        "price": 186.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365317&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31270,7 +31339,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox AT10 Team",
     "brand": "Nox",
     "category": "sacos",
-    "price": 55.21,
+    "price": 53.19,
     "oldPrice": 70.53,
     "rating": null,
     "badge": null,
@@ -31287,7 +31356,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 55.21,
+        "price": 53.19,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365339&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31328,7 +31397,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox AT10 Team",
     "brand": "Nox",
     "category": "sacos",
-    "price": 66.55,
+    "price": 64.53,
     "oldPrice": 69.58,
     "rating": null,
     "badge": null,
@@ -31345,7 +31414,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 66.55,
+        "price": 64.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432391544&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31502,8 +31571,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox Master Séries",
     "brand": "Nox",
     "category": "sacos",
-    "price": 99.83,
-    "oldPrice": 99.83,
+    "price": 84.55,
+    "oldPrice": 100.82,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_bpluxmaster_blanc_1.webp&feedId=93547&k=9d16073f5ce13a54b7e7a8efd35688b512b059da",
@@ -31519,7 +31588,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 99.83,
+        "price": 84.55,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365348&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31531,7 +31600,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox ML10 Team",
     "brand": "Nox",
     "category": "sacos",
-    "price": 66.55,
+    "price": 64.53,
     "oldPrice": 69.58,
     "rating": null,
     "badge": null,
@@ -31548,7 +31617,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 66.55,
+        "price": 64.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365349&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31618,8 +31687,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox Street Séries",
     "brand": "Nox",
     "category": "sacos",
-    "price": 64.53,
-    "oldPrice": 64.53,
+    "price": 55.92,
+    "oldPrice": 65.49,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2F2%2F0%2F2026_02_nox_bpstskbl_1.webp&feedId=93547&k=9fffb13fa1bef0f4ee4545b7bfb430e349d4d2f6",
@@ -31635,7 +31704,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.53,
+        "price": 55.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529365358&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31647,7 +31716,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox Street Séries",
     "brand": "Nox",
     "category": "sacos",
-    "price": 55.08,
+    "price": 55.92,
     "oldPrice": 65.49,
     "rating": null,
     "badge": null,
@@ -31664,7 +31733,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 55.08,
+        "price": 55.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44389601686&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31676,8 +31745,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Nox Street Séries",
     "brand": "Nox",
     "category": "sacos",
-    "price": 55.92,
-    "oldPrice": 65.49,
+    "price": 64.53,
+    "oldPrice": 64.53,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox_bpstblgr_noir-gris_1.webp&feedId=93547&k=0e6a76587459916250f480d3557cbfaec0a5d5f5",
@@ -31693,7 +31762,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 55.92,
+        "price": 64.53,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44389601687&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -31806,46 +31875,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-game-ff-43275975828",
-    "name": "Sapatilhas de padel Asics Game FF",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 90.75,
-    "oldPrice": 90.75,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a493---101_white-misty-pine_3.webp&feedId=93547&k=ba0023e7725329edc6016e69ee80e74d493486c4",
-    "ean": "4571633430428",
-    "productGTIN": null,
-    "mpn": "1041A493 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43275975828",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "A la vez ligera y flexible, la zapatilla GEL-GAME FF PADEL es versátil para los jugadores en todas las superficies de juego. Nuestro objetivo esta temporada fue mejorar la ventilación y la flexibilidad de la zapatilla manteniendo sus excelentes propiedades de soporte. Equipado con un diseño de malla abierta en la parte superior para mejorar la circulación del aire y mantener los pies frescos, esta zapatilla se complementa con paneles de cuero sintético y una película de PU (poliuretano) que ofrece una mejor estabilidad durante las transiciones bruscas. La tecnología TRUSSTIC de la entresuela garantiza una mejor estabilidad en la pista. Al mismo tiempo, la tecnología FLYTEFOAM integrada en la entresuela ofrece una amortiguación ligera.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 90.75,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975828&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-asics-game-ff-43275975831",
     "name": "Sapatilhas de padel Asics Game FF",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 60.95,
+    "price": 58.48,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -31868,7 +31902,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 60.95,
+        "price": 58.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975831&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -32016,11 +32050,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-43275975837",
+    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 121,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---101_white-misty-pine_3.webp&feedId=93547&k=3531f59d13c1405005dbf011eff198ae23b5a2a8",
+    "ean": "4571633426421",
+    "productGTIN": null,
+    "mpn": "1041A511 - 101",
+    "source": "smash-expert",
+    "sourceProductId": "43275975837",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 121,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43275975837&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-43275975838",
     "name": "Sapatilhas de padel Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 86.86,
+    "price": 121,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -32043,9 +32112,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.86,
+        "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975838&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-43348617352",
+    "name": "Sapatilhas de padel Asics Gel-Challenger 15",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 121,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a511---101_white-misty-pine_3.webp&feedId=93547&k=3531f59d13c1405005dbf011eff198ae23b5a2a8",
+    "ean": "4571633426513",
+    "productGTIN": null,
+    "mpn": "1041A511 - 101",
+    "source": "smash-expert",
+    "sourceProductId": "43348617352",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 121,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43348617352&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -32265,7 +32369,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Gel-Challenger 15 L.E",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 91.76,
+    "price": 95.35,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -32288,7 +32392,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 91.76,
+        "price": 95.35,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43802465484&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -32300,7 +32404,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Gel-Challenger 15 L.E",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 93.97,
+    "price": 91.76,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -32323,7 +32427,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 93.97,
+        "price": 91.76,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43802465485&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -32335,7 +32439,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Gel-Challenger 15 L.E",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 91.76,
+    "price": 93.97,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -32358,7 +32462,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 91.76,
+        "price": 93.97,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43802465486&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -32576,41 +32680,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-l-e-43856278602",
-    "name": "Sapatilhas de padel Asics Gel-Challenger 15 L.E",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 93.97,
-    "oldPrice": 131.08,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a550---750_safety-yellow-twilight-blue_3.webp&feedId=93547&k=70bad4cec55f5993dc0cb8e41689786acbb59f0c",
-    "ean": "4571633404818",
-    "productGTIN": null,
-    "mpn": "1041A550 - 750",
-    "source": "smash-expert",
-    "sourceProductId": "43856278602",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Gel-Challenger 15 L.E están diseñadas específicamente para satisfacer las exigencias de los jugadores de pádel. Con una atención especial a los detalles, combinan rendimiento y comodidad para ofrecer una experiencia de juego óptima.Estas zapatillas se destacan por su excelente adherencia gracias a una suela exterior de goma que asegura una tracción superior en diferentes tipos de superficies de juego. Esto permite a los jugadores pivote, frenar y acelerar con confianza, reduciendo así el riesgo de resbalones y caídas.El sistema de gel integrado en la amortiguación ofrece una comodidad inigualable, absorbiendo los impactos durante los movimientos rápidos en la cancha. Esta tecnología también mejora la reactividad, ayudándote a moverte más rápido y con más agilidad.El soporte es otro aspecto esencial de las zapatillas de pádel Asics Gel-Challenger 15 L.E. El diseño ergonómico, con un soporte lateral adecuado, protege tus pies mientras permite una liber......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 93.97,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43856278602&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-asics-gel-challenger-15-l-e-43856278603",
     "name": "Sapatilhas de padel Asics Gel-Challenger 15 L.E",
     "brand": "ASICS",
@@ -32681,81 +32750,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-dedicate-8-43275975840",
-    "name": "Sapatilhas de padel Asics Gel-dedicate 8",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 54.84,
-    "oldPrice": 75.63,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a414---003_black-vital-green_2.webp&feedId=93547&k=26d041c9286d8c274f26ec2ed099d33ad50ba4e0",
-    "ean": "4571633427473",
-    "productGTIN": null,
-    "mpn": "1041A414 - 003",
-    "source": "smash-expert",
-    "sourceProductId": "43275975840",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "La zapatilla de pádel GEL-DEDICATE 8 PADEL ofrece buena estabilidad y una sensación de flexibilidad para que te mantengas concentrado durante el partido. Este upper está compuesto por superposiciones de cuero sintético para mejorar la comodidad. Permiten que tus pies se mantengan estables cuando te mueves y atrapas las bolas difíciles. Una unidad de soporte TRUSSTIC y una suela exterior envolvente mejoran la estabilidad mientras permiten que tus pies se muevan libremente. Esto te permite cambiar de dirección con confianza, especialmente si te mueves lateralmente.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 54.84,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975840&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-dedicate-8-43275975841",
-    "name": "Sapatilhas de padel Asics Gel-dedicate 8",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 54.84,
-    "oldPrice": 75.63,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a414---003_black-vital-green_2.webp&feedId=93547&k=26d041c9286d8c274f26ec2ed099d33ad50ba4e0",
-    "ean": "4571633427374",
-    "productGTIN": null,
-    "mpn": "1041A414 - 003",
-    "source": "smash-expert",
-    "sourceProductId": "43275975841",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "La zapatilla de pádel GEL-DEDICATE 8 PADEL ofrece buena estabilidad y una sensación de flexibilidad para que te mantengas concentrado durante el partido. Este upper está compuesto por superposiciones de cuero sintético para mejorar la comodidad. Permiten que tus pies se mantengan estables cuando te mueves y atrapas las bolas difíciles. Una unidad de soporte TRUSSTIC y una suela exterior envolvente mejoran la estabilidad mientras permiten que tus pies se muevan libremente. Esto te permite cambiar de dirección con confianza, especialmente si te mueves lateralmente.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 54.84,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975841&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-asics-gel-dedicate-8-43275975843",
     "name": "Sapatilhas de padel Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 52.44,
+    "price": 50.95,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -32778,7 +32777,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 52.44,
+        "price": 50.95,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975843&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -32816,41 +32815,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 75.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975848&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-dedicate-8-43297245912",
-    "name": "Sapatilhas de padel Asics Gel-dedicate 8",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 75.63,
-    "oldPrice": 75.63,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a414---003_black-vital-green_2.webp&feedId=93547&k=26d041c9286d8c274f26ec2ed099d33ad50ba4e0",
-    "ean": "4571633427367",
-    "productGTIN": null,
-    "mpn": "1041A414 - 003",
-    "source": "smash-expert",
-    "sourceProductId": "43297245912",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "La zapatilla de pádel GEL-DEDICATE 8 PADEL ofrece buena estabilidad y una sensación de flexibilidad para que te mantengas concentrado durante el partido. Este upper está compuesto por superposiciones de cuero sintético para mejorar la comodidad. Permiten que tus pies se mantengan estables cuando te mueves y atrapas las bolas difíciles. Una unidad de soporte TRUSSTIC y una suela exterior envolvente mejoran la estabilidad mientras permiten que tus pies se muevan libremente. Esto te permite cambiar de dirección con confianza, especialmente si te mueves lateralmente.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 75.63,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43297245912&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -32926,20 +32890,20 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-asics-gel-resolution-x-43318502529",
+    "id": "smash-expert-sapatilhas-de-padel-asics-gel-resolution-x-43341008742",
     "name": "Sapatilhas de padel Asics Gel-Resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 121,
+    "price": 161.33,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a492---403_saba-blue-cool-grey_3.webp&feedId=93547&k=4594235d6f2d5c5b0f37c12a9c3b09abf3b0b4ea",
-    "ean": "4571633426148",
+    "ean": "4571633426162",
     "productGTIN": null,
     "mpn": "1041A492 - 403",
     "source": "smash-expert",
-    "sourceProductId": "43318502529",
+    "sourceProductId": "43341008742",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
     "description": "La zapatilla GEL-RESOLUTION™ X PADEL ofrece una máxima estabilidad y un confort incomparable. La zapatilla mantiene el pie bien sujeto para garantizar una transición fluida y reducir el tiempo necesario para realizar una parada lateral. Diseñada para controlar mejor el partido, es la más estable de nuestras zapatillas de pádel. La estructura DYNAWALL™ facilita los desplazamientos laterales, lo que reduce el tiempo necesario para cambiar de dirección y volver a la posición para el siguiente golpe. Además, el sistema de cordones DYNALACING™ permite un ajuste perfecto para mantener los pies bien en su lugar durante los movimientos laterales. Su espuma FF BLAST™ PLUS ECO también ha sido específicamente rediseñada para el pádel con el fin de ofrecer un confort excepcional durante todo el partido. ¿Cómo garantiza la GEL-RESOLUTION™ X una estabilidad y un confort máximos? La estructura DYNAWALL™ facilita los movimientos laterales y permite volver rápidamente a la posición. La tecnología DYNAL...",
     "specs": {
@@ -32953,9 +32917,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 121,
+        "price": 161.33,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43318502529&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=43341008742&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -32965,7 +32929,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 141.17,
+    "price": 139.15,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -32988,7 +32952,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 141.17,
+        "price": 139.15,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770949663&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33000,7 +32964,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 135.12,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33023,7 +32987,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 135.12,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43881544952&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33101,6 +33065,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-asics-sonicsmash-ff-43341008745",
+    "name": "Sapatilhas de padel Asics Sonicsmash Ff",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 104.07,
+    "oldPrice": 141.17,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a538---400_saba-blue-vital-green_3.webp&feedId=93547&k=cb9ea6aa5085b3e1e60dd85e746daf41a6def2ca",
+    "ean": "4571633403415",
+    "productGTIN": null,
+    "mpn": "1041A538 - 400",
+    "source": "smash-expert",
+    "sourceProductId": "43341008745",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Asics Sonicsmash Ff están diseñadas especialmente para los apasionados de este deporte dinámico y exigente. Con su diseño innovador, se adaptan perfectamente a las necesidades de los jugadores, ya sean principiantes o expertos. Cada elemento de estas zapatillas ha sido pensado para ofrecer una comodidad y un rendimiento inigualables en la cancha.La tecnología de punta integrada en las zapatillas de pádel Asics garantiza una excelente adherencia, permitiendo a los jugadores moverse rápidamente y de manera segura. Gracias a la suela exterior diseñada para las superficies de pádel, se facilitan los movimientos laterales, minimizando así el riesgo de resbalones.Estas zapatillas se destacan por su ligereza y transpirabilidad. La parte superior está fabricada con materiales de alta calidad que aseguran una ventilación óptima mientras ofrecen un soporte adecuado al pie. Esto permite jugar durante largas horas sin sentir una fatiga excesiva.Las zapatillas de pádel......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 104.07,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43341008745&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-asics-sonicsmash-ff-43275975851",
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
@@ -33140,7 +33139,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33163,7 +33162,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975852&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33175,7 +33174,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 96.89,
+    "price": 101.09,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33198,7 +33197,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.89,
+        "price": 101.09,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975853&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33245,7 +33244,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 96.89,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33268,7 +33267,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 96.89,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975854&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33280,7 +33279,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33303,7 +33302,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43297245918&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33315,7 +33314,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 104.07,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33338,7 +33337,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 104.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43348617359&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33455,7 +33454,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 119.99,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33478,7 +33477,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 119.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43881544953&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33490,7 +33489,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 139.15,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33513,7 +33512,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 139.15,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43406653528&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33525,7 +33524,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33548,7 +33547,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43348617362&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33595,7 +33594,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 94.27,
+    "price": 90.58,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33618,7 +33617,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 94.27,
+        "price": 90.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975856&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33700,7 +33699,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 104.07,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33723,7 +33722,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 104.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43297245919&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33735,7 +33734,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 94.27,
+    "price": 90.58,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33758,7 +33757,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 94.27,
+        "price": 90.58,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43297245920&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33770,7 +33769,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 94.27,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33793,7 +33792,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 94.27,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43297245921&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -33805,7 +33804,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -33828,149 +33827,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43297245922&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-sonicsmash-ff-43297245923",
-    "name": "Sapatilhas de padel Asics Sonicsmash Ff",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 101.09,
-    "oldPrice": 141.17,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a538---300_vital-green-misty-pine_1.webp&feedId=93547&k=c4d8cb44762e8c2efa5906ea0cf19bf3eaafad7d",
-    "ean": "4571633441080",
-    "productGTIN": null,
-    "mpn": "1041A538 - 300",
-    "source": "smash-expert",
-    "sourceProductId": "43297245923",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Sonicsmash Ff están diseñadas especialmente para los apasionados de este deporte dinámico y exigente. Con su diseño innovador, se adaptan perfectamente a las necesidades de los jugadores, ya sean principiantes o expertos. Cada elemento de estas zapatillas ha sido pensado para ofrecer una comodidad y un rendimiento inigualables en la cancha.La tecnología de punta integrada en las zapatillas de pádel Asics garantiza una excelente adherencia, permitiendo a los jugadores moverse rápidamente y de manera segura. Gracias a la suela exterior diseñada para las superficies de pádel, se facilitan los movimientos laterales, minimizando así el riesgo de resbalones.Estas zapatillas se destacan por su ligereza y transpirabilidad. La parte superior está fabricada con materiales de alta calidad que aseguran una ventilación óptima mientras ofrecen un soporte adecuado al pie. Esto permite jugar durante largas horas sin sentir una fatiga excesiva.Las zapatillas de pádel......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 101.09,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43297245923&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-asics-sonicsmash-ff-43770949664",
-    "name": "Sapatilhas de padel Asics Sonicsmash Ff",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 102.56,
-    "oldPrice": 141.17,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1041a538---300_vital-green-misty-pine_1.webp&feedId=93547&k=c4d8cb44762e8c2efa5906ea0cf19bf3eaafad7d",
-    "ean": "4571633441073",
-    "productGTIN": null,
-    "mpn": "1041A538 - 300",
-    "source": "smash-expert",
-    "sourceProductId": "43770949664",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel Asics Sonicsmash Ff están diseñadas especialmente para los apasionados de este deporte dinámico y exigente. Con su diseño innovador, se adaptan perfectamente a las necesidades de los jugadores, ya sean principiantes o expertos. Cada elemento de estas zapatillas ha sido pensado para ofrecer una comodidad y un rendimiento inigualables en la cancha.La tecnología de punta integrada en las zapatillas de pádel Asics garantiza una excelente adherencia, permitiendo a los jugadores moverse rápidamente y de manera segura. Gracias a la suela exterior diseñada para las superficies de pádel, se facilitan los movimientos laterales, minimizando así el riesgo de resbalones.Estas zapatillas se destacan por su ligereza y transpirabilidad. La parte superior está fabricada con materiales de alta calidad que aseguran una ventilación óptima mientras ofrecen un soporte adecuado al pie. Esto permite jugar durante largas horas sin sentir una fatiga excesiva.Las zapatillas de pádel......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
         "price": 102.56,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43770949664&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975889",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---700_guava-amethyst_1.webp&feedId=93547&k=645f4eea97290044d887b44adc3ceb03a731580c",
-    "ean": "4571633432644",
-    "productGTIN": null,
-    "mpn": "1042A296 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43275975889",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975889&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975890",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---700_guava-amethyst_1.webp&feedId=93547&k=645f4eea97290044d887b44adc3ceb03a731580c",
-    "ean": "4571633432682",
-    "productGTIN": null,
-    "mpn": "1042A296 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43275975890",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975890&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=43297245922&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -33980,7 +33839,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 88.14,
+    "price": 86.86,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34003,7 +33862,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 88.14,
+        "price": 86.86,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975891&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -34291,76 +34150,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975900",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---700_guava-amethyst_1.webp&feedId=93547&k=645f4eea97290044d887b44adc3ceb03a731580c",
-    "ean": "4571633432750",
-    "productGTIN": null,
-    "mpn": "1042A296 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43275975900",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975900&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975901",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---700_guava-amethyst_1.webp&feedId=93547&k=645f4eea97290044d887b44adc3ceb03a731580c",
-    "ean": "4571633432651",
-    "productGTIN": null,
-    "mpn": "1042A296 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43275975901",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975901&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975902",
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
@@ -34396,116 +34185,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43275975903",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---700_guava-amethyst_1.webp&feedId=93547&k=645f4eea97290044d887b44adc3ceb03a731580c",
-    "ean": "4571633432712",
-    "productGTIN": null,
-    "mpn": "1042A296 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43275975903",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43275975903&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43288547042",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---101_white-guava_3.webp&feedId=93547&k=4eee800faa68a406f7e26b143bc60d5de956a714",
-    "ean": "4571633445781",
-    "productGTIN": null,
-    "mpn": "1042A296 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43288547042",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43288547042&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43288547043",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---101_white-guava_3.webp&feedId=93547&k=4eee800faa68a406f7e26b143bc60d5de956a714",
-    "ean": "4571633445682",
-    "productGTIN": null,
-    "mpn": "1042A296 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43288547043",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43288547043&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43288547044",
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 77.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34528,7 +34212,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 77.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547044&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -34540,7 +34224,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 75.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34563,7 +34247,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 75.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547045&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -34575,7 +34259,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 77.74,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34598,7 +34282,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 77.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547046&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -34645,7 +34329,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 80.94,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34668,7 +34352,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 80.94,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547048&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -34820,7 +34504,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 86.86,
+    "price": 88.14,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -34843,114 +34527,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 86.86,
+        "price": 88.14,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43348617370&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43348617371",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---101_white-guava_3.webp&feedId=93547&k=4eee800faa68a406f7e26b143bc60d5de956a714",
-    "ean": "4571633445736",
-    "productGTIN": null,
-    "mpn": "1042A296 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43348617371",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43348617371&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43288547053",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---101_white-guava_3.webp&feedId=93547&k=4eee800faa68a406f7e26b143bc60d5de956a714",
-    "ean": "4571633445798",
-    "productGTIN": null,
-    "mpn": "1042A296 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43288547053",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43288547053&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-challenger-15-43288547054",
-    "name": "Sapatilhas de padel para mujer Asics Gel-Challenger 15",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 86.86,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a296---101_white-guava_3.webp&feedId=93547&k=4eee800faa68a406f7e26b143bc60d5de956a714",
-    "ean": "4571633445729",
-    "productGTIN": null,
-    "mpn": "1042A296 - 101",
-    "source": "smash-expert",
-    "sourceProductId": "43288547054",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de tenis para pista de pádel GEL-CHALLENGER 15 PADEL es una de nuestras zapatillas más cómodas para el deporte. La parte superior suave pero estable de la zapatilla también se combina con un collar más grueso para crear un ajuste más cómodo alrededor de tu pie. La tecnología WINGWALL está ubicada en el lado lateral para mejorar la estabilidad durante los movimientos laterales. Esta característica ofrece un gran soporte, para que puedas lanzarte a por una bola o golpearla con más ritmo. La suela exterior de toda la longitud ayuda a crear una zona de contacto más grande. Esto genera aterrizajes más suaves para un mejor confort general.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 86.86,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43288547054&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -35030,7 +34609,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35053,7 +34632,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547055&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35065,7 +34644,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35088,7 +34667,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547056&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35100,7 +34679,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35123,7 +34702,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547057&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35170,7 +34749,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35193,7 +34772,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547059&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35205,7 +34784,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35228,7 +34807,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547060&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35240,7 +34819,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 50.95,
+    "price": 43.92,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -35263,7 +34842,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 50.95,
+        "price": 43.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547061&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35341,41 +34920,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-dedicate-8-43288547064",
-    "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 55.68,
-    "oldPrice": 75.63,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a241---700_guava-white_1.webp&feedId=93547&k=0afbb97895c9e581409f41d19ae90c4188ee6741",
-    "ean": "4571633409837",
-    "productGTIN": null,
-    "mpn": "1042A241 - 700",
-    "source": "smash-expert",
-    "sourceProductId": "43288547064",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla de pádel GEL-DEDICATE 8 PADEL ofrece una buena estabilidad y una sensación de flexibilidad para que mantengas tu concentración durante el partido. Esta parte superior está compuesta de superposiciones de cuero sintético para mejorar la comodidad. Permiten que tus pies se mantengan estables mientras te mueves y atrapas las bolas difíciles. Una unidad de soporte TRUSSTIC y una suela exterior envolvente mejoran la estabilidad al tiempo que permiten que tus pies se muevan libremente. Esto te permite cambiar de dirección con confianza, especialmente si te mueves lateralmente.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 55.68,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43288547064&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-dedicate-8-43288547065",
     "name": "Sapatilhas de padel para mujer Asics Gel-dedicate 8",
     "brand": "ASICS",
@@ -35406,6 +34950,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 54.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43288547065&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-43654172641",
+    "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
+    "brand": "ASICS",
+    "category": "sapatilhas",
+    "price": 116.98,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a285---501_amethyst-illuminate-green_3.webp&feedId=93547&k=7e6eac832ad16a6924c5656650ae37afd4813b8c",
+    "ean": "4571633409295",
+    "productGTIN": null,
+    "mpn": "1042A285 - 501",
+    "source": "smash-expert",
+    "sourceProductId": "43654172641",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "La zapatilla GEL-RESOLUTION™ X PADEL ofrece una máxima estabilidad y un confort incomparable. La zapatilla mantiene el pie bien sujeto para garantizar una transición fluida y reducir el tiempo necesario para realizar una parada lateral. Diseñada para controlar mejor el partido, es la más estable de nuestras zapatillas de pádel. La estructura DYNAWALL™ facilita los desplazamientos laterales, lo que reduce el tiempo necesario para cambiar de dirección y volver a la posición para el siguiente golpe. Además, el sistema de cordones DYNALACING™ permite un ajuste perfecto para mantener los pies bien en su lugar durante los movimientos laterales. Su espuma FF BLAST™ PLUS ECO también ha sido específicamente rediseñada para el pádel con el fin de ofrecer un confort excepcional durante todo el partido. ¿Cómo garantiza la GEL-RESOLUTION™ X una estabilidad y un confort máximos? La estructura DYNAWALL™ facilita los movimientos laterales y permite volver rápidamente a la posición. La tecnología DYNAL...",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 116.98,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43654172641&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -35446,46 +35025,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-43362468946",
-    "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
-    "brand": "ASICS",
-    "category": "sapatilhas",
-    "price": 115.3,
-    "oldPrice": 161.33,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fs%2Fasics_1042a285---501_amethyst-illuminate-green_3.webp&feedId=93547&k=7e6eac832ad16a6924c5656650ae37afd4813b8c",
-    "ean": "4571633409363",
-    "productGTIN": null,
-    "mpn": "1042A285 - 501",
-    "source": "smash-expert",
-    "sourceProductId": "43362468946",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "La zapatilla GEL-RESOLUTION™ X PADEL ofrece una máxima estabilidad y un confort incomparable. La zapatilla mantiene el pie bien sujeto para garantizar una transición fluida y reducir el tiempo necesario para realizar una parada lateral. Diseñada para controlar mejor el partido, es la más estable de nuestras zapatillas de pádel. La estructura DYNAWALL™ facilita los desplazamientos laterales, lo que reduce el tiempo necesario para cambiar de dirección y volver a la posición para el siguiente golpe. Además, el sistema de cordones DYNALACING™ permite un ajuste perfecto para mantener los pies bien en su lugar durante los movimientos laterales. Su espuma FF BLAST™ PLUS ECO también ha sido específicamente rediseñada para el pádel con el fin de ofrecer un confort excepcional durante todo el partido. ¿Cómo garantiza la GEL-RESOLUTION™ X una estabilidad y un confort máximos? La estructura DYNAWALL™ facilita los movimientos laterales y permite volver rápidamente a la posición. La tecnología DYNAL...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 115.3,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43362468946&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-asics-gel-resolution-x-43348617375",
     "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 107.6,
+    "price": 103.41,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -35508,7 +35052,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.6,
+        "price": 103.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43348617375&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35520,7 +35064,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 107.6,
+    "price": 103.41,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -35543,7 +35087,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.6,
+        "price": 103.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975921&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35555,7 +35099,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 107.6,
+    "price": 103.41,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -35578,7 +35122,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.6,
+        "price": 103.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975922&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35590,7 +35134,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 107.6,
+    "price": 103.41,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -35613,7 +35157,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 107.6,
+        "price": 103.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43362468947&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35625,7 +35169,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Gel-resolution X",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 115.3,
+    "price": 161.33,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -35648,7 +35192,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 115.3,
+        "price": 161.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44679052836&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35660,7 +35204,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -35683,7 +35227,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975925&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -35940,7 +35484,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -35963,7 +35507,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975929&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36010,7 +35554,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Asics Sonicsmash Ff",
     "brand": "ASICS",
     "category": "sapatilhas",
-    "price": 101.09,
+    "price": 102.56,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -36033,7 +35577,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 101.09,
+        "price": 102.56,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43275975931&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36215,7 +35759,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor Evolution Alpha 2025",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 305.53,
+    "price": 320.65,
     "oldPrice": 351.91,
     "rating": null,
     "badge": null,
@@ -36239,7 +35783,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 305.53,
+        "price": 320.65,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42403360633&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36251,7 +35795,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor Evolution Diamond Alpha 2025",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 263.18,
+    "price": 261.16,
     "oldPrice": 281.33,
     "rating": null,
     "badge": null,
@@ -36275,45 +35819,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 263.18,
+        "price": 261.16,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44505864793&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-sane-padel-agressor-evolution-omega-2025-42529406081",
-    "name": "Raqueta de padel Sane Padel Agressor Evolution Omega 2025",
-    "brand": "Sane Padel",
-    "category": "raquetes",
-    "price": 238.98,
-    "oldPrice": 341.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fa%2Fsane-padel_8436564323088_black_1.webp&feedId=93547&k=74fe822fed44160f68bb2d8fe43973d33eed1ed6",
-    "ean": "8436564323088",
-    "productGTIN": null,
-    "mpn": "8436564323088",
-    "source": "smash-expert",
-    "sourceProductId": "42529406081",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La nueva Agressor Evolution Omega tiene una forma híbrida de gota-redonda que le proporciona un excelente equilibrio entre control y potencia. Compuesta de carbono 12k twill junto con nuestra nueva goma PRO REACTIVE, esta pala te ofrecerá una salida de bola rápida y un tacto medio-duro. El diseño de nuestro patrón de perforación EXA-HOLES permite una distribución óptima del punto dulce para un rendimiento excepcional. La nueva colección incorpora un nuevo patrón en relieve directamente del molde, lo que dota a la pala de una abrasividad muy alta, permitiendo efectos nunca vistos antes.Forma: Híbrida gota-redondaSuperficie: Carbono 12K twill + patrón en relieve (abrasividad alta)Nivel de juego: avanzado",
-    "specs": {
-      "peso": null,
-      "forma": "Redonda",
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": "Carbono 12K",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 238.98,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529406081&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -36323,7 +35831,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor VI",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 140.26,
+    "price": 142.28,
     "oldPrice": 372.08,
     "rating": null,
     "badge": null,
@@ -36347,7 +35855,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 140.26,
+        "price": 142.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529406082&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36431,7 +35939,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor VII",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 156.29,
+    "price": 155.28,
     "oldPrice": 351.91,
     "rating": null,
     "badge": null,
@@ -36455,7 +35963,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 156.29,
+        "price": 155.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44323007701&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36467,7 +35975,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor VII",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 150.05,
+    "price": 152.2,
     "oldPrice": 301.49,
     "rating": null,
     "badge": null,
@@ -36491,7 +35999,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 150.05,
+        "price": 152.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529406086&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36503,7 +36011,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Sane Padel Agressor VII",
     "brand": "Sane Padel",
     "category": "raquetes",
-    "price": 188.56,
+    "price": 183.52,
     "oldPrice": 311.58,
     "rating": null,
     "badge": null,
@@ -36527,7 +36035,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 188.56,
+        "price": 183.52,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529406087&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -36710,42 +36218,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 139.16,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42529406098&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-sane-padel-cinetik-28-advanced-javi-ruiz-2025-42529406099",
-    "name": "Raqueta de padel Sane Padel Cinetik 28 Advanced - Javi Ruiz 2025",
-    "brand": "Sane Padel",
-    "category": "raquetes",
-    "price": 153.88,
-    "oldPrice": 251.08,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fs%2Fa%2Fsane-padel_8436564323156_silver-blue_1.webp&feedId=93547&k=f38c673e0615cea95745bc2a23b38854a80c8bfa",
-    "ean": "8436564323156",
-    "productGTIN": null,
-    "mpn": "8436564323156",
-    "source": "smash-expert",
-    "sourceProductId": "42529406099",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "¡La raqueta de Javi Ruiz! La Cinetik 28 es una raqueta revolucionaria que eleva el diseño y el rendimiento a un nuevo nivel, ideal para los jugadores que buscan adaptarse al ritmo vertiginoso del padel actual. Su innovadora espesor variable y sus materiales avanzados ofrecen un control y una potencia excepcionales, mientras que su diseño único optimiza la manejabilidad.Superficie: Materiales avanzados + espesor variableNivel de juego: Intermedio - avanzado",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": null,
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 153.88,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=42529406099&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -37000,7 +36472,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Tecnifibre Curva Team",
     "brand": "Tecnifibre",
     "category": "raquetes",
-    "price": 112.54,
+    "price": 105.72,
     "oldPrice": 171.41,
     "rating": null,
     "badge": null,
@@ -37024,7 +36496,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 112.54,
+        "price": 105.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42837965023&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -37650,76 +37122,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-head-motion-pro-1-5-boa-44729498818",
-    "name": "Sapatilhas de padel Head Motion Pro 1.5 BOA",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 177.47,
-    "oldPrice": 221.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-273626-white-black-69cd45948b6bc-1.webp&feedId=93547&k=7067ebcc0dd7a99db5f7c97437f3257a57be93c6",
-    "ean": "198772060022",
-    "productGTIN": null,
-    "mpn": "273626",
-    "source": "smash-expert",
-    "sourceProductId": "44729498818",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "Descubre un nuevo nivel de comodidad con la MOTION PRO BOA PADEL, que es el primer zapato de pádel equipado con el sistema Dual BOA® Fit, que ofrece un ajuste microajustable de precisión. Desarrollado con jugadores profesionales de pádel de HEAD, este zapato permite movimientos en 360 grados y un alto rendimiento gracias a una comodidad, estabilidad y transpirabilidad excepcionales. Un patrón de suela innovador - que ha sido probado en cooperación con el proveedor oficial de césped Premier Padel, MONDO - mejora la adherencia en todas direcciones. Para un confort excepcional, la MOTION PRO BOA PADEL cuenta con una media interior completamente elástica y una suela OrthoLite, mientras que la entresuela contiene DynaFoam, creada con pequeñas celdas de aire, que es ligera y muy reactiva. La estabilidad proviene de la combinación de la parte superior de TPU en el medio del pie, la parte superior reforzada y la tecnología Lateral Control+. Para ayudar a mantener el pie fresco, hay una rejilla...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 177.47,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44729498818&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-head-motion-pro-1-5-boa-44086751183",
-    "name": "Sapatilhas de padel Head Motion Pro 1.5 BOA",
-    "brand": "Head",
-    "category": "sapatilhas",
-    "price": 208.73,
-    "oldPrice": 221.83,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-273626-white-black-69cd45948b6bc-1.webp&feedId=93547&k=7067ebcc0dd7a99db5f7c97437f3257a57be93c6",
-    "ean": "198772060039",
-    "productGTIN": null,
-    "mpn": "273626",
-    "source": "smash-expert",
-    "sourceProductId": "44086751183",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "Descubre un nuevo nivel de comodidad con la MOTION PRO BOA PADEL, que es el primer zapato de pádel equipado con el sistema Dual BOA® Fit, que ofrece un ajuste microajustable de precisión. Desarrollado con jugadores profesionales de pádel de HEAD, este zapato permite movimientos en 360 grados y un alto rendimiento gracias a una comodidad, estabilidad y transpirabilidad excepcionales. Un patrón de suela innovador - que ha sido probado en cooperación con el proveedor oficial de césped Premier Padel, MONDO - mejora la adherencia en todas direcciones. Para un confort excepcional, la MOTION PRO BOA PADEL cuenta con una media interior completamente elástica y una suela OrthoLite, mientras que la entresuela contiene DynaFoam, creada con pequeñas celdas de aire, que es ligera y muy reactiva. La estabilidad proviene de la combinación de la parte superior de TPU en el medio del pie, la parte superior reforzada y la tecnología Lateral Control+. Para ayudar a mantener el pie fresco, hay una rejilla...",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 208.73,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44086751183&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raqueta-de-padel-head-extreme-motion-2025-44536108735",
     "name": "Raqueta de padel Head Extreme Motion 2025",
     "brand": "Head",
@@ -37832,7 +37234,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Pro 2025",
     "brand": "Head",
     "category": "raquetes",
-    "price": 182.06,
+    "price": 175.28,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -37856,7 +37258,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 182.06,
+        "price": 175.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42546733533&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -37868,7 +37270,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Extreme Team 2025",
     "brand": "Head",
     "category": "raquetes",
-    "price": 130.08,
+    "price": 122.22,
     "oldPrice": 201.67,
     "rating": null,
     "badge": null,
@@ -37892,7 +37294,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.08,
+        "price": 122.22,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42546733534&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38212,7 +37614,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Enebe Point Light",
     "brand": "Enebe",
     "category": "raquetes",
-    "price": 94.32,
+    "price": 92.96,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -38236,7 +37638,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 94.32,
+        "price": 92.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42682740924&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38536,7 +37938,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Bea Gonzalez Pearl Vibram 25V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 132.09,
+    "price": 125.03,
     "oldPrice": 160.33,
     "rating": null,
     "badge": null,
@@ -38559,7 +37961,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 132.09,
+        "price": 125.03,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42663832317&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38571,7 +37973,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Wilson Hurakn Pro",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 87.73,
+    "price": 81.68,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -38594,7 +37996,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 87.73,
+        "price": 81.68,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42866209111&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38641,7 +38043,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Wilson Wilson Hurakn Pro",
     "brand": "Wilson",
     "category": "sapatilhas",
-    "price": 87.73,
+    "price": 84.7,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -38664,7 +38066,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 87.73,
+        "price": 84.7,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=42866209116&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38676,7 +38078,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 12K Alum Xtrem par Agustín Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 393.24,
+    "price": 334.25,
     "oldPrice": 393.24,
     "rating": null,
     "badge": null,
@@ -38700,10 +38102,10 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 393.24,
+        "price": 334.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43910059033&a=2816502&m=80889",
-        "deliveryCost": 0
+        "deliveryCost": 7.99
       }
     ]
   },
@@ -38712,7 +38114,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius 18K Alum par Agustín Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 393.24,
+    "price": 334.25,
     "oldPrice": 393.24,
     "rating": null,
     "badge": null,
@@ -38736,7 +38138,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 393.24,
+        "price": 334.25,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43820358228&a=2816502&m=80889",
         "deliveryCost": 0
@@ -38748,7 +38150,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius Attack 12K Alum Xtrem par Agustín Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 362.99,
+    "price": 308.54,
     "oldPrice": 362.99,
     "rating": null,
     "badge": null,
@@ -38772,10 +38174,10 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 362.99,
+        "price": 308.54,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43829766304&a=2816502&m=80889",
-        "deliveryCost": 0
+        "deliveryCost": 7.99
       }
     ]
   },
@@ -38784,7 +38186,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox AT10 Genius Attack 18K Alum par Agustín Tapia",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 303.72,
+    "price": 307.98,
     "oldPrice": 362.99,
     "rating": null,
     "badge": null,
@@ -38808,7 +38210,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 303.72,
+        "price": 307.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43087782426&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38820,7 +38222,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox EA10 Ventus Attack 12K Xtrem par Edu Alonso",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 268.31,
+    "price": 258.38,
     "oldPrice": 342.82,
     "rating": null,
     "badge": null,
@@ -38844,7 +38246,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 268.31,
+        "price": 258.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43087782427&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38928,7 +38330,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Nox VK10 Ventus Control 12K par Aranzazu Osoro",
     "brand": "Nox",
     "category": "raquetes",
-    "price": 253.2,
+    "price": 256.75,
     "oldPrice": 302.49,
     "rating": null,
     "badge": null,
@@ -38952,7 +38354,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 253.2,
+        "price": 256.75,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43087782430&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -38995,11 +38397,81 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-hybrid-fly-26v-44033347934",
+    "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 99.83,
+    "oldPrice": 99.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-dc96012000-blanco-1.webp&feedId=93547&k=aea572fb35a893178afb1e3ff9bdebf377bf64e4",
+    "ean": "8445402955275",
+    "productGTIN": null,
+    "mpn": "DC96012000",
+    "source": "smash-expert",
+    "sourceProductId": "44033347934",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Bullpadel Hybrid Fly 26V son la elección ideal para todos los apasionados de este deporte dinámico y exigente. Diseñadas para ofrecer una excelente comodidad y un rendimiento óptimo en la cancha, estas zapatillas combinan tecnología avanzada y un diseño moderno.Gracias a su construcción robusta, garantizan una durabilidad excepcional, incluso durante las sesiones de entrenamiento más intensivas. La suela exterior está diseñada específicamente para proporcionar una adherencia perfecta, permitiendo movimientos rápidos y precisos. Así podrás cambiar de dirección con confianza, un aspecto crucial durante los intercambios rápidos.El sistema de amortiguación integrado asegura que cada paso sea cómodo, reduciendo los impactos en las articulaciones. Ya sea que estés corriendo hacia la red o retrocediendo para una defensa sólida, estas zapatillas se adaptan a tus necesidades.Los materiales transpirables utilizados en el upper garantizan una ventilación adecuada y m......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 99.83,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44033347934&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-hybrid-fly-26v-44033347936",
+    "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 94.78,
+    "oldPrice": 99.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-dc96012000-blanco-1.webp&feedId=93547&k=aea572fb35a893178afb1e3ff9bdebf377bf64e4",
+    "ean": "8445402955299",
+    "productGTIN": null,
+    "mpn": "DC96012000",
+    "source": "smash-expert",
+    "sourceProductId": "44033347936",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Bullpadel Hybrid Fly 26V son la elección ideal para todos los apasionados de este deporte dinámico y exigente. Diseñadas para ofrecer una excelente comodidad y un rendimiento óptimo en la cancha, estas zapatillas combinan tecnología avanzada y un diseño moderno.Gracias a su construcción robusta, garantizan una durabilidad excepcional, incluso durante las sesiones de entrenamiento más intensivas. La suela exterior está diseñada específicamente para proporcionar una adherencia perfecta, permitiendo movimientos rápidos y precisos. Así podrás cambiar de dirección con confianza, un aspecto crucial durante los intercambios rápidos.El sistema de amortiguación integrado asegura que cada paso sea cómodo, reduciendo los impactos en las articulaciones. Ya sea que estés corriendo hacia la red o retrocediendo para una defensa sólida, estas zapatillas se adaptan a tus necesidades.Los materiales transpirables utilizados en el upper garantizan una ventilación adecuada y m......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 94.78,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44033347936&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-bullpadel-hybrid-fly-26v-44033347937",
     "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 82.02,
+    "price": 76.74,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -39022,7 +38494,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 82.02,
+        "price": 76.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033347937&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39100,11 +38572,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-hybrid-fly-26v-44332650454",
+    "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 99.83,
+    "oldPrice": 99.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-dc96012000-blanco-1.webp&feedId=93547&k=aea572fb35a893178afb1e3ff9bdebf377bf64e4",
+    "ean": "8445402955336",
+    "productGTIN": null,
+    "mpn": "DC96012000",
+    "source": "smash-expert",
+    "sourceProductId": "44332650454",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Bullpadel Hybrid Fly 26V son la elección ideal para todos los apasionados de este deporte dinámico y exigente. Diseñadas para ofrecer una excelente comodidad y un rendimiento óptimo en la cancha, estas zapatillas combinan tecnología avanzada y un diseño moderno.Gracias a su construcción robusta, garantizan una durabilidad excepcional, incluso durante las sesiones de entrenamiento más intensivas. La suela exterior está diseñada específicamente para proporcionar una adherencia perfecta, permitiendo movimientos rápidos y precisos. Así podrás cambiar de dirección con confianza, un aspecto crucial durante los intercambios rápidos.El sistema de amortiguación integrado asegura que cada paso sea cómodo, reduciendo los impactos en las articulaciones. Ya sea que estés corriendo hacia la red o retrocediendo para una defensa sólida, estas zapatillas se adaptan a tus necesidades.Los materiales transpirables utilizados en el upper garantizan una ventilación adecuada y m......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 99.83,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332650454&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-bullpadel-hybrid-fly-26v-44033347940",
     "name": "Sapatilhas de padel Bullpadel Hybrid Fly 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 82.02,
+    "price": 76.74,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -39127,7 +38634,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 82.02,
+        "price": 76.74,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033347940&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39170,11 +38677,46 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-ionic-26v-44002222892",
+    "name": "Sapatilhas de padel Bullpadel Ionic 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 97.05,
+    "oldPrice": 126.03,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc94001000.webp&feedId=93547&k=6f3716ec3801a6f861eda8de011bd64b01ee93a8",
+    "ean": "8445402954018",
+    "productGTIN": null,
+    "mpn": "DC94001000",
+    "source": "smash-expert",
+    "sourceProductId": "44002222892",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Las zapatillas de pádel Bullpadel Ionic 26V están diseñadas para los aficionados a este deporte dinámico, ofreciendo un equilibrio perfecto entre rendimiento y comodidad. Como marca reconocida en el universo del pádel, Bullpadel se compromete a proporcionar productos de calidad excepcional que cumplen con las exigencias de jugadores de todos los niveles.Estas zapatillas integran tecnologías avanzadas para garantizar una experiencia de juego óptima. Con una suela especialmente diseñada para el pádel, ofrecen una adherencia notable en diferentes tipos de superficies, permitiéndote realizar desplazamientos rápidos y ágiles sin comprometer tu seguridad.El diseño ergonómico de la Bullpadel Ionic 26V permite un excelente soporte del pie, promoviendo así un mejor impulso en los golpes. La ligereza de los materiales utilizados también contribuye a reducir la fatiga, permitiéndote mantener la concentración en tu juego durante tus entrenamientos y competiciones.En términos de comodidad, es......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 97.05,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44002222892&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-bullpadel-ionic-26v-44002222893",
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -39197,7 +38739,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002222893&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39209,7 +38751,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -39232,7 +38774,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002222894&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39244,7 +38786,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -39267,7 +38809,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002222895&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39279,7 +38821,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Bullpadel Ionic 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 103.62,
+    "price": 97.05,
     "oldPrice": 126.03,
     "rating": null,
     "badge": null,
@@ -39302,9 +38844,79 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.62,
+        "price": 97.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002222896&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-neuron-26v-44790745155",
+    "name": "Sapatilhas de padel Bullpadel Neuron 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 127.05,
+    "oldPrice": 140.16,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc93004000.webp&feedId=93547&k=0c01916fd25cc76477208c0c18dc9435be1870ec",
+    "ean": "8445402953578",
+    "productGTIN": null,
+    "mpn": "DC93004000",
+    "source": "smash-expert",
+    "sourceProductId": "44790745155",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Los zapatos de pádel Bullpadel Neuron 26V están especialmente diseñados para ofrecer un rendimiento óptimo en la cancha de pádel. Este modelo combina confort, adherencia y soporte, lo que lo convierte en una opción perfecta para jugadores de todos los niveles.Diseñados por Bullpadel, una marca reconocida en el mundo del pádel, estos zapatos son ideales para aquellos que buscan un par confiable para sus sesiones de entrenamiento o competiciones. Gracias a materiales innovadores y a un diseño pensado, garantizan una excelente transpirabilidad y un ajuste perfecto.Las características clave de los zapatos de pádel Bullpadel Neuron 26V incluyen: Amortiguación eficaz: La tecnología de amortiguación integrada asegura el máximo confort en cada paso, reduciendo así la fatiga durante las largas sesiones de juego. Adherencia óptima: La suela exterior está diseñada para ofrecer una tracción excepcional en diferentes tipos de superficies de juego, permitiéndote moverte rápidamente y con seg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 127.05,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790745155&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-neuron-26v-44002222898",
+    "name": "Sapatilhas de padel Bullpadel Neuron 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 119.04,
+    "oldPrice": 141.16,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc93004000.webp&feedId=93547&k=0c01916fd25cc76477208c0c18dc9435be1870ec",
+    "ean": "8445402953585",
+    "productGTIN": null,
+    "mpn": "DC93004000",
+    "source": "smash-expert",
+    "sourceProductId": "44002222898",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Los zapatos de pádel Bullpadel Neuron 26V están especialmente diseñados para ofrecer un rendimiento óptimo en la cancha de pádel. Este modelo combina confort, adherencia y soporte, lo que lo convierte en una opción perfecta para jugadores de todos los niveles.Diseñados por Bullpadel, una marca reconocida en el mundo del pádel, estos zapatos son ideales para aquellos que buscan un par confiable para sus sesiones de entrenamiento o competiciones. Gracias a materiales innovadores y a un diseño pensado, garantizan una excelente transpirabilidad y un ajuste perfecto.Las características clave de los zapatos de pádel Bullpadel Neuron 26V incluyen: Amortiguación eficaz: La tecnología de amortiguación integrada asegura el máximo confort en cada paso, reduciendo así la fatiga durante las largas sesiones de juego. Adherencia óptima: La suela exterior está diseñada para ofrecer una tracción excepcional en diferentes tipos de superficies de juego, permitiéndote moverte rápidamente y con seg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 119.04,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44002222898&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -39375,6 +38987,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 115.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44002222901&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-bullpadel-neuron-26v-44790745157",
+    "name": "Sapatilhas de padel Bullpadel Neuron 26V",
+    "brand": "Bullpadel",
+    "category": "sapatilhas",
+    "price": 131.08,
+    "oldPrice": 140.16,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fd%2Fc%2Fdc93004000.webp&feedId=93547&k=0c01916fd25cc76477208c0c18dc9435be1870ec",
+    "ean": "8445402953622",
+    "productGTIN": null,
+    "mpn": "DC93004000",
+    "source": "smash-expert",
+    "sourceProductId": "44790745157",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "Los zapatos de pádel Bullpadel Neuron 26V están especialmente diseñados para ofrecer un rendimiento óptimo en la cancha de pádel. Este modelo combina confort, adherencia y soporte, lo que lo convierte en una opción perfecta para jugadores de todos los niveles.Diseñados por Bullpadel, una marca reconocida en el mundo del pádel, estos zapatos son ideales para aquellos que buscan un par confiable para sus sesiones de entrenamiento o competiciones. Gracias a materiales innovadores y a un diseño pensado, garantizan una excelente transpirabilidad y un ajuste perfecto.Las características clave de los zapatos de pádel Bullpadel Neuron 26V incluyen: Amortiguación eficaz: La tecnología de amortiguación integrada asegura el máximo confort en cada paso, reduciendo así la fatiga durante las largas sesiones de juego. Adherencia óptima: La suela exterior está diseñada para ofrecer una tracción excepcional en diferentes tipos de superficies de juego, permitiéndote moverte rápidamente y con seg......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 131.08,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790745157&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -39489,7 +39136,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 135.77,
+    "price": 127.3,
     "oldPrice": 166.36,
     "rating": null,
     "badge": null,
@@ -39512,7 +39159,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 135.77,
+        "price": 127.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033347942&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39524,7 +39171,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 165.37,
+    "price": 126.04,
     "oldPrice": 165.37,
     "rating": null,
     "badge": null,
@@ -39547,7 +39194,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 126.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332650455&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39594,7 +39241,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 165.37,
+    "price": 126.04,
     "oldPrice": 165.37,
     "rating": null,
     "badge": null,
@@ -39617,7 +39264,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 126.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332650456&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39629,7 +39276,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 135.77,
+    "price": 127.3,
     "oldPrice": 166.36,
     "rating": null,
     "badge": null,
@@ -39652,7 +39299,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 135.77,
+        "price": 127.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033347944&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39664,7 +39311,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 165.37,
+    "price": 126.04,
     "oldPrice": 165.37,
     "rating": null,
     "badge": null,
@@ -39687,7 +39334,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 126.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332650457&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39769,7 +39416,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para mujer Bullpadel Pearl Vibram 26V",
     "brand": "Bullpadel",
     "category": "sapatilhas",
-    "price": 165.37,
+    "price": 126.04,
     "oldPrice": 165.37,
     "rating": null,
     "badge": null,
@@ -39792,7 +39439,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 165.37,
+        "price": 126.04,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332650459&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39804,7 +39451,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Hack 04 26",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 289.39,
+    "price": 266.2,
     "oldPrice": 321.66,
     "rating": null,
     "badge": null,
@@ -39828,7 +39475,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 289.39,
+        "price": 266.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44160028586&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39840,7 +39487,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Hack 04 Hyb 26",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 311.58,
+    "price": 266.2,
     "oldPrice": 321.66,
     "rating": null,
     "badge": null,
@@ -39864,7 +39511,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 311.58,
+        "price": 266.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432392572&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -39903,6 +39550,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 209.97,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43877209781&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-bullpadel-hack-advance-43877209782",
+    "name": "Raqueta de padel Bullpadel Hack Advance",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 125.03,
+    "oldPrice": 125.03,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-df08000000-black-1.webp&feedId=93547&k=ab55c4eb5f8d5c95eeb20fb8abd623a6e3bdd954",
+    "ean": "8445402993796",
+    "productGTIN": null,
+    "mpn": "DF08000000",
+    "source": "smash-expert",
+    "sourceProductId": "43877209782",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Homme",
+    "description": "La raqueta de pádel Bullpadel Hack Advance está especialmente diseñada para los apasionados del pádel, que desean unir rendimiento y comodidad de juego. Gracias a su diseño innovador, ofrece un excelente compromiso entre potencia y control, perfecta para los jugadores que buscan mejorar su técnica.Dotada de materiales de alta calidad, esta raqueta asegura una durabilidad óptima y resiste a las condiciones de juego más exigentes. La tecnología de fabricación avanzada utilizada por Bullpadel garantiza una absorción de las vibraciones, permitiendo así reducir la fatiga muscular durante los partidos intensivos.Entre sus características notables, encontramos: Diseño ergonómico: Favorece un agarre cómodo y natural. Superficie de golpeo optimizada: Diseñada para maximizar la superficie de contacto con la pelota, ofreciendo así una mejor precisión en los golpes. Equilibrio ideal: Permite maniobrar la raqueta con facilidad mientras se mantiene una potencia suficiente durante los golpes.......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 125.03,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=43877209782&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -39984,7 +39667,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Ionic Control 26",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 180.49,
+    "price": 179.48,
     "oldPrice": 180.49,
     "rating": null,
     "badge": null,
@@ -40008,7 +39691,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 180.49,
+        "price": 179.48,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432392574&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40056,7 +39739,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Neuron 02",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 321.66,
+    "price": 266.2,
     "oldPrice": 321.66,
     "rating": null,
     "badge": null,
@@ -40080,7 +39763,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 321.66,
+        "price": 266.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432392575&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40128,7 +39811,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Neuron 02 Geo",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 321.66,
+    "price": 266.2,
     "oldPrice": 321.66,
     "rating": null,
     "badge": null,
@@ -40152,7 +39835,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 321.66,
+        "price": 266.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43979203861&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40164,7 +39847,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Vertex 05 Geo",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 341.83,
+    "price": 277.29,
     "oldPrice": 341.83,
     "rating": null,
     "badge": null,
@@ -40188,9 +39871,45 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 341.83,
+        "price": 277.29,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44432392576&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-bullpadel-vertex-advance-44645290364",
+    "name": "Raqueta de padel Bullpadel Vertex Advance",
+    "brand": "Bullpadel",
+    "category": "raquetes",
+    "price": 140.16,
+    "oldPrice": 140.16,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-df07000000-black-1.webp&feedId=93547&k=51bef10348ba5b698f521f95df8b494fefde327c",
+    "ean": "8445402975167",
+    "productGTIN": null,
+    "mpn": "DF07000000",
+    "source": "smash-expert",
+    "sourceProductId": "44645290364",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Homme",
+    "description": "La pala de pádel Bullpadel Vertex Advance encarna la esencia misma del rendimiento en la cancha. Diseñada para jugadores exigentes que buscan un equilibrio perfecto entre potencia y control, esta pala es una elección ideal para llevar tu juego a un nivel superior.Con su tecnología avanzada, la Bullpadel Vertex Advance ofrece una agarre cómoda, permitiendo a los jugadores responder rápidamente a los golpes del adversario. Su diseño ergonómico favorece una maniobrabilidad excepcional, ya sea en el fondo de la pista o cerca de la red.Las características clave de esta pala incluyen: Construcción en materiales de alta calidad: Fabricada con materiales duraderos y ligeros, la pala garantiza una excelente resistencia al desgaste. Zona amplificada: La superficie de juego optimizada permite realizar golpes potentes mientras se mantiene un buen control de la pelota. Tecnología anti-vibraciones: Integrada para reducir las vibraciones durante los impactos, lo que protege el brazo y mejora ......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Avançado",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 140.16,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44645290364&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -40272,7 +39991,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Bullpadel Bpp26001 Vertex",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 85.82,
+    "price": 80.31,
     "oldPrice": 100.82,
     "rating": null,
     "badge": null,
@@ -40289,7 +40008,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 85.82,
+        "price": 80.31,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43654174180&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40301,7 +40020,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Bullpadel Bpp26005 Ionic",
     "brand": "Bullpadel",
     "category": "sacos",
-    "price": 74.07,
+    "price": 72.03,
     "oldPrice": 85.7,
     "rating": null,
     "badge": null,
@@ -40318,7 +40037,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 74.07,
+        "price": 72.03,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43952510396&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40438,7 +40157,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Head Coello Tour Padel",
     "brand": "Head",
     "category": "sacos",
-    "price": 78.77,
+    "price": 74.08,
     "oldPrice": 90.75,
     "rating": null,
     "badge": null,
@@ -40455,7 +40174,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 78.77,
+        "price": 74.08,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43308534483&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40467,7 +40186,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 104.33,
+    "price": 110.41,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -40490,7 +40209,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 104.33,
+        "price": 110.41,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43846787753&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40572,7 +40291,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 110.41,
+    "price": 108.83,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -40595,7 +40314,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.41,
+        "price": 108.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43846787756&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40712,7 +40431,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Enforce Tour 2",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 104.33,
+    "price": 108.83,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -40735,7 +40454,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 104.33,
+        "price": 108.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43846787760&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -40957,7 +40676,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Mizuno Wave Exceed Court",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 85.36,
+    "price": 82.94,
     "oldPrice": 126.04,
     "rating": null,
     "badge": null,
@@ -40980,7 +40699,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 85.36,
+        "price": 82.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43970784832&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -41198,6 +40917,150 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-de-padel-givova-gold-44332651042",
+    "name": "Raqueta de padel Givova Gold",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 175.45,
+    "oldPrice": 234.94,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova-rk14-1020-nero-oro-1.webp&feedId=93547&k=d1cf7d62f1a24093bdaaf45eadd403bf6c9ed5d4",
+    "ean": "8056002216996",
+    "productGTIN": null,
+    "mpn": "RK14-1020",
+    "source": "smash-expert",
+    "sourceProductId": "44332651042",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La pala de pádel Givova Gold es el equipo ideal para los apasionados de este deporte dinámico y estratégico. Diseñada por la marca Givova, reconocida por su experiencia e innovación en el ámbito del pádel, esta pala se distingue por sus características técnicas de punta que mejorarán tu rendimiento en la cancha.Fabricada en fibra de carbono 12k, combina ligereza y solidez, garantizando una durabilidad sin compromisos. Este material de alta calidad también ofrece una excelente reactividad, permitiéndote dirigir tus golpes con precisión y potencia.El núcleo de EVA negro 17 añade una dimensión de confort durante los intercambios, absorbiendo eficazmente las vibraciones y ofreciendo una sensación de juego agradable. Esta formulación de densidad seleccionada permite alcanzar un equilibrio perfecto entre control y potencia, satisfaciendo así las expectativas de jugadores experimentados y principiantes.El acabado mate de la pala aporta una estética cuidada al tiempo que asegura un agarr......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono 12K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 175.45,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332651042&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-givova-logo-44332651043",
+    "name": "Raqueta de padel Givova Logo",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 176.46,
+    "oldPrice": 234.94,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova-rk12-1028-nero-arancio-fluo-1.webp&feedId=93547&k=6dc706292c42ed6cbde26f9db16213e086a63d44",
+    "ean": "8056002216989",
+    "productGTIN": null,
+    "mpn": "RK12-1028",
+    "source": "smash-expert",
+    "sourceProductId": "44332651043",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La pala de pádel Givova Logo está diseñada para los apasionados de este deporte dinámico, combinando rendimiento y estética. Fabricada con materiales de alta calidad, ofrece una sensación de potencia y control durante tus intercambios en la pista.Su construcción en fibra de carbono 12k asegura una excelente rigidez mientras mantiene un peso ligero, ideal para una mayor maniobrabilidad. Ya seas principiante o jugador experimentado, esta pala te permitirá maximizar tu potencial.El núcleo en EVA negro 17 contribuye a la absorción de impactos, garantizándote un confort óptimo durante tus golpes. Esta característica es esencial para minimizar la fatiga, especialmente durante los partidos largos.El acabado mate de la pala no solo añade un aspecto moderno, sino que también mejora la adherencia y el control de la pala en tus manos. Para una experiencia aún más segura durante el juego, la pala está equipada con una correa práctica, evitando así cualquier riesgo de caída.Con sus caracter......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono 12K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 176.46,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332651043&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-givova-propulse-44332651044",
+    "name": "Raqueta de padel Givova Propulse",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 175.45,
+    "oldPrice": 234.94,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova-rk10-1019-nero-giallo-fluo-1.webp&feedId=93547&k=b4377f7faf5717f890ea034aa52c63d7eabd3c0e",
+    "ean": "8056002216750",
+    "productGTIN": null,
+    "mpn": "RK10-1019",
+    "source": "smash-expert",
+    "sourceProductId": "44332651044",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La pala de pádel Givova Propulse está diseñada para los apasionados del pádel que buscan rendimiento y comodidad. Fabricada con materiales de alta calidad, promete una experiencia de juego excepcional.Realizada en fibra de carbono 12k, esta pala ofrece ligereza y solidez, permitiendo realizar golpes potentes mientras se mantiene una maniobrabilidad óptima. Su diseño innovador asegura una excelente restitución de energía, facilitando así cada uno de tus movimientos en la cancha.Su núcleo de EVA negra 17 contribuye a absorber los impactos y a ofrecer un control preciso, esencial durante los intercambios intensos. Este material de calidad superior juega un papel crucial en la reactividad de la pala, garantizando un rendimiento óptimo sin importar tu nivel de juego.La pala también presenta un acabado mate, que le confiere un estilo sofisticado y moderno en la cancha. Esta estética se refuerza con una mango, que ofrece un agarre seguro y cómodo, evitando el riesgo de deslizamiento dur......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Carbono 12K",
+      "estilo": "Controlo"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 175.45,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332651044&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-givova-vela-44332651045",
+    "name": "Raqueta de padel Givova Vela",
+    "brand": "Givova",
+    "category": "raquetes",
+    "price": 175.45,
+    "oldPrice": 234.94,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fg%2Fi%2Fgivova-rk13-1319-verde-giallo-fluo-1.webp&feedId=93547&k=9f7338ced4f44c0d77f711736d534e4e70007595",
+    "ean": "8056002216774",
+    "productGTIN": null,
+    "mpn": "RK13-1319",
+    "source": "smash-expert",
+    "sourceProductId": "44332651045",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta de pádel Givova Vela es una elección excepcional para los apasionados de este deporte dinámico. Diseñada con materiales de alta calidad, ofrece un rendimiento óptimo en la cancha, ya seas principiante o jugador experimentado.Fabricada en fibra de carbono 12k, la raqueta asegura tanto ligereza como robustez, aumentando así la potencia de tus golpes y garantizando un excelente control de la pelota. Su núcleo en EVA negro 17 contribuye a absorber los impactos, proporcionando una sensación agradable durante los intercambios intensos.Su acabado mate añade un toque elegante y moderno, mientras minimiza los reflejos no deseados, permitiéndote mantenerte concentrado en tu juego. Además, la correa integrada asegura un agarre seguro, reduciendo el riesgo de que la raqueta se caiga durante el juego.La raqueta Givova Vela está dirigida a todos los aficionados al pádel que buscan rendimiento y comodidad. Ya sea para partidos amistosos o competiciones, este equipo te acompañará para......",
+    "specs": {
+      "peso": null,
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": "Carbono 12K",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 175.45,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44332651045&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-raqueta-de-padel-adidas-cross-it-carbon-2026-44069714795",
     "name": "Raqueta de padel adidas Cross IT Carbon 2026",
     "brand": "Adidas",
@@ -41238,7 +41101,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Cross IT Carbon Ctrl 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 225.89,
+    "price": 213.66,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -41262,7 +41125,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 225.89,
+        "price": 213.66,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44365270535&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -41274,7 +41137,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Cross IT Ctrl 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 348.88,
+    "price": 339.81,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -41298,45 +41161,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 348.88,
+        "price": 339.81,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44374017519&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-adidas-cross-it-light-2026-44719196306",
-    "name": "Raqueta de padel adidas Cross IT Light 2026",
-    "brand": "Adidas",
-    "category": "raquetes",
-    "price": 302.5,
-    "oldPrice": 302.5,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar1cb3u87-marron-1.webp&feedId=93547&k=dfd9c649039fbe357de6082103aa644d1d399e32",
-    "ean": "8435739405956",
-    "productGTIN": null,
-    "mpn": "AR1CB3U87",
-    "source": "smash-expert",
-    "sourceProductId": "44719196306",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La Cross It Light se distingue por su ligereza y maniobrabilidad, mientras ofrece una combinación equilibrada de potencia y confort.La Carbon Aluminized 24K garantiza una superficie altamente rígida y duradera, brindando una potencia notable con un tacto suave. Su peso reducido (345-360 g) mejora la maniobrabilidad y el confort, ideal para los jugadores que buscan velocidad y fluidez en el juego.El Dynamic Air Flow, con sus aberturas en el corazón de la pala, disminuye la resistencia al aire para movimientos más rápidos. El Spin Blade Mold, una textura 3D integrada en el molde, aumenta el agarre de la pelota y favorece efectos marcados. Por último, la tecnología 11 Thirteen, con sus agujeros de menor diámetro (11 mm) en el centro de la zona de golpeo, refuerza la rigidez, potencia y durabilidad.El Extra Power Grip, gracias a su mango alargado, aporta una inercia adicional y permite liberar aún más potencia en cada golpe.Espesor: 38 mmForma: RedondaEquilibrio: Neutro (265 mm)Pes......",
-    "specs": {
-      "peso": "345-360g",
-      "forma": null,
-      "equilibrio": null,
-      "nivel": null,
-      "material": "Carbono",
-      "estilo": "Potência"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 302.5,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196306&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -41382,7 +41209,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Drive 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 63.16,
+    "price": 60.45,
     "oldPrice": 80.67,
     "rating": null,
     "badge": null,
@@ -41406,45 +41233,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 63.16,
+        "price": 60.45,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44353672676&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-adidas-drive-light-2026-44353672677",
-    "name": "Raqueta de padel adidas Drive Light 2026",
-    "brand": "Adidas",
-    "category": "raquetes",
-    "price": 80.67,
-    "oldPrice": 80.67,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar5ca5u24-gris-1.webp&feedId=93547&k=df97a461c05bf32734e4039face7bb08aec7af2d",
-    "ean": "8435739406045",
-    "productGTIN": null,
-    "mpn": "AR5CA5U24",
-    "source": "smash-expert",
-    "sourceProductId": "44353672677",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La Drive Light está diseñada para ofrecer confort, maniobrabilidad y sensaciones óptimas, ideal para los jugadores que buscan un juego fluido y preciso.Su peso reducido (345-360 g) mejora el agarre y facilita los movimientos rápidos. La tecnología Smart Holes Lineal, con agujeros equidistantes dispuestos en grupos de tres, refuerza la superficie de golpeo y aumenta la durabilidad de la pala.La composición en fiberglass proporciona un tacto suave y una excelente restitución de bola, mientras que el sistema Soft Performance, con su goma EVA de baja densidad, garantiza un confort excepcional y un rebote óptimo en todos los golpes.Espesor: 38 mmForma: RedondaEquilibrio: Neutro (265 mm)Peso: 345 - 360 grSweetspot: CentroLongitud: 455 mmNivel: PrincipianteFranquicia: DRIVE",
-    "specs": {
-      "peso": "345-360g",
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Iniciante",
-      "material": "Fibra de vidro",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 80.67,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44353672677&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -41522,11 +41313,47 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-de-padel-para-ninos-adidas-arrow-hit-44818463943",
+    "name": "Raqueta de padel para niños adidas Arrow Hit",
+    "brand": "Adidas",
+    "category": "raquetes",
+    "price": 60.14,
+    "oldPrice": 75.63,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar4ca2u74-blue-1.webp&feedId=93547&k=6c47469419e08b63ddec39d61f168548cf935462",
+    "ean": "8435739405925",
+    "productGTIN": null,
+    "mpn": "AR4CA2U74",
+    "source": "smash-expert",
+    "sourceProductId": "44818463943",
+    "sourceCategory": "Padel > Raquette de padel > Junior > Mixte",
+    "description": "La Arrow Hit Junior está especialmente diseñada para jóvenes jugadores que buscan manejabilidad, confort y potencia adaptada a su nivel.El Power Groove, una nervadura de refuerzo integrada en el marco, aumenta la rigidez y permite generar más potencia en cada golpe. La fibra de vidrio proporciona un tacto suave y una excelente restitución de la pelota, ideal para un juego preciso y cómodo.Los Refuerzos Estructurales, ubicados en el perímetro de la raqueta, refuerzan la resistencia a las torsiones durante el juego. Por último, gracias a su peso ultraligero (315-330 g), la Arrow Hit Junior ofrece una manejabilidad óptima y un confort máximo, perfectamente adaptada a jóvenes jugadores en plena progresión.Espesor: 36 mmForma: RedondaEquilibrio: Neutro (265 mm)Peso: 310 - 330 grSweetspot: CentroNivel: JuniorFranquicia: ARROW HIT",
+    "specs": {
+      "peso": "315-330g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": null,
+      "material": "Fibra de vidro",
+      "estilo": "Potência"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 60.14,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44818463943&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-mochila-adidas-multigame-2026-44389602974",
     "name": "Mochila adidas Multigame 2026",
     "brand": "Adidas",
     "category": "sacos",
-    "price": 78.65,
+    "price": 76.63,
     "oldPrice": 80.67,
     "rating": null,
     "badge": null,
@@ -41543,7 +41370,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 78.65,
+        "price": 76.63,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44389602974&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -41663,7 +41490,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Siux Astra Control",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 130.38,
+    "price": 126.91,
     "oldPrice": 150.24,
     "rating": null,
     "badge": null,
@@ -41687,7 +41514,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.38,
+        "price": 126.91,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43755718033&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -41771,7 +41598,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raquete de padel Siux Fenix Pro Glow Purple",
     "brand": "Siux",
     "category": "raquetes",
-    "price": 305.53,
+    "price": 289.39,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -41795,7 +41622,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 305.53,
+        "price": 289.39,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43979204238&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42403,7 +42230,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Motion Pro 1.5",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 129.07,
+    "price": 159.32,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42426,7 +42253,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 129.07,
+        "price": 159.32,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952123&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42438,7 +42265,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42461,7 +42288,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952124&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42473,7 +42300,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42496,7 +42323,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952125&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42508,7 +42335,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42531,7 +42358,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952126&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42543,7 +42370,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42566,7 +42393,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952127&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42578,7 +42405,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42601,7 +42428,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952128&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42613,7 +42440,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42636,7 +42463,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952129&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42648,7 +42475,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42671,7 +42498,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952130&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42683,7 +42510,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42706,7 +42533,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952131&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42718,7 +42545,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Head Sprint Pro 4.0",
     "brand": "Head",
     "category": "sapatilhas",
-    "price": 145.2,
+    "price": 129.07,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -42741,7 +42568,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 145.2,
+        "price": 129.07,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43770952132&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -42931,7 +42758,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de tenis para mujer Mizuno W Enforce Court Padel Wos",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 75.96,
+    "price": 74.84,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -42954,7 +42781,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 75.96,
+        "price": 74.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43820363463&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -43071,7 +42898,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de tenis para mujer Mizuno W Enforce Court Padel Wos",
     "brand": "Mizuno",
     "category": "sapatilhas",
-    "price": 74.84,
+    "price": 75.96,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -43094,7 +42921,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 74.84,
+        "price": 75.96,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43820363467&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -43870,7 +43697,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Radical Pro 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 167.04,
+    "price": 160.27,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -43894,7 +43721,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 167.04,
+        "price": 160.27,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43865882112&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -43906,7 +43733,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Tour Geor",
     "brand": "Head",
     "category": "sacos",
-    "price": 64.64,
+    "price": 62.84,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -43923,7 +43750,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.64,
+        "price": 62.84,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43877212033&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44115,7 +43942,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel adidas Pro Metalbone CTRL 2026",
     "brand": "Adidas",
     "category": "raquetes",
-    "price": 350.9,
+    "price": 374.09,
     "oldPrice": 393.25,
     "rating": null,
     "badge": null,
@@ -44139,7 +43966,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 350.9,
+        "price": 374.09,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=43945241708&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44151,7 +43978,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Endure LS V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 178.48,
+    "price": 200.66,
     "oldPrice": 221.83,
     "rating": null,
     "badge": null,
@@ -44175,7 +44002,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 178.48,
+        "price": 200.66,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332651394&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44187,7 +44014,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Endure Pro V1",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 254.1,
+    "price": 270.23,
     "oldPrice": 322.67,
     "rating": null,
     "badge": null,
@@ -44211,7 +44038,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 254.1,
+        "price": 270.23,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44033349918&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44259,7 +44086,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Optix V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 90.75,
+    "price": 80.67,
     "oldPrice": 100.83,
     "rating": null,
     "badge": null,
@@ -44283,7 +44110,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 90.75,
+        "price": 80.67,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332651396&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44331,7 +44158,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Wilson Optix V2",
     "brand": "Wilson",
     "category": "raquetes",
-    "price": 117.98,
+    "price": 104.87,
     "oldPrice": 131.08,
     "rating": null,
     "badge": null,
@@ -44355,7 +44182,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 117.98,
+        "price": 104.87,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44188992700&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -44367,7 +44194,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Wilson Defy V1",
     "brand": "Wilson",
     "category": "sacos",
-    "price": 61.32,
+    "price": 58.66,
     "oldPrice": 95.79,
     "rating": null,
     "badge": null,
@@ -44384,219 +44211,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 61.32,
+        "price": 58.66,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332651397&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44188992966",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 96.8,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912665",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44188992966",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 96.8,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44188992966&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-43984917625",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912702",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "43984917625",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=43984917625&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44755438204",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912788",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44755438204",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755438204&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44755438205",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812916441",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44755438205",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755438205&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44755438206",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912740",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44755438206",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755438206&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44755438207",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912795",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44755438207",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755438207&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -44632,41 +44249,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44061729287&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44061729288",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912757",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44061729288",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44061729288&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -44777,47 +44359,12 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-44755438208",
-    "name": "Sapatilhas de padel adidas Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-jr4647-blanc-1.webp&feedId=93547&k=d7ef5dee1bacb269d372f19016d849f535e2d67a",
-    "ean": "4068812912719",
-    "productGTIN": null,
-    "mpn": "JR4647",
-    "source": "smash-expert",
-    "sourceProductId": "44755438208",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
-    "description": "Las zapatillas de pádel adidas Crazyquick están especialmente diseñadas para los apasionados de este deporte dinámico. Combinan comodidad, rendimiento y estilo, lo que las convierte en una opción ideal para jugadores de todos los niveles. Con una atención especial a los detalles, estas zapatillas son perfectas para acompañarte en la cancha durante tus intensos partidos.Diseñadas por adidas, una marca reconocida en el mundo del deporte, estas zapatillas ofrecen tecnologías avanzadas para maximizar tu rendimiento. Su diseño ergonómico asegura un excelente soporte y un ajuste óptimo, permitiendo una gran libertad de movimiento. Podrás concentrarte en tu juego sin preocuparte por tu equipo.Las principales características de las zapatillas de pádel adidas Crazyquick incluyen: Amortiguación reactiva: La mediasuela cuenta con un sistema de amortiguación innovador que ofrece un retorno de energía en cada paso, reduciendo la fatiga durante largas sesiones de juego. Adherencia óptima: La ......",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44755438208&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-raqueta-de-padel-head-alpha-plus-2025-43984917693",
     "name": "Raqueta de padel Head Alpha Plus 2025",
     "brand": "Head",
     "category": "raquetes",
     "price": 94.58,
-    "oldPrice": 102.85,
+    "oldPrice": 201.67,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-228035-rouge-2.webp&feedId=93547&k=f489dc9e66ae0c8b0c1e5bd291a5e96ed515fff9",
@@ -44853,7 +44400,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "brand": "Head",
     "category": "raquetes",
     "price": 74.94,
-    "oldPrice": 181.5,
+    "oldPrice": 161.33,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-228865-noir-jaune-1.webp&feedId=93547&k=db203d88bcb87d0ac112506296d44519eb7b9ce1",
@@ -45621,7 +45168,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-chaussures-de-padel-crazyquick-44263412861",
+    "id": "smash-expert-chaussures-de-padel-crazyquick-44263412862",
     "name": "Chaussures de padel Crazyquick",
     "brand": "Adidas",
     "category": "sapatilhas",
@@ -45630,11 +45177,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr1819.webp&feedId=93547&k=d5c2ceb4e232e3e306cea92046a0dd11a74eef1a",
-    "ean": "4068811911874",
+    "ean": "4068811911973",
     "productGTIN": null,
     "mpn": "JR1819",
     "source": "smash-expert",
-    "sourceProductId": "44263412861",
+    "sourceProductId": "44263412862",
     "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
     "description": "Cubre toda la cancha de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una mediasuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los desechos y nuestra dependencia de recursos limitados, con el fin de disminuir la huella ecológica de los productos que fabricamos.Info 6: Empeine AdituffColor: NaranjaInfo 3: Parte superior textil y sintéticaInfo 5: Mediasuela BOOSTTemporada: SS26Edad: AdultoEdad: JuniorGénero: HombreCategoría: PADELFranquicia: CRAZYQUICK BOOSTFit: ClásicoTipo de superficie: Multi Terreno",
     "specs": {
@@ -45650,7 +45197,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "name": "Smash Expert",
         "price": 161.33,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44263412861&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44263412862&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -45866,6 +45413,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-zapatos-de-padel-mujer-crazyquick-44572500673",
+    "name": "Zapatos de padel mujer Crazyquick",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 121,
+    "oldPrice": 121,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2Fj%2Fkj3653.webp&feedId=93547&k=b14516db48cdfb6ce9e45bf78e2a5dc944607f28",
+    "ean": "4068812993015",
+    "productGTIN": null,
+    "mpn": "KJ3653",
+    "source": "smash-expert",
+    "sourceProductId": "44572500673",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la cancha de pádel con este zapato Crazyquick adidas. Diseñada para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Tiene una suela exterior adherente creada específicamente para este deporte, y posee una fina entresuela Lightstrike para movimientos fulgurantes.Info 6: Punta AdituffColor: BlancoInfo 3: Parte superior textil y sintéticaInfo 5: Amortiguación LightstrikeTemporada: SS26Edad: AdultoEdad: JuniorGénero: MujerCategoría: PADELFranquicia: CRAZYQUICK LSAjuste: ClásicoTipo de superficie: Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 121,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44572500673&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-zapatos-de-padel-mujer-crazyquick-44627730082",
     "name": "Zapatos de padel mujer Crazyquick",
     "brand": "Adidas",
@@ -45936,46 +45518,11 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-zapatos-de-padel-mujer-crazyquick-44627730084",
-    "name": "Zapatos de padel mujer Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 87.41,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fk%2Fj%2Fkj3653.webp&feedId=93547&k=b14516db48cdfb6ce9e45bf78e2a5dc944607f28",
-    "ean": "4068812993053",
-    "productGTIN": null,
-    "mpn": "KJ3653",
-    "source": "smash-expert",
-    "sourceProductId": "44627730084",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Cubre toda la cancha de pádel con este zapato Crazyquick adidas. Diseñada para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Tiene una suela exterior adherente creada específicamente para este deporte, y posee una fina entresuela Lightstrike para movimientos fulgurantes.Info 6: Punta AdituffColor: BlancoInfo 3: Parte superior textil y sintéticaInfo 5: Amortiguación LightstrikeTemporada: SS26Edad: AdultoEdad: JuniorGénero: MujerCategoría: PADELFranquicia: CRAZYQUICK LSAjuste: ClásicoTipo de superficie: Multi Terreno",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 87.41,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44627730084&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-zapatos-de-padel-mujer-crazyquick-44263412914",
     "name": "Zapatos de padel mujer Crazyquick",
     "brand": "Adidas",
     "category": "sapatilhas",
-    "price": 113.94,
+    "price": 110.92,
     "oldPrice": 121,
     "rating": null,
     "badge": null,
@@ -45998,7 +45545,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 113.94,
+        "price": 110.92,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44263412914&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -46071,41 +45618,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 121,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44263412915&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-zapatos-de-padel-mujer-crazyquick-44263412916",
-    "name": "Zapatos de padel mujer Crazyquick",
-    "brand": "Adidas",
-    "category": "sapatilhas",
-    "price": 121,
-    "oldPrice": 121,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas_jr9326_1_footwear_photography_side_lateral_center_view_white.webp&feedId=93547&k=ab94272f0b53bdb265f19637784b7fa746914fc3",
-    "ean": "4067907627385",
-    "productGTIN": null,
-    "mpn": "JR9326",
-    "source": "smash-expert",
-    "sourceProductId": "44263412916",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñada para movimientos rápidos y seguros, cuenta con un empeine ligero y una construcción Slingframe para mayor estabilidad. Dotada de una suela exterior adherente creada específicamente para este deporte, posee una fina media suela Lightstrike para movimientos fulgurantes.Info 6: Punta AdituffColor: VerdeInfo 1: Ajuste estándar.Info 2: Cierre con cordones.Info 3: Empeine textil y sintéticoInfo 5: Amortiguación LightstrikeEdad: AdultoGénero: MujerFranquicia: CRAZYQUICK LSTipo: Zapatos",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 121,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44263412916&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -46258,7 +45770,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco adidas Tour 2026",
     "brand": "Adidas",
     "category": "sacos",
-    "price": 71.93,
+    "price": 74.11,
     "oldPrice": 85.71,
     "rating": null,
     "badge": null,
@@ -46275,7 +45787,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 71.93,
+        "price": 74.11,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44332651731&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -46287,7 +45799,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel para niños Head Coello 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 110.92,
+    "price": 94.28,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -46311,7 +45823,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.92,
+        "price": 94.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44086752846&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -46323,7 +45835,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Coello Motion 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 243.35,
+    "price": 250.3,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -46347,7 +45859,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 243.35,
+        "price": 250.3,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44078809390&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -46359,7 +45871,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Coello Pro 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 317.63,
+    "price": 282.33,
     "oldPrice": 352.92,
     "rating": null,
     "badge": null,
@@ -46383,7 +45895,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 317.63,
+        "price": 282.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44078809391&a=2816502&m=80889",
         "deliveryCost": 0
@@ -46431,7 +45943,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Head Coello Vibe 2026",
     "brand": "Head",
     "category": "raquetes",
-    "price": 141.17,
+    "price": 119.99,
     "oldPrice": 141.17,
     "rating": null,
     "badge": null,
@@ -46455,7 +45967,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 141.17,
+        "price": 119.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44078809393&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -46503,7 +46015,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Head Coello Tour",
     "brand": "Head",
     "category": "sacos",
-    "price": 110.92,
+    "price": 94.28,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -46520,7 +46032,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 110.92,
+        "price": 94.28,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44078809396&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -47220,7 +46732,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Softee padel Car V2",
     "brand": "Softee Pádel",
     "category": "sacos",
-    "price": 48.94,
+    "price": 48.2,
     "oldPrice": 52.23,
     "rating": null,
     "badge": null,
@@ -47237,7 +46749,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 48.94,
+        "price": 48.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776403803&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -47249,7 +46761,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Softee padel Car V2",
     "brand": "Softee Pádel",
     "category": "sacos",
-    "price": 48.94,
+    "price": 48.2,
     "oldPrice": 52.23,
     "rating": null,
     "badge": null,
@@ -47266,7 +46778,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 48.94,
+        "price": 48.2,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776403804&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -47278,7 +46790,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa de padel Softee padel Car V2",
     "brand": "Softee Pádel",
     "category": "sacos",
-    "price": 58.24,
+    "price": 57.37,
     "oldPrice": 60.3,
     "rating": null,
     "badge": null,
@@ -47295,7 +46807,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.24,
+        "price": 57.37,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776403805&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -47307,7 +46819,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Bolsa de padel Softee padel Car V2",
     "brand": "Softee Pádel",
     "category": "sacos",
-    "price": 58.24,
+    "price": 57.37,
     "oldPrice": 60.3,
     "rating": null,
     "badge": null,
@@ -47324,7 +46836,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 58.24,
+        "price": 57.37,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776403806&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -47336,7 +46848,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Saco Vibora Diva",
     "brand": "Vibora",
     "category": "sacos",
-    "price": 166.57,
+    "price": 168.94,
     "oldPrice": 179.48,
     "rating": null,
     "badge": null,
@@ -47353,7 +46865,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 166.57,
+        "price": 168.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44112360244&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -48147,6 +47659,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-de-padel-uwin-vr-x-44790748173",
+    "name": "Raqueta de padel Uwin VR-X",
+    "brand": "Uwin",
+    "category": "raquetes",
+    "price": 52.71,
+    "oldPrice": 67.56,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fu%2Fw%2Fuwin-uwp000101-red-white-grey-1.webp&feedId=93547&k=6321b0516a237a9b2219f1cc6e0a15be46219ac3",
+    "ean": "5027535020988",
+    "productGTIN": null,
+    "mpn": "UWP000101",
+    "source": "smash-expert",
+    "sourceProductId": "44790748173",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La raqueta de pádel para adultos Uwin VR-X está diseñada para principiantes, con una forma redonda tolerante y un marco ligero de fibra de vidrio que ofrece comodidad y durabilidad. Su núcleo EVA 15 equilibra potencia y control, mientras que el equilibrio medio y el punto dulce central garantizan estabilidad y facilidad de uso. Con 52 agujeros colocados estratégicamente y una tecnología anti-vibración, esta raqueta reduce la tensión en el brazo y mejora la jugabilidad. Perfecta para nuevos jugadores que buscan ganar confianza y mejorar su juego.Forma : RedondaMarco : Construcción en fibra de vidrioSuperficie : MateNúcleo : EVA 15 (densidad media para un equilibrio entre potencia y control)Distribución de agujeros : 52 agujeros (Optimizado para el flujo de aire y la consistencia)Punto dulce : CentralEquilibrio : Equilibrio medioTecnología/Funciones : Sistema anti-vibración, Protección de bordes, Marco reforzadoPeso : 365g (tolerancia de ±10g)Grosor : 38mm",
+    "specs": {
+      "peso": "365g",
+      "forma": "Redonda",
+      "equilibrio": "Médio",
+      "nivel": "Iniciante",
+      "material": "Fibra de vidro",
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 52.71,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790748173&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-para-mujer-wilson-hurakn-lite-44530902369",
     "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
     "brand": "Wilson",
@@ -48282,6 +47830,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 64.69,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44572501837&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-wilson-hurakn-lite-44884654328",
+    "name": "Sapatilhas de padel para mujer Wilson Hurakn Lite",
+    "brand": "Wilson",
+    "category": "sapatilhas",
+    "price": 64.69,
+    "oldPrice": 100.83,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson-wrs338470-white-white-69ccf2eda1aa2-1.webp&feedId=93547&k=d93f87c9dd63717725d8efda195673cc24eb75f1",
+    "ean": "97512994934",
+    "productGTIN": null,
+    "mpn": "WRS338470",
+    "source": "smash-expert",
+    "sourceProductId": "44884654328",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "ADAPTACIÓN: Ligeras, Transpirables y CómodasLa parte superior de malla está diseñada para permitir la máxima circulación de aire, ofreciendo un ajuste ligero y transpirable. Esto garantiza comodidad incluso en juegos intensos, manteniendo los pies frescos y secos.SENSACIÓN: Reactiva y AmortiguadaEquipadas con la espuma Fused 8 y una plantilla Ortholite, la Hurakn Lite ofrece una media suela reactiva con una excelente amortiguación. La zapatilla se adapta a la forma de tu pie, proporcionando comodidad y soporte durante largos partidos.FUNCIÓN: Padel - Versatilidad en la CanchaLa suela exterior diseñada biomecánicamente con patrones de vórtice en la parte delantera y en el talón mejora la adherencia y la libertad de rotación, garantizando pivotes rápidos y agilidad en todo tipo de superficies de cancha.Pro Torque Chassis LightEste chasis utiliza tecnología de arco diseñada para la velocidad, proporcionando una estabilidad y flexibilidad extremas.Soporte Específico para MujeresEst......",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 64.69,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44884654328&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -49451,6 +49034,41 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-sapatilhas-de-padel-munich-focus-44449148524",
+    "name": "Sapatilhas de padel Munich Focus",
+    "brand": "Munich",
+    "category": "sapatilhas",
+    "price": 68.57,
+    "oldPrice": 68.57,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-8931005-noir-gris-69d664566291a-1.webp&feedId=93547&k=a37f6694f63377ae833515df52668775e5ace169",
+    "ean": "8445648671946",
+    "productGTIN": null,
+    "mpn": "8931005",
+    "source": "smash-expert",
+    "sourceProductId": "44449148524",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Este modelo ha sido desarrollado para ofrecer un rendimiento óptimo en el campo al combinar materiales de alta calidad con un diseño funcional. La parte superior de PU y malla técnica asegura una ligereza excepcional y la transpirabilidad necesaria para mantener el pie fresco, mientras que la puntera de doble costura refuerza la estructura contra el desgaste. La combinación de la media suela de Phylon y la suela exterior de goma ofrece una amortiguación suave y una excelente adherencia, facilitando los movimientos laterales y los sprints rápidos. Es la elección perfecta para aquellos que buscan agilidad y protección en cada punto del partido de pádel o tenis.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 68.57,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44449148524&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-sapatilhas-de-padel-munich-focus-44449148525",
     "name": "Sapatilhas de padel Munich Focus",
     "brand": "Munich",
@@ -50116,76 +49734,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-munich-padx-44449148543",
-    "name": "Sapatilhas de padel Munich Padx",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 98.82,
-    "oldPrice": 98.82,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4034062-fluorescent-yellow-and-white-69d6645a575b9-1.webp&feedId=93547&k=e16a478a45bddef3bc995d691783aab6c53ee43e",
-    "ean": "8445648673292",
-    "productGTIN": null,
-    "mpn": "4034062",
-    "source": "smash-expert",
-    "sourceProductId": "44449148543",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "El MUNICH PADX PADEL 62 es el modelo ideal para los jugadores que exigen una durabilidad máxima y una alta visibilidad en la cancha. Cuenta con una pieza de TPU inyectado especializada en la parte del pie que estructura la base de textil, ofreciendo una resistencia a la abrasión superior en las zonas más sometidas a presión. Diseñado con la tecnología X-Lite para un amortiguamiento ligero, se distingue por un cuerpo amarillo fluo brillante, un logo \"X\" negro audaz y una suela intermedia rica en gráficos.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 98.82,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44449148543&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-munich-padx-44449148545",
-    "name": "Sapatilhas de padel Munich Padx",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 98.82,
-    "oldPrice": 98.82,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4034062-fluorescent-yellow-and-white-69d6645a575b9-1.webp&feedId=93547&k=e16a478a45bddef3bc995d691783aab6c53ee43e",
-    "ean": "8445648673315",
-    "productGTIN": null,
-    "mpn": "4034062",
-    "source": "smash-expert",
-    "sourceProductId": "44449148545",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "El MUNICH PADX PADEL 62 es el modelo ideal para los jugadores que exigen una durabilidad máxima y una alta visibilidad en la cancha. Cuenta con una pieza de TPU inyectado especializada en la parte del pie que estructura la base de textil, ofreciendo una resistencia a la abrasión superior en las zonas más sometidas a presión. Diseñado con la tecnología X-Lite para un amortiguamiento ligero, se distingue por un cuerpo amarillo fluo brillante, un logo \"X\" negro audaz y una suela intermedia rica en gráficos.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 98.82,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44449148545&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-munich-padx-44464726648",
     "name": "Sapatilhas de padel Munich Padx",
     "brand": "Munich",
@@ -50466,41 +50014,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-sapatilhas-de-padel-munich-padx-44449148553",
-    "name": "Sapatilhas de padel Munich Padx",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 98.82,
-    "oldPrice": 98.82,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4034060-white-and-orange-69d6645e5709d-1.webp&feedId=93547&k=0879ac8350f6ecece83d4fe51246cd41f2f070d6",
-    "ean": "8445648673001",
-    "productGTIN": null,
-    "mpn": "4034060",
-    "source": "smash-expert",
-    "sourceProductId": "44449148553",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "El MUNICH PADX PADEL 60 es el modelo definitivo para los jugadores que buscan una durabilidad máxima en la pista. Se destaca por su resistencia extraordinaria en la zona del empeine, con una pieza de TPU inyectado que estructura la base de tejido y ofrece una alta resistencia a la abrasión en las zonas más exigidas. Incluye la tecnología X-Lite en la media suela para una amortiguación ligera y una suela especializada para una adherencia óptima. El diseño presenta una base blanca brillante contrastada por el logo \"X\" y el talón en naranja vivo.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 98.82,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44449148553&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-sapatilhas-de-padel-munich-padx-44449148554",
     "name": "Sapatilhas de padel Munich Padx",
     "brand": "Munich",
@@ -50531,41 +50044,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 98.82,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44449148554&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-munich-padx-44449148555",
-    "name": "Sapatilhas de padel Munich Padx",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 98.82,
-    "oldPrice": 98.82,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4034060-white-and-orange-69d6645e5709d-1.webp&feedId=93547&k=0879ac8350f6ecece83d4fe51246cd41f2f070d6",
-    "ean": "8445648673025",
-    "productGTIN": null,
-    "mpn": "4034060",
-    "source": "smash-expert",
-    "sourceProductId": "44449148555",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "El MUNICH PADX PADEL 60 es el modelo definitivo para los jugadores que buscan una durabilidad máxima en la pista. Se destaca por su resistencia extraordinaria en la zona del empeine, con una pieza de TPU inyectado que estructura la base de tejido y ofrece una alta resistencia a la abrasión en las zonas más exigidas. Incluye la tecnología X-Lite en la media suela para una amortiguación ligera y una suela especializada para una adherencia óptima. El diseño presenta una base blanca brillante contrastada por el logo \"X\" y el talón en naranja vivo.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 98.82,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44449148555&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -51026,41 +50504,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-zapatos-de-padel-tenis-munich-atomix-44449148561",
-    "name": "Zapatos de padel/tenis Munich Atomix",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 102.85,
-    "oldPrice": 102.85,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4032150-grey-and-fluorescent-yellow-69d6641828d73-1.webp&feedId=93547&k=5a4bb5009018a168fd07991b1e14a16e9d9a2a48",
-    "ean": "8445648664115",
-    "productGTIN": null,
-    "mpn": "4032150",
-    "source": "smash-expert",
-    "sourceProductId": "44449148561",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "La MUNICH ATOMIK 50 es un zapato de alto rendimiento diseñado para ofrecer un ajuste excepcional y un rendimiento dinámico en la cancha. Construido sobre una base de malla transpirable, presenta refuerzos estratégicos en las zonas de mayor desgaste para garantizar su durabilidad, manteniendo una sensación de ligereza. Incluye una puntera de TPU de alta resistencia y un acolchado de 360º en el collar para un máximo confort durante los juegos intensos. El diseño combina un elegante tono gris con acentos negros y amarillos neón, destacándose con un gráfico geométrico moderno en la suela intermedia.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 102.85,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44449148561&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
     "id": "smash-expert-zapatos-de-padel-tenis-munich-atomix-44449148562",
     "name": "Zapatos de padel/tenis Munich Atomix",
     "brand": "Munich",
@@ -51231,41 +50674,6 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
         "price": 102.85,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44429533372&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-zapatos-de-padel-tenis-munich-atomix-44429533373",
-    "name": "Zapatos de padel/tenis Munich Atomix",
-    "brand": "Munich",
-    "category": "sapatilhas",
-    "price": 102.85,
-    "oldPrice": 102.85,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4032150-grey-and-fluorescent-yellow-69d6641828d73-1.webp&feedId=93547&k=5a4bb5009018a168fd07991b1e14a16e9d9a2a48",
-    "ean": "8445648664177",
-    "productGTIN": null,
-    "mpn": "4032150",
-    "source": "smash-expert",
-    "sourceProductId": "44429533373",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
-    "description": "La MUNICH ATOMIK 50 es un zapato de alto rendimiento diseñado para ofrecer un ajuste excepcional y un rendimiento dinámico en la cancha. Construido sobre una base de malla transpirable, presenta refuerzos estratégicos en las zonas de mayor desgaste para garantizar su durabilidad, manteniendo una sensación de ligereza. Incluye una puntera de TPU de alta resistencia y un acolchado de 360º en el collar para un máximo confort durante los juegos intensos. El diseño combina un elegante tono gris con acentos negros y amarillos neón, destacándose con un gráfico geométrico moderno en la suela intermedia.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": null,
-      "cor": null,
-      "uso": "Intenso",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 102.85,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44429533373&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -51726,66 +51134,36 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
-    "id": "smash-expert-raqueta-de-padel-nox-at10-pro-cup-hard-augustin-tapia-44481088365",
-    "name": "Raqueta de padel Nox AT10 Pro Cup Hard Augustin Tapia",
-    "brand": "Nox",
-    "category": "raquetes",
-    "price": 172.97,
-    "oldPrice": 201.66,
+    "id": "smash-expert-zapatos-de-padel-tenis-munich-atomix-44884654639",
+    "name": "Zapatos de padel/tenis Munich Atomix",
+    "brand": "Munich",
+    "category": "sapatilhas",
+    "price": 102.85,
+    "oldPrice": 102.85,
     "rating": null,
     "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fn%2Fo%2Fnox-8435778902720-69de560fb4616-1.webp&feedId=93547&k=21fb4aefed1a1019fcaf461e19c43a43baf3cdc6",
-    "ean": "8435778902720",
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fm%2Fu%2Fmunich-4032149-white-and-orange-69d6641a2923c-1.webp&feedId=93547&k=cb29d798486bc3fcf8f4fd20875a61cfaa8a8d19",
+    "ean": "8445648664078",
     "productGTIN": null,
-    "mpn": "8435778902720",
+    "mpn": "4032149",
     "source": "smash-expert",
-    "sourceProductId": "44481088365",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Homme",
-    "description": "La pala de pádel Nox AT10 Pro Cup Hard Augustin Tapia está diseñada para jugadores que buscan combinar rendimiento y control en la cancha. Esta pala se destaca por su construcción de alta calidad y sus características técnicas avanzadas, haciéndola ideal para jugadores de nivel intermedio a avanzado.Diseñada con tecnología de punta, ofrece un excelente equilibrio entre potencia y precisión. La forma y el diseño de la pala permiten una manipulación fácil y rápida, contribuyendo así a un juego dinámico y reactivo. La Nox AT10 Pro Cup Hard está fabricada con materiales resistentes que garantizan durabilidad y resistencia, incluso en los partidos más intensos.La superficie de la pala está optimizada para asegurar un mejor control de la pelota, permitiendo así golpes más precisos y impactos potentes. Gracias a su diseño ergonómico, esta pala es cómoda de sostener, reduciendo la fatiga durante largas sesiones de juego.Las características clave de la Nox AT10 Pro Cup Hard Augustin Tapia......",
+    "sourceProductId": "44884654639",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "La MUNICH ATOMIK 49 es un calzado de alto rendimiento que se destaca por su ajuste perfecto. Diseñada sobre una base de malla transpirable, presenta refuerzos en las zonas de mayor desgaste para garantizar una durabilidad a largo plazo sin sacrificar ligereza. Incluye una punta de TPU inyectado y un acolchado de 360º en el collar para una comodidad superior durante los partidos más intensos. Su diseño elegante en blanco, con acentos en azul marino y naranja y una suela intermedia moteada, ofrece un aspecto moderno y profesional en el campo.",
     "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": null,
-      "estilo": "Equilibrado"
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Intenso",
+      "amortecimento": null
     },
     "stores": [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 172.97,
+        "price": 102.85,
         "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44481088365&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-pelota-de-padel-bullpadel-tournament-pro-x3-44572502282",
-    "name": "Pelota de padel Bullpadel Tournament Pro (x3)",
-    "brand": "Bullpadel",
-    "category": "acessorios",
-    "price": 7.14,
-    "oldPrice": 7.14,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fu%2Fbullpadel-a006622-gris-vert-69eb241008fe2-1.webp&feedId=93547&k=e5ab5e30f67dfa3427febddb2a54c9ec7424a1ee",
-    "ean": "8428725944454",
-    "productGTIN": null,
-    "mpn": "A006622",
-    "source": "smash-expert",
-    "sourceProductId": "44572502282",
-    "sourceCategory": "Padel > Balle de padel > Adulte > Mixte",
-    "description": "Las pelotas de pádel Bullpadel Tournament Pro (x3) están diseñadas para los apasionados del pádel que buscan rendimiento y calidad en la cancha. Estas pelotas son ideales para los jugadores que desean mejorar su juego mientras disfrutan de una excelente durabilidad.Fabricadas con materiales de primera calidad, las Bullpadel Tournament Pro ofrecen un excelente rebote y una precisión inigualable. Ya seas un jugador principiante o experimentado, estas pelotas sabrán cumplir con tus expectativas y acompañarte en tus partidos más intensos. Rendimiento óptimo: Las pelotas están diseñadas para garantizar una alta velocidad de juego y una trayectoria precisa. Durabilidad: La calidad de los materiales asegura una longevidad aumentada, incluso con un uso frecuente. Comodidad de juego: Un buen agarre y un rebote controlado facilitan los golpes más técnicos. Pack de 3: Práctico para entrenamientos o partidos, este pack permite tener siempre pelotas listas para usar.Las pelotas de pádel ......",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 7.14,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44572502282&a=2816502&m=80889",
+        "url": "https://www.awin1.com/pclick.php?p=44884654639&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -52917,7 +52295,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Black Crown Piton",
     "brand": "Black Crown",
     "category": "raquetes",
-    "price": 149.94,
+    "price": 161.33,
     "oldPrice": 161.33,
     "rating": null,
     "badge": null,
@@ -52941,7 +52319,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 149.94,
+        "price": 161.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44572502512&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -53129,6 +52507,42 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     ]
   },
   {
+    "id": "smash-expert-raqueta-de-padel-black-crown-viva-44572502518",
+    "name": "Raqueta de padel Black Crown Viva",
+    "brand": "Black Crown",
+    "category": "raquetes",
+    "price": 56.47,
+    "oldPrice": 56.47,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fl%2Fblack-crown-a006023-noir-gris-69eb23e24814c-1.webp&feedId=93547&k=e942c2cf7dcf45ea2a28bd942e44c02a0b50a08f",
+    "ean": "8445090161354",
+    "productGTIN": null,
+    "mpn": "A006023",
+    "source": "smash-expert",
+    "sourceProductId": "44572502518",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "La Black Crown Viva es la pala perfecta para quienes comienzan en el pádel o desean seguir avanzando con una pala cómoda, manejable y que inspire confianza desde el primer golpe. Su forma redonda, su equilibrio bajo y su amplio sweet spot facilitan el aprendizaje y mejoran la precisión, ofreciendo un control total en cada movimiento.Gracias a la combinación de fibra de vidrio en las caras y de caucho EVA Soft en el núcleo, esta pala ofrece una excelente salida de bola y una sensación de golpeo suave y agradable. Esto la convierte en una elección ideal para disfrutar del juego desde el primer día, sin sacrificar comodidad ni rendimiento.La estructura de doble tubo de fibra de vidrio garantiza una gran resistencia a un uso intensivo, con un diseño moderno y atractivo, diseñado para destacar tanto en la cancha como fuera de ella.Si buscas una pala con un rendimiento equilibrado, muy duradera y a un precio muy competitivo, la Black Crown Viva es una elección segura.",
+    "specs": {
+      "peso": null,
+      "forma": "Redonda",
+      "equilibrio": "Baixo",
+      "nivel": null,
+      "material": "Fibra de vidro",
+      "estilo": "Controlo"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 56.47,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44572502518&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
     "id": "smash-expert-raqueta-de-padel-bullpadel-sniper-2-0-control-2026-44572502519",
     "name": "Raqueta de padel Bullpadel Sniper 2.0 Control 2026",
     "brand": "Bullpadel",
@@ -53205,7 +52619,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Bullpadel Sniper 2.0 Power 2026",
     "brand": "Bullpadel",
     "category": "raquetes",
-    "price": 81.68,
+    "price": 72.6,
     "oldPrice": 81.68,
     "rating": null,
     "badge": null,
@@ -53229,7 +52643,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 81.68,
+        "price": 72.6,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44572502522&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -53493,7 +52907,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Softee padel Summit Perla",
     "brand": "Softee Pádel",
     "category": "raquetes",
-    "price": 198.9,
+    "price": 196.13,
     "oldPrice": 393.25,
     "rating": null,
     "badge": null,
@@ -53517,7 +52931,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 198.9,
+        "price": 196.13,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44776403954&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -53732,7 +53146,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Black Crown Focus 2026",
     "brand": "Black Crown",
     "category": "sacos",
-    "price": 25.84,
+    "price": 25.4,
     "oldPrice": 26.21,
     "rating": null,
     "badge": null,
@@ -53749,7 +53163,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 25.84,
+        "price": 25.4,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44572502543&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -54993,7 +54407,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 64.4,
+    "price": 56.94,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -55016,7 +54430,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.4,
+        "price": 56.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055663&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55028,7 +54442,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 64.4,
+    "price": 56.94,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -55051,7 +54465,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.4,
+        "price": 56.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719196808&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55063,7 +54477,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 64.4,
+    "price": 56.94,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -55086,7 +54500,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.4,
+        "price": 56.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719196809&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55098,7 +54512,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 64.4,
+    "price": 56.94,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -55121,7 +54535,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.4,
+        "price": 56.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719196810&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55133,7 +54547,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel para niños Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 64.4,
+    "price": 56.94,
     "oldPrice": 75.63,
     "rating": null,
     "badge": null,
@@ -55156,219 +54570,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 64.4,
+        "price": 56.94,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719196811&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196812",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201916",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196812",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196812&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196813",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201923",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196813",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196813&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196814",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201930",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196814",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196814&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196815",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201947",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196815",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196815&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196816",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201954",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196816",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196816&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-sapatilhas-de-padel-para-mujer-babolat-sensa-44719196817",
-    "name": "Sapatilhas de padel para mujer Babolat Sensa",
-    "brand": "Babolat",
-    "category": "sapatilhas",
-    "price": 105.83,
-    "oldPrice": 126.04,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a1s25c757-1104-blanc-bleu-69f5cbb9960a9-1.webp&feedId=93547&k=2d8b1ddf8c64db577595e6925c40c7f7fd26abb0",
-    "ean": "3324922201961",
-    "productGTIN": null,
-    "mpn": "3A1S25C757-1104",
-    "source": "smash-expert",
-    "sourceProductId": "44719196817",
-    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
-    "description": "Debes ir a buscar una pelota que sale de la cancha o defenderte en un ángulo difícil...La zapatilla de Padel Sensa responde a esta necesidad fundamental de seguridad, sin importar las circunstancias. Cuenta con numerosos refuerzos para una mayor durabilidad. Sus dobles cintas laterales integradas ofrecen una estabilidad excepcional. Su malla tricotada en la parte delantera es la mejor respuesta a la necesidad de comodidad.100% padel, también es 100% mujer. Sin comprometer la estética.",
-    "specs": {
-      "sola": "Pádel",
-      "genero": "Mulher",
-      "cor": null,
-      "uso": "Pádel",
-      "amortecimento": null
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 105.83,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719196817&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -55378,7 +54582,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Correas Babolat",
     "brand": "Babolat",
     "category": "acessorios",
-    "price": 10.03,
+    "price": 9.98,
     "oldPrice": 10.03,
     "rating": null,
     "badge": null,
@@ -55395,7 +54599,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 10.03,
+        "price": 9.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719197082&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55407,7 +54611,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Correas Babolat",
     "brand": "Babolat",
     "category": "acessorios",
-    "price": 10.03,
+    "price": 9.98,
     "oldPrice": 10.03,
     "rating": null,
     "badge": null,
@@ -55424,7 +54628,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 10.03,
+        "price": 9.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719197083&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55436,7 +54640,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Correas Babolat",
     "brand": "Babolat",
     "category": "acessorios",
-    "price": 10.03,
+    "price": 9.98,
     "oldPrice": 10.03,
     "rating": null,
     "badge": null,
@@ -55453,7 +54657,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 10.03,
+        "price": 9.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719197084&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55465,7 +54669,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Correas Babolat",
     "brand": "Babolat",
     "category": "acessorios",
-    "price": 10.03,
+    "price": 9.98,
     "oldPrice": 10.03,
     "rating": null,
     "badge": null,
@@ -55482,7 +54686,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 10.03,
+        "price": 9.98,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055711&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55494,7 +54698,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Air Veron 2.6",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 223.19,
+    "price": 192.26,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -55518,45 +54722,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 223.19,
+        "price": 192.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055729&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-raqueta-de-padel-babolat-air-vertuo-2-6-44672055730",
-    "name": "Raqueta de padel Babolat Air Vertuo 2.6",
-    "brand": "Babolat",
-    "category": "raquetes",
-    "price": 168,
-    "oldPrice": 181.5,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-150184-100-bleu-noir-69f5cd916d52d-1.webp&feedId=93547&k=41cfa242c373f91c549ffa6ca8524b8c45a185d8",
-    "ean": "3324922283202",
-    "productGTIN": null,
-    "mpn": "150184-100",
-    "source": "smash-expert",
-    "sourceProductId": "44672055730",
-    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
-    "description": "La Air Vertuo es una raqueta diseñada para jugadores que buscan el equilibrio perfecto entre una maniobrabilidad excepcional, comodidad y potencia.La combinación de su estructura flexible de fibra de vidrio y su diseño aerodinámico facilita una salida de bola rápida y explosiva, sin requerir un esfuerzo excesivo. Esto permite a los jugadores imprimir fácilmente más potencia a sus golpes, tanto en modo de ataque como en defensa, sin comprometer el control.Esta raqueta también integra tecnologías avanzadas como el Holes Pattern System, que optimiza la distribución de los agujeros en la cara de la raqueta para ofrecer una mayor estabilidad y mejor regularidad en los golpes. La tecnología Vibrabsorb System reduce las vibraciones para un mayor confort durante el juego y protege el brazo, lo que la hace ideal para largas sesiones de entrenamiento y partidos intensos.En resumen, la Air Vertuo es una raqueta equilibrada, perfecta para jugadores que desean un rendimiento versátil que comb......",
-    "specs": {
-      "peso": null,
-      "forma": null,
-      "equilibrio": null,
-      "nivel": "Avançado",
-      "material": "Fibra de vidro",
-      "estilo": "Equilibrado"
-    },
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 168,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44672055730&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -55566,7 +54734,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Alioth",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 103.52,
+    "price": 100.83,
     "oldPrice": 110.92,
     "rating": null,
     "badge": null,
@@ -55590,7 +54758,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 103.52,
+        "price": 100.83,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055731&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55602,7 +54770,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Alioth Pro",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 140.32,
+    "price": 120.99,
     "oldPrice": 151.25,
     "rating": null,
     "badge": null,
@@ -55626,7 +54794,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 140.32,
+        "price": 120.99,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055732&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55638,7 +54806,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Counter Veron 2.6",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 223.19,
+    "price": 192.26,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -55662,7 +54830,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 223.19,
+        "price": 192.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055733&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55674,7 +54842,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Counter Vertuo 2.6",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 168,
+    "price": 148.1,
     "oldPrice": 181.5,
     "rating": null,
     "badge": null,
@@ -55698,7 +54866,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 168,
+        "price": 148.1,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055734&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55710,7 +54878,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Technical Veron 3.0",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 204.79,
+    "price": 176.43,
     "oldPrice": 221.83,
     "rating": null,
     "badge": null,
@@ -55734,7 +54902,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 204.79,
+        "price": 176.43,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055735&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55746,7 +54914,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Technical Viper 3.0",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 343.04,
+    "price": 295.33,
     "oldPrice": 373.08,
     "rating": null,
     "badge": null,
@@ -55770,7 +54938,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 343.04,
+        "price": 295.33,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055736&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55782,7 +54950,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Technical Viper Soft 3.0",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 260.15,
+    "price": 224.05,
     "oldPrice": 282.33,
     "rating": null,
     "badge": null,
@@ -55806,7 +54974,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 260.15,
+        "price": 224.05,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055737&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -55818,7 +54986,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Veron Juan Lebrón 3.0",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 223.19,
+    "price": 192.26,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -55842,38 +55010,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 223.19,
+        "price": 192.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055738&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-mochila-babolat-court-lite-44719197131",
-    "name": "Mochila Babolat Court Lite",
-    "brand": "Babolat",
-    "category": "sacos",
-    "price": 48.32,
-    "oldPrice": 50.37,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-759023-105-noir-69f5cf1e57db1-1.webp&feedId=93547&k=32ae4052610477e335d925057bb340ae6a7b3707",
-    "ean": "3324922163023",
-    "productGTIN": null,
-    "mpn": "759023-105",
-    "source": "smash-expert",
-    "sourceProductId": "44719197131",
-    "sourceCategory": "Padel > Sac à dos > Adulte > Mixte",
-    "description": "Ya sea para ir a golpear algunas bolas o para una sesión en el gimnasio. la mochila Backpack Court Lite está diseñada para acompañarte a diario.Voluminosa y fácil de usar. esta mochila de padel sobria y funcional te permitirá organizar mejor tu material de padel.Versátil, se divide en dos compartimentos, permitiendo guardar y proteger una raqueta de un lado, y todo tu equipo del otro. En la pista, podrás acceder fácilmente a tus elementos esenciales gracias a su bolsillo accesible.Y porque nuestra ambición es ofrecerte lo mejor... hemos reforzado la durabilidad de esta mochila, gracias a su tela exterior de PET 100% reciclado, un material más robusto, resistente y respetuoso con el medio ambiente.Un enfoque fundamental para nosotros, que reforzamos mediante el uso de un forro \"sin color\", también en PET 100% reciclado, para reducir el consumo de agua necesario para la producción de la mochila.",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 48.32,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44719197131&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -55883,8 +55022,8 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Mochila Babolat Court Lite",
     "brand": "Babolat",
     "category": "sacos",
-    "price": 48.32,
-    "oldPrice": 50.37,
+    "price": 46.38,
+    "oldPrice": 49.41,
     "rating": null,
     "badge": null,
     "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-759023-264-noir-multicolore-69f5cf28cee42-1.webp&feedId=93547&k=b2413938edca7329190db418c1ab798c3ac2161b",
@@ -55900,67 +55039,9 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 48.32,
+        "price": 46.38,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055801&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-saco-babolat-rh-pro-44672055807",
-    "name": "Saco Babolat RH Pro",
-    "brand": "Babolat",
-    "category": "sacos",
-    "price": 112.63,
-    "oldPrice": 120.95,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-759020-105-noir-69f5cc3e66825-1.webp&feedId=93547&k=022a238eed077d178bafc20aaef90abe31398b6d",
-    "ean": "3324922163061",
-    "productGTIN": null,
-    "mpn": "759020-105",
-    "source": "smash-expert",
-    "sourceProductId": "44672055807",
-    "sourceCategory": "Padel > Sac de raquette de padel > Adulte > Mixte",
-    "description": "El saco de padel RH Pro Padel es mucho más que un simple accesorio. Representa una declaración de rendimiento para los jugadores expertos que buscan la excelencia en la cancha.Su diseño se centra en un volumen generoso, capacidades avanzadas de organización y una practicidad de uso inigualable. Con su arquitectura específicamente diseñada para satisfacer las necesidades de los jugadores expertos, el saco ofrece tres compartimentos, un bolsillo transpirable para los zapatos, bolsillos para accesorios y espacios ingeniosos. Cada detalle está pensado para optimizar tu experiencia de juego y facilitar el transporte organizado de tu equipo.Gracias a sus líneas afiladas y sus características, el RH PRO PADEL es una fusión perfecta de funcionalidad y estilo, asegurando que no solo te destaques por tu rendimiento excepcional, sino también por tu estilo incomparable.Diseñado con materiales ultra resistentes, repelentes al agua y 100% reciclados, el RH Pro Padel garantiza una durabilidad e......",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 112.63,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44672055807&a=2816502&m=80889",
-        "deliveryCost": 7.99
-      }
-    ]
-  },
-  {
-    "id": "smash-expert-saco-babolat-rh-pro-technical-44672055808",
-    "name": "Saco Babolat RH Pro Technical",
-    "brand": "Babolat",
-    "category": "sacos",
-    "price": 112.63,
-    "oldPrice": 120.95,
-    "rating": null,
-    "badge": null,
-    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-759024-100-blanc-noir-rouge-69f5cc49ecf2f-1.webp&feedId=93547&k=819d55943dc1e144b20595d777c611bdfd01fad9",
-    "ean": "3324922251690",
-    "productGTIN": null,
-    "mpn": "759024-100",
-    "source": "smash-expert",
-    "sourceProductId": "44672055808",
-    "sourceCategory": "Padel > Sac de raquette de padel > Adulte > Mixte",
-    "description": "El bolso RH Pro Padel Technical es mucho más que un simple accesorio, es la expresión misma del rendimiento para los jugadores de pádel exigentes. Diseñado para satisfacer las necesidades de los jugadores competitivos, ofrece un espacio generoso y una organización optimizada con tres compartimentos, un bolsillo transpirable para los zapatos y bolsillos adicionales para tus accesorios.El RH Pro Padel Technical combina estilo y funcionalidad y está diseñado con líneas modernas y un diseño cuidado.Fabricado con materiales ultra-resistentes, repelentes al agua y 100% reciclados, el RH Pro Padel Technical garantiza una durabilidad máxima mientras protege tu equipo. La distribución de los espacios, ingeniosamente pensada, te permite mantener el enfoque en tu juego.Ya sea para combinar tu bolso con tu raqueta de pádel Babolat Technical o porque te gusta el diseño de este bolso, elige el totalmente nuevo RH Pro Padel Technical.",
-    "specs": {},
-    "stores": [
-      {
-        "key": "smash-expert",
-        "name": "Smash Expert",
-        "price": 112.63,
-        "stock": "Disponibilidade por confirmar",
-        "url": "https://www.awin1.com/pclick.php?p=44672055808&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -55970,7 +55051,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 130.7,
+    "price": 112.72,
     "oldPrice": 156.29,
     "rating": null,
     "badge": null,
@@ -55993,9 +55074,44 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.7,
+        "price": 112.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672055842&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-babolat-jet-premura-2-44790749350",
+    "name": "Sapatilhas de padel Babolat Jet Premura 2",
+    "brand": "Babolat",
+    "category": "sapatilhas",
+    "price": 112.72,
+    "oldPrice": 156.29,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a0s25b752-6013-vibrant-orange-69f372e2b62ea-1.webp&feedId=93547&k=9cba8e71e49bf95f2e7236c8437ccf1af5b4eae3",
+    "ean": "3324922199114",
+    "productGTIN": null,
+    "mpn": "3A0S25B752-6013",
+    "source": "smash-expert",
+    "sourceProductId": "44790749350",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La última zapatilla de pádel Jet Premura sigue causando sensación. Con un diseño innovador que presenta dos amplias zonas de ventilación en la parte superior y un peso reducido, la Babolat Jet Premura Padel es excepcionalmente cómoda y transpirable.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 112.72,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790749350&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -56005,7 +55121,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 130.7,
+    "price": 112.72,
     "oldPrice": 156.29,
     "rating": null,
     "badge": null,
@@ -56028,7 +55144,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.7,
+        "price": 112.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719197146&a=2816502&m=80889",
         "deliveryCost": 7.99
@@ -56040,7 +55156,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Sapatilhas de padel Babolat Jet Premura 2",
     "brand": "Babolat",
     "category": "sapatilhas",
-    "price": 130.7,
+    "price": 112.72,
     "oldPrice": 156.29,
     "rating": null,
     "badge": null,
@@ -56063,9 +55179,114 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 130.7,
+        "price": 112.72,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44719197147&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-babolat-jet-premura-2-44790749351",
+    "name": "Sapatilhas de padel Babolat Jet Premura 2",
+    "brand": "Babolat",
+    "category": "sapatilhas",
+    "price": 112.72,
+    "oldPrice": 156.29,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a0s25b752-6013-vibrant-orange-69f372e2b62ea-1.webp&feedId=93547&k=9cba8e71e49bf95f2e7236c8437ccf1af5b4eae3",
+    "ean": "3324922199152",
+    "productGTIN": null,
+    "mpn": "3A0S25B752-6013",
+    "source": "smash-expert",
+    "sourceProductId": "44790749351",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La última zapatilla de pádel Jet Premura sigue causando sensación. Con un diseño innovador que presenta dos amplias zonas de ventilación en la parte superior y un peso reducido, la Babolat Jet Premura Padel es excepcionalmente cómoda y transpirable.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 112.72,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790749351&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-babolat-jet-premura-2-44790749352",
+    "name": "Sapatilhas de padel Babolat Jet Premura 2",
+    "brand": "Babolat",
+    "category": "sapatilhas",
+    "price": 112.72,
+    "oldPrice": 156.29,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a0s25b752-6013-vibrant-orange-69f372e2b62ea-1.webp&feedId=93547&k=9cba8e71e49bf95f2e7236c8437ccf1af5b4eae3",
+    "ean": "3324922199183",
+    "productGTIN": null,
+    "mpn": "3A0S25B752-6013",
+    "source": "smash-expert",
+    "sourceProductId": "44790749352",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La última zapatilla de pádel Jet Premura sigue causando sensación. Con un diseño innovador que presenta dos amplias zonas de ventilación en la parte superior y un peso reducido, la Babolat Jet Premura Padel es excepcionalmente cómoda y transpirable.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 112.72,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790749352&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-babolat-jet-premura-2-44790749353",
+    "name": "Sapatilhas de padel Babolat Jet Premura 2",
+    "brand": "Babolat",
+    "category": "sapatilhas",
+    "price": 112.72,
+    "oldPrice": 156.29,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fb%2Fa%2Fbabolat-3a0s25b752-6013-vibrant-orange-69f372e2b62ea-1.webp&feedId=93547&k=9cba8e71e49bf95f2e7236c8437ccf1af5b4eae3",
+    "ean": "3324922199206",
+    "productGTIN": null,
+    "mpn": "3A0S25B752-6013",
+    "source": "smash-expert",
+    "sourceProductId": "44790749353",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Homme",
+    "description": "La última zapatilla de pádel Jet Premura sigue causando sensación. Con un diseño innovador que presenta dos amplias zonas de ventilación en la parte superior y un peso reducido, la Babolat Jet Premura Padel es excepcionalmente cómoda y transpirable.",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 112.72,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44790749353&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]
@@ -56075,7 +55296,7 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
     "name": "Raqueta de padel Babolat Stima Energy",
     "brand": "Babolat",
     "category": "raquetes",
-    "price": 223.19,
+    "price": 192.26,
     "oldPrice": 242,
     "rating": null,
     "badge": null,
@@ -56099,9 +55320,536 @@ window.PADELCOST_SMASH_EXPERT_PRODUCTS = [
       {
         "key": "smash-expert",
         "name": "Smash Expert",
-        "price": 223.19,
+        "price": 192.26,
         "stock": "Disponibilidade por confirmar",
         "url": "https://www.awin1.com/pclick.php?p=44672057069&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823302",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888831",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823302",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823302&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823303",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 158.31,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811889005",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823303",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 158.31,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823303&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823304",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888855",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823304",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823304&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823305",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 157.3,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888978",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823305",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 157.3,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823305&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823306",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 157.3,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888992",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823306",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 157.3,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823306&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823307",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 157.3,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888954",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823307",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 157.3,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823307&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-adidas-crazyquick-boost-padel-44890823308",
+    "name": "Sapatilhas de padel adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr2124.webp&feedId=93547&k=139e81597e561de7699ab104bf73ef25ae85b116",
+    "ean": "4068811888893",
+    "productGTIN": null,
+    "mpn": "JR2124",
+    "source": "smash-expert",
+    "sourceProductId": "44890823308",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Mixte",
+    "description": "Cubre toda la cancha de pádel con esta zapatilla Crazyquick adidas. Diseñada para movimientos rápidos y seguros, presenta una parte superior ligera y una construcción Slingframe para mayor estabilidad. Cuenta con una suela exterior adherente diseñada específicamente para este deporte, y tiene una media suela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Este producto contiene al menos un 20 % de materiales reciclados. Al reutilizar materiales ya creados, contribuimos a reducir los residuos y nuestra dependencia de recursos limitados, con el fin de reducir la huella ecológica de los productos que fabricamos.Info 6 : Punta AdituffColor : BlancoInfo 3 : Parte superior de textil y sintéticoInfo 5 : Media suela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : HombreCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": null,
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823308&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823309",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950323",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823309",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823309&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823310",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950408",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823310",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823310&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823311",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950446",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823311",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823311&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823312",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950378",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823312",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823312&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823313",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950361",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823313",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823313&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-sapatilhas-de-padel-para-mujer-adidas-crazyquick-boost-padel-44890823314",
+    "name": "Sapatilhas de padel para mujer adidas Crazyquick Boost Padel",
+    "brand": "Adidas",
+    "category": "sapatilhas",
+    "price": 161.33,
+    "oldPrice": 161.33,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fj%2Fr%2Fjr4660.webp&feedId=93547&k=c8148dd22092ce918b65ea1fac7ca2deb37e0a70",
+    "ean": "4068811950330",
+    "productGTIN": null,
+    "mpn": "JR4660",
+    "source": "smash-expert",
+    "sourceProductId": "44890823314",
+    "sourceCategory": "Padel > Chaussures de padel > Adulte > Femme",
+    "description": "Cubre toda la pista de pádel con este zapato Crazyquick adidas. Diseñado para movimientos rápidos y seguros, cuenta con una parte superior ligera y una construcción Slingframe para mayor estabilidad. Equipado con una suela exterior adherente diseñada específicamente para este deporte, tiene una entresuela BOOST con retorno de energía infinito para ayudarte a estar en cada punto.Info 6 : Delante AdituffColor : BlancoInfo 3 : Parte superior textil y sintéticaInfo 5 : Entresuela BOOSTTemporada : SS26Temporada : FW26Edad : AdultoEdad : JuniorGénero : MujerCategoría : PADELFranquicia : CRAZYQUICK BOOSTAjuste : ClásicoTipo de superficie : Multi Terreno",
+    "specs": {
+      "sola": "Pádel",
+      "genero": "Mulher",
+      "cor": null,
+      "uso": "Pádel",
+      "amortecimento": null
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 161.33,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823314&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-lok-padel-be-flow-gen-2-44890823353",
+    "name": "Raqueta de padel Lok Padel Be Flow Gen 2",
+    "brand": "Lok Padel",
+    "category": "raquetes",
+    "price": 104.87,
+    "oldPrice": 110.92,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fl%2Fr%2Flr5fa0u21.webp&feedId=93547&k=901a55678383d932e0b5a09de7828b55c4fe105c",
+    "ean": "8435739406182",
+    "productGTIN": null,
+    "mpn": "LR5FA0U21",
+    "source": "smash-expert",
+    "sourceProductId": "44890823353",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Grosor: 38 mmForma: RedondaEquilibrio: Neutral (265 mm)Peso: 360 - 375 grSweetspot: CentroLongitud: 455 mmNivel: PrincipianteFranquicia: BE",
+    "specs": {
+      "peso": "360-375g",
+      "forma": null,
+      "equilibrio": null,
+      "nivel": "Iniciante",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 104.87,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823353&a=2816502&m=80889",
+        "deliveryCost": 7.99
+      }
+    ]
+  },
+  {
+    "id": "smash-expert-raqueta-de-padel-lok-padel-easy-hype-gen-2-44890823354",
+    "name": "Raqueta de padel Lok Padel Easy Hype Gen 2",
+    "brand": "Lok Padel",
+    "category": "raquetes",
+    "price": 167.38,
+    "oldPrice": 181.5,
+    "rating": null,
+    "badge": null,
+    "image": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fl%2Fr%2Flr3ha0u23.webp&feedId=93547&k=b8dd204261d52411bc8c75a638dfe3f7cd28cbbd",
+    "ean": "8435739406151",
+    "productGTIN": null,
+    "mpn": "LR3HA0U23",
+    "source": "smash-expert",
+    "sourceProductId": "44890823354",
+    "sourceCategory": "Padel > Raquette de padel > Adulte > Mixte",
+    "description": "Grosor: 38 mmForma: Diamante sobredimensionadoEquilibrio: Cabeza (285 mm)Peso: 360 - 375 grZona dulce: AltaLongitud: 455 mmNivel: IntermedioFranquicia: EASY",
+    "specs": {
+      "peso": "360-375g",
+      "forma": "Diamante",
+      "equilibrio": null,
+      "nivel": "Intermédio",
+      "material": null,
+      "estilo": "Equilibrado"
+    },
+    "stores": [
+      {
+        "key": "smash-expert",
+        "name": "Smash Expert",
+        "price": 167.38,
+        "stock": "Disponibilidade por confirmar",
+        "url": "https://www.awin1.com/pclick.php?p=44890823354&a=2816502&m=80889",
         "deliveryCost": 7.99
       }
     ]

@@ -629,6 +629,47 @@
       display: block;
     }
 
+    .filter-option-brand {
+      gap: 0.62rem;
+      padding: 0.46rem 0.58rem;
+    }
+
+    .filter-brand-logo {
+      width: 28px;
+      height: 20px;
+      flex: 0 0 28px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .filter-brand-logo img {
+      max-width: 28px;
+      max-height: 20px;
+      object-fit: contain;
+      display: block;
+    }
+
+    .filter-brand-fallback {
+      width: 24px;
+      height: 20px;
+      border-radius: 5px;
+      background: rgba(19, 32, 44, 0.07);
+      color: var(--text-soft);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.58rem;
+      font-weight: 850;
+      letter-spacing: 0.02em;
+    }
+
+    .filter-brand-text {
+      min-width: 0;
+      flex: 1;
+      line-height: 1.25;
+    }
+
     .price-slider-container {
       margin-top: 0.5rem;
     }
@@ -4505,6 +4546,7 @@
   };
 
   const formatPrice = (price) => price.toFixed(2).replace('.', ',') + ' €';
+  const formatCount = (value) => Number(value || 0).toLocaleString('pt-PT');
 
   const truncateText = (value, max = 72) => value && value.length > max ? value.slice(0, max - 1).trim() + '…' : value;
 
@@ -4726,10 +4768,42 @@
     wilson: './logos_marcas/palas-de-padel-wilson.jpg'
   };
 
+  const FILTER_BRAND_LOGOS = {
+    adidas: './logos/logos_cinza/adidas.svg',
+    'adidas padel': './logos/logos_cinza/adidas.svg',
+    asics: './logos/logos_cinza/asics.svg',
+    babolat: './logos/logos_cinza/babolat.svg',
+    bullpadel: './logos/logos_cinza/bullpadel.svg',
+    dunlop: './logos/logos_cinza/dunlop.svg',
+    head: './logos/logos_cinza/head.svg',
+    joma: './logos/logos_cinza/joma.svg',
+    nox: './logos/logos_cinza/nox.svg',
+    starvie: './logos/logos_cinza/starvie.svg',
+    'star vie': './logos/logos_cinza/starvie.svg',
+    wilson: './logos/logos_cinza/wilson.svg',
+    lok: './logos/lok-logo.webp',
+    siux: './logos/siux-pagina-marca.webp',
+    'black crown': './logos/Logo_BlackCrown_10.svg',
+    tecnifibre: './logos_marcas/palas-de-padel-tecnifibre.jpg',
+    'drop shot': './logos_marcas/palas-de-padel-drop-shot.jpg',
+    vibora: './logos_marcas/palas-de-padel-vibora.jpg',
+    'vibor-a': './logos_marcas/palas-de-padel-vibora.jpg'
+  };
+
   const getBrandLogo = (product) => {
     const key = normalizeCatalogText(product?.brand || '');
     return BRAND_LOGOS[key] || '';
   };
+
+  const getFilterBrandLogo = (brand) => FILTER_BRAND_LOGOS[normalizeCatalogText(brand)] || '';
+
+  const getBrandInitials = (brand) => String(brand || '')
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((word) => word[0])
+    .join('')
+    .slice(0, 2)
+    .toUpperCase();
 
   const getModalSpecs = (product) => {
     if (!product?.specs) return [];
@@ -5842,6 +5916,18 @@
       document.body.style.overflow = 'hidden';
     };
 
+    const shouldUseProductPage = () =>
+      window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
+
+    const openProduct = (product) => {
+      const seoUrl = getSeoProductUrl(product);
+      if (shouldUseProductPage() && seoUrl) {
+        window.location.href = seoUrl;
+        return;
+      }
+      openModal(product);
+    };
+
     const closeModal = () => {
       setModalActive(false);
       document.body.style.overflow = 'auto';
@@ -6383,7 +6469,7 @@
                     {visibleNoveltyProducts.map(product => {
                       const cardBadge = getCardBadgeMeta(product);
                       return (
-                      <div key={product.id} className="product-card">
+                      <div key={product.id} className="product-card" onClick={() => openProduct(product)}>
                         {cardBadge && <span className={`product-badge${cardBadge.className}`}>{cardBadge.label}</span>}
                         <button
                           className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
@@ -6395,7 +6481,7 @@
                         >
                           <i className={`${isFavorite(product) ? 'fas' : 'far'} fa-heart`}></i>
                         </button>
-                        <div className="product-image" onClick={() => openModal(product)}>
+                        <div className="product-image">
                           <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
                         </div>
                         <div className="product-info">
@@ -6406,11 +6492,25 @@
                             {product.oldPrice && <div className="original-price">{formatPrice(product.oldPrice)}</div>}
                           </div>
                           <div className="editorial-product-actions">
-                            <button className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`} onClick={() => toggleCompare(product)}>
+                            <button
+                              className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`}
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                toggleCompare(product);
+                              }}
+                            >
                               <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                               {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                             </button>
-                            <button className={getProductActionClassName(product)} onClick={() => openModal(product)}>{getProductActionLabel(product)}</button>
+                            <button
+                              className={getProductActionClassName(product)}
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                openProduct(product);
+                              }}
+                            >
+                              {getProductActionLabel(product)}
+                            </button>
                           </div>
                         </div>
                       </div>
@@ -6564,11 +6664,16 @@
                         {options.marcas.map(m => (
                           <div
                             key={m}
-                            className={`filter-option ${filters.marcas.includes(m) ? 'active' : ''}`}
+                            className={`filter-option filter-option-brand ${filters.marcas.includes(m) ? 'active' : ''}`}
                             onClick={() => toggle('marcas', m)}
                           >
                             <div className="filter-checkbox"><i className="fas fa-check"></i></div>
-                            {optionLabel('marcas', m)}
+                            <span className="filter-brand-logo" aria-hidden="true">
+                              {getFilterBrandLogo(m)
+                                ? <img src={getFilterBrandLogo(m)} alt="" loading="lazy" />
+                                : <span className="filter-brand-fallback">{getBrandInitials(m)}</span>}
+                            </span>
+                            <span className="filter-brand-text">{optionLabel('marcas', m)}</span>
                           </div>
                         ))}
                       </div>
@@ -6791,7 +6896,7 @@
                       {pagedProducts.map((product) => {
                         const cardBadge = getCardBadgeMeta(product);
                         return (
-                        <div key={product.id} className="product-card">
+                        <div key={product.id} className="product-card" onClick={() => openProduct(product)}>
                           {cardBadge && <span className={`product-badge${cardBadge.className}`}>{cardBadge.label}</span>}
                           <button
                             className={`product-favorite-btn ${isFavorite(product) ? 'active' : ''}`}
@@ -6803,7 +6908,7 @@
                           >
                             <i className={`${isFavorite(product) ? 'fas' : 'far'} fa-heart`}></i>
                           </button>
-                          <div className="product-image" onClick={() => openModal(product)}>
+                          <div className="product-image">
                             <img src={product.image} alt={product.name} className={getProductImageClassName(product)} />
                           </div>
                           <div className="product-info">
@@ -6816,12 +6921,21 @@
                             <div className="editorial-product-actions">
                               <button
                                 className={`btn-small btn-compare ${isInCompare(product) ? 'active' : ''}`}
-                                onClick={() => toggleCompare(product)}
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  toggleCompare(product);
+                                }}
                               >
                                 <i className={isInCompare(product) ? 'fas fa-check' : 'fas fa-balance-scale'}></i>
                                 {isInCompare(product) ? ' Na comparação' : ' Comparar'}
                               </button>
-                              <button className={getProductActionClassName(product)} onClick={() => openModal(product)}>
+                              <button
+                                className={getProductActionClassName(product)}
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  openProduct(product);
+                                }}
+                              >
                                 {getProductActionLabel(product)}
                               </button>
                             </div>
@@ -7202,7 +7316,7 @@
                           className="favorite-item-open"
                           onClick={() => {
                             setFavoritesOpen(false);
-                            openModal(product);
+                            openProduct(product);
                           }}
                         >
                           Ver produto

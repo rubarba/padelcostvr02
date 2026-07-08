@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Sapatilhas de padel hombre - Head Sprint Pro 4.0 azul verde - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Sapatilhas de padel hombre - Head Sprint Pro 4.0 azul verde da Head em 2 lojas. Melhor preço encontrado: 79,99 €. Atualizado no PadelCost.">
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 79.99,
-    "highPrice": 115.96,
+    "highPrice": 128,
     "offerCount": 2,
     "offers": [
       {
@@ -55,7 +113,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 115.96,
+        "price": 128,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -463,7 +521,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/decathlon-es-logo.svg" alt="Decathlon ES"></div>
                 <div class="top-offer-price"><strong>79,99 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.awin1.com/pclick.php?p=41500443927&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.awin1.com/pclick.php?p=41500443927&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -479,13 +537,13 @@
               <div class="store-logo"><img src="../logos/decathlon-es-logo.svg" alt="Decathlon ES"></div>
               <div><strong>Decathlon ES</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
               <div class="store-price-wrap"><span class="store-price">79,99 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=41500443927&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=41500443927&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">115,96 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=42529073097&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">128,00 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=42529073097&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -495,44 +553,44 @@
             <a href="../index.html?categoria=sapatilhas">Ver sapatilhas de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="73.02" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./sapatilhas-de-padel-head-motion-pro.html">
+            <article class="card" data-index="0" data-price="88" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-para-mujer-head-motion-team.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273635-ns_vert-noir_1.webp&amp;feedId=89044&amp;k=f3dbf44c819607a5288673c35ae6958dbd33305b" alt="Sapatilhas de padel Head Motion Pro" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274695-ns_blanc_1.webp&amp;feedId=89044&amp;k=5d22607183fc98a970ddcb38fcedc96d56c3e09a" alt="Sapatilhas de padel para mujer Head Motion Team" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Sapatilhas de padel Head Motion Pro</h2>
-        <div class="card-price"><span class="current-price">73,02 €</span></div>
+        <h2>Sapatilhas de padel para mujer Head Motion Team</h2>
+        <div class="card-price"><span class="current-price">88,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20Head%20Motion%20Pro"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-head-motion-pro.html">Ver 2 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20para%20mujer%20Head%20Motion%20Team"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-para-mujer-head-motion-team.html">Ver 2 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="71.13" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="Homem" data-tipo="">
-    <a class="card-main-link" href="./sapatilhas-de-padel-head-sprint-pro-4-0.html">
+<article class="card" data-index="0" data-price="64" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-para-ninos-head-motion.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273665-ns_blanc-noir_1.webp&amp;feedId=89044&amp;k=6ca429b588eb5d042bc3c06b80015c789bb9051c" alt="Sapatilhas de padel Head Sprint Pro 4.0" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_275605-ns_linv_1.webp&amp;feedId=89044&amp;k=2d4d7461fa0d32b859295c11e3a0efa6f1929651" alt="Sapatilhas de padel para niños Head Motion" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Sapatilhas de padel Head Sprint Pro 4.0</h2>
-        <div class="card-price"><span class="current-price">71,13 €</span></div>
+        <h2>Sapatilhas de padel para niños Head Motion</h2>
+        <div class="card-price"><span class="current-price">64,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20Head%20Sprint%20Pro%204.0"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-head-sprint-pro-4-0.html">Ver 2 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20para%20ni%C3%B1os%20Head%20Motion"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-para-ninos-head-motion.html">Ver 2 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="61.29" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
+<article class="card" data-index="0" data-price="96" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
     <a class="card-main-link" href="./sapatilhas-de-padel-para-mujer-head-motion-pro.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274645-ns_blanc-orange_1.webp&amp;feedId=89044&amp;k=3c6fb00ff9fd08d41df2f7e214c622ae826dc749" alt="Sapatilhas de padel para mujer Head Motion Pro" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
         <h2>Sapatilhas de padel para mujer Head Motion Pro</h2>
-        <div class="card-price"><span class="current-price">61,29 €</span></div>
+        <div class="card-price"><span class="current-price">96,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -540,19 +598,19 @@
       <a class="btn-small btn-buy" href="./sapatilhas-de-padel-para-mujer-head-motion-pro.html">Ver 2 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="60.37" data-store-count="2" data-brand="Head" data-stores="Smash Expert||Sport is Good" data-forma="" data-nivel="" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./sapatilhas-de-padel-head-sprint-pro-4-0-clay.html">
+<article class="card" data-index="0" data-price="96" data-store-count="2" data-brand="Head" data-stores="Sport is Good||Smash Expert" data-forma="" data-nivel="" data-genero="Mulher" data-tipo="">
+    <a class="card-main-link" href="./sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-clay.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_273175-ns_blanc-marron_1.webp&amp;feedId=89044&amp;k=1240b7d003d145d9803fbdcd969a465f8d516c3d" alt="Sapatilhas de padel Head Sprint PRo 4.0 Clay" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_274155-ns_orange_1.webp&amp;feedId=89044&amp;k=8c06faeb8f12a58579a2555f08de9f1d99c3d835" alt="Sapatilhas de padel para mujer Head Sprint PRo 4.0 Clay" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Sapatilhas de padel Head Sprint PRo 4.0 Clay</h2>
-        <div class="card-price"><span class="current-price">60,37 €</span></div>
+        <h2>Sapatilhas de padel para mujer Head Sprint PRo 4.0 Clay</h2>
+        <div class="card-price"><span class="current-price">96,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20Head%20Sprint%20PRo%204.0%20Clay"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-head-sprint-pro-4-0-clay.html">Ver 2 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Sapatilhas%20de%20padel%20para%20mujer%20Head%20Sprint%20PRo%204.0%20Clay"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./sapatilhas-de-padel-para-mujer-head-sprint-pro-4-0-clay.html">Ver 2 lojas</a>
     </div>
   </article>
           </div>
@@ -563,8 +621,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 2427;
-      const productIds = [2427];
+      const productId = 2618;
+      const productIds = [2618];
       const shareUrl = "https://padelcost.pt/produto/sapatilhas-de-padel-hombre-head-sprint-pro-4-0-azul-verde.html";
       const shareTitle = "Sapatilhas de padel hombre - Head Sprint Pro 4.0 azul verde";
       const saveButton = document.querySelector('[data-product-save]');

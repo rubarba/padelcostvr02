@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Lok Easy Hype 2024 - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Lok Easy Hype 2024 da LOK em 2 lojas. Melhor preço encontrado: 70,37 €. Atualizado no PadelCost.">
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 70.37,
-    "highPrice": 96.8,
+    "highPrice": 102,
     "offerCount": 2,
     "offers": [
       {
@@ -55,7 +113,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 96.8,
+        "price": 102,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -463,7 +521,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
                 <div class="top-offer-price"><strong>70,37 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.zonadepadel.es/lok/10114-lok-easy-hype-2024.html" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.zonadepadel.es/lok/10114-lok-easy-hype-2024.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -479,13 +537,13 @@
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">70,37 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.zonadepadel.es/lok/10114-lok-easy-hype-2024.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.zonadepadel.es/lok/10114-lok-easy-hype-2024.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">96,80 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=42529342811&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">102,00 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=42529342811&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -510,14 +568,29 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-lok-carb-on-flow.html">Ver 4 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="66.02" data-store-count="3" data-brand="LOK" data-stores="Zona de Padel||Padel Proshop PT||Smash Expert" data-forma="Redonda" data-nivel="Iniciante" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="71.5" data-store-count="3" data-brand="LOK" data-stores="Zona de Padel||Smash Expert||Padel Proshop PT" data-forma="Redonda" data-nivel="Iniciante" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-lok-be-flow-gen-2-rosa-verde-2026.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaLokBeFlow2PinkGreen2026_1_fe40bddd-e78a-4bdd-baac-d5ed16f93f55.webp?v=1761055433" alt="Raquete de Padel Lok Be Flow Gen 2 Rosa/Verde 2026" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">LOK</span>
+        <h2>Raquete de Padel Lok Be Flow Gen 2 Rosa/Verde 2026</h2>
+        <div class="card-price"><span class="current-price">71,50 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Lok%20Be%20Flow%20Gen%202%20Rosa%2FVerde%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-lok-be-flow-gen-2-rosa-verde-2026.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="71.5" data-store-count="3" data-brand="LOK" data-stores="Zona de Padel||Smash Expert||Padel Proshop PT" data-forma="Redonda" data-nivel="Iniciante" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-lok-be-flow-gen-2-amarelo-azul-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaLOKBeFlowGen2YellowBlue2026_1_606103a2-9ef5-48be-b213-462ebac15b82.webp?v=1761055393" alt="Raquete de Padel Lok Be Flow Gen 2 Amarelo/Azul 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">LOK</span>
         <h2>Raquete de Padel Lok Be Flow Gen 2 Amarelo/Azul 2026</h2>
-        <div class="card-price"><span class="current-price">66,02 €</span></div>
+        <div class="card-price"><span class="current-price">71,50 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -525,34 +598,19 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-lok-be-flow-gen-2-amarelo-azul-2026.html">Ver 3 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="100" data-store-count="4" data-brand="LOK" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT||Smash Expert" data-forma="Diamante" data-nivel="" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-lok-carb-on-hype.html">
+<article class="card" data-index="0" data-price="65.96" data-store-count="3" data-brand="LOK" data-stores="Zona de Padel||Smash Expert||Padel Proshop PT" data-forma="Diamante" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-lok-be-hype-gen-2-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fl%2Fo%2Flok-padel_8436548249151_noir-orange_1.webp&amp;feedId=93547&amp;k=88a806e4711dabf9da27fe42f2f15ba8212c1dad" alt="Raquete de padel Lok Carb-On Hype" loading="lazy"></div>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/BeHypeGen2_1_2c92430b-fdc9-4595-a92c-c9e6808f37b4.webp?v=1761055317" alt="Raquete de Padel Lok Be Hype Gen 2 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">LOK</span>
-        <h2>Raquete de padel Lok Carb-On Hype</h2>
-        <div class="card-price"><span class="current-price">100,00 €</span></div>
+        <h2>Raquete de Padel Lok Be Hype Gen 2 2026</h2>
+        <div class="card-price"><span class="current-price">65,96 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Lok%20Carb-On%20Hype"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-lok-carb-on-hype.html">Ver 4 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="50.17" data-store-count="3" data-brand="LOK" data-stores="Zona de Padel||Padel Proshop PT||Smash Expert" data-forma="" data-nivel="Iniciante" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-lok-be-flow-2025.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/Pala_Lok_Be_Flow_2025.webp?v=1774527395" alt="Raquete de Padel Lok Be Flow 2025" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">LOK</span>
-        <h2>Raquete de Padel Lok Be Flow 2025</h2>
-        <div class="card-price"><span class="current-price">50,17 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Lok%20Be%20Flow%202025"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-lok-be-flow-2025.html">Ver 3 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Lok%20Be%20Hype%20Gen%202%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-lok-be-hype-gen-2-2026.html">Ver 3 lojas</a>
     </div>
   </article>
           </div>
@@ -563,8 +621,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 2226;
-      const productIds = [2226];
+      const productId = 2419;
+      const productIds = [2419];
       const shareUrl = "https://padelcost.pt/produto/lok-easy-hype-2024.html";
       const shareTitle = "Lok Easy Hype 2024";
       const saveButton = document.querySelector('[data-product-save]');

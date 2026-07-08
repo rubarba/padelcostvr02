@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Pote de Bolas de padel HEAD One - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Pote de Bolas de padel HEAD One da Head em 3 lojas. Melhor preço encontrado: 4,96 €. Atualizado no PadelCost.">
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 4.96,
-    "highPrice": 8,
+    "highPrice": 7.96,
     "offerCount": 3,
     "offers": [
       {
@@ -66,7 +124,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 8,
+        "price": 7.96,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -474,7 +532,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
                 <div class="top-offer-price"><strong>4,96 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.zonadepadel.es/head-padel/8346-bote-pelotas-head-padel-one.html" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.zonadepadel.es/head-padel/8346-bote-pelotas-head-padel-one.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -490,19 +548,19 @@
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">4,96 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.zonadepadel.es/head-padel/8346-bote-pelotas-head-padel-one.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.zonadepadel.es/head-padel/8346-bote-pelotas-head-padel-one.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT"></div>
               <div><strong>Padel Proshop PT</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">5,20 €</span></div>
-              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=47207769407793&amp;url=https://padelproshop.com/pt-pt/products/pote-de-bolas-de-padel-head-one" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=47207769407793&amp;url=https://padelproshop.com/pt-pt/products/pote-de-bolas-de-padel-head-one" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">8,00 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=41981190594&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">7,96 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=41981190594&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -512,64 +570,64 @@
             <a href="../index.html?categoria=acessorios">Ver acessórios de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="4.8" data-store-count="5" data-brand="Head" data-stores="Padel Proshop PT||Zona de Padel||Decathlon ES||Atmosfera Sport||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
-    <a class="card-main-link" href="./bolas-de-padel-head-3b-pro-s-6dz-verao-24.html">
+            <article class="card" data-index="0" data-price="5.51" data-store-count="3" data-brand="Head" data-stores="Zona de Padel||Decathlon ES||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="./bote-pelotas-head-padel-pro-s.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_540303_jaune_1.webp&amp;feedId=93547&amp;k=783065ef2312b7fce209559eabbc648c73fc4787" alt="Bolas de padel Head 3B Pro S+ 6DZ Verão 24" loading="lazy"></div>
+      <div class="card-image"><img src="https://www.zonadepadel.es/20766-large_default/bote-pelotas-head-padel-pro-s.jpg" alt="Bote pelotas Head Padel Pro S+" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Bolas de padel Head 3B Pro S+ 6DZ Verão 24</h2>
-        <div class="card-price"><span class="current-price">4,80 €</span></div>
+        <h2>Bote pelotas Head Padel Pro S+</h2>
+        <div class="card-price"><span class="current-price">5,51 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20padel%20Head%203B%20Pro%20S%2B%206DZ%20Ver%C3%A3o%2024"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./bolas-de-padel-head-3b-pro-s-6dz-verao-24.html">Ver 5 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Bote%20pelotas%20Head%20Padel%20Pro%20S%2B"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./bote-pelotas-head-padel-pro-s.html">Ver 3 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="4.8" data-store-count="4" data-brand="Head" data-stores="Padel Proshop PT||Atmosfera Sport||Decathlon ES||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
-    <a class="card-main-link" href="./bolas-de-padel-head-3b-head-padel-pro-6dz.html">
+<article class="card" data-index="0" data-price="5.49" data-store-count="2" data-brand="Head" data-stores="Decathlon ES||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="./bote-pelotas-head-padel-pro.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acontents.mediadecathlon.com%2Fp2773644%2Fk%247abd601a0a86550eef50d0edc8a9b86b%2Fpicture.jpg%3Ff%3D300x300&amp;feedId=101665&amp;k=62af334dbed49fd64bdde210f884f136d4c554e6" alt="Bolas de Padel Head 3B Head Padel Pro+ - 6Dz" loading="lazy"></div>
+      <div class="card-image"><img src="https://www.zonadepadel.es/21141-large_default/bote-pelotas-head-padel-pro.jpg" alt="Bote pelotas Head Padel Pro+" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Bolas de Padel Head 3B Head Padel Pro+ - 6Dz</h2>
-        <div class="card-price"><span class="current-price">4,80 €</span></div>
+        <h2>Bote pelotas Head Padel Pro+</h2>
+        <div class="card-price"><span class="current-price">5,49 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20Padel%20Head%203B%20Head%20Padel%20Pro%2B%20-%206Dz"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./bolas-de-padel-head-3b-head-padel-pro-6dz.html">Ver 4 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Bote%20pelotas%20Head%20Padel%20Pro%2B"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./bote-pelotas-head-padel-pro.html">Ver 2 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="4.96" data-store-count="3" data-brand="Head" data-stores="Zona de Padel||Decathlon ES||Atmosfera Sport" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
-    <a class="card-main-link" href="./bolas-de-padel-head-team-3b-head-6dz.html">
+<article class="card" data-index="0" data-price="4.99" data-store-count="5" data-brand="Wilson" data-stores="Atmosfera Sport||Decathlon ES||Padel Proshop PT||Zona de Padel||Smash Expert" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
+    <a class="card-main-link" href="./bolas-de-padel-wilson-premier-3-ball.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acontents.mediadecathlon.com%2Fp3131011%2Fk%249d69afd2b799d14d63fbf3a0edf0b78a%2Fpicture.jpg%3Ff%3D300x300&amp;feedId=101665&amp;k=9eb41d577f4e79d6ce93cc32e717347ba3f1c3ad" alt="Bolas de padel Head Team 3B Head 6Dz" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>Bolas de padel Head Team 3B Head 6Dz</h2>
-        <div class="card-price"><span class="current-price">4,96 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20padel%20Head%20Team%203B%20Head%206Dz"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./bolas-de-padel-head-team-3b-head-6dz.html">Ver 3 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="4.99" data-store-count="6" data-brand="Wilson" data-stores="Atmosfera Sport||Padel Proshop PT||Decathlon ES||Zona de Padel||Smash Expert||Sport is Good" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas">
-    <a class="card-main-link" href="./bolas-padel-wilson-de-premier-speed-3-ball-amarelo.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr8908501_yellow_1.webp&amp;feedId=93547&amp;k=8be7074403b28c065becd56e39bc7cf8cd1a87f0" alt="Bolas padel Wilson de Premier Speed 3 Ball Amarelo" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fr%2Fwr8908401.webp&amp;feedId=93547&amp;k=0f70037c3655f7d725fd6b7c9d5d75b7ff098781" alt="Bolas de padel Wilson Premier 3 Ball" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Wilson</span>
-        <h2>Bolas padel Wilson de Premier Speed 3 Ball Amarelo</h2>
+        <h2>Bolas de padel Wilson Premier 3 Ball</h2>
         <div class="card-price"><span class="current-price">4,99 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20padel%20Wilson%20de%20Premier%20Speed%203%20Ball%20Amarelo"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./bolas-padel-wilson-de-premier-speed-3-ball-amarelo.html">Ver 6 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Bolas%20de%20padel%20Wilson%20Premier%203%20Ball"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./bolas-de-padel-wilson-premier-3-ball.html">Ver 5 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="5.66" data-store-count="5" data-brand="Wilson" data-stores="Sport is Good||Smash Expert||Padel Proshop PT||Decathlon ES||Zona de Padel" data-forma="" data-nivel="" data-genero="" data-tipo="Bolas e tubos">
+    <a class="card-main-link" href="./pote-de-bolas-de-padel-wilson-padel-premier-speed.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/Bote_de_Pelotas_Wilson_Padel_Premier_Speed.webp?v=1779277024" alt="Pote de Bolas de padel Wilson Padel Premier Speed" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Wilson</span>
+        <h2>Pote de Bolas de padel Wilson Padel Premier Speed</h2>
+        <div class="card-price"><span class="current-price">5,66 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Pote%20de%20Bolas%20de%20padel%20Wilson%20Padel%20Premier%20Speed"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./pote-de-bolas-de-padel-wilson-padel-premier-speed.html">Ver 5 lojas</a>
     </div>
   </article>
           </div>
@@ -580,8 +638,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 1522;
-      const productIds = [1522];
+      const productId = 1594;
+      const productIds = [1594];
       const shareUrl = "https://padelcost.pt/produto/pote-de-bolas-de-padel-head-one.html";
       const shareTitle = "Pote de Bolas de padel HEAD One";
       const saveButton = document.querySelector('[data-product-save]');

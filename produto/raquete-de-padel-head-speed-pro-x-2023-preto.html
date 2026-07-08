@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Raquete de padel Head Speed Pro X 2023 Preto - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Raquete de padel Head Speed Pro X 2023 Preto da Head em 3 lojas. Melhor preço encontrado: 114,96 €. Atualizado no PadelCost.">
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 114.96,
-    "highPrice": 152,
+    "highPrice": 304,
     "offerCount": 3,
     "offers": [
       {
@@ -55,17 +113,6 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 141.56,
-        "availability": "https://schema.org/InStock",
-        "seller": {
-          "@type": "Organization",
-          "name": "Smash Expert"
-        },
-        "url": "https://www.awin1.com/pclick.php?p=41104809657&a=2816502&m=80889"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "EUR",
         "price": 152,
         "availability": "https://schema.org/InStock",
         "seller": {
@@ -73,6 +120,17 @@
           "name": "Atmosfera Sport"
         },
         "url": "https://www.awin1.com/pclick.php?p=42053407797&a=2816502&m=118771"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": 304,
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Smash Expert"
+        },
+        "url": "https://www.awin1.com/pclick.php?p=41104809657&a=2816502&m=80889"
       }
     ]
   }
@@ -474,7 +532,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
                 <div class="top-offer-price"><strong>114,96 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.zonadepadel.es/head-padel/7817-head-speed-pro-x.html" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.zonadepadel.es/head-padel/7817-head-speed-pro-x.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -490,19 +548,19 @@
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">114,96 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.zonadepadel.es/head-padel/7817-head-speed-pro-x.html" target="_blank" rel="sponsored noopener">Ver loja</a>
-            </div>
-<div class="store">
-              <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
-              <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">141,56 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=41104809657&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.zonadepadel.es/head-padel/7817-head-speed-pro-x.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/atmosfera-sport-logo.svg" alt="Atmosfera Sport"></div>
               <div><strong>Atmosfera Sport</strong><span class="store-stock">in stock</span></div>
               <div class="store-price-wrap"><span class="store-price">152,00 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=42053407797&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=42053407797&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
+            </div>
+<div class="store">
+              <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
+              <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
+              <div class="store-price-wrap"><span class="store-price">304,00 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=41104809657&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -512,44 +570,14 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="120.28" data-store-count="6" data-brand="Head" data-stores="Sport is Good||Smash Expert||Forum Sport ES||Padel Market||Padel Proshop PT||Zona de Padel" data-forma="Redonda" data-nivel="Avançado" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./head-radical-team-2026-racket.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0646%2F3671%2F5163%2Ffiles%2FRADICALTEAM_1.jpg%3Fv%3D1763630930&amp;feedId=98176&amp;k=3b3b0c468bd2d028325c6a27ae297e1b3fbb1541" alt="HEAD RADICAL TEAM 2026 (Racket)" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>HEAD RADICAL TEAM 2026 (Racket)</h2>
-        <div class="card-price"><span class="current-price">120,28 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=HEAD%20RADICAL%20TEAM%202026%20(Racket)"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./head-radical-team-2026-racket.html">Ver 6 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="122.22" data-store-count="7" data-brand="Head" data-stores="Sport is Good||Smash Expert||Zona de Padel||Decathlon ES||Atmosfera Sport||Padel Market||Deporvillage" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-head-extreme-team-2025.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_223145_green-black_1.webp&amp;feedId=93547&amp;k=945526ca8ffebbce30acc289174f7fecbf57dccd" alt="Raquete de padel Head Extreme Team 2025" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>Raquete de padel Head Extreme Team 2025</h2>
-        <div class="card-price"><span class="current-price">122,22 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Extreme%20Team%202025"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-head-extreme-team-2025.html">Ver 7 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="129.96" data-store-count="6" data-brand="Head" data-stores="Zona de Padel||Padel Proshop PT||Atmosfera Sport||Deporvillage||Padel Market||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="119" data-store-count="6" data-brand="Head" data-stores="Padel Proshop PT||Zona de Padel||Deporvillage||Padel Market||Smash Expert||Atmosfera Sport" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-head-speed-team-2025.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_221085_0.webp&amp;feedId=93547&amp;k=7930c6d71455b2c748b0775697eb4d8f63820e93" alt="Raquete de padel Head Speed Team 2025" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
         <h2>Raquete de padel Head Speed Team 2025</h2>
-        <div class="card-price"><span class="current-price">129,96 €</span></div>
+        <div class="card-price"><span class="current-price">119,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -557,19 +585,49 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-head-speed-team-2025.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="98" data-store-count="6" data-brand="Head" data-stores="Atmosfera Sport||Zona de Padel||Deporvillage||Sport is Good||Smash Expert||Padel Market" data-forma="Redonda" data-nivel="Iniciante" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-head-coello-vibe-2026.html">
+<article class="card" data-index="0" data-price="120" data-store-count="6" data-brand="Head" data-stores="Atmosfera Sport||Zona de Padel||Padel Market||Decathlon ES||Deporvillage||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-head-extreme-team-2025.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-226156-noir-1.webp&amp;feedId=93547&amp;k=8e42f404dcf1fb286198e79ccf96233434023757" alt="Raquete de padel Head Coello Vibe 2026" loading="lazy"></div>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_223145_green-black_1.webp&amp;feedId=93547&amp;k=945526ca8ffebbce30acc289174f7fecbf57dccd" alt="Raquete de padel Head Extreme Team 2025" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Head</span>
-        <h2>Raquete de padel Head Coello Vibe 2026</h2>
-        <div class="card-price"><span class="current-price">98,00 €</span></div>
+        <h2>Raquete de padel Head Extreme Team 2025</h2>
+        <div class="card-price"><span class="current-price">120,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Coello%20Vibe%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-head-coello-vibe-2026.html">Ver 6 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Extreme%20Team%202025"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-head-extreme-team-2025.html">Ver 6 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="123.96" data-store-count="7" data-brand="Head" data-stores="Zona de Padel||Padel Market||Decathlon ES||Sport is Good||Smash Expert||Forum Sport ES||Padel Proshop PT" data-forma="Híbrida" data-nivel="Profissional" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./head-radical-motion-2026-racket.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0646%2F3671%2F5163%2Ffiles%2FRADICALMOTION_1.jpg%3Fv%3D1763629674&amp;feedId=98176&amp;k=20d5784929b6af55fd806a0d5b2438a7907672bf" alt="Head Radical Motion 2026 (Racket)" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Head</span>
+        <h2>Head Radical Motion 2026 (Racket)</h2>
+        <div class="card-price"><span class="current-price">123,96 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Head%20Radical%20Motion%202026%20(Racket)"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./head-radical-motion-2026-racket.html">Ver 7 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="129.95" data-store-count="6" data-brand="Head" data-stores="Padel Market||Sport is Good||Smash Expert||Forum Sport ES||Padel Proshop PT||Zona de Padel" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./head-radical-team-2026-padel-racket.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.shopify.com%2Fs%2Ffiles%2F1%2F0646%2F3671%2F5163%2Ffiles%2FRADICALTEAM_1.jpg%3Fv%3D1763630930&amp;feedId=98176&amp;k=3b3b0c468bd2d028325c6a27ae297e1b3fbb1541" alt="Head Radical Team 2026 (Padel Racket)" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Head</span>
+        <h2>Head Radical Team 2026 (Padel Racket)</h2>
+        <div class="card-price"><span class="current-price">129,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Head%20Radical%20Team%202026%20(Padel%20Racket)"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./head-radical-team-2026-padel-racket.html">Ver 6 lojas</a>
     </div>
   </article>
           </div>
@@ -580,8 +638,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 58;
-      const productIds = [58];
+      const productId = 59;
+      const productIds = [59];
       const shareUrl = "https://padelcost.pt/produto/raquete-de-padel-head-speed-pro-x-2023-preto.html";
       const shareTitle = "Raquete de padel Head Speed Pro X 2023 Preto";
       const saveButton = document.querySelector('[data-product-save]');

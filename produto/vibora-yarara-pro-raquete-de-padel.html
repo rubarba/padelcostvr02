@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Vibora yarara pro raquete de padel - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Vibora yarara pro raquete de padel da Vibor-A em 2 lojas. Melhor preço encontrado: 251,99 €. Atualizado no PadelCost.">
@@ -21,7 +79,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Vibora yarara pro raquete de padel",
-  "description": "Vibora yarara pro raquete de padel é uma raquete de padel da Vibor-A pensada para jogadores de nível profissional que procuram uma boa combinação entre controlo, saída de bola e estabilidade. Com construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.",
+  "description": "Vibora yarara pro raquete de padel é uma raquete de padel da Vibor-A pensada para jogadores de nível avançado que procuram equilibrado. Com formato híbrida e construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.",
   "url": "https://padelcost.pt/produto/vibora-yarara-pro-raquete-de-padel.html",
   "mainEntityOfPage": "https://padelcost.pt/produto/vibora-yarara-pro-raquete-de-padel.html",
   "image": [
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 251.99,
-    "highPrice": 368.26,
+    "highPrice": 374.29,
     "offerCount": 2,
     "offers": [
       {
@@ -55,7 +113,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 368.26,
+        "price": 374.29,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -454,16 +512,16 @@
             <div class="product-info-head">
               <div class="product-brand">Vibor-A</div>
               <h1>Vibora yarara pro raquete de padel</h1>
-              <p class="product-summary">Vibora yarara pro raquete de padel é uma raquete de nível profissional, com boa combinação entre controlo e saída de bola, com construção em carbono 12k.</p>
-              <div class="facts"><div class="fact"><span class="spec-icon"><i class="fas fa-chart-line"></i></span><div><span>Nível</span><strong>Profissional</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-layer-group"></i></span><div><span>Material</span><strong>Carbono 12K</strong></div></div></div>
+              <p class="product-summary">Vibora yarara pro raquete de padel é uma raquete de nível avançado, orientada para equilibrado, com formato híbrida e construção em carbono 12k.</p>
+              <div class="facts"><div class="fact"><span class="spec-icon"><i class="fas fa-gem"></i></span><div><span>Forma</span><strong>Híbrida</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-chart-line"></i></span><div><span>Nível</span><strong>Avançado</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-layer-group"></i></span><div><span>Material</span><strong>Carbono 12K</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-bolt"></i></span><div><span>Estilo</span><strong>Equilibrado</strong></div></div></div>
               <div class="product-description">
                 <h2>Descrição do produto</h2>
-                <p>Vibora yarara pro raquete de padel é uma raquete de padel da Vibor-A pensada para jogadores de nível profissional que procuram uma boa combinação entre controlo, saída de bola e estabilidade. Com construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.</p>
+                <p>Vibora yarara pro raquete de padel é uma raquete de padel da Vibor-A pensada para jogadores de nível avançado que procuram equilibrado. Com formato híbrida e construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.</p>
               </div>
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/logo-forum-sport-es.webp" alt="Forum Sport ES"></div>
                 <div class="top-offer-price"><strong>251,99 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.forumsport.com/es-es/vibora-pala-padel-adulto-pala-pdel-vibor-a-yarara-pro-a005832-1001121614-p" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.forumsport.com/es-es/vibora-pala-padel-adulto-pala-pdel-vibor-a-yarara-pro-a005832-1001121614-p" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -479,13 +537,13 @@
               <div class="store-logo"><img src="../logos/logo-forum-sport-es.webp" alt="Forum Sport ES"></div>
               <div><strong>Forum Sport ES</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">251,99 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.forumsport.com/es-es/vibora-pala-padel-adulto-pala-pdel-vibor-a-yarara-pro-a005832-1001121614-p" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.forumsport.com/es-es/vibora-pala-padel-adulto-pala-pdel-vibor-a-yarara-pro-a005832-1001121614-p" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">368,26 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44112360365&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">374,29 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44112360365&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -495,37 +553,7 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="255.99" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-vibor-a-black-mamba-yarara-pro-branco-2-0-2026.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaVibor-ABlackMambaYararaProWhite2.02026_1.webp?v=1761052289" alt="Raquete de Padel Vibor-A Black Mamba Yarara Pro Branco 2.0 2026" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Vibor-A</span>
-        <h2>Raquete de Padel Vibor-A Black Mamba Yarara Pro Branco 2.0 2026</h2>
-        <div class="card-price"><span class="current-price">255,99 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Vibor-A%20Black%20Mamba%20Yarara%20Pro%20Branco%202.0%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-vibor-a-black-mamba-yarara-pro-branco-2-0-2026.html">Ver 3 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="255.99" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-vibor-a-3k-black-2026.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaVibor-A3KBlack2026_1.webp?v=1760694439" alt="Raquete de Padel Vibor-A 3K Black 2026" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Vibor-A</span>
-        <h2>Raquete de Padel Vibor-A 3K Black 2026</h2>
-        <div class="card-price"><span class="current-price">255,99 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Vibor-A%203K%20Black%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-vibor-a-3k-black-2026.html">Ver 3 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="230.39" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="230.39" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-vibor-a-black-mamba-radical-12k-3-0-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaVibor-ABlackMambaRadical12K3.02026_1.webp?v=1761052315" alt="Raquete de Padel Vibor-A Black Mamba Radical 12K 3.0 2026" loading="lazy"></div>
@@ -540,19 +568,49 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-vibor-a-black-mamba-radical-12k-3-0-2026.html">Ver 3 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="245" data-store-count="6" data-brand="Head" data-stores="Atmosfera Sport||Sport is Good||Smash Expert||Deporvillage||Zona de Padel||Padel Market" data-forma="Híbrida" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-head-coello-motion-2026.html">
+<article class="card" data-index="0" data-price="275.99" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-vibor-a-3k-black-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-225046-noir-1.webp&amp;feedId=93547&amp;k=0e1680d85c47e8495634cab0517ff1bd60748238" alt="Raquete de padel Head Coello Motion 2026" loading="lazy"></div>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaVibor-A3KBlack2026_1.webp?v=1760694439" alt="Raquete de Padel Vibor-A 3K Black 2026" loading="lazy"></div>
       <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>Raquete de padel Head Coello Motion 2026</h2>
-        <div class="card-price"><span class="current-price">245,00 €</span></div>
+        <span class="eyebrow">Vibor-A</span>
+        <h2>Raquete de Padel Vibor-A 3K Black 2026</h2>
+        <div class="card-price"><span class="current-price">275,99 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Coello%20Motion%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-head-coello-motion-2026.html">Ver 6 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Vibor-A%203K%20Black%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-vibor-a-3k-black-2026.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="275.99" data-store-count="3" data-brand="Vibor-A" data-stores="Forum Sport ES||Padel Proshop PT||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-vibor-a-black-mamba-yarara-pro-branco-2-0-2026.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaVibor-ABlackMambaYararaProWhite2.02026_1.webp?v=1761052289" alt="Raquete de Padel Vibor-A Black Mamba Yarara Pro Branco 2.0 2026" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Vibor-A</span>
+        <h2>Raquete de Padel Vibor-A Black Mamba Yarara Pro Branco 2.0 2026</h2>
+        <div class="card-price"><span class="current-price">275,99 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Vibor-A%20Black%20Mamba%20Yarara%20Pro%20Branco%202.0%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-vibor-a-black-mamba-yarara-pro-branco-2-0-2026.html">Ver 3 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="255.99" data-store-count="2" data-brand="Vibor-A" data-stores="Forum Sport ES||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./vibora-mamba-pro-20-raquete-de-padel.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001121611-00-P-X-20260413102638.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTcwN3xpbWFnZS9qcGVnfGFEWXpMMmhqWXk4eE16WTVOVFV5TVRrNE1EUTBOaTl0WldScFlYTmZNVEF3TVRFeU1UWXhNVjh3TUY5UVgxZ3RNakF5TmpBME1UTXhNREkyTXpndWFuQm58MmM4OWQzN2Q3OTlhMGUwNDhlNzAxOGJlYThiOTcyYzhmMDgzZTA3ODQ3ZWE1ZTJiOTAxYWRiYjYxZGMxMzYwYQ&amp;feedId=58083&amp;k=7d4c7de2c7af5617dec33d256befd0f74e08032c" alt="Vibora mamba pro 20 raquete de padel" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Vibor-A</span>
+        <h2>Vibora mamba pro 20 raquete de padel</h2>
+        <div class="card-price"><span class="current-price">255,99 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Vibora%20mamba%20pro%2020%20raquete%20de%20padel"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./vibora-mamba-pro-20-raquete-de-padel.html">Ver 2 lojas</a>
     </div>
   </article>
           </div>
@@ -563,8 +621,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 1878;
-      const productIds = [1878];
+      const productId = 2080;
+      const productIds = [2080];
       const shareUrl = "https://padelcost.pt/produto/vibora-yarara-pro-raquete-de-padel.html";
       const shareTitle = "Vibora yarara pro raquete de padel";
       const saveButton = document.querySelector('[data-product-save]');

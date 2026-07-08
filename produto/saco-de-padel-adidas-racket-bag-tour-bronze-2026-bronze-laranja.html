@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Saco de padel adidas Racket Bag Tour Bronze 2026 Bronze/Laranja - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Saco de padel adidas Racket Bag Tour Bronze 2026 Bronze/Laranja da Adidas em 6 lojas. Melhor preço encontrado: 55,95 €. Atualizado no PadelCost.">
@@ -66,7 +124,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 73.56,
+        "price": 67.17,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -77,7 +135,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 74.11,
+        "price": 67.32,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -507,7 +565,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/deporvillage-logo.png" alt="Deporvillage"></div>
                 <div class="top-offer-price"><strong>55,95 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.awin1.com/pclick.php?p=44512995614&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.awin1.com/pclick.php?p=44512995614&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -523,37 +581,37 @@
               <div class="store-logo"><img src="../logos/deporvillage-logo.png" alt="Deporvillage"></div>
               <div><strong>Deporvillage</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
               <div class="store-price-wrap"><span class="store-price">55,95 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44512995614&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44512995614&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/atmosfera-sport-logo.svg" alt="Atmosfera Sport"></div>
               <div><strong>Atmosfera Sport</strong><span class="store-stock">in stock</span></div>
               <div class="store-price-wrap"><span class="store-price">59,50 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43632271929&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43632271929&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/sport-is-good.svg" alt="Sport is Good"></div>
               <div><strong>Sport is Good</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">73,56 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44333683478&amp;a=2816502&amp;m=65906" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">67,17 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44333683478&amp;a=2816502&amp;m=65906" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">74,11 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44332651731&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">67,32 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44332651731&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">75,96 €</span></div>
-              <a class="button" href="https://www.zonadepadel.es/adidas-padel/14459-paletero-adidas-tour-bronze-2026.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.zonadepadel.es/adidas-padel/14459-paletero-adidas-tour-bronze-2026.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/Logo_Adidas_10.svg" alt="Adidas Padel"></div>
               <div><strong>Adidas Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">85,00 €</span></div>
-              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fbolsa-de-padel%2F7507-saco-para-raquetes-adidas-pro-tour-bronze-2026-8435739406274.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fbolsa-de-padel%2F7507-saco-para-raquetes-adidas-pro-tour-bronze-2026-8435739406274.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -563,14 +621,14 @@
             <a href="../index.html?categoria=sacos">Ver sacos de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="51.96" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Atmosfera Sport||Padel Proshop PT||Smash Expert||Padel Market||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="56" data-store-count="6" data-brand="Adidas" data-stores="Atmosfera Sport||Zona de Padel||Smash Expert||Padel Market||Padel Proshop PT||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
     <a class="card-main-link" href="./mochila-adidas-multigame-2026-padel-preta-vermelha.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fb%2Fab1ma7u22.webp&amp;feedId=93547&amp;k=b37d660210a5e1f2fd59ae02a3c80733a59074b4" alt="Mochila adidas Multigame 2026 padel Preta/Vermelha" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Mochila adidas Multigame 2026 padel Preta/Vermelha</h2>
-        <div class="card-price"><span class="current-price">51,96 €</span></div>
+        <div class="card-price"><span class="current-price">56,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -578,10 +636,25 @@
       <a class="btn-small btn-buy" href="./mochila-adidas-multigame-2026-padel-preta-vermelha.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="56" data-store-count="5" data-brand="Adidas" data-stores="Atmosfera Sport||Zona de Padel||Padel Proshop PT||Padel Market||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="55.95" data-store-count="4" data-brand="Adidas" data-stores="Deporvillage||Zona de Padel||Atmosfera Sport||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./saco-de-padel-adidas-racket-bag-tour-silver-2026-prata-lima.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://www.zonadepadel.es/30169-large_default/paletero-adidas-tour-plata-2026.jpg" alt="Saco de padel adidas Racket Bag Tour Silver 2026 Prata/Lima" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Adidas</span>
+        <h2>Saco de padel adidas Racket Bag Tour Silver 2026 Prata/Lima</h2>
+        <div class="card-price"><span class="current-price">55,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Saco%20de%20padel%20adidas%20Racket%20Bag%20Tour%20Silver%202026%20Prata%2FLima"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./saco-de-padel-adidas-racket-bag-tour-silver-2026-prata-lima.html">Ver 4 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="56" data-store-count="4" data-brand="Adidas" data-stores="Atmosfera Sport||Padel Market||Padel Proshop PT||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
     <a class="card-main-link" href="./mochila-de-padel-adidas-backpack-protour-blue-2026-azul-bronze.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://www.zonadepadel.es/30185-large_default/mochila-adidas-protour-azul-bronce-2026.jpg" alt="Mochila de padel adidas Backpack Protour Blue 2026 Azul/Bronze" loading="lazy"></div>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/AB1MA5U17_1.webp?v=1767083822" alt="Mochila de padel adidas Backpack Protour Blue 2026 Azul/Bronze" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Mochila de padel adidas Backpack Protour Blue 2026 Azul/Bronze</h2>
@@ -590,37 +663,22 @@
     </a>
     <div class="card-actions">
       <a class="btn-small btn-compare" href="../index.html?q=Mochila%20de%20padel%20adidas%20Backpack%20Protour%20Blue%202026%20Azul%2FBronze"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./mochila-de-padel-adidas-backpack-protour-blue-2026-azul-bronze.html">Ver 5 lojas</a>
+      <a class="btn-small btn-buy" href="./mochila-de-padel-adidas-backpack-protour-blue-2026-azul-bronze.html">Ver 4 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="77.01" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Atmosfera Sport||Padel Proshop PT||Deporvillage||Padel Market||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./saco-de-padel-adidas-racket-bag-protour-2026-martita-ortega-rosa.html">
+<article class="card" data-index="0" data-price="74.96" data-store-count="5" data-brand="Adidas" data-stores="Zona de Padel||Padel Proshop PT||Atmosfera Sport||Padel Market||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./saco-de-padel-adidas-racket-bag-protour-blue-2026-azul-bronze.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://www.zonadepadel.es/30144-large_default/paletero-adidas-protour-rosa-negro-2026.jpg" alt="Saco de padel adidas Racket Bag Protour 2026 Martita Ortega Rosa" loading="lazy"></div>
+      <div class="card-image"><img src="https://www.zonadepadel.es/30149-large_default/paletero-adidas-protour-azul-bronce-2026.jpg" alt="Saco de padel adidas Racket Bag Protour Blue 2026 Azul/Bronze" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
-        <h2>Saco de padel adidas Racket Bag Protour 2026 Martita Ortega Rosa</h2>
-        <div class="card-price"><span class="current-price">77,01 €</span></div>
+        <h2>Saco de padel adidas Racket Bag Protour Blue 2026 Azul/Bronze</h2>
+        <div class="card-price"><span class="current-price">74,96 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Saco%20de%20padel%20adidas%20Racket%20Bag%20Protour%202026%20Martita%20Ortega%20Rosa"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./saco-de-padel-adidas-racket-bag-protour-2026-martita-ortega-rosa.html">Ver 6 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="51.01" data-store-count="4" data-brand="Adidas" data-stores="Zona de Padel||Deporvillage||Atmosfera Sport||Adidas Padel" data-forma="" data-nivel="" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./saco-de-padel-adidas-racket-bag-tour-silver-2026-prata-lima.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://www.zonadepadel.es/30169-large_default/paletero-adidas-tour-plata-2026.jpg" alt="Saco de padel adidas Racket Bag Tour Silver 2026 Prata/Lima" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Adidas</span>
-        <h2>Saco de padel adidas Racket Bag Tour Silver 2026 Prata/Lima</h2>
-        <div class="card-price"><span class="current-price">51,01 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Saco%20de%20padel%20adidas%20Racket%20Bag%20Tour%20Silver%202026%20Prata%2FLima"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./saco-de-padel-adidas-racket-bag-tour-silver-2026-prata-lima.html">Ver 4 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Saco%20de%20padel%20adidas%20Racket%20Bag%20Protour%20Blue%202026%20Azul%2FBronze"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./saco-de-padel-adidas-racket-bag-protour-blue-2026-azul-bronze.html">Ver 5 lojas</a>
     </div>
   </article>
           </div>
@@ -631,8 +689,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 351;
-      const productIds = [351];
+      const productId = 386;
+      const productIds = [386];
       const shareUrl = "https://padelcost.pt/produto/saco-de-padel-adidas-racket-bag-tour-bronze-2026-bronze-laranja.html";
       const shareTitle = "Saco de padel adidas Racket Bag Tour Bronze 2026 Bronze/Laranja";
       const saveButton = document.querySelector('[data-product-save]');

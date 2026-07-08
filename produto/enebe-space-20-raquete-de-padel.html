@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Enebe space 20 raquete de padel - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Enebe space 20 raquete de padel da Enebe em 2 lojas. Melhor preço encontrado: 159,99 €. Atualizado no PadelCost.">
@@ -21,7 +79,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Enebe space 20 raquete de padel",
-  "description": "Enebe space 20 raquete de padel é uma raquete de padel da Enebe pensada para jogadores de nível profissional que procuram equilibrado. Com construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.",
+  "description": "Enebe space 20 raquete de padel é uma raquete de padel da Enebe pensada para jogadores de nível profissional que procuram potência. Com formato híbrida e construção em carbono 3k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.",
   "url": "https://padelcost.pt/produto/enebe-space-20-raquete-de-padel.html",
   "mainEntityOfPage": "https://padelcost.pt/produto/enebe-space-20-raquete-de-padel.html",
   "image": [
@@ -38,7 +96,7 @@
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
     "lowPrice": 159.99,
-    "highPrice": 231.53,
+    "highPrice": 235.27,
     "offerCount": 2,
     "offers": [
       {
@@ -55,7 +113,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 231.53,
+        "price": 235.27,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -454,16 +512,16 @@
             <div class="product-info-head">
               <div class="product-brand">Enebe</div>
               <h1>Enebe space 20 raquete de padel</h1>
-              <p class="product-summary">Enebe space 20 raquete de padel é uma raquete de nível profissional, orientada para equilibrado, com construção em carbono 12k.</p>
-              <div class="facts"><div class="fact"><span class="spec-icon"><i class="fas fa-chart-line"></i></span><div><span>Nível</span><strong>Profissional</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-layer-group"></i></span><div><span>Material</span><strong>Carbono 12K</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-bolt"></i></span><div><span>Estilo</span><strong>Equilibrado</strong></div></div></div>
+              <p class="product-summary">Enebe space 20 raquete de padel é uma raquete de nível profissional, orientada para potência, com formato híbrida e construção em carbono 3k.</p>
+              <div class="facts"><div class="fact"><span class="spec-icon"><i class="fas fa-gem"></i></span><div><span>Forma</span><strong>Híbrida</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-chart-line"></i></span><div><span>Nível</span><strong>Profissional</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-layer-group"></i></span><div><span>Material</span><strong>Carbono 3K</strong></div></div><div class="fact"><span class="spec-icon"><i class="fas fa-bolt"></i></span><div><span>Estilo</span><strong>Potência</strong></div></div></div>
               <div class="product-description">
                 <h2>Descrição do produto</h2>
-                <p>Enebe space 20 raquete de padel é uma raquete de padel da Enebe pensada para jogadores de nível profissional que procuram equilibrado. Com construção em carbono 12k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.</p>
+                <p>Enebe space 20 raquete de padel é uma raquete de padel da Enebe pensada para jogadores de nível profissional que procuram potência. Com formato híbrida e construção em carbono 3k, oferece uma resposta equilibrada para jogar com confiança em diferentes fases do ponto.</p>
               </div>
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/logo-forum-sport-es.webp" alt="Forum Sport ES"></div>
                 <div class="top-offer-price"><strong>159,99 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.forumsport.com/es-es/enebe-pala-padel-adulto-pala-pdel-enebe-space-20-a005828-1001121590-p" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.forumsport.com/es-es/enebe-pala-padel-adulto-pala-pdel-enebe-space-20-a005828-1001121590-p" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -479,13 +537,13 @@
               <div class="store-logo"><img src="../logos/logo-forum-sport-es.webp" alt="Forum Sport ES"></div>
               <div><strong>Forum Sport ES</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">159,99 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.forumsport.com/es-es/enebe-pala-padel-adulto-pala-pdel-enebe-space-20-a005828-1001121590-p" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.forumsport.com/es-es/enebe-pala-padel-adulto-pala-pdel-enebe-space-20-a005828-1001121590-p" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">231,53 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=42581818646&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">235,27 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=42581818646&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -495,37 +553,7 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="159.95" data-store-count="6" data-brand="Head" data-stores="Padel Proshop PT||Smash Expert||Deporvillage||Atmosfera Sport||Padel Market||Zona de Padel" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-head-speed-motion-2025.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_221075-ns_marron_1.webp&amp;feedId=93547&amp;k=68aa8be26329990b29ada5559047f2f68183eda4" alt="Raquete de padel Head Speed Motion 2025" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>Raquete de padel Head Speed Motion 2025</h2>
-        <div class="card-price"><span class="current-price">159,95 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Speed%20Motion%202025"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-head-speed-motion-2025.html">Ver 6 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="160.27" data-store-count="6" data-brand="Head" data-stores="Sport is Good||Smash Expert||Zona de Padel||Atmosfera Sport||Padel Proshop PT||Padel Market" data-forma="Híbrida" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-head-radical-pro-2026.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead-222036-rouge-noir-1.webp&amp;feedId=93547&amp;k=f5e2784e3dfe62e1578119d4a5a48c2ec41d78de" alt="Raquete de padel Head Radical Pro 2026" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Head</span>
-        <h2>Raquete de padel Head Radical Pro 2026</h2>
-        <div class="card-price"><span class="current-price">160,27 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Radical%20Pro%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-head-radical-pro-2026.html">Ver 6 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="159.99" data-store-count="2" data-brand="Enebe" data-stores="Forum Sport ES||Smash Expert" data-forma="" data-nivel="Profissional" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="159.99" data-store-count="2" data-brand="Enebe" data-stores="Forum Sport ES||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
     <a class="card-main-link" href="./enebe-response-24k-raquete-de-padel.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001121584-00-P-X-20260413102638.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5NzM3NHxpbWFnZS9qcGVnfGFEYzFMMmhqWkM4eE16WTVOVFV3T1RNek1UazVPQzl0WldScFlYTmZNVEF3TVRFeU1UVTRORjh3TUY5UVgxZ3RNakF5TmpBME1UTXhNREkyTXpndWFuQm58MWFiMzhjYzYxMDlmNGI1ZGY2NmY2MjQ3ZjE1NGE0ZGNlMWEyYjBlODdiMmIzOTMzODJmNTg5YTk2MWZiMTMwZQ&amp;feedId=58083&amp;k=83e11c2e497816b72d9969351693001531fd4f8a" alt="Enebe response 24k raquete de padel" loading="lazy"></div>
@@ -540,7 +568,7 @@
       <a class="btn-small btn-buy" href="./enebe-response-24k-raquete-de-padel.html">Ver 2 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="165.49" data-store-count="7" data-brand="Wilson" data-stores="Decathlon ES||Sport is Good||Smash Expert||Atmosfera Sport||Padel Proshop PT||Padel Market||Zona de Padel" data-forma="Diamante" data-nivel="Intermédio" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="165.49" data-store-count="6" data-brand="Wilson" data-stores="Decathlon ES||Padel Market||Smash Expert||Padel Proshop PT||Atmosfera Sport||Zona de Padel" data-forma="Diamante" data-nivel="Intermédio" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-wilson-defy-v1-padel-2-preto-dourado.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fw%2Fi%2Fwilson_wr173711u_1.webp&amp;feedId=93547&amp;k=3a40d3987d562d251619e6029354f514eb1df29d" alt="Raquete de padel Wilson Defy V1 Padel 2 Preto/Dourado/" loading="lazy"></div>
@@ -552,7 +580,37 @@
     </a>
     <div class="card-actions">
       <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Wilson%20Defy%20V1%20Padel%202%20Preto%2FDourado%2F"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-wilson-defy-v1-padel-2-preto-dourado.html">Ver 7 lojas</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-wilson-defy-v1-padel-2-preto-dourado.html">Ver 6 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="168" data-store-count="6" data-brand="Head" data-stores="Atmosfera Sport||Zona de Padel||Padel Market||Decathlon ES||Deporvillage||Smash Expert" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-head-extreme-pro-2025.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fh%2Fe%2Fhead_223125_green-black_1.webp&amp;feedId=93547&amp;k=f2771e15afb4ad9c0d730a81b2f1b170127d7fcc" alt="Raquete de padel Head Extreme Pro 2025" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Head</span>
+        <h2>Raquete de padel Head Extreme Pro 2025</h2>
+        <div class="card-price"><span class="current-price">168,00 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20Head%20Extreme%20Pro%202025"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-head-extreme-pro-2025.html">Ver 6 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="163.79" data-store-count="2" data-brand="Enebe" data-stores="Forum Sport ES||Smash Expert" data-forma="Híbrida" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./enebe-response-3k-evo-raquete-de-padel.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Awww.forumsport.com%2Fmedias%2Fmedias-1001121586-00-P-X-20260413102638.jpg%3Fcontext%3DbWFzdGVyfGltYWdlc3w5OTcwNXxpbWFnZS9qcGVnfGFHWmxMMmd5TVM4eE16WTVOVFV4TURFeE9EUXpNQzl0WldScFlYTmZNVEF3TVRFeU1UVTRObDh3TUY5UVgxZ3RNakF5TmpBME1UTXhNREkyTXpndWFuQm58Zjk3YmZlZWI1ZmJmMWI4MzhkZjQxNTkwZThkZGRkMTY4YmFkMTMwOTNhZmE2NzI0NjZiZjZkN2Q5Y2NhZTVhZQ&amp;feedId=58083&amp;k=d0be5e6c9d644c4149e27075eb7c14ed6263cf4f" alt="Enebe response 3k evo raquete de padel" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Enebe</span>
+        <h2>Enebe response 3k evo raquete de padel</h2>
+        <div class="card-price"><span class="current-price">163,79 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Enebe%20response%203k%20evo%20raquete%20de%20padel"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./enebe-response-3k-evo-raquete-de-padel.html">Ver 2 lojas</a>
     </div>
   </article>
           </div>
@@ -563,8 +621,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 1897;
-      const productIds = [1897];
+      const productId = 2067;
+      const productIds = [2067];
       const shareUrl = "https://padelcost.pt/produto/enebe-space-20-raquete-de-padel.html";
       const shareTitle = "Enebe space 20 raquete de padel";
       const saveButton = document.querySelector('[data-product-save]');

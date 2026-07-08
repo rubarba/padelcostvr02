@@ -6,13 +6,71 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Raquete de padel adidas Copa do Mundo 2026 Italia - Comparar Preços | PadelCost</title>
-  <meta name="description" content="Compara preços de Raquete de padel adidas Copa do Mundo 2026 Italia da Adidas em 4 lojas. Melhor preço encontrado: 129,91 €. Atualizado no PadelCost.">
+  <meta name="description" content="Compara preços de Raquete de padel adidas Copa do Mundo 2026 Italia da Adidas em 4 lojas. Melhor preço encontrado: 98,91 €. Atualizado no PadelCost.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://padelcost.pt/produto/raquete-de-padel-adidas-copa-do-mundo-2026-italia.html">
   <meta property="og:title" content="Raquete de padel adidas Copa do Mundo 2026 Italia - Comparar Preços | PadelCost">
-  <meta property="og:description" content="Compara preços de Raquete de padel adidas Copa do Mundo 2026 Italia da Adidas em 4 lojas. Melhor preço encontrado: 129,91 €. Atualizado no PadelCost.">
+  <meta property="og:description" content="Compara preços de Raquete de padel adidas Copa do Mundo 2026 Italia da Adidas em 4 lojas. Melhor preço encontrado: 98,91 €. Atualizado no PadelCost.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://padelcost.pt/produto/raquete-de-padel-adidas-copa-do-mundo-2026-italia.html">
   <meta property="og:site_name" content="PadelCost">
@@ -37,14 +95,14 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "EUR",
-    "lowPrice": 129.91,
+    "lowPrice": 98.91,
     "highPrice": 160,
     "offerCount": 4,
     "offers": [
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 129.91,
+        "price": 98.91,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -55,24 +113,24 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 143.95,
-        "availability": "https://schema.org/InStock",
-        "seller": {
-          "@type": "Organization",
-          "name": "Padel Proshop PT"
-        },
-        "url": "https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=54040488116529&url=https://padelproshop.com/pt-pt/products/raquete-de-padel-adidas-world-cup-italia-2026"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "EUR",
-        "price": 159.95,
+        "price": 124.95,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
           "name": "Padel Market"
         },
         "url": "https://www.awin1.com/pclick.php?p=44612893896&a=2816502&m=24562"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": 124.95,
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Padel Proshop PT"
+        },
+        "url": "https://pin.padelproshop.com/t/t?a=1997138455&as=2058947466&t=2&tk=1&cupa_sku=54040488116529&url=https://padelproshop.com/pt-pt/products/raquete-de-padel-adidas-world-cup-italia-2026"
       },
       {
         "@type": "Offer",
@@ -484,8 +542,8 @@
               </div>
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
-                <div class="top-offer-price"><strong>129,91 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <div class="top-offer-price"><strong>98,91 €</strong><span class="best-badge">Melhor preço</span></div>
+                <a class="button" href="https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -500,26 +558,26 @@
             <div class="store store-best">
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">129,91 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html" target="_blank" rel="sponsored noopener">Ver loja</a>
-            </div>
-<div class="store">
-              <div class="store-logo"><img src="../logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT"></div>
-              <div><strong>Padel Proshop PT</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">143,95 €</span></div>
-              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=54040488116529&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-adidas-world-cup-italia-2026" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">98,91 €</span><span class="best-badge">Melhor preço</span></div>
+              <a class="button" href="https://www.zonadepadel.es/adidas-padel/15066-adidas-world-cup-italy-2026.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/logo_padelmarket.svg" alt="Padel Market"></div>
               <div><strong>Padel Market</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">159,95 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44612893896&amp;a=2816502&amp;m=24562" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">124,95 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44612893896&amp;a=2816502&amp;m=24562" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
+            </div>
+<div class="store">
+              <div class="store-logo"><img src="../logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT"></div>
+              <div><strong>Padel Proshop PT</strong><span class="store-stock">Em stock</span></div>
+              <div class="store-price-wrap"><span class="store-price">124,95 €</span></div>
+              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=54040488116529&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-adidas-world-cup-italia-2026" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/Logo_Adidas_10.svg" alt="Adidas Padel"></div>
               <div><strong>Adidas Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">160,00 €</span></div>
-              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fraquetes-de-padel%2F7460-raquete-de-padel-adidas-copa-do-mundo-2026-italia-8435739406496.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fraquetes-de-padel%2F7460-raquete-de-padel-adidas-copa-do-mundo-2026-italia-8435739406496.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -529,29 +587,44 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="129.96" data-store-count="7" data-brand="Adidas" data-stores="Zona de Padel||Forum Sport ES||Atmosfera Sport||Padel Proshop PT||Padel Market||Adidas Padel||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="119" data-store-count="6" data-brand="Adidas" data-stores="Smash Expert||Zona de Padel||Atmosfera Sport||Padel Market||Adidas Padel||Deporvillage" data-forma="Redonda" data-nivel="Profissional" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-team-light-2026-preto-branco.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar2ca3u42-black-white-1.webp&amp;feedId=93547&amp;k=148d790b2913865fe8ac4b7b51b5505e025b2212" alt="Raquete de padel adidas Metalbone Team Light 2026 Preto/Branco" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Adidas</span>
+        <h2>Raquete de padel adidas Metalbone Team Light 2026 Preto/Branco</h2>
+        <div class="card-price"><span class="current-price">119,00 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Metalbone%20Team%20Light%202026%20Preto%2FBranco"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-team-light-2026-preto-branco.html">Ver 6 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="119.95" data-store-count="6" data-brand="Adidas" data-stores="Padel Proshop PT||Atmosfera Sport||Forum Sport ES||Zona de Padel||Adidas Padel||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-superlight-preto-vermelho.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://www.zonadepadel.es/28969-large_default/adidas-metalbone-superlight-2026.jpg" alt="Raquete de padel adidas Metalbone Superlight Preto/Vermelho" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Raquete de padel adidas Metalbone Superlight Preto/Vermelho</h2>
-        <div class="card-price"><span class="current-price">129,96 €</span></div>
+        <div class="card-price"><span class="current-price">119,95 €</span></div>
       </div>
     </a>
     <div class="card-actions">
       <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Metalbone%20Superlight%20Preto%2FVermelho"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-superlight-preto-vermelho.html">Ver 7 lojas</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-superlight-preto-vermelho.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="126.01" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Atmosfera Sport||Padel Market||Adidas Padel||Deporvillage||Smash Expert" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="126" data-store-count="6" data-brand="Adidas" data-stores="Atmosfera Sport||Smash Expert||Padel Market||Zona de Padel||Adidas Padel||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-adidas-crossit-team-ctrl-2026-preto-branco.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar2aa6u23-noir-1.webp&amp;feedId=93547&amp;k=85b1eaadd2d00a7ec40f45de31aa7d2f85a93e68" alt="Raquete de padel adidas Crossit Team Ctrl 2026 Preto/Branco" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Raquete de padel adidas Crossit Team Ctrl 2026 Preto/Branco</h2>
-        <div class="card-price"><span class="current-price">126,01 €</span></div>
+        <div class="card-price"><span class="current-price">126,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -559,34 +632,19 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-crossit-team-ctrl-2026-preto-branco.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="140" data-store-count="7" data-brand="Adidas" data-stores="Atmosfera Sport||Forum Sport ES||Zona de Padel||Padel Market||Adidas Padel||Deporvillage||Smash Expert" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-team-2026-preto-vermelho.html">
+<article class="card" data-index="0" data-price="59.95" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Padel Proshop PT||Smash Expert||Padel Market||Adidas Padel||Deporvillage" data-forma="Híbrida" data-nivel="Intermédio" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-adidas-match-black-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar2aa3u22-black-red-1.webp&amp;feedId=93547&amp;k=c19f3d7746200e2bdc996c179d55e161b019374d" alt="Raquete de padel adidas Metalbone Team 2026 Preto/Vermelho" loading="lazy"></div>
+      <div class="card-image"><img src="https://allforpadel.com/9055-large_default/raquete-de-padel-adidas-match-black-2026.jpg" alt="Raquete de padel adidas Match Black 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
-        <h2>Raquete de padel adidas Metalbone Team 2026 Preto/Vermelho</h2>
-        <div class="card-price"><span class="current-price">140,00 €</span></div>
+        <h2>Raquete de padel adidas Match Black 2026</h2>
+        <div class="card-price"><span class="current-price">59,95 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Metalbone%20Team%202026%20Preto%2FVermelho"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-team-2026-preto-vermelho.html">Ver 7 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="179.96" data-store-count="7" data-brand="Adidas" data-stores="Zona de Padel||Sport is Good||Smash Expert||Padel Market||Decathlon ES||Adidas Padel||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-adidas-cross-it-carbon-2026.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://allforpadel.com/9173-large_default/raquete-de-padel-adidas-cross-it-carbon-2026.jpg" alt="Raquete de padel adidas Cross IT Carbon 2026" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Adidas</span>
-        <h2>Raquete de padel adidas Cross IT Carbon 2026</h2>
-        <div class="card-price"><span class="current-price">179,96 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Cross%20IT%20Carbon%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-cross-it-carbon-2026.html">Ver 7 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Match%20Black%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-match-black-2026.html">Ver 6 lojas</a>
     </div>
   </article>
           </div>
@@ -597,8 +655,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 675;
-      const productIds = [675];
+      const productId = 728;
+      const productIds = [728];
       const shareUrl = "https://padelcost.pt/produto/raquete-de-padel-adidas-copa-do-mundo-2026-italia.html";
       const shareTitle = "Raquete de padel adidas Copa do Mundo 2026 Italia";
       const saveButton = document.querySelector('[data-product-save]');

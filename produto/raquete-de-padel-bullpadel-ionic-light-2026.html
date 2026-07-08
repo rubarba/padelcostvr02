@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Raquete de Padel Bullpadel Ionic Light 2026 - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Raquete de Padel Bullpadel Ionic Light 2026 da Bullpadel em 3 lojas. Melhor preço encontrado: 134,95 €. Atualizado no PadelCost.">
@@ -55,7 +113,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 150.24,
+        "price": 137,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -474,7 +532,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT"></div>
                 <div class="top-offer-price"><strong>134,95 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=51989159280945&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-bullpadel-ionic-light-2026" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=51989159280945&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-bullpadel-ionic-light-2026" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -490,19 +548,19 @@
               <div class="store-logo"><img src="../logos/padel-proshop-pt-logo.png" alt="Padel Proshop PT"></div>
               <div><strong>Padel Proshop PT</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">134,95 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=51989159280945&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-bullpadel-ionic-light-2026" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://pin.padelproshop.com/t/t?a=1997138455&amp;as=2058947466&amp;t=2&amp;tk=1&amp;cupa_sku=51989159280945&amp;url=https://padelproshop.com/pt-pt/products/raquete-de-padel-bullpadel-ionic-light-2026" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">150,24 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43656371097&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">137,00 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43656371097&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
               <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">161,96 €</span></div>
-              <a class="button" href="https://www.zonadepadel.es/bullpadel/13575-bullpadel-ionic-light-2026.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.zonadepadel.es/bullpadel/13575-bullpadel-ionic-light-2026.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -512,44 +570,29 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="125.99" data-store-count="7" data-brand="Bullpadel" data-stores="Atmosfera Sport||Sport is Good||Smash Expert||Padel Proshop PT||Forum Sport ES||Zona de Padel||Decathlon ES" data-forma="Diamante" data-nivel="Intermédio" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="179.99" data-store-count="6" data-brand="Bullpadel" data-stores="Decathlon ES||Zona de Padel||Padel Proshop PT||Atmosfera Sport||Smash Expert||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-bullpadel-ionic-power-26.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acontents.mediadecathlon.com%2Fp3035604%2Fk%2431556433e29042b6dfac9455d80d0eb9%2Fpicture.jpg%3Ff%3D300x300&amp;feedId=101665&amp;k=ac15f74c590a868832e7c0b263649647d90727b9" alt="Raquete de padel - Bullpadel Ionic Power 26" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Bullpadel</span>
         <h2>Raquete de padel - Bullpadel Ionic Power 26</h2>
-        <div class="card-price"><span class="current-price">125,99 €</span></div>
+        <div class="card-price"><span class="current-price">179,99 €</span></div>
       </div>
     </a>
     <div class="card-actions">
       <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20-%20Bullpadel%20Ionic%20Power%2026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-ionic-power-26.html">Ver 7 lojas</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-ionic-power-26.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="106.24" data-store-count="5" data-brand="Bullpadel" data-stores="Forum Sport ES||Zona de Padel||Padel Proshop PT||Deporvillage||Smash Expert" data-forma="Diamante" data-nivel="Iniciante" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-bullpadel-vertex-advance-2026.html">
-      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaBullpadelVertexAdvance2026_1.webp?v=1767774014" alt="Raquete de Padel Bullpadel Vertex Advance 2026" loading="lazy"></div>
-      <div class="card-info">
-        <span class="eyebrow">Bullpadel</span>
-        <h2>Raquete de Padel Bullpadel Vertex Advance 2026</h2>
-        <div class="card-price"><span class="current-price">106,24 €</span></div>
-      </div>
-    </a>
-    <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Bullpadel%20Vertex%20Advance%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-vertex-advance-2026.html">Ver 5 lojas</a>
-    </div>
-  </article>
-<article class="card" data-index="0" data-price="99.96" data-store-count="5" data-brand="Bullpadel" data-stores="Zona de Padel||Forum Sport ES||Padel Proshop PT||Deporvillage||Smash Expert" data-forma="Redonda" data-nivel="Avançado" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="111" data-store-count="5" data-brand="Bullpadel" data-stores="Smash Expert||Forum Sport ES||Zona de Padel||Padel Proshop PT||Deporvillage" data-forma="Redonda" data-nivel="Avançado" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-bullpadel-hack-advance-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaBullpadelHackAdvance2026_1.webp?v=1767773674" alt="Raquete de Padel Bullpadel Hack Advance 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Bullpadel</span>
         <h2>Raquete de Padel Bullpadel Hack Advance 2026</h2>
-        <div class="card-price"><span class="current-price">99,96 €</span></div>
+        <div class="card-price"><span class="current-price">111,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -557,19 +600,34 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-hack-advance-2026.html">Ver 5 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="67.15" data-store-count="5" data-brand="Bullpadel" data-stores="Forum Sport ES||Padel Proshop PT||Deporvillage||Zona de Padel||Smash Expert" data-forma="Diamante" data-nivel="Iniciante" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-bullpadel-indiga-pwr-2026.html">
+<article class="card" data-index="0" data-price="109" data-store-count="5" data-brand="Bullpadel" data-stores="Padel Proshop PT||Zona de Padel||Forum Sport ES||Smash Expert||Deporvillage" data-forma="Diamante" data-nivel="Iniciante" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-bullpadel-vertex-advance-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaBullpadelIndigaWomen2026_1.webp?v=1761052177" alt="Raquete de Padel Bullpadel Indíga PWR 2026" loading="lazy"></div>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/PalaBullpadelVertexAdvance2026_1.webp?v=1767774014" alt="Raquete de Padel Bullpadel Vertex Advance 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Bullpadel</span>
-        <h2>Raquete de Padel Bullpadel Indíga PWR 2026</h2>
-        <div class="card-price"><span class="current-price">67,15 €</span></div>
+        <h2>Raquete de Padel Bullpadel Vertex Advance 2026</h2>
+        <div class="card-price"><span class="current-price">109,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Bullpadel%20Ind%C3%ADga%20PWR%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-indiga-pwr-2026.html">Ver 5 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Bullpadel%20Vertex%20Advance%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-vertex-advance-2026.html">Ver 5 lojas</a>
+    </div>
+  </article>
+<article class="card" data-index="0" data-price="139.95" data-store-count="4" data-brand="Bullpadel" data-stores="Padel Proshop PT||Smash Expert||Zona de Padel||Forum Sport ES" data-forma="Diamante" data-nivel="Avançado" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-bullpadel-ionic-power-2026.html">
+      <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
+      <div class="card-image"><img src="https://cdn.shopify.com/s/files/1/0763/9577/4257/files/power1.webp?v=1761898044" alt="Raquete de Padel Bullpadel Ionic Power 2026" loading="lazy"></div>
+      <div class="card-info">
+        <span class="eyebrow">Bullpadel</span>
+        <h2>Raquete de Padel Bullpadel Ionic Power 2026</h2>
+        <div class="card-price"><span class="current-price">139,95 €</span></div>
+      </div>
+    </a>
+    <div class="card-actions">
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20Padel%20Bullpadel%20Ionic%20Power%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-bullpadel-ionic-power-2026.html">Ver 4 lojas</a>
     </div>
   </article>
           </div>
@@ -580,8 +638,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 1360;
-      const productIds = [1360];
+      const productId = 1569;
+      const productIds = [1569];
       const shareUrl = "https://padelcost.pt/produto/raquete-de-padel-bullpadel-ionic-light-2026.html";
       const shareTitle = "Raquete de Padel Bullpadel Ionic Light 2026";
       const saveButton = document.querySelector('[data-product-save]');

@@ -6,6 +6,64 @@
   <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
   <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
   <link rel="apple-touch-icon" sizes="192x192" href="../favicon-192.png">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>Raquete de padel adidas Metalbone 2026 Ale Galán Preto/Vermelho - Comparar Preços | PadelCost</title>
   <meta name="description" content="Compara preços de Raquete de padel adidas Metalbone 2026 Ale Galán Preto/Vermelho da Adidas em 9 lojas. Melhor preço encontrado: 273,00 €. Atualizado no PadelCost.">
@@ -66,18 +124,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 291.96,
-        "availability": "https://schema.org/InStock",
-        "seller": {
-          "@type": "Organization",
-          "name": "Zona de Padel"
-        },
-        "url": "https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html"
-      },
-      {
-        "@type": "Offer",
-        "priceCurrency": "EUR",
-        "price": 331.5,
+        "price": 304.95,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -88,7 +135,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 334.26,
+        "price": 331.5,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -99,7 +146,7 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 334.26,
+        "price": 331.5,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -110,13 +157,24 @@
       {
         "@type": "Offer",
         "priceCurrency": "EUR",
-        "price": 370.49,
+        "price": 374.39,
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
           "name": "Forum Sport ES"
         },
         "url": "https://www.forumsport.com/es-es/adidas-padel-pala-padel-adulto-metalbone-2026-ar1aa8u22-1001119092-p"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": 389.96,
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Zona de Padel"
+        },
+        "url": "https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html"
       },
       {
         "@type": "Offer",
@@ -540,7 +598,7 @@
               <div class="top-offer">
                 <div class="store-logo"><img src="../logos/atmosfera-sport-logo.svg" alt="Atmosfera Sport"></div>
                 <div class="top-offer-price"><strong>273,00 €</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="https://www.awin1.com/pclick.php?p=43632271907&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="https://www.awin1.com/pclick.php?p=43632271907&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -556,55 +614,55 @@
               <div class="store-logo"><img src="../logos/atmosfera-sport-logo.svg" alt="Atmosfera Sport"></div>
               <div><strong>Atmosfera Sport</strong><span class="store-stock">in stock</span></div>
               <div class="store-price-wrap"><span class="store-price">273,00 €</span><span class="best-badge">Melhor preço</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43632271907&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43632271907&amp;a=2816502&amp;m=118771" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/decathlon-es-logo.svg" alt="Decathlon ES"></div>
               <div><strong>Decathlon ES</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
               <div class="store-price-wrap"><span class="store-price">273,99 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43385571279&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener">Ver loja</a>
-            </div>
-<div class="store">
-              <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
-              <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">291,96 €</span></div>
-              <a class="button" href="https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43385571279&amp;a=2816502&amp;m=105405" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/logo_padelmarket.svg" alt="Padel Market"></div>
               <div><strong>Padel Market</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">331,50 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43352104473&amp;a=2816502&amp;m=24562" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">304,95 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43352104473&amp;a=2816502&amp;m=24562" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/sport-is-good.svg" alt="Sport is Good"></div>
               <div><strong>Sport is Good</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">334,26 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43946269984&amp;a=2816502&amp;m=65906" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">331,50 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43946269984&amp;a=2816502&amp;m=65906" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/smash-expert.svg" alt="Smash Expert"></div>
               <div><strong>Smash Expert</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
-              <div class="store-price-wrap"><span class="store-price">334,26 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=43945241707&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">331,50 €</span></div>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=43945241707&amp;a=2816502&amp;m=80889" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/logo-forum-sport-es.webp" alt="Forum Sport ES"></div>
               <div><strong>Forum Sport ES</strong><span class="store-stock">Em stock</span></div>
-              <div class="store-price-wrap"><span class="store-price">370,49 €</span></div>
-              <a class="button" href="https://www.forumsport.com/es-es/adidas-padel-pala-padel-adulto-metalbone-2026-ar1aa8u22-1001119092-p" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <div class="store-price-wrap"><span class="store-price">374,39 €</span></div>
+              <a class="button" href="https://www.forumsport.com/es-es/adidas-padel-pala-padel-adulto-metalbone-2026-ar1aa8u22-1001119092-p" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
+            </div>
+<div class="store">
+              <div class="store-logo"><img src="../logos/zonadepadel.png" alt="Zona de Padel"></div>
+              <div><strong>Zona de Padel</strong><span class="store-stock">Em stock</span></div>
+              <div class="store-price-wrap"><span class="store-price">389,96 €</span></div>
+              <a class="button" href="https://www.zonadepadel.es/adidas-padel/14018-adidas-metalbone-2026.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/Logo_Adidas_10.svg" alt="Adidas Padel"></div>
               <div><strong>Adidas Padel</strong><span class="store-stock">Em stock</span></div>
               <div class="store-price-wrap"><span class="store-price">390,00 €</span></div>
-              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fraquetes-de-padel%2F7521-raquete-de-padel-adidas-metalbone-2026-ale-galan-8435739405802.html" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://afiliates.allforpadel.com/c?c=37613&amp;m=2238500&amp;a=507738&amp;r=&amp;u=https%3A%2F%2Fallforpadel.com%2Fpt%2Fraquetes-de-padel%2F7521-raquete-de-padel-adidas-metalbone-2026-ale-galan-8435739405802.html" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
 <div class="store">
               <div class="store-logo"><img src="../logos/deporvillage-logo.png" alt="Deporvillage"></div>
               <div><strong>Deporvillage</strong><span class="store-stock">Disponibilidade por confirmar</span></div>
               <div class="store-price-wrap"><span class="store-price">390,00 €</span></div>
-              <a class="button" href="https://www.awin1.com/pclick.php?p=44426461138&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="https://www.awin1.com/pclick.php?p=44426461138&amp;a=2816502&amp;m=117321" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>
           </div>
         </div>
@@ -614,14 +672,14 @@
             <a href="../index.html?categoria=raquetes">Ver raquetes de padel</a>
           </div>
           <div class="related-grid">
-            <article class="card" data-index="0" data-price="273" data-store-count="7" data-brand="Adidas" data-stores="Atmosfera Sport||Zona de Padel||Decathlon ES||Sport is Good||Smash Expert||Padel Market||Adidas Padel" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
+            <article class="card" data-index="0" data-price="272.95" data-store-count="7" data-brand="Adidas" data-stores="Padel Market||Zona de Padel||Atmosfera Sport||Decathlon ES||Sport is Good||Smash Expert||Adidas Padel" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-hrd-2026-ale-galan-preto-vermelho.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=ssl%3Acdn.blazimg.com%2F1800%2Fproduct%2Fa%2Fd%2Fadidas-ar1aa9u37-noir-69f88eff0da0a-1.webp&amp;feedId=93547&amp;k=7c391202c267686f10f129c920529f18367925cf" alt="Raquete de padel adidas Metalbone Hrd+ 2026 Ale Galán Preto/Vermelho" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Raquete de padel adidas Metalbone Hrd+ 2026 Ale Galán Preto/Vermelho</h2>
-        <div class="card-price"><span class="current-price">273,00 €</span></div>
+        <div class="card-price"><span class="current-price">272,95 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -629,29 +687,29 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-hrd-2026-ale-galan-preto-vermelho.html">Ver 7 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="219.99" data-store-count="6" data-brand="Adidas" data-stores="Decathlon ES||Padel Market||Zona de Padel||Adidas Padel||Smash Expert||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-carbon-2026.html">
+<article class="card" data-index="0" data-price="203.32" data-store-count="7" data-brand="Adidas" data-stores="Sport is Good||Smash Expert||Padel Market||Zona de Padel||Decathlon ES||Adidas Padel||Deporvillage" data-forma="Diamante" data-nivel="Profissional" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-adidas-cross-it-carbon-2026-maxi-arce.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://allforpadel.com/9146-large_default/raquete-de-padel-adidas-metalbone-carbon-2026.jpg" alt="Raquete de padel adidas Metalbone Carbon 2026" loading="lazy"></div>
+      <div class="card-image"><img src="https://allforpadel.com/9173-large_default/raquete-de-padel-adidas-cross-it-carbon-2026-maxi-arce.jpg" alt="Raquete de padel adidas Cross IT Carbon 2026 Maxi Arce" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
-        <h2>Raquete de padel adidas Metalbone Carbon 2026</h2>
-        <div class="card-price"><span class="current-price">219,99 €</span></div>
+        <h2>Raquete de padel adidas Cross IT Carbon 2026 Maxi Arce</h2>
+        <div class="card-price"><span class="current-price">203,32 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Metalbone%20Carbon%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-carbon-2026.html">Ver 6 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Cross%20IT%20Carbon%202026%20Maxi%20Arce"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-cross-it-carbon-2026-maxi-arce.html">Ver 7 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="194.96" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Sport is Good||Smash Expert||Padel Market||Adidas Padel||Deporvillage" data-forma="Redonda" data-nivel="Profissional" data-genero="" data-tipo="">
+<article class="card" data-index="0" data-price="203.32" data-store-count="6" data-brand="Adidas" data-stores="Sport is Good||Smash Expert||Padel Market||Zona de Padel||Adidas Padel||Deporvillage" data-forma="Redonda" data-nivel="Profissional" data-genero="" data-tipo="">
     <a class="card-main-link" href="./raquete-de-padel-adidas-cross-it-carbon-ctrl-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
       <div class="card-image"><img src="https://allforpadel.com/9218-large_default/raquete-de-padel-adidas-cross-it-carbon-ctrl-2026.jpg" alt="Raquete de padel adidas Cross IT Carbon Ctrl 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
         <h2>Raquete de padel adidas Cross IT Carbon Ctrl 2026</h2>
-        <div class="card-price"><span class="current-price">194,96 €</span></div>
+        <div class="card-price"><span class="current-price">203,32 €</span></div>
       </div>
     </a>
     <div class="card-actions">
@@ -659,19 +717,19 @@
       <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-cross-it-carbon-ctrl-2026.html">Ver 6 lojas</a>
     </div>
   </article>
-<article class="card" data-index="0" data-price="194.96" data-store-count="6" data-brand="Adidas" data-stores="Zona de Padel||Decathlon ES||Padel Market||Adidas Padel||Deporvillage||Smash Expert" data-forma="Redonda" data-nivel="Profissional" data-genero="" data-tipo="">
-    <a class="card-main-link" href="./raquete-de-padel-adidas-metalbone-carbon-ctrl-2026.html">
+<article class="card" data-index="0" data-price="269" data-store-count="5" data-brand="Adidas" data-stores="Smash Expert||Zona de Padel||Padel Market||Adidas Padel||Deporvillage" data-forma="Redonda" data-nivel="Profissional" data-genero="" data-tipo="">
+    <a class="card-main-link" href="./raquete-de-padel-adidas-cross-it-ctrl-2026.html">
       <span class="favorite-static" aria-hidden="true"><i class="far fa-heart"></i></span>
-      <div class="card-image"><img src="https://allforpadel.com/9191-large_default/raquete-de-padel-adidas-metalbone-carbon-ctrl-2026.jpg" alt="Raquete de padel adidas Metalbone Carbon Ctrl 2026" loading="lazy"></div>
+      <div class="card-image"><img src="https://allforpadel.com/9127-large_default/raquete-de-padel-adidas-cross-it-ctrl-2026.jpg" alt="Raquete de padel adidas Cross IT Ctrl 2026" loading="lazy"></div>
       <div class="card-info">
         <span class="eyebrow">Adidas</span>
-        <h2>Raquete de padel adidas Metalbone Carbon Ctrl 2026</h2>
-        <div class="card-price"><span class="current-price">194,96 €</span></div>
+        <h2>Raquete de padel adidas Cross IT Ctrl 2026</h2>
+        <div class="card-price"><span class="current-price">269,00 €</span></div>
       </div>
     </a>
     <div class="card-actions">
-      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Metalbone%20Carbon%20Ctrl%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
-      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-metalbone-carbon-ctrl-2026.html">Ver 6 lojas</a>
+      <a class="btn-small btn-compare" href="../index.html?q=Raquete%20de%20padel%20adidas%20Cross%20IT%20Ctrl%202026"><i class="fas fa-balance-scale"></i> Comparar</a>
+      <a class="btn-small btn-buy" href="./raquete-de-padel-adidas-cross-it-ctrl-2026.html">Ver 5 lojas</a>
     </div>
   </article>
           </div>
@@ -682,8 +740,8 @@
   <script>
     (() => {
       const storageKey = 'padelcost-favorites';
-      const productId = 27;
-      const productIds = [27];
+      const productId = 28;
+      const productIds = [28];
       const shareUrl = "https://padelcost.pt/produto/raquete-de-padel-adidas-metalbone-2026-ale-galan-preto-vermelho.html";
       const shareTitle = "Raquete de padel adidas Metalbone 2026 Ale Galán Preto/Vermelho";
       const saveButton = document.querySelector('[data-product-save]');

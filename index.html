@@ -21,6 +21,42 @@
         window.gtag('js', new Date());
         window.gtag('config', GA_ID);
       };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
       try {
         if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
           window.loadPadelCostAnalytics();
@@ -4461,8 +4497,8 @@
 
 <div id="root"></div>
 
-<script src="./data/products-data.js?v=20260511-ui-rackets-count-fix"></script>
-<script src="./data/seo-pages-data.js?v=20260511-ui-rackets-count-fix"></script>
+<script src="./data/products-data.js?v=20260708-feed-refresh"></script>
+<script src="./data/seo-pages-data.js?v=20260708-feed-refresh"></script>
 <script type="text/babel">
   const { useState, useEffect, useMemo, useRef } = React;
 
@@ -5928,6 +5964,16 @@
       openModal(product);
     };
 
+    const trackOutboundStoreClick = (event, url) => {
+      if (!url || url === '#') return;
+      event.preventDefault();
+      if (window.padelCostTrackOutbound) {
+        window.padelCostTrackOutbound(url);
+        return;
+      }
+      window.open(url, '_blank', 'noopener');
+    };
+
     const closeModal = () => {
       setModalActive(false);
       document.body.style.overflow = 'auto';
@@ -7143,6 +7189,7 @@
                           className="comparison-store-link comparison-store-link-best"
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(event) => trackOutboundStoreClick(event, store.url)}
                         >
                           {store.name} - {formatPrice(store.price)}
                         </a>
@@ -7159,6 +7206,7 @@
                             className="comparison-store-link comparison-store-link-secondary"
                             target="_blank"
                             rel="noopener noreferrer"
+                            onClick={(event) => trackOutboundStoreClick(event, store.url)}
                           >
                             {store.name}
                           </a>
@@ -7457,7 +7505,7 @@
                               {formatPrice(store.price)}
                               {showBestPriceBadge && <span className="best-price-badge">Melhor Preço</span>}
                             </div>
-                            <a href={store.url} className="store-action" target="_blank" rel="noopener">
+                            <a href={store.url} className="store-action" target="_blank" rel="noopener" onClick={(event) => trackOutboundStoreClick(event, store.url)}>
                               Ir para loja
                             </a>
                           </div>

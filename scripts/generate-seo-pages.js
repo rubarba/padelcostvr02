@@ -521,6 +521,64 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
   <link rel="icon" type="image/png" sizes="48x48" href="${getPageHref('favicon-48.png', pageContext)}">
   <link rel="icon" type="image/png" sizes="192x192" href="${getPageHref('favicon-192.png', pageContext)}">
   <link rel="apple-touch-icon" sizes="192x192" href="${getPageHref('favicon-192.png', pageContext)}">
+  <script>
+    (function() {
+      var GA_ID = 'G-MN6K5WQWLZ';
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function() { dataLayer.push(arguments); };
+      window.loadPadelCostAnalytics = window.loadPadelCostAnalytics || function() {
+        if (window.__padelcostAnalyticsLoaded) return;
+        window.__padelcostAnalyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+        document.head.appendChild(script);
+        window.gtag('js', new Date());
+        window.gtag('config', GA_ID);
+      };
+      window.padelCostTrackOutbound = window.padelCostTrackOutbound || function(url) {
+        if (typeof url !== 'string' || !url || url === '#') return true;
+
+        var canTrack = false;
+        try {
+          canTrack = window.localStorage.getItem('padelcost-cookie-consent') === 'accepted';
+        } catch (error) {}
+
+        if (!canTrack || typeof window.gtag !== 'function') {
+          window.open(url, '_blank', 'noopener');
+          return false;
+        }
+
+        if (window.loadPadelCostAnalytics) {
+          window.loadPadelCostAnalytics();
+        }
+
+        var openedWindow = window.open('about:blank', '_blank', 'noopener');
+        var didNavigate = false;
+        var navigate = function() {
+          if (didNavigate) return;
+          didNavigate = true;
+          if (openedWindow) {
+            openedWindow.location = url;
+          } else {
+            window.location = url;
+          }
+        };
+
+        window.gtag('event', 'conversion_event_outbound_click', {
+          event_callback: navigate,
+          event_timeout: 2000
+        });
+        window.setTimeout(navigate, 2100);
+        return false;
+      };
+      try {
+        if (window.localStorage.getItem('padelcost-cookie-consent') === 'accepted') {
+          window.loadPadelCostAnalytics();
+        }
+      } catch (error) {}
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeAttr(description)}">
@@ -555,6 +613,9 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .header-actions { display:flex; align-items:center; gap:.85rem; flex-shrink:0; }
     .favorites-trigger { display:inline-flex; align-items:center; gap:.55rem; color:#fff; text-decoration:none; font-size:.85rem; font-weight:800; white-space:nowrap; }
     .favorites-trigger-count { min-width:22px; height:22px; padding:0 .35rem; border-radius:999px; background:#fff; color:var(--blue); display:inline-flex; align-items:center; justify-content:center; font-size:.74rem; font-weight:900; }
+    .mobile-category-toggle { display:none; align-items:center; justify-content:center; width:44px; height:44px; border:0; background:transparent; color:#fff; cursor:pointer; }
+    .mobile-category-toggle i { font-size:1.55rem; line-height:1; }
+    .mobile-category-menu { display:none; }
     .categories-bar { background:#ffffff; border-bottom:1px solid rgba(19,32,44,.08); }
     .categories-inner { display:flex; align-items:center; gap:1rem; }
     .categories-container { flex:1; display:flex; gap:0; overflow-x:auto; scroll-behavior:smooth; min-width:0; }
@@ -577,6 +638,11 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .hero { padding: 1.55rem 0 1.05rem; background: white; border-bottom:1px solid var(--line); }
     .breadcrumb { display:flex; flex-wrap:wrap; gap:.4rem; color:var(--muted); font-size:.9rem; margin-bottom:.8rem; }
     .breadcrumb a { color:var(--blue); text-decoration:none; font-weight:800; }
+    .product-back-link { display:none; }
+    .mobile-product-crumb-title { display:none; }
+    .product-hero .breadcrumb { display:none; }
+    .product-back-link { display:inline-flex; align-items:center; gap:.42rem; color:var(--blue); font-size:.92rem; font-weight:900; text-decoration:none; }
+    .product-back-link i { font-size:.78rem; }
     h1 { margin:.2rem 0 .8rem; font-size:1.28rem; font-weight:700; line-height:1.2; letter-spacing:0; }
     .lead { color:var(--muted); max-width:760px; font-size:1.08rem; margin:0; }
     .section { padding: 1.45rem 0 2rem; }
@@ -695,10 +761,6 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .product-seo-panel p { margin:.45rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-seo-list { margin:.55rem 0 0; padding-left:1.15rem; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-seo-list li { margin:.22rem 0; }
-    .product-faq { display:grid; gap:.65rem; }
-    .product-faq details { background:#fff; border:1px solid var(--line); border-radius:10px; padding:.85rem 1rem; }
-    .product-faq summary { cursor:pointer; font-weight:900; color:var(--text); }
-    .product-faq p { margin:.55rem 0 0; color:#51627a; font-size:.92rem; line-height:1.6; }
     .product-actions { display:flex; align-items:center; gap:.85rem; flex-wrap:wrap; margin-top:1rem; }
     .save-product-btn { display:inline-flex; align-items:center; gap:.45rem; min-height:40px; padding:.62rem .9rem; border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--text); font-weight:700; text-decoration:none; cursor:pointer; font-family:inherit; font-size:.82rem; transition:all .25s ease; }
     .save-product-btn:hover { border-color:rgba(32,111,220,.2); color:var(--blue); background:#eef7ff; }
@@ -710,21 +772,31 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
     .footer a { color:white; font-weight:800; text-decoration:none; }
     @media (min-width: 761px) and (max-width: 1040px) { .header { padding:.82rem 0; } .header-top { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:.85rem 1rem; } .brand svg { height:46px !important; } .header-tagline { padding-left:1rem; margin-left:0; } .header-tagline p { font-size:.72rem; line-height:1.35; } .header-tagline p:last-child { display:none; } .search-wrapper { grid-column:1 / -1; width:100%; max-width:none; } .category-btn { padding:.78rem 1rem; font-size:.88rem; } }
     @media (max-width: 760px) {
-      .container { width:min(100% - 24px, 1120px); }
-      .header { padding:.54rem 0 .58rem; }
-      .header-top { flex-direction:column; align-items:stretch; gap:.5rem; padding:0; position:relative; }
-      .brand { align-self:center; max-width:210px; }
-      .brand svg { height:42px !important; max-width:210px; }
+      .container { width:100%; padding:0 1rem; }
+      .header { padding:.72rem 0 .62rem; }
+      .header-top { flex-direction:column; align-items:stretch; gap:.68rem; padding:0; position:relative; }
+      .brand { align-self:center; max-width:250px; }
+      .brand svg { height:52px !important; max-width:250px; }
+      .mobile-category-toggle { display:inline-flex; position:absolute; top:.12rem; left:.05rem; z-index:3; }
       .header-tagline { border-left:0; padding-left:0; margin-left:0; text-align:center; }
-      .header-tagline p { font-size:.64rem; line-height:1.22; }
+      .header-tagline p { font-size:.66rem; line-height:1.25; }
+      .header-tagline p:first-child { font-size:.72rem; }
       .header-tagline p:last-child { display:none; }
-      .search-wrapper { width:100%; max-width:100%; margin:0 auto; }
+      .search-wrapper { width:70%; max-width:70%; margin:0 auto; }
       .search-input { padding:.78rem 1rem .78rem 2.35rem; font-size:.88rem; }
       .search-icon { left:.95rem; }
-      .header-actions { position:absolute; top:.16rem; right:0; }
-      .favorites-trigger { gap:.35rem; }
+      .header-actions { position:absolute; top:.12rem; right:.05rem; z-index:2; }
+      .favorites-trigger { padding:.1rem .08rem; font-size:.68rem; gap:.22rem; min-height:0; border:0; background:transparent; box-shadow:none; }
+      .favorites-trigger i { font-size:.88rem; }
       .favorites-trigger span:not(.favorites-trigger-count) { display:none; }
-      .favorites-trigger-count { min-width:21px; height:21px; font-size:.72rem; }
+      .favorites-trigger-count { min-width:18px; height:18px; padding:0 .24rem; font-size:.64rem; background:rgba(255,255,255,.2); color:#fff; }
+      .mobile-category-menu.open { display:block; position:fixed; top:166px; left:0; right:0; z-index:99; background:rgba(255,255,255,.98); border-bottom:1px solid rgba(19,32,44,.06); padding:.25rem 0 .75rem; box-shadow:0 22px 42px rgba(9,23,40,.14); }
+      .mobile-category-menu .container { display:flex; justify-content:center; }
+      .mobile-category-menu-inner { display:flex; flex-direction:column; align-items:stretch; justify-content:flex-start; min-height:46vh; padding:.65rem 1rem .25rem; width:100%; gap:.5rem; overflow:visible; }
+      .mobile-category-item { display:flex; align-items:center; gap:.95rem; width:100%; min-height:64px; padding:1rem; background:rgba(255,255,255,.94); border:1px solid rgba(19,32,44,.08); border-radius:18px; color:#66758a; font-family:Manrope, Arial, sans-serif; font-size:1.08rem; font-weight:800; text-decoration:none; box-shadow:0 10px 24px rgba(12,21,33,.05); }
+      .mobile-category-item.active { color:var(--text); background:rgba(36,111,178,.08); border-color:rgba(36,111,178,.24); box-shadow:0 12px 26px rgba(22,64,104,.1); }
+      .mobile-category-item .category-icon { width:63px; height:63px; }
+      .mobile-category-item .category-icon-stack { width:61px; height:61px; }
       .categories-inner { align-items:stretch; }
       .category-help-link { display:none; }
       .category-btn { padding:.5rem .85rem; font-size:.86rem; }
@@ -732,6 +804,10 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
       .category-icon-stack { width:48px; height:48px; }
       .hero { padding:1.05rem 0 .82rem; }
       .breadcrumb { font-size:.82rem; line-height:1.35; margin-bottom:.55rem; }
+      .product-hero { padding:.78rem 0 .72rem; }
+      .product-back-link { font-size:.9rem; }
+      .product-back-link i { font-size:.76rem; }
+      .mobile-product-crumb-title { display:block; margin:.38rem 0 0; color:#51627a; font-size:.86rem; line-height:1.35; }
       h1 { font-size:1.08rem; line-height:1.28; margin:.15rem 0 0; }
       .section { padding:1rem 0 1.25rem; }
       .category-seo-summary { grid-template-columns:1fr; gap:.75rem; margin-bottom:1rem; }
@@ -756,9 +832,9 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
       .btn-small { min-height:38px; font-size:.82rem; }
       .product-overview { grid-template-columns:1fr; padding:.82rem; gap:1rem; border-radius:12px; }
       .product-info-head { display:block; }
-      .product-image { min-height:0; aspect-ratio:1/1; padding:.65rem; }
-      .product-image img { max-height:300px; }
-      .brand-logo { min-height:58px; justify-content:flex-start; padding:.35rem .15rem; }
+      .product-image { min-height:0; height:190px; aspect-ratio:auto; padding:.6rem; }
+      .product-image img { height:100%; max-height:170px; }
+      .brand-logo { display:none; }
       .brand-logo img { max-width:132px; max-height:58px; }
       .product-brand { font-size:.76rem; }
       .product-summary { font-size:.9rem; line-height:1.5; }
@@ -776,26 +852,32 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
       .product-description { margin-top:1rem; }
       .product-seo-panel { padding:.82rem; border-radius:10px; }
       .product-seo-panel h2 { font-size:.98rem; }
-      .product-seo-panel p, .product-seo-list, .product-faq p { font-size:.86rem; }
-      .product-faq details { padding:.72rem .82rem; }
-      .product-faq summary { font-size:.88rem; }
+      .product-seo-panel p, .product-seo-list { font-size:.86rem; }
       .product-actions { gap:.65rem; margin-top:.85rem; }
       .price-heading { margin:1rem 0 .35rem; font-size:1.02rem; }
       .related-section { margin-top:1.15rem; }
       .related-head { align-items:flex-start; margin-bottom:.65rem; }
       .related-head h2 { font-size:1rem; }
       .related-head a { font-size:.8rem; }
-      .related-grid { grid-template-columns:1fr; gap:.55rem; }
-      .stores { gap:.55rem; margin-top:.8rem; }
-      .store { grid-template-columns:72px 1fr; gap:.55rem .65rem; padding:.62rem; border-radius:10px; align-items:center; }
-      .store-logo { width:72px; max-width:100%; height:42px; border-radius:7px; padding:.25rem; grid-row:1 / span 2; }
-      .store strong { font-size:.86rem; line-height:1.15; }
-      .store-stock { font-size:.74rem; line-height:1.15; }
-      .store-stock::before { width:12px; height:12px; font-size:.52rem; }
-      .store-price-wrap { justify-content:flex-start; flex-wrap:wrap; gap:.4rem; }
-      .store-price { font-size:1.05rem; }
-      .store .best-badge { font-size:.56rem; min-height:20px; padding:.17rem .4rem; border-radius:6px; }
-      .store .button { grid-column:2; width:100%; min-height:36px; padding:.5rem .8rem; font-size:.82rem; }
+      .related-grid { grid-template-columns:repeat(2, minmax(0, 1fr)); gap:.65rem; }
+      .related-grid .card { border-radius:12px; padding:.58rem; }
+      .related-grid .favorite-static { top:.68rem; left:.68rem; width:28px; height:28px; font-size:1rem; }
+      .related-grid .card-image { height:122px; border-radius:8px; padding:.35rem; margin-bottom:.5rem; }
+      .related-grid .eyebrow { font-size:.62rem; letter-spacing:.04em; }
+      .related-grid .card h2, .related-grid .card h3 { font-size:.78rem; line-height:1.22; margin:.18rem 0 .55rem; min-height:3.65em; -webkit-line-clamp:3; }
+      .related-grid .current-price { font-size:1rem; }
+      .related-grid .card-actions { gap:.38rem; margin-top:.55rem; }
+      .related-grid .btn-small { min-height:34px; padding:.48rem .42rem; font-size:.72rem; }
+      .related-grid .btn-compare { min-height:28px; padding:.42rem 0 0; }
+      .stores { gap:.42rem; margin-top:.7rem; }
+      .store { grid-template-columns:60px minmax(0, 1fr) auto 76px; gap:.38rem; padding:.46rem .5rem; border-radius:10px; align-items:center; }
+      .store-logo { width:60px; max-width:100%; height:34px; border-radius:7px; padding:.2rem; grid-row:auto; }
+      .store strong { font-size:.76rem; line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+      .store-stock { display:none; }
+      .store-price-wrap { justify-content:flex-end; flex-direction:column; align-items:flex-end; gap:.12rem; }
+      .store-price { font-size:.98rem; line-height:1.05; }
+      .store .best-badge { font-size:.5rem; min-height:18px; padding:.14rem .34rem; border-radius:6px; }
+      .store .button { grid-column:auto; width:76px; min-width:0; min-height:34px; padding:.46rem .55rem; font-size:.76rem; }
     }
   </style>
 </head>
@@ -803,6 +885,7 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
   <header class="header">
     <div class="container">
       <div class="header-top">
+        <button class="mobile-category-toggle" type="button" aria-label="Abrir categorias" aria-expanded="false" data-mobile-category-toggle><i class="fas fa-bars"></i></button>
         <a class="brand" href="${getRootHref(pageContext)}" aria-label="PadelCost">${getMainLogoSvg()}</a>
         <div class="header-tagline">
           <p>Compara preços de artigos de padel.</p>
@@ -815,11 +898,21 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
           </div>
         </form>
         <div class="header-actions">
-          <a class="favorites-trigger" href="${getRootHref(pageContext)}#favoritos"><span>♡</span><span>Favoritos</span><span class="favorites-trigger-count">0</span></a>
+          <a class="favorites-trigger" href="${getRootHref(pageContext)}#favoritos"><i class="far fa-heart"></i><span>Favoritos</span><span class="favorites-trigger-count">0</span></a>
         </div>
       </div>
     </div>
   </header>
+  <nav class="mobile-category-menu" aria-label="Categorias mobile" data-mobile-category-menu>
+    <div class="container">
+      <div class="mobile-category-menu-inner">
+        <a class="mobile-category-item ${activeCategory === 'raquetes' ? 'active' : ''}" href="${getHomeCategoryHref('raquetes', pageContext)}"><span class="category-icon">${getCategoryIconHtml('raquetes', pageContext)}</span><span>Raquetes</span></a>
+        <a class="mobile-category-item ${activeCategory === 'sapatilhas' ? 'active' : ''}" href="${getHomeCategoryHref('sapatilhas', pageContext)}"><span class="category-icon">${getCategoryIconHtml('sapatilhas', pageContext)}</span><span>Sapatilhas</span></a>
+        <a class="mobile-category-item ${activeCategory === 'sacos' ? 'active' : ''}" href="${getHomeCategoryHref('sacos', pageContext)}"><span class="category-icon">${getCategoryIconHtml('sacos', pageContext)}</span><span>Sacos de padel</span></a>
+        <a class="mobile-category-item ${activeCategory === 'acessorios' ? 'active' : ''}" href="${getHomeCategoryHref('acessorios', pageContext)}"><span class="category-icon">${getCategoryIconHtml('acessorios', pageContext)}</span><span>Acessórios</span></a>
+      </div>
+    </div>
+  </nav>
   ${categoryNav}
   ${body}
   <footer class="footer">
@@ -828,6 +921,35 @@ function layout({ title, description, canonicalPath, body, extraHead = '', pageC
       <p><a href="${getPageHref('dados.html', pageContext)}">Dados e transparência</a> · <a href="${getPageHref('privacidade.html', pageContext)}">Privacidade</a> · <a href="${getPageHref('contacto.html', pageContext)}">Contacto</a></p>
     </div>
   </footer>
+  <script>
+    (() => {
+      const toggle = document.querySelector('[data-mobile-category-toggle]');
+      const menu = document.querySelector('[data-mobile-category-menu]');
+      if (!toggle || !menu) return;
+      toggle.addEventListener('click', () => {
+        const isOpen = menu.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', String(isOpen));
+        const icon = toggle.querySelector('i');
+        if (icon) {
+          icon.classList.toggle('fa-bars', !isOpen);
+          icon.classList.toggle('fa-times', isOpen);
+        }
+      });
+    })();
+  </script>
+  <script>
+    (() => {
+      const backLink = document.querySelector('[data-product-back]');
+      if (!backLink) return;
+      backLink.addEventListener('click', (event) => {
+        const referrer = document.referrer ? new URL(document.referrer, window.location.href) : null;
+        if (window.history.length > 1 && referrer && referrer.origin === window.location.origin) {
+          event.preventDefault();
+          window.history.back();
+        }
+      });
+    })();
+  </script>
   <script>
     (() => {
       const page = document.querySelector('[data-seo-category-page]');
@@ -1056,21 +1178,6 @@ function getProductSeoNotes(product, lowPrice, highPrice) {
   ];
 }
 
-function getProductFaq(product, lowPrice) {
-  const title = productTitle(product);
-  const storeCount = (product.stores || []).length;
-  return [
-    {
-      question: `Onde comprar ${title} ao melhor preço?`,
-      answer: `No PadelCost podes comparar as ofertas disponíveis para ${title}. Neste momento encontrámos ${storeCount} ${storeCount === 1 ? 'loja com preço disponível' : 'lojas com preço disponível'}, com melhor preço a partir de ${formatPrice(lowPrice)}.`
-    },
-    {
-      question: 'Os preços apresentados são finais?',
-      answer: 'Os preços são recolhidos de lojas parceiras e podem mudar. Antes de comprar, confirma sempre o preço final, stock, portes e condições diretamente na loja.'
-    }
-  ];
-}
-
 function renderCategoryPage(category, products) {
   const config = CATEGORY_CONFIG[category];
   const canonicalPath = getCategoryUrl(category);
@@ -1183,12 +1290,12 @@ function renderProductPage(product, allProducts = []) {
   const productFavoriteIds = [product.id, ...(product.variantIds || [])].filter(Boolean);
   const productShareUrl = SITE_URL + canonicalPath;
   const relatedProducts = getRelatedProducts(product, allProducts, 4);
-  const seoNotes = getProductSeoNotes(product, lowPrice, highPrice);
-  const productFaq = getProductFaq(product, lowPrice);
   const body = `<main>
-    <section class="hero">
+    <section class="hero product-hero">
       <div class="container">
         <nav class="breadcrumb"><a href="../index.html">Início</a><span>/</span><a href="${getHomeCategoryHref(product.category, 'product')}">${escapeHtml(category.label)}</a><span>/</span><span>${escapeHtml(title)}</span></nav>
+        <a class="product-back-link" href="${getRootHref('product')}" data-product-back><i class="fas fa-chevron-left"></i><span>Voltar</span></a>
+        <p class="mobile-product-crumb-title">${escapeHtml(title)}</p>
       </div>
     </section>
     <section class="section">
@@ -1211,7 +1318,7 @@ function renderProductPage(product, allProducts = []) {
               ${bestStore ? `<div class="top-offer">
                 <div class="store-logo">${bestStoreLogo ? `<img src="${escapeAttr(bestStoreLogo)}" alt="${escapeAttr(bestStore.name || 'Loja parceira')}">` : `<span class="store-logo-fallback">${escapeHtml(getStoreInitials(bestStore.name))}</span>`}</div>
                 <div class="top-offer-price"><strong>${escapeHtml(formatPrice(bestStore.price))}</strong><span class="best-badge">Melhor preço</span></div>
-                <a class="button" href="${escapeAttr(bestStore.url || '#')}" target="_blank" rel="sponsored noopener">Ver loja <i class="fas fa-chevron-right"></i></a>
+                <a class="button" href="${escapeAttr(bestStore.url || '#')}" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja <i class="fas fa-chevron-right"></i></a>
               </div>` : ''}
               <div class="product-actions">
                 <button class="save-product-btn" type="button" data-product-save aria-label="Guardar produto"><i class="far fa-heart" data-save-icon></i><span data-save-label>Guardar produto</span></button>
@@ -1230,26 +1337,11 @@ function renderProductPage(product, allProducts = []) {
               <div class="store-logo">${logo ? `<img src="${escapeAttr(logo)}" alt="${escapeAttr(store.name || 'Loja parceira')}">` : `<span class="store-logo-fallback">${escapeHtml(getStoreInitials(store.name))}</span>`}</div>
               <div><strong>${escapeHtml(store.name || 'Loja parceira')}</strong><span class="store-stock">${escapeHtml(store.stock || 'Ver disponibilidade na loja')}</span></div>
               <div class="store-price-wrap"><span class="store-price">${escapeHtml(formatPrice(store.price))}</span>${isBest ? '<span class="best-badge">Melhor preço</span>' : ''}</div>
-              <a class="button" href="${escapeAttr(store.url || '#')}" target="_blank" rel="sponsored noopener">Ver loja</a>
+              <a class="button" href="${escapeAttr(store.url || '#')}" target="_blank" rel="sponsored noopener" onclick="return window.padelCostTrackOutbound ? window.padelCostTrackOutbound(this.href) : true">Ver loja</a>
             </div>`;
             }).join('\n')}
           </div>
         </div>
-        <section class="product-seo-panel">
-          <h2>Informação para comparar antes de comprar</h2>
-          <ul class="product-seo-list">
-            ${seoNotes.map(note => `<li>${escapeHtml(note)}</li>`).join('')}
-          </ul>
-        </section>
-        <section class="product-seo-panel">
-          <h2>Perguntas frequentes</h2>
-          <div class="product-faq">
-            ${productFaq.map((item, index) => `<details${index === 0 ? ' open' : ''}>
-              <summary>${escapeHtml(item.question)}</summary>
-              <p>${escapeHtml(item.answer)}</p>
-            </details>`).join('')}
-          </div>
-        </section>
         ${relatedProducts.length ? `<div class="related-section">
           <div class="related-head">
             <h2>Alternativas semelhantes</h2>
@@ -1373,24 +1465,11 @@ function renderProductPage(product, allProducts = []) {
       { '@type': 'ListItem', position: 3, name: title, item: SITE_URL + canonicalPath }
     ]
   };
-  const faqLd = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: productFaq.map(item => ({
-      '@type': 'Question',
-      name: item.question,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: item.answer
-      }
-    }))
-  };
-
   return layout({
     title: productMetaTitle(product),
     description: productDescription(product),
     canonicalPath,
-    extraHead: `${jsonLd(productLd)}\n  ${jsonLd(breadcrumbLd)}\n  ${jsonLd(faqLd)}`,
+    extraHead: `${jsonLd(productLd)}\n  ${jsonLd(breadcrumbLd)}`,
     body,
     pageContext: 'product',
     activeCategory: product.category,
